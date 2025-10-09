@@ -194,25 +194,8 @@ const config: Config = {
                       },
                   ],
               },
-              {
-                  title: 'Społeczność',
-          items: [
-            {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'X',
-              href: 'https://x.com/docusaurus',
-            },
-          ],
-        },
-        {
-          title: 'More',
+			  {
+          title: 'Więcej',
           items: [
             {
               label: 'Blog',
@@ -221,6 +204,10 @@ const config: Config = {
             {
               label: 'GitHub',
                 href: 'https://github.com/Siec-Dostepnosci-Cyfrowej/sdc',
+            },
+			{
+              label: 'Portal Dostępność cyfrowa',
+                href: 'https://www.gov.pl/web/dostepnosc-cyfrowa/',
             },
           ],
         },
