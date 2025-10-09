@@ -1,0 +1,311 @@
+---
+id: poradnik-do-markdown
+title: Poradnik do Markdown
+sidebar_label: Poradnik do Markdown
+sidebar_position: 6
+---
+
+
+Poradnik do Markdown
+====================
+
+Docusaurus obsługuje **[Markdown](https://daringfireball.net/projects/markdown/syntax)** oraz kilka  **dodatkowych cech**. Markdown to narzędzie do konwersji tekstu na HTML dla twórców stron internetowych. Pozwala pisać w łatwym do odczytania i zapisu formacie zwykłego tekstu, a następnie konwertować go na strukturalnie poprawny kod HTML. 
+
+Poniżej znajdziesz prosty i kompletny poradnik, jak pisać w **Markdown**. 
+
+Front Matter
+------------
+
+Dokumenty Markdown mają na początku metadane, zwane  [Front Matter](https://jekyllrb.com/docs/front-matter/):
+
+```text title="moj-dokument.md"
+// highlight-start
+---
+id: moj-dokument-id
+title: Tytuł mojego dokumentu
+description: Opis mojego dokumentu
+slug: /url-mojego-dokumentu
+---
+// highlight-end
+```
+
+
+Podstawowe formatowanie tekstu
+------------------------------
+
+
+To absolutne podstawy, które pozwolą ci wyróżnić kluczowe informacje.
+
+- **Pogrubienie (bold):** Użyj dwóch gwiazdek \*\*tekst\*\* lub dwóch podkreśleń \__tekst_\_.
+  - Przykład: `**To jest pogrubiony tekst.**` wyprodukuje: **To jest pogrubiony tekst.**
+- **Kursywa (italic):** Użyj jednej gwiazdki \*tekst\* lub jednego podkreślenia \_tekst_.
+  - Przykład: `*To jest tekst pisany kursywą.*` wyprodukuje: *To jest tekst pisany kursywą.*
+- **Pogrubienie i kursywa:** Połącz obie notacje, używając trzech gwiazdek `***tekst***` wyprodukuje ***tekst***.
+- **Przekreślenie:** Użyj dwóch tyld `~~tekst~~`, aby uzyskać przekreślony tekst: ~~tekst~~.
+
+## Nagłówki
+
+Nagłówki tworzą hierarchię w dokumencie. Im więcej hasztagów (#), tym mniejszy nagłówek.
+
+- Nagłówek pierwszego poziomu: # Tytuł
+- Nagłówek drugiego poziomu: ## Podtytuł
+- Nagłówek trzeciego poziomu: ### Kolejny podtytuł
+
+...i tak do sześciu poziomów.
+
+## Listy
+
+Listy to świetny sposób na porządkowanie informacji.
+
+### Lista nieuporządkowana (wypunktowana)
+
+Użyj myślnika -, gwiazdki \* lub plusa +.
+
+Markdown
+
+\- Pierwszy element
+
+\- Drugi element
+
+\- Trzeci element
+
+### Lista uporządkowana (numerowana)
+
+Użyj cyfry, po której następuje kropka, np. 1. Markdown sam zadba o poprawną numerację.
+
+Markdown
+
+1\. Pierwszy krok
+
+2\. Drugi krok
+
+3\. Trzeci krok
+
+## Łącza
+
+Markdown pozwala dodawać linki wykorzystujące ścieżki URL lub względne ścieżki plików.
+
+```md
+Przykład: [Odwiedź stronę Example](https://www.example.com)
+```
+
+**Wynik:** Przykład: [Odwiedź stronę Example](https://www.example.com).
+
+
+
+## Obrazki
+
+Markdown obsługuje standardowo obrazy. Wzór kodu:
+
+```md
+![tekst_alternatywny](adres_URL_obrazu)
+```
+Tekst alternatywny jest ważny dla osób, które nie widzą, a także na wypadek, gdyby obraz się nie załadował.
+
+Możesz używać ścieżek bezwzględnych do odwoływania się do obrazów w katalogu statycznym. (`static/img/logo.svg`):
+
+```md
+![Logo Sieci](/img/logo.svg)
+```
+
+![Logo Sieci](/img/logo.svg)
+
+Można również odwoływać się do obrazów w odniesieniu do bieżącego pliku. Jest to szczególnie przydatne w przypadku umieszczania obrazów blisko plików Markdown:
+
+```md
+![Logo Sieci](./img/logo.svg)
+```
+
+Cytaty
+-------
+
+Cytaty w formacie Markdown są pięknie stylizowane;
+
+```md
+> Potęgą Sieci jest jej uniwersalność.
+Istotnym aspektem jest dostęp do Sieci dla wszystkich
+bez względu na rodzaj niepełnosprawności.
+>
+> — Tim Berners-Lee, Dyrektor W3C i twórca World Wide Web
+```
+
+**Wynik**:
+
+> Potęgą Sieci jest jej uniwersalność.
+Istotnym aspektem jest dostęp do Sieci dla wszystkich
+bez względu na rodzaj niepełnosprawności.
+>
+> — Tim Berners-Lee, Dyrektor W3C i twórca World Wide Web
+
+
+## Wyróżnianie kodu i bloki kodu
+
+Jeśli pracujesz z dokumentacją, na pewno często będziesz wstawiać fragmenty kodu.
+
+### Wyróżnianie kodu 
+
+Aby wstawić **kod w tekście**, użyj pojedynczego apostrofu (backtick), np. `<span>fragment</span>`.
+
+
+### Bloki kodu
+
+Użyj  na początku i na końcu bloku trzech apostrofów \`\`\`. Możesz podać język programowania, aby włączyć kolorowanie składni (np. JavaScript lub Python). Możesz też podać tytuł pliku:
+
+````md
+```jsx title="src/components/HelloDocusaurus.js"
+function HelloDocusaurus() {
+  return <h1>Witaj, Docusaurus!</h1>;
+}
+```
+````
+
+```jsx title="src/components/HelloDocusaurus.js"
+function HelloDocusaurus() {
+  return <h1>Witaj, Docusaurus!</h1>;
+}
+```
+
+## Używanie HTML
+
+Gdy potrzebujesz elementów, których Markdown nie obsługuje, możesz użyć kodu HTML. Na przykład, aby stworzyć bardziej złożone tabele.
+Albo przycisk:
+
+```md title="Kod przycisku"
+
+Kliknij ten <button type="button" onClick="alert('Naciskasz mnie!')">Naciśnij mnie</button>
+
+```
+
+Efektem będzie:
+<p>
+<button type="button" onClick="alert('Naciskasz mnie!')">Naciśnij mnie</button>
+</p>
+
+
+:::note Ważna uwaga
+
+Chociaż możesz wstawiać HTML, staraj się używać go oszczędnie, aby zachować prostotę i czytelność pliku źródłowego (.md), co jest podstawową zaletą Markdown.
+
+:::
+
+## Uwagi i wezwania
+
+Docusaurus ma specjalną składnię do tworzenia uwag i wezwań:
+
+```md
+:::tip Wskazówka
+
+Skorzystaj z tej niesamowitej opcji
+
+:::
+```
+
+:::tip Wskazówka
+
+Skorzystaj z tej niesamowitej opcji
+
+:::
+
+
+```md
+:::danger Ostrzeżenie
+
+Ta czynność jest niebezpieczna
+
+:::
+```
+
+:::danger Ostrzeżenie
+
+Ta czynność jest niebezpieczna
+
+:::
+
+```md
+:::info Dowiedz się więcej
+
+Zawsze warto wiedzieć więcej.
+
+:::
+```
+
+:::info Dowiedz się więcej
+
+Zawsze warto wiedzieć więcej.
+
+:::
+
+```md
+:::note Zwróć uwagę
+
+To też jest ważna informacja
+
+:::
+```
+
+:::note Zwróć uwagę
+
+To też jest ważna informacja
+
+:::
+
+
+```md
+:::warning Tak nie rób!
+
+Twoja treść może być niedostępna
+
+:::
+```
+
+:::warning Tak nie rób!
+
+Twoja treść może być niedostępna
+
+:::
+
+## Komponenty MDX i React 
+
+[MDX](https://mdxjs.com/) może sprawić, że Twoja dokumentacja będzie bardziej **interaktywna** i pozwoli na używanie dowolnych **komponentów React wewnątrz Markdown**:
+
+```jsx
+export const Highlight = ({children, color}) => (
+  <span
+    style={{
+      backgroundColor: color,
+      borderRadius: '20px',
+      color: '#fff',
+      padding: '10px',
+      cursor: 'pointer',
+    }}
+    onClick={() => {
+      alert(`Kliknąłeś kolor ${color} z etykietą ${children}`)
+    }}>
+    {children}
+  </span>
+);
+
+To jest <Highlight color="#25c2a0">zielony Docusaurus</Highlight> !
+
+To jest <Highlight color="#1877F2">niebieski Facebook</Highlight> !
+```
+
+export const Highlight = ({children, color}) => (
+  <span
+    style={{
+      backgroundColor: color,
+      borderRadius: '20px',
+      color: '#fff',
+      padding: '10px',
+      cursor: 'pointer',
+    }}
+    onClick={() => {
+      alert(`Kliknąłeś kolor ${color} z etykietą ${children}`);
+    }}>
+    {children}
+  </span>
+);
+
+To jest <Highlight color="#25c2a0">zielony Docusaurus</Highlight> !
+
+To jest <Highlight color="#1877F2">niebieski Facebook</Highlight> !

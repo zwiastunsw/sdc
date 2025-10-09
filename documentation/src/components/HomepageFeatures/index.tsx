@@ -11,18 +11,18 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+        title: 'Miej wpływ na dostępność cyfrową!',
+        Svg: require('@site/static/img/joo-01.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+            Celem Sieci jest wypracowanie spójnego sposobu wdrażania dostępności cyfrowej w podmiotach publicznych w&nbsp;Polsce.
       </>
     ),
   },
-  {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    {
+        title: 'Zmierz się z nami z tym wyzwaniem!',
+        Svg: require('@site/static/img/joo-04.svg').default,
+
     description: (
       <>
         Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
@@ -31,12 +31,11 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+      title: 'Dołącz do Sieci dostępności cyfrowej!',
+      Svg: require('@site/static/img/joo-03.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+            Jeśli chcesz mieć wpływ na tworzenie rozwiązań na rzecz dostępności cyfrowej, dołącz do nas!
       </>
     ),
   },

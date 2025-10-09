@@ -1,6 +1,7 @@
 ---
 id: glossary
-title: Glossary
+title: Słownik
 ---
 
-This is my glossary file, I expect this to remain unaltered, and just append text below this line.
+To jest plik słownika. Nic tu nie zmieniaj. Słownik jest generowany dynamicznie..
+

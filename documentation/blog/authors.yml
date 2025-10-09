@@ -23,3 +23,19 @@ slorber:
     linkedin: sebastienlorber
     github: slorber
     newsletter: https://thisweekinreact.com
+swajda:
+  name: Stefan Wajda
+  title: II Wiceprzewodniczący SDC
+  url: https://lepszyweb.pl
+  image_url: https://avatars.githubusercontent.com/u/29527200?v=4
+  socials:
+    github: zwiastunsw
+    linkedin: stefan-wajda-766669107
+    # x: stefan-wajda
+mwenek:
+  name: Małgorzata Wenek
+  title: I Wiceprzewodnicząca SDC
+  # url: 
+  image_url: https://lepszyweb.pl/images/foto/malgorzata-wenek.jpg
+  socials:
+    github: MKW2017

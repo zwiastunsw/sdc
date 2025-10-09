@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg151117"
+   width="50mm"
+   height="34mm"
+   viewBox="0 0 188.97637 128.50393"
+   sodipodi:docname="twoje-logo.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs151121" />
+  <sodipodi:namedview
+     id="namedview151119"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="2.4215023"
+     inkscape:cx="51.827331"
+     inkscape:cy="60.9126"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g151123"
+     inkscape:document-units="mm" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g151123">
+    <g
+       id="g151744"
+       transform="translate(3.1245566,3.5191308)">
+      <path
+         style="fill:#ffcc00;stroke:#ffec00;stroke-width:0.077067"
+         d="m 122.26765,3.5726555 c 31.55074,0 57.16019,25.6094455 57.16019,57.1601865 0,31.550741 -25.60945,57.160178 -57.16019,57.160178 -31.550743,0 -57.160186,-25.609437 -57.160186,-57.160178 0,-31.550741 25.609443,-57.1601865 57.160186,-57.1601865 z"
+         id="path3063"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#003380;stroke:none;stroke-width:0.356791"
+         d="M 69.326884,39.030266 C 63.767354,54.987423 62.5143,72.424194 72.748159,89.07638 78.142851,88.220438 86.941337,84.507306 92.336747,80.216883 79.455487,68.839151 72.499476,58.664162 69.326884,39.030266 Z"
+         id="path3065"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#003380;stroke:none;stroke-width:0.356791"
+         d="m 112.63891,102.57988 c 2.32878,6.63775 14.94352,8.24046 33.23338,10.18319 -17.72899,7.85442 -41.68364,7.23396 -58.146724,-6.5482 8.612951,-0.1263 16.014244,-1.33547 24.913344,-3.63499 z"
+         id="path3067"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#003380;stroke:none;stroke-width:0.356791"
+         d="m 3.2608913,93.674001 c 30.1402707,0.67148 70.2775607,3.88867 90.5087257,-11.813377 7.057703,5.611622 16.751023,8.807049 29.624433,9.087489 -7.30103,1.42288 -10.26918,5.179188 -11.2682,9.995877 -24.787048,6.77761 -56.816247,4.49022 -108.8649587,-7.269989 z"
+         id="path3069"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#ffcc00;stroke:#2c2c2b;stroke-width:0.077067"
+         d="m 108.24931,94.775411 c 0.62081,0 1.1246,0.50415 1.1246,1.12497 0,0.62082 -0.50379,1.1246 -1.1246,1.1246 -0.62118,0 -1.12497,-0.50378 -1.12497,-1.1246 0,-0.62082 0.50379,-1.12497 1.12497,-1.12497 z"
+         id="path3071"
+         inkscape:connector-curvature="0" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.8347px;line-height:0.9;font-family:'Showcard Gothic';-inkscape-font-specification:'Showcard Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#003380;fill-opacity:1;stroke-width:0.535019;stroke-linecap:round;stroke-linejoin:round"
+         x="168.70177"
+         y="57.090012"
+         id="text151394"><tspan
+           sodipodi:role="line"
+           id="tspan151392"
+           x="168.70177"
+           y="57.090012"
+           style="stroke-width:0.535019">TWOJE</tspan><tspan
+           sodipodi:role="line"
+           x="168.70177"
+           y="77.641243"
+           id="tspan151396"
+           style="stroke-width:0.535019">LOGO</tspan></text>
+    </g>
+  </g>
+</svg>

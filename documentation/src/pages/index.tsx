@@ -20,8 +20,8 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
+                      to="/docs/o-sieci/projekt/wstep">
+           Jesteś tu pierwszy raz? Odkryj Sieć w 8 minut ⏱️
           </Link>
         </div>
       </div>
@@ -33,8 +33,8 @@ export default function Home(): ReactNode {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+          title={`Witaj w witrynie ${siteConfig.title}`}
+      description="Pracujemy nad zaleceniami, rekomendacjami i praktycznymi popozycjami wdrażania dostępności cyfrowej w podmiotach publicznych">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

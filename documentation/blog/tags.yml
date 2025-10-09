@@ -3,17 +3,17 @@ facebook:
   permalink: /facebook
   description: Facebook tag description
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+Fundusze Europejskie:
+  label: Fundusze Europejskie
+  permalink: /funduszeeuropejskie
+  description: Środki finansowe pochodzące z budżetu Unii Europejskiej, które wspierają kraje członkowskie w rozwoju gospodarczym, społecznym i terytorialnym. Dzielą się na fundusze strukturalne i inwestycyjne.
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
+dostępność cyfrowa:
+  label: dostępność cyfrowa
+  permalink: /dostepnosccyfrowa
+  description: Opis taga Dostępność cyfrowa
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+SDC: 
+  label: Sieć dostępności cyfrowej
+  permalink: /sdc
+  description: O Sieci dostępności cyfrowej
