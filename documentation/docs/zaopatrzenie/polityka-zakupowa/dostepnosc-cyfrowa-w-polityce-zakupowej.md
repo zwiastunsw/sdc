@@ -3,20 +3,21 @@ title: Dostepność cyfrowa w polityce zakupowej #Tytuł tekstowy dokumentu
 id: dostepnosc-cyfrowa-w-polityce-zakupowej # Unikalny ID dokumentu. Ścieżka pliku. Co z folderami? 
 sidebar_label: Polityka zakupowa #Tytuł tego dokumenty wyświetlany na pasku bocznym
 sidebar_position: 3 # Kontroluje położenie dokumentu wewnątrz wygenerowanego wycinka paska bocznego
-
+description: Wymagania dostępności cyfrowej w polityce zakupów
 keywords: [
 polityka dostępność,
 zamówienia publiczne
-]# Wartości znacznika meta ze słowami kluczowymi dla strony dokumentu, dla wyszukiwarek.
-description: Jakiś opis dokumentu # Opis dokumentu w meta description  oraz meta property="og:description"
-ostatnia_aktualizacja: 01 lipca 2025,
-przedmiot_zalecenia: Wymagania dostępności cyfrowej w polityce zakupów
-wymiar: Zaopatrzenie
-typ-dokumentu: zalecenie
-data-zgloszenia: 14 lipca 2025 r.
-assignees: Anna Czekalska
+]
+tags: [
+polityka dostępność,
+zamówienia publiczne
+]
+
+data_zgloszenia: 14 lipca 2025 r.
+ostatnia_aktualizacja: 1 lipca 2025,
 opracowanie: [Anna Czekalska, Stefan Wajda]
 wspolpraca: [Jadwiga Kost, Joanna Nietupska]
+status: projekt
 ---
 
 
