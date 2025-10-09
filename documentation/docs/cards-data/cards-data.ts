@@ -4,21 +4,21 @@ const cardsData = [
         imgSrc: './img/komunikacja.svg',
         title: 'Komunikacja',
         category: 'Wymiar dojrzałości',
-        path: 'komunikacja/o-komunikacji/o-wymiarze-komunikacja',
+        path: 'komunikacja/wymiar-komunikacja/o-wymiarze-komunikacja',
     },
     {
         id: 2,
         imgSrc: './img/cykl-zycia.svg',
         title: 'Cykl życia TIK',
         category: 'Wymiar dojrzałości',
-        path: 'cykltik/o-cyklu-zycia-tik/o-wymiarze-cykl-zycia-tik',
+        path: 'cykltik/wymiar-cykl-zycia-tik/o-wymiarze-cykl-zycia-tik',
     },
     {
         id: 3,
         imgSrc: './img/wiedza.svg',
         title: 'Wiedza i umiejętności',
         category: 'Wymiar dojrzałości',
-        path: 'wiedza/o-wiedza-i-umiejetnosci/o-wymiarze-wiedza-i-umiejetnosci',
+        path: 'wiedza/wymiar-wiedza-i-umiejetnosci/o-wymiarze-wiedza-i-umiejetnosci',
     },
 
     {
@@ -26,28 +26,28 @@ const cardsData = [
         imgSrc: './img/kultura.svg',
         title: 'Nadzór i kultura',
         category: 'Wymiar dojrzałości',
-        path: 'kultura/o-zarzadzaniu-i-kulturze/o-wymiarze-zarzadzanie-i-kultura',
+        path: 'kultura/wymiar-zarzadzanie-i-kultura/o-wymiarze-zarzadzanie-i-kultura',
     },
     {
         id: 5,
         imgSrc: './img/pracownicy.svg',
         title: 'Pracownicy',
         category: 'Wymiar dojrzałości',
-        path: 'pracownicy/o-pracownikach/o-wymiarze-pracownicy',
+        path: 'pracownicy/wymiar-pracownicy/o-wymiarze-pracownicy',
     },
     {
         id: 6,
         imgSrc: './img/zaopatrzenie.svg',
         title: 'Zaopatrzenie',
         category: 'Wymiar dojrzałości',
-        path: 'zaopatrzenie/o-zaopatrzeniu/o-wymiarze-zaopatrzenie',
+        path: 'zaopatrzenie/wymiar-zaopatrzenie/o-wymiarze-zaopatrzenie',
     },
     {
         id: 7,
         imgSrc: './img/wsparcie.svg',
         title: 'Wsparcie',
         category: 'Wymiar dojrzałości',
-        path: 'wsparcie/o-wsparciu/o-wymiarze-wsparcie',
+        path: 'wsparcie/wymiar-wsparcie/o-wymiarze-wsparcie',
     }
 ]
 
