@@ -151,7 +151,7 @@ const config: Config = {
 
               { to: '/blog', label: 'Blog', position: 'left' },
               {
-                  href: 'https://github.com/irdpl/sdc',
+                  href: 'https://github.com/Siec-Dostepnosci-Cyfrowej/sdc',
                   label: 'GitHub',
                   position: 'left',
                   icon: 'github',
