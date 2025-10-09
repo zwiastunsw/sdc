@@ -12,7 +12,7 @@ ostatnia_aktualizacja: 24 września 2025 r.
 
 # Pracownicy - ocena dojrzałości
 
-Wykwalifikowane osoby z niepełnosprawnościami powinny być zatrudniane na każdym szczeblu hierarchii [organizacji](organizacja) (tj. na wszystkich stanowiskach, wszystkich szczeblach władzy i w każdym dziale), aby ich wyjątkowe spostrzeżenia i doświadczenia życiowe mogły lepiej służyć podejmowaniu decyzji.
+Wykwalifikowane osoby z niepełnosprawnościami powinny być zatrudniane na każdym szczeblu hierarchii [organizacji](../../organizacja) (tj. na wszystkich stanowiskach, wszystkich szczeblach władzy i w każdym dziale), aby ich wyjątkowe spostrzeżenia i doświadczenia życiowe mogły lepiej służyć podejmowaniu decyzji.
 
 ## Jak ocenić poziom dojrzałości wsparcia
 

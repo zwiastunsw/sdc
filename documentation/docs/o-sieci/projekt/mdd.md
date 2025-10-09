@@ -498,7 +498,7 @@ Poziom **optymalny** osiąga się, gdy dowody wskazują, że:
 
 ### 2.5.5 Pracownicy
 
-Wykwalifikowane osoby z niepełnosprawnościami powinny być zatrudniane na każdym szczeblu hierarchii [organizacji](organizacja) (tj. na wszystkich stanowiskach, wszystkich szczeblach władzy i w każdym dziale), aby ich wyjątkowe spostrzeżenia i doświadczenia życiowe mogły lepiej służyć podejmowaniu decyzji.
+Wykwalifikowane osoby z niepełnosprawnościami powinny być zatrudniane na każdym szczeblu hierarchii [organizacji](../../organizacja) (tj. na wszystkich stanowiskach, wszystkich szczeblach władzy i w każdym dziale), aby ich wyjątkowe spostrzeżenia i doświadczenia życiowe mogły lepiej służyć podejmowaniu decyzji.
 
 #### 2.5.5.1 Jak ocenić poziom dojrzałości wymiaru Pracownicy
 
