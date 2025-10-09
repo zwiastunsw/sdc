@@ -84,9 +84,9 @@ const config: Config = {
       respectPrefersColorScheme: true,
     },
       navbar: {
-          title: 'Sieć Dostępności Cyfrowej',
+          title: 'SDC',
           logo: {
-              alt: 'Logo Sieci',
+              alt: 'Sieć Dostępności Cyfrowej',
               src: 'img/logo.svg',
           },
           items: [
