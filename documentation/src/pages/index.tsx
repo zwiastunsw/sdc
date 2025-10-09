@@ -21,7 +21,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
                       to="/docs/o-sieci/projekt/wstep">
-           Jesteś tu pierwszy raz? Odkryj Sieć w 8 minut ⏱️
+           Pierwszy raz? Odkryj Sieć w 8 minut ⏱️
           </Link>
         </div>
       </div>
@@ -34,7 +34,7 @@ export default function Home(): ReactNode {
   return (
     <Layout
           title={`Witaj w witrynie ${siteConfig.title}`}
-      description="Pracujemy nad zaleceniami, rekomendacjami i praktycznymi popozycjami wdrażania dostępności cyfrowej w podmiotach publicznych">
+      description="Pracujemy nad zaleceniami, rekomendacjami i praktycznymi propozycjami wdrażania dostępności cyfrowej w podmiotach publicznych w Polsce">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
