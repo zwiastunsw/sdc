@@ -13,7 +13,8 @@
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
     "typecheck": "tsc",
-    "postinstall": "node fixes/package-fixes.js"
+    "postinstall": "node fixes/package-fixes.js",
+    "optimize-images": "svgo --config=svgo.config.js \"static/img/\" --output \"static/img/\""
   },
   "dependencies": {
     "@docusaurus/core": "3.9.1",
@@ -31,6 +32,7 @@
     "@docusaurus/module-type-aliases": "3.9.1",
     "@docusaurus/tsconfig": "3.9.1",
     "@docusaurus/types": "3.9.1",
+    "svgo": "4.0.0",
     "typescript": "5.9.3"
   },
   "browserslist": {
