@@ -30,12 +30,6 @@ jobs:
         working-directory: documentation
         run: npm install -f
 
-      # ✅ Skip docusaurus-terminology in CI to prevent MDX compilation errors
-      - name: Patch config to skip terminology in CI
-        run: |
-          # Insert environment variable for skipping plugin
-          echo "CI=true" >> $GITHUB_ENV
-
       - name: Build site
         working-directory: documentation
         run: npm run build
