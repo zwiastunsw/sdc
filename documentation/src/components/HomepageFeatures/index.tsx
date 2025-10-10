@@ -15,7 +15,7 @@ const FeatureList: FeatureItem[] = [
         Svg: require('@site/static/img/joo-01.svg').default,
     description: (
       <>
-            Celem Sieci jest wypracowanie spójnego sposobu wdrażania dostępności cyfrowej w podmiotach publicznych w&nbsp;Polsce.
+            Sieć pracuje nad systemem wdrażania dostępności cyfrowej w podmiotach publicznych w&nbsp;Polsce.
       </>
     ),
   },
