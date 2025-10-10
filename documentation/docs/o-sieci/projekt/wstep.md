@@ -3,15 +3,26 @@ id: wstep
 title: Jesteś tu pierwszy raz?
 sidebar_position: 0
 sidebar_label: Jesteś tu pierwszy raz?
+keywords: [ 
+  praca Sieci,
+  organizacja pracy,
+  zadania Sieci]
+tags: [ 
+  praca Sieci,
+  organizacja pracy,
+  zadania Sieci]  
+opracowanie: Stefan Wajda
+data_zgłoszenia: 22 lipca 2025 r.
+data_aktualizacji: 10 października 2025 r.
 ---
 
 # Jesteś tu pierwszy raz?
 
-Odkryj **Sieć dostępności cyfrowej w 8 minut**.
+Odkryj **Sieć dostępności cyfrowej w 3 minuty**.
 
 ## To nasze miejsce pracy
 
-Ta strona i towarzyszące jej repozytorium to **miejsce naszej pracy**. Naszej, czyli uczestników projektu **Sieć dostępności cyfrowej - wsparcie systemowego wdrażania dostępności cyfrowej w&nbsp;podmiotach publicznych**. 
+Ta strona i repozytorium to **miejsce naszej pracy - uczestników projektu** „Sieć dostępności cyfrowej - wsparcie systemowego wdrażania dostępności cyfrowej w&nbsp;podmiotach publicznych”. 
 
 Naszym zadaniem jest:
 
@@ -24,33 +35,46 @@ To ogromne wyzwanie, zwłaszcza że uczestniczymy w Sieci jako **wolontariasze**
 ## Jak pracujemy
 
 ### Spotkania plenarne
-Raz w miesiącu organizujemy **spotkania całej Sieci**. W trakcie spotkań:
-- uczestnicy Sieci i grupy robocze prezentują sposoby rozwiązania problemów wdrażania dostępności cyfrowej:
-  - opisy praktyk stosowanych w różnych organizacjach w Polsce i na świecie **albo**  
-  - projekty zaleceń i rozwiązań przygotowane przez grupy robocze
-- dyskutujemy o przedstawionych rozwiązaniach i projektach zaleceń
+Raz w miesiącu organizujemy **spotkania całej Sieci**, na których:
+- przedstawiamy sposoby rozwiązania problemów wdrażania dostępności cyfrowej:
+  - opisy praktyk stosowanych w różnych organizacjach w Polsce i na świecie
+  - projekty zaleceń i rozwiązań systemowych
+- dyskutujemy o tych projektach zaleceń, propozycjach rozwiązań i praktykach
 - decydujemy o toku dalszych prac Sieci.
 
 ### Praca w grupach roboczych
 
-Aby **wspierać uczestniczki i uczestników Sieci** w przygotowaniu projektów zaleceń i rozwiązań, utworzyliśmy **grupy robocze**. 
-Pięć grup skupia się na jednym, a szósta na dwóch [**wymiarach dostępności cyfrowej**](../../terms/wymiar-dostepnosci):     
-- Komunikacja
-- Cykl życia TIK
-- Wiedza i umiejętności
-- Nadzór i kultura organizacyjna
-- Zaopatrzenie
-- Pracownicy i Wsparcie
+Utworzyliśmy 6 grup roboczych, złożonych z osób, które skupiają się na wybranych [**wymiarach dostępności cyfrowej**](../../terms/wymiar-dostepnosci):
 
-[Wymiary dostępności cyfrowej](../../terms/wymiar-dostepnosci) zostały zdefiniowane w oparciu o [**Model dojrzałości dostępności**](mdd) opracowany przez W3C.
+- wymiarze **Komunikacja**
+- wymiarze **Cykl życia TIK**
+- wymiarze **Wiedza i umiejętności**
+- wymiarze **Zarządzanie i kultura organizacyjna**
+- wymiarze **Zaopatrzenie**
+- wymiarze **Pracownicy** oraz wymiarze **Wsparcie**.
 
-Praca grup opiera się na **aktywności uczestniczek i uczestników Sieci**, którzy:
-- deklarują, że opracują projekty zaleceń lub rozwiązań i opisy dobrych praktyk
-- korzystają z pomocy grupy w przygotowaniu zadeklarowanych projektów i opisów. 
+Grupy pomagają nam (uczestnikom Sieci) przygotować projekty zaleceń i rozwiązań.
+Grupa pomaga uczestnikom podczas spotkań oraz między spotkaniami. 
 
-Pomoc członków grupy polega na zgłaszaniu opinii oraz propozycji udoskonalenia przygotowanych projektów i opisów.
+**Podczas spotkań** pomoc grupy polega na:
+- opiniowaniu propozycji zaleceń i rozwiązań, które uczestnicy zamierzają opracować
+- opiniowaniu opracowanych projektów.
 
-Gdy grupa albo twórca uzna, że projekt lub opis jest gotowy, publikują go na stronie i prezentują go na spotkaniu Sieci.
+Dzięki temu każdy, zanim rozpocznie pracę, może zweryfikować swój pomysł. Może też pozyskać współautora lub recenzenta. 
+Inni członkowie grupy mogą wzbogacić opracowanie przykładami praktyk stosowanych w ich organizacjach, itd. 
 
-## Co dalej?
+**Między spotkaniami** pomoc członkiń i członków grupy polega na:
+  - zgłaszaniu uwag i sugestii do przedstawionych projektów
+  - proponowaniu poprawek.
+
+### Twój wkład 
+
+Siłą Sieci jest **doświadczenie i aktywność uczestniczek i uczestników Sieci** 
+
+Dołącz do nas, jeśli: 
+
+- **masz doświadczenie** w praktycznym wdrażadniu dostępności cyfrowej w swojej lub we wspieranych organizacjach
+- **chcesz wnieść swój wkład** w wypracowanie spójnego systemu wdrażania dostępności cyfrowej w podmiotach publicznych w Polsce.
+
+[Dowiedz się, jak zgłosić swój udział](nabor-do-sieci-dostepnosci-cyfrowej)
 

@@ -11,7 +11,7 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-        title: 'Miej wpływ na dostępność cyfrową!',
+        title: 'Zmierz się z nami z tym wyzwaniem!',
         Svg: require('@site/static/img/joo-01.svg').default,
     description: (
       <>
@@ -20,13 +20,12 @@ const FeatureList: FeatureItem[] = [
     ),
   },
     {
-        title: 'Zmierz się z nami z tym wyzwaniem!',
+        title: 'Miej wpływ na dostępność cyfrową!',
         Svg: require('@site/static/img/joo-04.svg').default,
 
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+            Siłą Sieci dostępności cyfrowej jest doświadczenie i aktywność uczestniczek i uczestników.
       </>
     ),
   },

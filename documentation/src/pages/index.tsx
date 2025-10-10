@@ -21,7 +21,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
                       to="/docs/o-sieci/projekt/wstep">
-           Pierwszy raz? Odkryj Sieć w 8 minut ⏱️
+           Odkryj Sieć w 3 minuty ⏱️
           </Link>
         </div>
       </div>
