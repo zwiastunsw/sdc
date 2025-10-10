@@ -23,7 +23,7 @@ const config: Config = {
     // GitHub pages deployment config.
     // If you aren't using GitHub pages, you don't need these.
     organizationName: 'Sieć Dostępności Cyfrowej', // Usually your GitHub org/user name.
-    projectName: 'sdc/', // Usually your repo name. ???  tu raczej nazwa repozytorium 
+    projectName: 'sdc/', // Usually your repo name. 
 
     onBrokenLinks: 'throw',
 
