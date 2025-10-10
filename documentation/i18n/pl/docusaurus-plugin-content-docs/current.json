@@ -1,0 +1,98 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.osieciSidebar.category.O Sieci dostępności cyfrowej": {
+    "message": "O Sieci dostępności cyfrowej",
+    "description": "The label for category O Sieci dostępności cyfrowej in sidebar osieciSidebar"
+  },
+  "sidebar.osieciSidebar.category.Poradniki": {
+    "message": "Poradniki",
+    "description": "The label for category Poradniki in sidebar osieciSidebar"
+  },
+  "sidebar.komunikacjaSidebar.category.Wymiar Komunikacja": {
+    "message": "Wymiar Komunikacja",
+    "description": "The label for category Wymiar Komunikacja in sidebar komunikacjaSidebar"
+  },
+  "sidebar.komunikacjaSidebar.category.Komunikacja bezpośrednia": {
+    "message": "Komunikacja bezpośrednia",
+    "description": "The label for category Komunikacja bezpośrednia in sidebar komunikacjaSidebar"
+  },
+  "sidebar.cykltikSidebar.category.Wymiar Cykl życia TIK": {
+    "message": "Wymiar Cykl życia TIK",
+    "description": "The label for category Wymiar Cykl życia TIK in sidebar cykltikSidebar"
+  },
+  "sidebar.cykltikSidebar.category.Dokumentacja projektowa": {
+    "message": "Dokumentacja projektowa",
+    "description": "The label for category Dokumentacja projektowa in sidebar cykltikSidebar"
+  },
+  "sidebar.cykltikSidebar.category.Przetwarzanie zgłoszeń problemów": {
+    "message": "Przetwarzanie zgłoszeń problemów",
+    "description": "The label for category Przetwarzanie zgłoszeń problemów in sidebar cykltikSidebar"
+  },
+  "sidebar.wiedzaSidebar.category.Wymiar Wiedza i umiejętności": {
+    "message": "Wymiar Wiedza i umiejętności",
+    "description": "The label for category Wymiar Wiedza i umiejętności in sidebar wiedzaSidebar"
+  },
+  "sidebar.wiedzaSidebar.category.Repozytorium wiedzy": {
+    "message": "Repozytorium wiedzy",
+    "description": "The label for category Repozytorium wiedzy in sidebar wiedzaSidebar"
+  },
+  "sidebar.wiedzaSidebar.category.Okresowa ocena wiedzy": {
+    "message": "Okresowa ocena wiedzy",
+    "description": "The label for category Okresowa ocena wiedzy in sidebar wiedzaSidebar"
+  },
+  "sidebar.wiedzaSidebar.category.Alert dostępności": {
+    "message": "Alert dostępności",
+    "description": "The label for category Alert dostępności in sidebar wiedzaSidebar"
+  },
+  "sidebar.kulturaSidebar.category.Wymiar Zarządzanie i kultura": {
+    "message": "Wymiar Zarządzanie i kultura",
+    "description": "The label for category Wymiar Zarządzanie i kultura in sidebar kulturaSidebar"
+  },
+  "sidebar.kulturaSidebar.category.Polityka dostępności": {
+    "message": "Polityka dostępności",
+    "description": "The label for category Polityka dostępności in sidebar kulturaSidebar"
+  },
+  "sidebar.kulturaSidebar.category.Planowanie dostępności": {
+    "message": "Planowanie dostępności",
+    "description": "The label for category Planowanie dostępności in sidebar kulturaSidebar"
+  },
+  "sidebar.pracownicySidebar.category.Wymiar Pracownicy": {
+    "message": "Wymiar Pracownicy",
+    "description": "The label for category Wymiar Pracownicy in sidebar pracownicySidebar"
+  },
+  "sidebar.pracownicySidebar.category.Polityka zatrudnienia": {
+    "message": "Polityka zatrudnienia",
+    "description": "The label for category Polityka zatrudnienia in sidebar pracownicySidebar"
+  },
+  "sidebar.zaopatrzenieSidebar.category.Wymiar Zaopatrzenie": {
+    "message": "Wymiar Zaopatrzenie",
+    "description": "The label for category Wymiar Zaopatrzenie in sidebar zaopatrzenieSidebar"
+  },
+  "sidebar.zaopatrzenieSidebar.category.Polityka zakupowa": {
+    "message": "Polityka zakupowa",
+    "description": "The label for category Polityka zakupowa in sidebar zaopatrzenieSidebar"
+  },
+  "sidebar.zaopatrzenieSidebar.category.Deklaracje zgodności": {
+    "message": "Deklaracje zgodności",
+    "description": "The label for category Deklaracje zgodności in sidebar zaopatrzenieSidebar"
+  },
+  "sidebar.zaopatrzenieSidebar.category.Zasady oceny ofert": {
+    "message": "Zasady oceny ofert",
+    "description": "The label for category Zasady oceny ofert in sidebar zaopatrzenieSidebar"
+  },
+  "sidebar.wsparcieSidebar.category.Wymiar Wsparcie": {
+    "message": "Wymiar Wsparcie",
+    "description": "The label for category Wymiar Wsparcie in sidebar wsparcieSidebar"
+  },
+  "sidebar.wsparcieSidebar.category.Wsparcie zewnętrzne": {
+    "message": "Wsparcie zewnętrzne",
+    "description": "The label for category Wsparcie zewnętrzne in sidebar wsparcieSidebar"
+  },
+  "sidebar.wsparcieSidebar.category.Programy szkoleniowe": {
+    "message": "Programy szkoleniowe",
+    "description": "The label for category Programy szkoleniowe in sidebar wsparcieSidebar"
+  }
+}

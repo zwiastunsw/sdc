@@ -1,0 +1,86 @@
+{
+  "link.title.Dokumenty": {
+    "message": "Dokumenty",
+    "description": "The title of the footer links column with title=Dokumenty in the footer"
+  },
+  "link.title.Więcej": {
+    "message": "Więcej",
+    "description": "The title of the footer links column with title=Więcej in the footer"
+  },
+  "link.title.Ważne adresy": {
+    "message": "Ważne adresy",
+    "description": "The title of the footer links column with title=Ważne adresy in the footer"
+  },
+  "link.item.label.Komunikacja": {
+    "message": "Komunikacja",
+    "description": "The label of footer link with label=Komunikacja linking to /docs/komunikacja/wymiar-komunikacja/o-wymiarze-komunikacja"
+  },
+  "link.item.label.Cykl życia TIK": {
+    "message": "Cykl życia TIK",
+    "description": "The label of footer link with label=Cykl życia TIK linking to /docs/cykltik/wymiar-cykl-zycia-tik/o-wymiarze-cykl-zycia-tik"
+  },
+  "link.item.label.Wiedza i umiejętności": {
+    "message": "Wiedza i umiejętności",
+    "description": "The label of footer link with label=Wiedza i umiejętności linking to /docs/wiedza/wymiar-wiedza-i-umiejetnosci/o-wymiarze-wiedza-i-umiejetnosci"
+  },
+  "link.item.label.Zarządzanie i kultura": {
+    "message": "Zarządzanie i kultura",
+    "description": "The label of footer link with label=Zarządzanie i kultura linking to /docs/kultura/wymiar-zarzadzanie-i-kultura/o-wymiarze-zarzadzanie-i-kultura"
+  },
+  "link.item.label.Pracownicy": {
+    "message": "Pracownicy",
+    "description": "The label of footer link with label=Pracownicy linking to /docs/pracownicy/wymiar-pracownicy/o-wymiarze-pracownicy"
+  },
+  "link.item.label.Zaopatrzenie": {
+    "message": "Zaopatrzenie",
+    "description": "The label of footer link with label=Zaopatrzenie linking to /docs/zaopatrzenie/wymiar-zaopatrzenie/o-wymiarze-zaopatrzenie"
+  },
+  "link.item.label.Wsparcie": {
+    "message": "Wsparcie",
+    "description": "The label of footer link with label=Wsparcie linking to /docs/wsparcie/wymiar-wsparcie/o-wymiarze-wsparcie"
+  },
+  "link.item.label.Blog": {
+    "message": "Blog",
+    "description": "The label of footer link with label=Blog linking to /blog"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "The label of footer link with label=GitHub linking to https://github.com/Siec-Dostepnosci-Cyfrowej/sdc"
+  },
+  "link.item.label.Portal Dostępność cyfrowa": {
+    "message": "Portal Dostępność cyfrowa",
+    "description": "The label of footer link with label=Portal Dostępność cyfrowa linking to https://www.gov.pl/web/dostepnosc-cyfrowa/"
+  },
+  "link.item.label.WCAG 2.2 (projekt tłumaczenia)": {
+    "message": "WCAG 2.2 (projekt tłumaczenia)",
+    "description": "The label of footer link with label=WCAG 2.2 (projekt tłumaczenia) linking to https://wcag.irdpl.pl/guidelines/22/"
+  },
+  "link.item.label.Objaśnienia WCAG 2.2": {
+    "message": "Objaśnienia WCAG 2.2",
+    "description": "The label of footer link with label=Objaśnienia WCAG 2.2 linking to https://wcag.irdpl.pl/understanding/"
+  },
+  "link.item.label.Biblioteka Liderów Dostępności": {
+    "message": "Biblioteka Liderów Dostępności",
+    "description": "The label of footer link with label=Biblioteka Liderów Dostępności linking to https://biblio.irdpl.pl/#/tytul"
+  },
+  "link.item.label.Accessibility Maturity Model": {
+    "message": "Accessibility Maturity Model",
+    "description": "The label of footer link with label=Accessibility Maturity Model linking to https://www.w3.org/TR/maturity-model/"
+  },
+  "link.item.label.WAI W3C: Planning and Policies": {
+    "message": "WAI W3C: Planning and Policies",
+    "description": "The label of footer link with label=WAI W3C: Planning and Policies linking to https://www.w3.org/WAI/planning/"
+  },
+  "link.item.label.Ramy strategii dostępności WebAIM": {
+    "message": "Ramy strategii dostępności WebAIM",
+    "description": "The label of footer link with label=Ramy strategii dostępności WebAIM linking to https://lepszyweb.pl/blog2/ramy-strategii-dostepnosci-webaim"
+  },
+  "link.item.label.Business Accessibility Forum": {
+    "message": "Business Accessibility Forum",
+    "description": "The label of footer link with label=Business Accessibility Forum linking to https://baforum.pl/"
+  },
+  "copyright": {
+    "message": "Copyright © 2025 Sieć Dostępności Cyfrowej w Polsce. Działa na <a href=\"https://docusaurus.io/\" target=\"_blank\" class=\"footer__link-item\">Docusaurus</a>.",
+    "description": "The footer copyright"
+  }
+}

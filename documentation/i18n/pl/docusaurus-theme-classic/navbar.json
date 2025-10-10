@@ -1,0 +1,54 @@
+{
+  "title": {
+    "message": "SDC",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Sieć Dostępności Cyfrowej",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.O Sieci": {
+    "message": "O Sieci",
+    "description": "Navbar item with label O Sieci"
+  },
+  "item.label.Wymiary": {
+    "message": "Wymiary",
+    "description": "Navbar item with label Wymiary"
+  },
+  "item.label.Komunikacja": {
+    "message": "Komunikacja",
+    "description": "Navbar item with label Komunikacja"
+  },
+  "item.label.Cykl życia TIK": {
+    "message": "Cykl życia TIK",
+    "description": "Navbar item with label Cykl życia TIK"
+  },
+  "item.label.Wiedza i umiejętności": {
+    "message": "Wiedza i umiejętności",
+    "description": "Navbar item with label Wiedza i umiejętności"
+  },
+  "item.label.Zarządzanie i kultura": {
+    "message": "Zarządzanie i kultura",
+    "description": "Navbar item with label Zarządzanie i kultura"
+  },
+  "item.label.Pracownicy": {
+    "message": "Pracownicy",
+    "description": "Navbar item with label Pracownicy"
+  },
+  "item.label.Zaopatrzenie": {
+    "message": "Zaopatrzenie",
+    "description": "Navbar item with label Zaopatrzenie"
+  },
+  "item.label.Wsparcie": {
+    "message": "Wsparcie",
+    "description": "Navbar item with label Wsparcie"
+  },
+  "item.label.Blog": {
+    "message": "Blog",
+    "description": "Navbar item with label Blog"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}
