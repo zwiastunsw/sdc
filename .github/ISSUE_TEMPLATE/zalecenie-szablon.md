@@ -1,24 +1,24 @@
+---
 name: szablon-zalecenia
 about: Użyj tego szablonu, aby zgłosić projekt zalecenia. Sekcja poniżej to metryczka. Nie zmieniaj słów kluczowych przed dwukropkiem, np. nie zmieniaj tekstu „title: ”
+---
 
-
-//---
-id: szablon-zalecenia # utworz z tytulu proponowaną nazwę pliku
-title: Tytuł zalecenia
-description: Opisz zwięźle treść i cel zalecenia 
-keywords: [
+- id: szablon-zalecenia # utworz z tytulu proponowaną nazwę pliku
+- title: Tytuł zalecenia
+- description: Opisz zwięźle treść i cel zalecenia 
+- keywords: [
   słowo kluczowe1,
   słowo kluczowe2
 ]
-tags: [
+- tags: [
   słowo kluczowe1,
   słowo kluczowe2
 ]
-opracowanie: Imię i nazwisko
-wspolpraca: Imię i nazwisko
-data_zgloszenia: 19 września 2025 r.
-ostatnia_aktualizacja: 19 września 2025 r.
----//
+- opracowanie: Imię i nazwisko
+- wspolpraca: Imię i nazwisko
+- data_zgloszenia: 19 września 2025 r.
+- ostatnia_aktualizacja: 19 września 2025 r.
+
 
 # Tytuł zalecenia
 
