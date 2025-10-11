@@ -1,6 +1,5 @@
-> [!NOTE]
-> Użyj tego szablonu, aby zgłosić projekt zalecenia. 
-> Ta sekcja to metryczka. Nie zmieniaj słów kluczowych przed dwukropkiem, np. nie zmieniaj tekstu "title: "
+Użyj tego szablonu, aby zgłosić projekt zalecenia. 
+Ta sekcja to metryczka. Nie zmieniaj słów kluczowych przed dwukropkiem, np. nie zmieniaj tekstu "title: "
 //---
 id: szablon-zalecenia # utworz z tytulu proponowaną nazwę pliku
 title: Tytuł zalecenia
