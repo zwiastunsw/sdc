@@ -19,7 +19,7 @@ ostatnia_aktualizacja: 24 września 2025 r.
 
 ## Opis wymiaru
 
-[Wymiar](../../terms/wymiar-dostepnosci) **Zaopatrzenie** w **Modelu dojrzałości dostępności** obejmuje strategiczny proces skoncentrowany na znajdowaniu i&nbsp;nabywaniu przez organizację opłacalnych i&nbsp; potrzebnych organizacji produktów i&nbsp;usług z komponentem technologii i treści cyfrowych ([technologii informacyjno-komunikacyjnych](../../terms/technologia-informacyjno-komunikacyjna)). 
+[Wymiar](../../terms/wymiar-dostepnosci) **Zaopatrzenie** w [Modelu dojrzałości dostępności](../../o-sieci/projekt/mdd) obejmuje strategiczny proces skoncentrowany na znajdowaniu i&nbsp;nabywaniu przez organizację opłacalnych i&nbsp; potrzebnych organizacji produktów i&nbsp;usług z komponentem technologii i treści cyfrowych ([technologii informacyjno-komunikacyjnych](../../terms/technologia-informacyjno-komunikacyjna)). 
 
 Gdy do procesów i dokumentów dotyczących nabywania technologii i treści cyfrowych włączone są kryteria dostępności, organizacja może być bardziej zdolna do dostarczania dostępnych produktów, usług i miejsc pracy.​
 

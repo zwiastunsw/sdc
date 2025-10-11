@@ -21,7 +21,7 @@ ostatnia_aktualizacja: 24 września 2025 r.
 
 ## Opis wymiaru
 
-[Wymiar](../../terms/wymiar-dostepnosci) **Komunikacja** w **Modelu dojrzałości dostępności** obejmuje rozwiązania i praktyki zapewniające dostępność cyfrową treści wytwarzanych przez organizację i&nbsp;adresowanych do różnych odbiorców. Dotyczy komunikatów, które mogą być: 
+[Wymiar](../../terms/wymiar-dostepnosci) **Komunikacja** w [Modelu dojrzałości dostępności](../../o-sieci/projekt/mdd) obejmuje rozwiązania i praktyki zapewniające dostępność cyfrową treści wytwarzanych przez organizację i&nbsp;adresowanych do różnych odbiorców. Dotyczy komunikatów, które mogą być: 
 
 - zewnętrzne i wewnętrzne,
 - formalne i nieformalne,

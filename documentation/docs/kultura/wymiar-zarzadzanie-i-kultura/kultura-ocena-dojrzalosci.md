@@ -1,6 +1,6 @@
 ---
 id: kultura-ocena-dojrzalosci
-title: Nadzór i kultura - ocena dojrzałości
+title: Zarządzanie i kultura - ocena dojrzałości
 sidebar_label: Ocena dojrzałości
 sidebar_position: 1
 opracowanie: Stefan Wajda
@@ -9,11 +9,11 @@ ostatnia_aktualizacja: 24 września 2025 r.
 
 ---
 
-# Nadzór i kultura - ocena dojrzałości
+# Zarządzanie i kultura - ocena dojrzałości
 
 Aby wykazać dojrzałość kulturową w zakresie dostępności, wszystkie aspekty działania [organizacji](../../terms/organizacja), procesy i umiejętności powinny uwzględniać kwestie integracji osób z&nbsp;niepełnosprawnościami. Każdy w organizacji powinien rozumieć i&nbsp;być wrażliwy na znaczenie dostępności cyfrowej, w tym na swoją osobistą rolę i obowiązki w&nbsp;osiąganiu celów organizacji w&nbsp;zakresie dostępności. Dostępność powinna być integralną częścią różnorodności i&nbsp;integracji w organizacji, z&nbsp;wyraźnym uznaniem korzyści płynących z&nbsp;integracji osób z niepełnosprawnościami oraz wpływu dostępności cyfrowej na osoby z&nbsp;niepełnosprawnościami w celu ułatwienia dostępu do miejsc pracy, usług i&nbsp;innych aspektów życia.
 
-## Jak ocenić poziom nadzoru i dojrzałości kulturowej
+## Jak ocenić poziom dojrzałości zarządzania i kultury organizacyjnej
 
 1. Określ dowody, które należy wykorzystać do oceny dojrzałości wymiaru dostępności w Twojej organizacji. Nie wszystkie dowody mogą mieć zastosowanie do każdej firmy lub organizacji. Wymienione tutaj dowody stanowią niewyczerpujący przykład kryteriów. Mogą one mieć zastosowanie lub nie. Możesz określić inne dowody w ich miejsce i/lub dodatkowe dowody.
 2. Wymień całą dokumentację kultury organizacyjnej w odniesieniu do określonych punktów dowodowych.

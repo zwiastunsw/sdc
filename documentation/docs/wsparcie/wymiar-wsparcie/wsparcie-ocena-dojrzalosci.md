@@ -10,7 +10,7 @@ ostatnia_aktualizacja: 24 września 2025 r.
 
 # Wsparcie - ocena dojrzałości
 
-## Jak ocenić poziom dojrzałości  wsparcia
+## Jak ocenić poziom dojrzałości wsparcia
 
 1. Określ punkty dowodowe, które zostaną wykorzystane do oceny dojrzałości dostępności. Nie wszystkie punkty dowodowe mogą mieć zastosowanie do każdej firmy lub organizacji. Wymienione tutaj punkty dowodowe są niewyczerpującymi przykładami kryteriów. Mogą one mieć zastosowanie lub nie. Możesz określić inne punkty dowodowe w ich miejsce i/lub dodatkowe punkty dowodowe.
 2. Wymień całą dokumentację dotyczącą wsparcia pracowników i klientów organizacji w odniesieniu do zidentyfikowanych punktów dowodowych.
@@ -98,23 +98,4 @@ Poziom **optymalny** osiąga się, gdy dowody wskazują, że:
 ### Cele i wskaźniki wymiarów
 
 - Ustalono cele związane z wymiarem, zdefiniowano wskaźniki i monitoruje się postępy.
-
-
-<!--    
-    
-4. **Wsparcie zewnętrzne**
-
-    - Ustanowienie procesu otrzymywania informacji zwrotnych o dostępności i reagowania na nie.
-    - Zapewnienie tematów pomocy lub często zadawanych pytań dotyczących dostępności w dostępnym formacie.
-    - Wdrożenie procesów gwarantujących, że kod pochodzący od stron trzecich lub dostarczony przez zewnętrznych dostawców jest dostępny.
-    - Zapewnienie dostępnych opcji i wsparcia dla każdego kroku lub funkcji, która zależy od niedostępnej funkcji, której nie można naprawić z przyczyn technicznych, np. procesy weryfikacji tożsamości
-    - Zapewnienie dostępnych formatów i wsparcia komunikacyjnego, w tym platform wizualnych dla osób, których podstawowym językiem jest język migowy.
-    - Zapewnienie, że nowo nabyte lub opracowane dokumenty cyfrowe oferowane klientom są dostępne.
-    - Opracowanie planu udostępnienia klientom wszystkich wcześniejszych dokumentów cyfrowych
-    - Zapewnienie, że wszystkie informacje są przedstawione prostym językiem.
-    - Zapewnienie klientom specjalnego kanału do zgłaszania w łatwy i dostępny sposób problemów z dostępnością lub barier, np. dedykowany adres e-mail.
-    - Każdy plan dotyczący informacji zwrotnych obejmuje dostępny sposób odpowiadania klientom, którzy przekazali opinie, wraz z aktualizacjami dotyczącymi stanu i decyzji w sprawie przekazanych opinii i wniosków.
-    - Zapewnienie, że klienci z niepełnosprawnościami mogą korzystać z własnych lub preferowanych przez siebie technologii wspomagających, aby uzyskać dostęp do towarów i usług.
--->
-
 

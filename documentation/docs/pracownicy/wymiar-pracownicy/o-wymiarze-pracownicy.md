@@ -29,8 +29,6 @@ Wymaga to dostępnych i integracyjnych praktyk zatrudniania, obejmujących proce
 
 ## Cel wymiaru Pracownicy
 
-Uwaga redaktora: Nie ma dobrze sformułowanego celu wymiaru Pracownicy. W arkuszu kalkulacyjnym zawarto jedynie uwagę, która nie definiuje celu:
-
 **„Cel tego wymiaru**: Powinien być wspierany przez postępy lub realizację punktów sprawdzających kulturę organizacyjną lub innych kryteriów.”
 
 
