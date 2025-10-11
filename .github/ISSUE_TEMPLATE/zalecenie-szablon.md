@@ -1,6 +1,6 @@
 ---
 name: szablon-zalecenia
-about: Użyj tego szablonu, aby zgłosić projekt zalecenia. Sekcja poniżej to metryczka. Nie zmieniaj słów kluczowych przed dwukropkiem, np. nie zmieniaj tekstu „title: ”
+about: "Użyj tego szablonu, aby zgłosić projekt zalecenia. Sekcja poniżej to metryczka. Nie zmieniaj słów kluczowych przed dwukropkiem, np. nie zmieniaj tekstu „title: ”" 
 ---
 
 - id: szablon-zalecenia # utworz z tytulu proponowaną nazwę pliku
