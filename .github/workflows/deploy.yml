@@ -30,7 +30,7 @@ jobs:
 
       - name: Install dependencies
         working-directory: documentation
-        run: npm ci
+        run: npm install -f
 
       - name: Build site
         working-directory: documentation
