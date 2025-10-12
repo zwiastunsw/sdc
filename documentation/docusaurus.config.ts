@@ -81,79 +81,44 @@ const config: Config = {
         // Replace with your project's social card
         image: 'img/docusaurus-social-card.jpg',
         colorMode: {
-            respectPrefersColorScheme: true,
+            respectPrefersColorScheme: false,
         },
-        navbar: {
-            title: 'SDC',
+         navbar: {
+            title: 'Sieć Dostępności Cyfrowej',
             logo: {
                 alt: 'Sieć Dostępności Cyfrowej',
                 src: 'img/logo.svg',
             },
-            items: [
+           items: [
                 {
                     type: 'doc',
                     docId: 'o-sieci/projekt/o-projekcie-sdc',
-                    position: 'left',
+                    position: 'right',
                     label: 'O Sieci',
                     className: 'osieci',
                 },
-                { to: '/wymiary', label: 'Wymiary', position: 'left' },
-                {
-                    type: 'doc',
-                    docId: 'komunikacja/wymiar-komunikacja/o-wymiarze-komunikacja',
-                    position: 'left',
-                    label: 'Komunikacja',
-                    className: 'komunikacja',
-                    title: 'Komunikacja',
-                },
-                {
-                    type: 'doc',
-                    docId: 'cykltik/wymiar-cykl-zycia-tik/o-wymiarze-cykl-zycia-tik',
-                    position: 'left',
-                    label: 'Cykl życia TIK',
-                    className: 'cykltik',
-                },
-                {
-                    type: 'doc',
-                    docId: 'wiedza/wymiar-wiedza-i-umiejetnosci/o-wymiarze-wiedza-i-umiejetnosci',
-                    position: 'left',
-                    label: 'Wiedza i umiejętności',
-                    className: 'wiedza',
-                },
-                {
-                    type: 'doc',
-                    docId: 'kultura/wymiar-zarzadzanie-i-kultura/o-wymiarze-zarzadzanie-i-kultura',
-                    position: 'left',
-                    label: 'Zarządzanie i kultura',
-                    className: 'kultura',
-                },
-                {
-                    type: 'doc',
-                    docId: 'pracownicy/wymiar-pracownicy/o-wymiarze-pracownicy',
-                    position: 'left',
-                    label: 'Pracownicy',
-                    className: 'pracownicy',
-                },
-                {
-                    type: 'doc',
-                    docId: 'zaopatrzenie/wymiar-zaopatrzenie/o-wymiarze-zaopatrzenie',
-                    position: 'left',
-                    label: 'Zaopatrzenie',
-                    className: 'zaopatrzenie',
-                },
-                {
-                    type: 'doc',
-                    docId: 'wsparcie/wymiar-wsparcie/o-wymiarze-wsparcie',
-                    position: 'left',
-                    label: 'Wsparcie',
-                    className: 'wsparcie',
-                },
 
-                { to: '/blog', label: 'Blog', position: 'left' },
+				
+				{ to: '/wymiary',
+					label: 'Wymiary',
+					position: 'right',
+					items: [
+					{ label: 'Komunikacja', to: 'docs/komunikacja/wymiar-komunikacja/o-wymiarze-komunikacja' },
+					{ label: 'Cykl życia TIK', to: 'docs/cykltik/wymiar-cykl-zycia-tik/o-wymiarze-cykl-zycia-tik' },
+					{ label: 'Wiedza i umiejętności', to: 'docs/wiedza/wymiar-wiedza-i-umiejetnosci/o-wymiarze-wiedza-i-umiejetnosci' },
+					{ label: 'Zarządzanie i kultura', to: 'docs/kultura/wymiar-zarzadzanie-i-kultura/o-wymiarze-zarzadzanie-i-kultura' },
+					{ label: 'Pracownicy', to: 'docs/pracownicy/wymiar-pracownicy/o-wymiarze-pracownicy' },
+					{ label: 'Zaopatrzenie', to: 'docs/zaopatrzenie/wymiar-zaopatrzenie/o-wymiarze-zaopatrzenie' },
+					{ label: 'Wsparcie', to: 'docs/wsparcie/wymiar-wsparcie/o-wymiarze-wsparcie' },					
+					],
+				},
+
+
+                { to: '/blog', label: 'Blog', position: 'right' },
                 {
                     href: 'https://github.com/Siec-Dostepnosci-Cyfrowej/sdc',
                     label: 'GitHub',
-                    position: 'left',
+                    position: 'right',
                     icon: 'github',
                 },
             ],
