@@ -8,9 +8,13 @@ keywords: [
         wiedza i umiejętności,
 		repozytorium wiedzy,
 ]
+tagss: [
+        wiedza i umiejętności,
+		repozytorium wiedzy,
+]
 opracowanie: Jacek Zadrożny 
-data-zgloszenia: 12 czerwca 2025
-data-aktualizacji:  20 września 2025
+data_zgloszenia: 12 czerwca 2025
+data_aktualizacji:  20 września 2025
 status: projekt
 ---
 
