@@ -325,5 +325,105 @@
   "theme.tags.tagsPageTitle": {
     "message": "Tagi",
     "description": "The title of the tag list page"
+  },
+  "theme.SearchModal.askAiScreen.afterToolCallText": {
+    "message": "Wyszukiwanie",
+    "description": "Nie wyspecyfikowano"
+  },
+  "theme.SearchModal.askAiScreen.copyButtonCopiedText": {
+    "message": "Skopiowano!",
+    "description": "Nie wyspecyfikowano"
+  },
+  "theme.SearchModal.askAiScreen.copyButtonText": {
+    "message": "Kopiuj",
+    "description": "Nie wyspecyfikowano"
+  },
+  "theme.SearchModal.askAiScreen.copyButtonTitle": {
+    "message": "Kopiuj do schowka",
+    "description": "Nie wyspecyfikowano"
+  },
+  "theme.SearchModal.askAiScreen.disclaimerText": {
+    "message": "Odpowiedzi są generowane przez sztuczną inteligencję, która może popełniać błędy. Zweryfikuj odpowiedź.",
+    "description": "Nie wyspecyfikowano"
+  },
+  "theme.SearchModal.askAiScreen.dislikeButtonTitle": {
+    "message": "Nie lubię",
+    "description": "Nie wyspecyfikowano"
+  },
+  "theme.SearchModal.askAiScreen.duringToolCallText": {
+    "message": "Wyszukiwanie ",
+    "description": "Nie wyspecyfikowano"
+  },
+  "theme.SearchModal.askAiScreen.likeButtonTitle": {
+    "message": "Jak",
+    "description": "Nie wyspecyfikowano"
+  },
+  "theme.SearchModal.askAiScreen.preToolCallText": {
+    "message": "Wyszukiwanie...",
+    "description": "Nie wyspecyfikowano"
+  },
+  "theme.SearchModal.askAiScreen.relatedSourcesText": {
+    "message": "Powiązane źródła",
+    "description": "Nie wyspecyfikowano"
+  },
+  "theme.SearchModal.askAiScreen.thanksForFeedbackText": {
+    "message": "Dziękujemy za opinię!",
+    "description": "Nie wyspecyfikowano"
+  },
+  "theme.SearchModal.askAiScreen.thinkingText": {
+    "message": "Myślenie...",
+    "description": "Nie wyspecyfikowano"
+  },
+  "theme.SearchModal.footer.backToSearchText": {
+    "message": "Wróć do wyszukiwania",
+    "description": "Nie wyspecyfikowano"
+  },
+  "theme.SearchModal.footer.submitQuestionText": {
+    "message": "Prześlij pytanie",
+    "description": "Nie wyspecyfikowano"
+  },
+  "theme.SearchModal.placeholder": {
+    "message": "Wyszukaj w dokumentach",
+    "description": "Nie wyspecyfikowano"
+  },
+  "theme.SearchModal.resultsScreen.askAiPlaceholder": {
+    "message": "Zapytaj AI: ",
+    "description": "Nie wyspecyfikowano"
+  },
+  "theme.SearchModal.searchBox.backToKeywordSearchButtonAriaLabel": {
+    "message": "Wróć do wyszukiwania słów kluczowych",
+    "description": "Nie wyspecyfikowano"
+  },
+  "theme.SearchModal.searchBox.backToKeywordSearchButtonText": {
+    "message": "Wróć do wyszukiwania słów kluczowych",
+    "description": "Nie wyspecyfikowano"
+  },
+  "theme.SearchModal.searchBox.enterKeyHint": {
+    "message": "szukaj",
+    "description": "Nie wyspecyfikowano"
+  },
+  "theme.SearchModal.searchBox.enterKeyHintAskAi": {
+    "message": "wprowadź",
+    "description": "Nie wyspecyfikowano"
+  },
+  "theme.SearchModal.searchBox.placeholderTextAskAi": {
+    "message": "Zadaj inne pytanie...",
+    "description": "Nie wyspecyfikowano"
+  },
+  "theme.SearchModal.searchBox.placeholderTextAskAiStreaming": {
+    "message": "Odpowiadanie...",
+    "description": "Nie wyspecyfikowano"
+  },
+  "theme.SearchModal.searchBox.searchInputLabel": {
+    "message": "Szukaj",
+    "description": "Nie wyspecyfikowano"
+  },
+  "theme.SearchModal.startScreen.recentConversationsTitle": {
+    "message": "Ostatnie rozmowy",
+    "description": "Nie wyspecyfikowano"
+  },
+  "theme.SearchModal.startScreen.removeRecentConversationButtonTitle": {
+    "message": "Usuń tę rozmowę z historii",
+    "description": "Nie wyspecyfikowano"
   }
 }
