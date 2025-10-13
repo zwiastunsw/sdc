@@ -99,8 +99,7 @@ const config: Config = {
                 },
 
 				
-				{ to: '/wymiary',
-					label: 'Wymiary',
+				{  label: 'Wymiary',
 					position: 'right',
 					items: [
 					{ label: 'Komunikacja', to: 'docs/komunikacja/wymiar-komunikacja/o-wymiarze-komunikacja' },
