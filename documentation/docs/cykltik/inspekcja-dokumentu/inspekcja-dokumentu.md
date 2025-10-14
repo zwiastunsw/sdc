@@ -1,6 +1,6 @@
 ---
 name: inspekcja-dokumentu
-about: Projekt zalecenia: Uwzględnienie podczas tworzenia i drogi dokumentów w jednostce wymogów dostępności WCAG 2.1 AA
+about: Projekt zalecenia. Uwzględnienie podczas tworzenia i drogi dokumentów w jednostce wymogów dostępności WCAG 2.1 AA
 wymiar: Zalecenia i Rekomendacje
 keywords: [WCAG 2.1, dokumenty cyfrowe]
 tags: [WCAG 2.1, dokumenty cyfrowe]
