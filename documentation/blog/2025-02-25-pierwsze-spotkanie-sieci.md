@@ -6,7 +6,7 @@ tags: [SDC, dostępność cyfrowa, Fundusze Europejskie]
 
 ---
 
-podczas spotkania 25 lutego 2025 r. uczestnicy i uczestniczki Sieci&hellip;
+Podczas spotkania 25 lutego 2025 r. uczestnicy i uczestniczki Sieci&hellip;
 
 <!-- truncate -->
 
