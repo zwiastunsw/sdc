@@ -21,7 +21,7 @@ Zaleca się, aby dbałość o tworzenie dostępnych cyfrowo dokumentów stała s
 
 Koordynator dostępności cyfrowej w organizacji powinien:
 
-1. Włączyć się w proces szkoleń dla nowo zatrudnionych.
+1. Włączyć się w proces szkoleń dla osób nowo zatrudnionych.
 2. Koordynować zakres i harmonogram szkoleń.
 3. Mieć wpływ na tworzenie wytycznych i procedur ujednolicających formatowanie tekstów.
 4. Zlecać przygotowanie szablonów dokumentów i regularnie weryfikować potrzebę nowych.
