@@ -19,7 +19,7 @@ projektowanie
 ]
 data_zgloszenia: 15 września 2025 r.
 ostatnia_aktualizacja: 26 września 2025 r.
-opracowanie: Krzysztof Głaz
+opracowanie: Cezary Tomczyk
 status: projekt
 
 ---

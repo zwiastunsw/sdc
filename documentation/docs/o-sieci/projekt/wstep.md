@@ -46,12 +46,12 @@ Raz w miesiącu organizujemy **spotkania całej Sieci**, na których:
 
 Utworzyliśmy 6 grup roboczych, złożonych z osób, które skupiają się na wybranych [**wymiarach dostępności cyfrowej**](../../terms/wymiar-dostepnosci):
 
-- wymiarze **Komunikacja**
-- wymiarze **Cykl życia TIK**
-- wymiarze **Wiedza i umiejętności**
-- wymiarze **Zarządzanie i kultura organizacyjna**
-- wymiarze **Zaopatrzenie**
-- wymiarze **Pracownicy** oraz wymiarze **Wsparcie**.
+- wymiarze [**Komunikacja**](../../komunikacja/wymiar-komunikacja/o-wymiarze-komunikacja)
+- wymiarze [**Cykl życia TIK**](../../cykltik/wymiar-cykl-zycia-tik/o-wymiarze-cykl-zycia-tik)
+- wymiarze [**Wiedza i umiejętności**](../../wiedza/wymiar-wiedza-i-umiejetnosci/o-wymiarze-wiedza-i-umiejetnosci)
+- wymiarze [**Zarządzanie i kultura organizacyjna**](../../kultura/wymiar-zarzadzanie-i-kultura/o-wymiarze-zarzadzanie-i-kultura)
+- wymiarze [**Zaopatrzenie**](../../zaopatrzenie/wymiar-zaopatrzenie/o-wymiarze-zaopatrzenie)
+- wymiarze [**Pracownicy**](../../pracownicy/wymiar-pracownicy/o-wymiarze-pracownicy) oraz wymiarze [**Wsparcie**](../../wsparcie/wymiar-wsparcie/o-wymiarze-wsparcie).
 
 Grupy pomagają nam (uczestnikom Sieci) przygotować projekty zaleceń i rozwiązań.
 Grupa pomaga uczestnikom podczas spotkań oraz między spotkaniami. 

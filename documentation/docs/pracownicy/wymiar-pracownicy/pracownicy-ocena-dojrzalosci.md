@@ -105,7 +105,7 @@ Pracownicy z niepełnosprawnościami są wykorzystywani w całej organizacji w c
 
 ### Zaangażowanie strategiczne
 
-- Utworzenie skupioną na niepełnosprawności Grupę Zasobów Pracowniczych, z z opiekunem wykonawczym (członkiem kierownictwa organizacji), aby pracownicy z niepełnosprawnościami mogli bezpośrednio wnosić z pierwszej ręki wiedzę i doświadczenie życiowe w działania na rzecz dostępności
+- Utworzono skupioną na niepełnosprawności Grupę Zasobów Pracowniczych, z opiekunem wykonawczym (członkiem kierownictwa organizacji), aby pracownicy z niepełnosprawnościami mogli bezpośrednio wnosić z pierwszej ręki wiedzę i doświadczenie życiowe w działania na rzecz dostępności
 - Utworzono skupione na dostępności produktów i projektów grupy fokusowe pracowników z niepełnosprawnościami
 - Wdrożono program mentorski dla pracowników z niepełnosprawnościami
 - Pracownicy są informowani o zdefiniowanym procesie racjonalnych usprawnień i mają do niego dostęp.
