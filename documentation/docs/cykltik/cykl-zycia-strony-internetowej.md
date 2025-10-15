@@ -17,10 +17,7 @@ opracowanie: Dawid Górny
 status: projekt
 ---
 
-
-
-
-# Ramowe wytyczne — Cykl życia strony internetowej (TIK)
+## Ramowe wytyczne — Cykl życia strony internetowej (TIK)
 
 ## 1. Cel dokumentu
 
