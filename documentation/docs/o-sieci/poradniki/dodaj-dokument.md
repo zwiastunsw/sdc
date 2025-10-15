@@ -13,7 +13,7 @@ data_aktualizacji: 15 października 2025 r.
 
 Dodanie nowej propozycji zalecenia, rozwiązania lub opisu praktyki polega na zgłoszeniu <q>żądania scalenia</q> (po angielsku: *<span lang="en">pull request</span>*. Dla osób obytych z Github to proste działanie.
 
-Ale nowicjuszom i osobom mniej doświadoczonym w pracy na Github może nowicjuszom przysporzyć trochę stresu i niespodziewanych sytuacji. Ale to normalne, gdy poznajemy rzeczy nowe.
+Ale nowicjuszom i osobom mniej doświadczonym w pracy na Github może nowicjuszom przysporzyć trochę stresu i niespodziewanych sytuacji. Ale to normalne, gdy poznajemy rzeczy nowe.
 
 Ten poradnik pomoże Ci krok po kroku dodać nowy dokument. 
 
