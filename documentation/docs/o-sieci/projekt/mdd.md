@@ -11,25 +11,91 @@ Tłumaczenie robocze, v. 09, oprac. Stefan Wajda
 
 Źródło: [Model dojrzałości dostępności W3C](https://w3c.github.io/maturity-model/)
 
+
+
+## Streszczenie
+
+Model dojrzałości dostępności W3C (AMM) stanowi ramy, które oferują osobom fizycznym i organizacjom każdej wielkości plan działania, w tym punkty odniesienia, służącye do opracowywania, wdrażania i utrzymywania dostępności zarówno wewnętrznych, jak i zewnętrznych zasobów cyfrowych w miarę upływu czasu. Te kompleksowe ramy obejmują wszystkie aspekty zarządzania zasobami kadrowymi organizacji, a także jej stale ewoluującymi zasobami publicznymi. Łatwo skalowalne, wspierają:
+
+- jednoosobowe firmy konsultingowe,
+- organizacje non-profit, organizacje pozarządowe dowolnej wielkości,
+- lokalne i krajowe urzędy rządowe, sądy, organy ustawodawcze, agencje i komisje oraz
+- małe firmy, duże międzynarodowe organizacje korporacyjne lub działy korporacyjne oraz dowolnego typu i wielkości  podmioty gospodarcze.
+
+
+Model AMM zawiera wytyczne dotyczące wdrażania treści przeznaczonych dla ogółu społeczeństwa i świadczenia interaktywnych usług dla ogółu społeczeństwa, a także działań wewnętrznych i funkcji kadrowych związanych z relacjami pracowniczymi. Zapewnia ramy oceny skuteczności operacyjnej w zakresie przestrzegania zasad dostępności, identyfikacji luk w skuteczności działań wspierających dostępność oraz ciągłego procesu poprawy dostępności. Dostosowuje zespoły pracowników do wspólnych celów i zadań.
+
+Model AMM zawiera wytyczne dotyczące wdrażania treści przeznaczonych dla ogółu społeczeństwa i świadczenia interaktywnych usług dla ogółu społeczeństwa, a także działań wewnętrznych i funkcji kadrowych związanych z relacjami pracowniczymi. Zapewnia ramy oceny skuteczności operacyjnej w zakresie przestrzegania zasad dostępności, identyfikacji luk w skuteczności działań zapewniających dostępność oraz ciągłego procesu poprawy dostępności. Umożliwia zespołom pracowników skupienie się na wspólnych celach i zadaniach.
+
+AMM dostarcza praktycznych wskazówek dotyczących ustanawiania lub doskonalenia polityk, komunikacji z pracownikami, szkoleń i narzędzi. Zawiera również metodę pomiaru i dokumentowania zdolności organizacyjnych, kulturowych i technicznych.
+
+
+## Status tego dokumentu
+
+Poniższa część opisuje status dokumentu w momencie jego publikacji. Inne dokumenty mogą w przyszłości zastąpić niniejszy. Lista bieżących publikacji W3C oraz zaktualizowany raport techniczny znajdują się na stronie [Raporty techniczne W3C i indeks standardów](https://www.w3.org/TR/).
+
+Grupa chętnie przyjmuje Państwa opinie w dowolnym momencie, a szczególnie zachęca organizacje wdrażające model do zgłaszania uwag. Prosimy o zgłaszanie wszelkich uwag technicznych podczas tej rundy przeglądu, aby ułatwić grupie przekształcenie tego dokumentu w Notatkę Grupy W3C.
+
+Aby dodać komentarz, zgłoś problem w [repozytorium modelu dojrzałości na Github](https://github.com/w3c/maturity-model/issues). Zamiast komentować wiele tematów w jednym zgłoszeniu, utwórz osobne zgłoszenie GitHub dla każdego tematu. Założenie konta GitHub w celu zgłaszania problemów jest bezpłatne. Przed dodaniem komentarza prosimy o zapoznanie się z powiązanymi komentarzami w repozytorium modelu dojrzałości na Github. Jeśli zgłaszanie problemów na GitHub jest niemożliwe, prosimy o kontakt mailowy pod adresem [public-maturity@w3.org](public-maturity@w3.org) (archiwum poprzednich komentarzy). Termin nadsyłania komentarzy upływa 30 września 2025 r.
+
+Ten dokument został opublikowany przez grupę roboczą [Accessible Platform Architectures](https://www.w3.org/groups/wg/apa) jako projekt redakcyjny (wersja robocza).
+
+Publikacja w formie projektu redakcyjnego nie oznacza poparcia ze strony W3C i jego Członków.
+
+Jest to dokument roboczy, który może zostać zaktualizowany, zastąpiony lub unieważniony przez inne dokumenty w dowolnym momencie. Nie należy cytować tego dokumentu jako czegoś innego niż dokument w trakcie opracowywania.
+
+Ten dokument został opracowany przez grupę działającą zgodnie z [Polityką Patentową W3C](https://www.w3.org/policies/patent-policy/). W3C prowadzi [publiczną listę wszystkich zgłoszeń patentowych](https://www.w3.org/groups/wg/apa/ipr) związanych z wynikami prac grupy; strona ta zawiera również instrukcje dotyczące zgłaszania patentów. Osoba posiadająca [faktyczną wiedzę o patencie](https://www.w3.org/policies/patent-policy/#def-essential), który jej zdaniem zawiera istotne zastrzeżenia, musi ujawnić te informacje zgodnie z [sekcją 6 Polityki Patentowej W3C](https://www.w3.org/policies/patent-policy/#sec-Disclosure).
+
+Ten dokument podlega [Dokumentowi procesowemu W3C z dnia 18 sierpnia 2025 r.](https://www.w3.org/policies/process/20250818/)
+
+
 # 1 Wstęp
 
 ## 1.1 O modelu dojrzałości dostępności
 
-Uwzględnienie kwestii dostępności [technologii informacyjno-komunikacyjnych](../../terms/technologia-informacyjno-komunikacyjna) (TIK) w procesach pracy i zarządzaniu jakością w&nbsp;organizacji może być złożonym procesem. Choć w&nbsp;niektórych organizacjach są osoby lub działy odpowiedzialne za zapewnienie dostępności, wiele z nich tego nie robi. Zbyt często potrzeba systematycznego zarządzania dostępnością w organizacji pozostaje niezaspokojona. To z&nbsp;kolei może ograniczać zdolność organizacji do tworzenia i&nbsp;utrzymywania dostępnych produktów, usług, szkoleń i&nbsp;dokumentacji.
+Uwzględnienie kwestii dostępności [technologii informacyjno-komunikacyjnych](../../terms/technologia-informacyjno-komunikacyjna) (TIK) w procesach pracy i zarządzaniu jakością w&nbsp;organizacji może być złożonym procesem. Chociaż w&nbsp;niektórych organizacjach są osoby lub działy odpowiedzialne za zapewnienie dostępności, wiele z nich tego nie robi. Zbyt często potrzeba systematycznego zarządzania dostępnością w organizacji pozostaje niezaspokojona. To z&nbsp;kolei może ograniczać zdolność organizacji do tworzenia i&nbsp;utrzymywania dostępnych produktów, usług, szkoleń i&nbsp;dokumentacji.
 
 Model Dojrzałości Dostępności (<em lang="en">Accessibility Maturity Model</em>, AMM) został opracowany w celu wypełnienia tej luki – aby zachęcać i&nbsp;wspierać organizacje w&nbsp;tworzeniu i wdrażaniu systemów zarządzania dostępnością. Celem AMM jest wspieranie organizacji w&nbsp;systematycznym włączaniu kryteriów dostępności TIK do polityk, kluczowych procesów biznesowych, kultury organizacyjnej i&nbsp;struktur zarządzania, w sposób spójny, powtarzalny i&nbsp;mierzalny.
 
-Model Dojrzałości Dostępności opisuje ogólne ramy tworzenia solidnego programu dostępności TIK i identyfikowania obszarów wymagających poprawy. Jest to narzędzie, które:
+Model Dojrzałości Dostępności opisuje ogólne ramy tworzenia solidnego programu dostępności TIK i rozpoznawania obszarów wymagających poprawy. Jest to narzędzie, które:
 
 - ocenia bieżącą efektywność i możliwości całej organizacji lub jej pododdziałów
 - wspiera identyfikację luk między obecnymi możliwościami a kolejnym poziomem dojrzałości dostępności
-- planowanie kolejnych kroków mających na celu poprawę dostępności organizacji w dłuższej perspektywie czasowej
+- wspiera planowanie kolejnych kroków mających na celu poprawę dostępności organizacji w dłuższej perspektywie czasowej
 
 Modelowanie dojrzałości dostępności znacznie różni się od testowania zgodności dostępności.
 
 Testowanie zgodności dostarcza informacji o poziomie dostępności konkretnego produktu w danym momencie. Wyniki testu zgodności dają obraz konkretnej wersji produktu lub jego komponentu w momencie testowania i oceny.
 
-Modelowanie dojrzałości dostarcza informacji o zdolności organizacji do tworzenia dostępnych produktów w długim okresie. Wyniki oceny modelowania dojrzałości dają całościowy obraz inicjatyw organizacji w zakresie dostępności, pokazując, gdzie organizacja dobrze realizuje funkcje dostępności i gdzie można wprowadzić ulepszenia w celu usunięcia barier.
+Modelowanie dojrzałości dostarcza informacji o zdolności organizacji do tworzenia w perspektywie długoterminowejdostępnych produktów. Wyniki oceny modelowania dojrzałości dają całościowy obraz inicjatyw organizacji w zakresie dostępności, pokazując, gdzie organizacja dobrze realizuje funkcje dostępności i gdzie może wprowadzić ulepszenia w celu usunięcia barier.
+
+
+### 1.1.1 Jak korzystać z modelu dojrzałości dostępności
+Każdy wymiar zawiera krótki opis poziomów dojrzałości, które służą jako punkty odniesienia do oceny działalności. Rolą oceniającego jest określenie, który poziom dojrzałości jest poparty dowodami w organizacji dla każdego wymiaru.
+
+Na przykład wymiar komunikacji znajduje się na poziomie „Uruchomienie”, jeśli organizacja posiada pisemne opracowania, które umożliwiają zapewnienie dostępności komunikacji wewnętrznej i zewnętrznej. Powinny one również być zgodne z obowiązującymi przepisami dotyczącymi dostępności. Opracowania te nie zostały jednak jeszcze przekształcone w spójny, obejmujący całą organizację plan działania.
+
+Jeśli chcesz potwierdzić ten poziom dojrzałości dla wymiaru komunikacji, dowody zebrane podczas oceny muszą potwierdzać to twierdzenie. Poniżej przedstawiamy przykładowe dowody, które można wykorzystać. Dowody można rozszerzyć zgodnie z opisem w sekcji 1.1.2.
+
+**Zalecane kroki na początek**
+
+- **Stwórz zespół ds. przeglądu**: w skład zespołu powinni wchodzić przedstawiciele różnych działów, ponieważ dojrzałość zależy od współpracy.
+- **Zbierz dowody**: zbierz dokumentację, dane szkoleniowe i wskaźniki odzwierciedlające aktualne — a nie pożądane — praktyki.
+- **Zweryfikuj wyniki**: zaangażuj ekspertów i osoby niepełnosprawne, aby potwierdzić dokładność i wiarygodność.
+- **Opracuj plan działań naprawczych**: określ cele, kamienie milowe, właścicieli i harmonogramy w ramach istniejących systemów.
+- **Regularnie dokonuj ponownej oceny**: śledź postępy, szybko identyfikuj obszary, w których następuje regres, i utrzymuj tempo.
+
+AMM najlepiej sprawdza się jako narzędzie do rozmów i dzielenia się odpowiedzialnością. Dojrzałość w&nbsp;zakresie dostępności rośnie, gdy liderzy mierzą to, co jest ważne, przydzielają zasoby i&nbsp;podejmują działania w oparciu o wyniki, aby stworzyć trwałą poprawę.
+
+### 1.1.2 Dostosowywanie modelu dojrzałości
+
+Model dojrzałości może być dostosowywany przez organizację przeprowadzającą ocenę dojrzałości dostępności. Takie dostosowanie pozwala użytkownikom zachować dokładną strukturę wymiarów, poziomów dojrzałości i logiki progresji, jednocześnie dostosowując model do potrzeb organizacji. Oto kilka przykładów dostosowań modelu AMM:
+
+- Pominięcie punktów dowodowych (lub części punktów dowodowych), które nie mają zastosowania w organizacji, takich jak odniesienia do aplikacji mobilnych, jeśli organizacja ich nie posiada.
+- Zmiana nazw terminów, aby lepiej pasowały do danej branży, na przykład zmiana „punktów dowodowych” na „dowody”, „TIK” na „sprzęt i oprogramowanie” lub „ACR/VPAT” na „dokumenty certyfikacji dostępności”.
+- Dopracowanie sformułowań w punktach dowodowych i wymiarach, tak aby odzwierciedlały terminy i praktyki stosowane w organizacji, na przykład zastąpienie „języka umów dotyczących zamówień TIK” przez „klauzule dotyczące dostępności w umowach z dostawcami”. 
+
+Ta elastyczność sprawia, że aplikacja AMM jest bardziej odpowiednia i praktyczna dla organizacji, a&nbsp;jednocześnie pozostaje zgodna z ramami W3C. Zalecamy, aby organizacja prowadziła rejestr takich dostosowań, tak aby w przypadku przekazania wyników oceny modelu dojrzałości stronie trzeciej, mogła ona zrozumieć i zmapować wprowadzone aktualizacje.
 
 ## 1.2 Odbiorcy modelu dojrzałości dostępności
 
