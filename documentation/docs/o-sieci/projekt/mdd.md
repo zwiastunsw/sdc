@@ -15,11 +15,11 @@ Tłumaczenie robocze, v. 09, oprac. Stefan Wajda
 
 ## Streszczenie
 
-Model dojrzałości dostępności W3C (AMM) stanowi ramy, które oferują osobom fizycznym i organizacjom każdej wielkości plan działania, w tym punkty odniesienia, służącye do opracowywania, wdrażania i utrzymywania dostępności zarówno wewnętrznych, jak i zewnętrznych zasobów cyfrowych w miarę upływu czasu. Te kompleksowe ramy obejmują wszystkie aspekty zarządzania zasobami kadrowymi organizacji, a także jej stale ewoluującymi zasobami publicznymi. Łatwo skalowalne, wspierają:
+Model dojrzałości dostępności W3C (AMM) stanowi ramy, które oferują osobom fizycznym i organizacjom każdej wielkości plan działania, w tym punkty odniesienia, służące do opracowywania, wdrażania i utrzymywania dostępności zarówno wewnętrznych, jak i zewnętrznych zasobów cyfrowych w miarę upływu czasu. Te kompleksowe ramy obejmują wszystkie aspekty zarządzania zasobami kadrowymi organizacji oraz stale ewoluującymi zasobami publicznymi. Model jest łatwo skalowalny, wspiera:
 
 - jednoosobowe firmy konsultingowe,
 - organizacje non-profit, organizacje pozarządowe dowolnej wielkości,
-- lokalne i krajowe urzędy rządowe, sądy, organy ustawodawcze, agencje i komisje oraz
+- lokalne i krajowe urzędy rządowe i samorządowe, sądy, organy ustawodawcze, agencje i komisje oraz
 - małe firmy, duże międzynarodowe organizacje korporacyjne lub działy korporacyjne oraz dowolnego typu i wielkości  podmioty gospodarcze.
 
 
