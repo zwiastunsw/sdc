@@ -20,6 +20,12 @@ status: projekt
 
 # Ocena dostępności cyfrowej deklarowanej w ofertach
 
+:::warning Uwaga
+
+Jest to dokument roboczy, który w dowolnym momencie może zostać zaktualizowany, zastąpiony lub usunięty przez inne dokumenty. Nie należy traktować tego dokumentu jako czegoś innego niż dokument w trakcie opracowywania.
+
+:::
+
 ## Zalecenie
 
 Organizacja poprzedza wybór oferty oceną dostępności cyfrowej technologii lub treści cyfrowej deklarowanej przez oferenta.
