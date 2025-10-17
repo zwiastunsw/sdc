@@ -19,6 +19,12 @@ data-aktualizacji:  20 września 2025 r.
  ![twoje logo](../img/twoje-logo.svg)
 # Szablon wymagań dostępności w&nbsp;zakupach technologii i treści cyfrowych
 
+:::warning Uwaga
+
+Jest to dokument roboczy, który w dowolnym momencie może zostać zaktualizowany, zastąpiony lub usunięty przez inne dokumenty. Nie należy traktować tego dokumentu jako czegoś innego niż dokument w trakcie opracowywania.
+
+:::
+
 
 1. **W-01. Zgodność. Dostawca opisze, w jaki sposób zapewni, że oferowane rozwiązanie będzie spełniać i utrzymywać zgodność z kryteriami sukcesu WCAG ujętymi w [__PL ETSI EN 301 549__](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/01.01.02_60/en_301549v010102p.pdf) zgodnie z przepisami ustawy o dostępności cyfrowej... oraz wymaganiami wykraczającymi ponad ujęte w PN ETSI 301 549 (np. niektóre kryteria sukcesu na poziomie WCAG AAA, dobre praktyki).**<br/><br/>
 Aby udowodnić, w jaki sposób oferowane rozwiązanie spełnia lub częściowo spełnia standardy WCAG dostawca może przedstawić:

@@ -22,6 +22,12 @@ status: projekt
 
 # Dostepność cyfrowa w polityce zakupowej
 
+:::warning Uwaga
+
+Jest to dokument roboczy, który w dowolnym momencie może zostać zaktualizowany, zastąpiony lub usunięty przez inne dokumenty. Nie należy traktować tego dokumentu jako czegoś innego niż dokument w trakcie opracowywania.
+
+:::
+
 ## Zalecenie
 
 Organizacje powinny zapewnić w swoich regulacjach procesów zakupowych, że wymagania dostępności cyfrowej będą podstawowym kryterium legalności w zakupach technologii i treści cyfrowych oraz zakupach zawierających elementy technologii i treści cyfrowych.
