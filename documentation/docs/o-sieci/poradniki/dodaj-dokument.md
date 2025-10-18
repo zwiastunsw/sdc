@@ -64,7 +64,7 @@ Aby rozpocząć, możesz po prostu skorzystać z odpowiedniego łącza spośród
    Treść dokumentu zapisujemy za pomocą bardzo prostego [formatu Markdown](poradnik-do-markdown.mdx). Na ilustracji widać kilka przykładowych typowych elementów:
    
    Dokument rozpoczyna się od sekcji metadanych, zwanej **<span lang="en">FrontMater</span>**. Rozpoczyna ją i kończy wiersz z trzema myślnikami.
-   Między myślnikami umieszczamy dane o dokumencie, zachowując format: **nazwa_danej: treść danej**. Po nazwie danej stawiamy dwukropek i pozostawiamy jedną spację. Następnie zapisujemy treść danej. Jeśli chcemy użyć w treści dwukropka albo znaków cala, to całą treść musimy objąć znakami cala, a znaki cala wewnętrz treści musimy poprzedzić znakiem ucieczki, np.
+   Między myślnikami umieszczamy dane o dokumencie, zachowując format: **nazwa_danej: treść danej**. Po nazwie danej stawiamy dwukropek i pozostawiamy jedną spację. Następnie zapisujemy treść danej. Jeśli chcemy użyć w treści dwukropka albo znaków cala, to całą treść musimy objąć znakami cala, a znaki cala wewnątrz treści musimy poprzedzić znakiem ucieczki, czyli ukośnikiem skierowanym w lewo, np.
 
 ```md
 ---
