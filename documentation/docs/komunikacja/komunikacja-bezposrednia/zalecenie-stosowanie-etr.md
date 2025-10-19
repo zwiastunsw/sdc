@@ -4,7 +4,7 @@ title: Stosowanie tekstu łatwego do czytania i zrozumienia (ETR)
 sidebar_position: 0
 sidebar_label: Stosowanie ETR
 keywords: [
-        tekst łatwy do czytania,
+       tekst łatwy do czytania,
 		ETR,
 ]
 labels: zalecenie
