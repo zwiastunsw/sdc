@@ -30,5 +30,5 @@ Prawdopodobnie wygodniej jest zacząć od instalacji **Gita** i **edytora kodu**
 ## Co chcesz zrobić?
 
 - [Zainstaluj Git](./instalacja-git) 
-- [Zainstaluj edytor kodu](./instalacja-edytora-kodu) 
+- [Zainstaluj edytor kodu](./skonfiguruj-edytor-kodu) 
 - [Zainstaluj Github Destkop](./zainstaluj-github-destkop)
