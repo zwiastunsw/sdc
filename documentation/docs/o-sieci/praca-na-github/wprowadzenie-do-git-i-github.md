@@ -53,5 +53,5 @@ Gdy zostaną rozpatrzone wszystkie komentarze i zgłoszone sugestie oraz projekt
 Szczegółowe informacje znajdziesz w poradnikach:
 
 - [Dodaj dokument bezpośrednio do Github](./dodaj-dokument-do-github.md) 
-- [Dodaj projekt z Github Destkop](./dodaj-projekt-z-github-destkop.md)
+- [Dodaj projekt z Github Destkop](./dodaj-dokument-z-github-destkop.md)
 - [Komentuj i sugeruj poprawki](./komentuj-i-sugeruj-poprawki.md)

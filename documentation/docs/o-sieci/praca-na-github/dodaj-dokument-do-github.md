@@ -14,7 +14,7 @@ data_aktualizacji: 15 października 2025 r.
 :::info Wskazówka
 Ten poradnik objaśnia jak dodać swój projekt zalecenia, rozwiązania lub opis praktyki **bezpośrednio w repozytorium Sieci na Github**.
 
-Aby dodać swój projekt w środowisku Github Destkop, zobacz [**Dodaj projekt z Github Destkop**](dodaj-projekt-z-github-destkop.md). 
+Aby dodać swój projekt w środowisku Github Destkop, zobacz [**Dodaj projekt z Github Destkop**](dodaj-dokument-z-github-destkop.md). 
 
 :::
 
