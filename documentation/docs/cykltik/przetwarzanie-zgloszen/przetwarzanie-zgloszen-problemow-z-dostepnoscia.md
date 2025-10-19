@@ -31,9 +31,9 @@ opracowanie: Cezary Tomczyk
 status: projekt
 ---
 
-# Przetwarzanie zgłoszeń problemów z&nbsp;dostępnością
+## Przetwarzanie zgłoszeń problemów z dostępnością
 
-## Zalecenie
+### Zalecenie
 
 1. **Szybka korekta**  
    Jeżeli zgłoszenie dotyczy niedostępnej strony lub jej elementu, a poprawka jest możliwa do wdrożenia samemu (np. brak atrybutu `alt`, pusty link, błędna struktura nagłówków), należy ją wprowadzić niezwłocznie, najpóźniej w ciągu 2 dni roboczych.
@@ -53,15 +53,15 @@ status: projekt
    - Raz na kwartał sporządzaj raport zbiorczy: liczba zgłoszeń, najczęstsze bariery, status działań naprawczych.  
    - Wyniki wpływają do deklaracji dostępności i planu działań naprawczych.
 
-## Rekomendacje
+### Rekomendacje
 
-### Szkolenia
+#### Szkolenia
 
 - Cykliczne szkolenia z WCAG 2.1, EN 301 549 i ustawy o dostępności cyfrowej dla indywidualnych osób odpowiedzialnych za cyfrową dostępność lub zespołów redakcyjnych, developerskich i wsparcia.  
 - Ćwiczenia praktyczne: symulacje zgłoszeń, pisanie odpowiedzi prostym językiem, obsługa rejestru zdarzeń.  
 - Warsztaty z koordynacji zgłoszeń, aktualizacja deklaracji, komunikacji z użytkownikiem.
 
-### Tworzenie dokumentu
+#### Tworzenie dokumentu
 
 - Wewnętrzna procedura przetwarzania zgłoszeń zawierająca:  
   - kanały przyjmowania (formularz, e-mail, telefon),
@@ -72,7 +72,7 @@ status: projekt
   `data | ID | opis bariery | źródło | status | osoba odpowiedzialna | planowany termin | uwagi`.
 - Wyznaczenie koordynatora dostępności cyfrowej – osoba koordynuje proces przetwarzania zgłoszeń, prowadzi inwentaryzację barier i aktualizuje deklarację dostępności.
 
-### Wskaźniki efektywności (monitorowane co miesiąc / kwartał)
+#### Wskaźniki efektywności (monitorowane co miesiąc / kwartał)
 
 | Wskaźnik | Cel | Częstotliwość |
 |---|---|---|
@@ -81,7 +81,7 @@ status: projekt
 | Zgłoszenia uwzględnione w inwentaryzacji | 100% | kwartalnie |
 | Powtarzające się zgłoszenia | &lt; 10% rocznie | rocznie |
 
-## Uzasadnienie
+### Uzasadnienie
 
 - Przetwarzanie zgłoszeń jest obowiązkiem wynikającym z art. 8 ustawy o dostępności cyfrowej.
 - Szybka i przejrzysta reakcja buduje zaufanie obywateli oraz zmniejsza ryzyko skarg i postępowań administracyjnych.
@@ -90,7 +90,7 @@ status: projekt
 
 ---
 
-## Załącznik A – Skrócone szablony odpowiedzi
+### Załącznik A – Skrócone szablony odpowiedzi
 
 | Sytuacja | Treść (uproszczona) |
 |---|---|
