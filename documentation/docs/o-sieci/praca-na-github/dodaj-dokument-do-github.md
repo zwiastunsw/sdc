@@ -1,15 +1,22 @@
 ---
-id: dodaj-dokument
-title: Dodaj dokument
+id: dodaj-dokument-do-github
+title: Dodaj dokument do Github
 description: Poradnik objaśnia krok po kroku, jak uczestnik/-czka Sieci może dodać nowy dokument. 
-sidebar_position: 5
-sidebar_label: Dodaj dokument
+sidebar_position: 6
+sidebar_label: Dodaj dokument do Github
 opracowanie: Stefan Wajda
 data_zgloszenia: 15 października 2025 r.
 data_aktualizacji: 15 października 2025 r.
 ---
 
 # Dodaj dokument
+
+:::info Wskazówka
+Ten poradnik objaśnia jak dodać swój projekt zalecenia, rozwiązania lub opis praktyki **bezpośrednio w repozytorium Sieci na Github**.
+
+Aby dodać swój projekt w środowisku Github Destkop, zobacz [**Dodaj projekt z Github Destkop**](dodaj-projekt-z-github-destkop.md). 
+
+:::
 
 Dodanie nowej propozycji zalecenia, rozwiązania lub opisu praktyki polega na zgłoszeniu <q>żądania scalenia</q> (po angielsku: *<span lang="en">pull request</span>*. Dla osób obytych z Github to proste działanie.
 
@@ -61,7 +68,7 @@ Aby rozpocząć, możesz po prostu skorzystać z odpowiedniego łącza spośród
    
    Treść dokumentu możesz wspiać bezpośrednio w edytorze lub wkleić do edytora.
    
-   Treść dokumentu zapisujemy za pomocą bardzo prostego [formatu Markdown](poradnik-do-markdown.mdx). Na ilustracji widać kilka przykładowych typowych elementów:
+   Treść dokumentu zapisujemy za pomocą bardzo prostego [formatu Markdown](../poradniki/poradnik-do-markdown.mdx). Na ilustracji widać kilka przykładowych typowych elementów:
    
    Dokument rozpoczyna się od sekcji metadanych, zwanej **<span lang="en">FrontMater</span>**. Rozpoczyna ją i kończy wiersz z trzema myślnikami.
    Między myślnikami umieszczamy dane o dokumencie, zachowując format: **nazwa_danej: treść danej**. Po nazwie danej stawiamy dwukropek i pozostawiamy jedną spację. Następnie zapisujemy treść danej. Jeśli chcemy użyć w treści dwukropka albo znaków cala, to całą treść musimy objąć znakami cala, a znaki cala wewnątrz treści musimy poprzedzić znakiem ucieczki, czyli ukośnikiem skierowanym w lewo, np.
