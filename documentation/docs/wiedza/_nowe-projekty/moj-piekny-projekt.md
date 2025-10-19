@@ -12,7 +12,7 @@ Nagłówek 2 stopnia rozpoczynamy od dwóch znaków ##, itd.
 
 Akapit poprzedzamy pustym wierszem.
 
-Punkty listy zaczynamy od znaku łącznika: "-" lub gwiazdki "\*", np.
+Punkty listy zaczynamy od znaku łącznika: "-" lub gwiazdki "\*", na przykład:
 - pierwszy punkt
 - drugi punkt
 
