@@ -115,15 +115,18 @@ Gotowy dokument musimy wysłać do repozytorium. Informatycy mówią: _skomitowa
 3. Program przeniesie Cię na stronę **<em lang="en">Open a pull request</em>** w repozytorium Sieci. Możesz tu jeszcze poprawić tytuł i opis. Zwykle wystarczy po prostu wybrać przycisk *<em lang="en">Create pull request</em>* (Utwórz żądanie scalenia)<br/><br/>
    ![Widok Otwórz pull request w repozytorium Sieci](./img/github-destkop-006.png)
 
-1. Sprawdzanie poprawności. GitHub sprawdzi, czy przesłany dokument jest poprawny
+## Sprawdź poprawność
+Po otwarciu żądania scalenia (*<em lang="en">pull requesta</em>*) Github uruchomi automatyczne testy poprawności. 
 
-![Sprawdzanie poprawności kodu w repozytorium Sieci](./img/github-destkop-005.png)
+1. Zobacz przebieg testów automatycznych. Przebieg testów jest widoczny na stronie z  *<em lang="en">pull requestem</em>*, poniżej opisu:<br/><br/>
+   ![Sprawdzanie poprawności kodu w repozytorium Sieci](./img/github-destkop-005.png)
+2. Zobacz wynik. O poprawnym wyniku testów informują dwa komunikaty: **<em lang="en">All checks have passed</em>** (Wszystkie testy zakończyły się pomyślnie) oraz **<em lang="en">No conflicts with the base branch</em>** (Brak konfliktów z gałęzią bazową). Dodatkowo poprawny wynik sygnalizują ikony z białą fiszką na zielonym tle. <br/><br/>
+   ![Poprawny wynik testów](./img/github-destkop-004.png)
+3. Popraw błędy. Jeśli wynik testów nie będzie poprawny, spróbuj znaleźć błędy w dokumencie, np. czy linki są poprawne. Jeśli nie wiesz, co sprawdzać, **nie przejmuj się**! Przejrzymy Twój dokument i poprawimy ewentualne błędy.
 
-![Poprawny wynik testów](./img/github-destkop-004.png)
+## Gotowe!
 
-Nawet jeśli wynik testów nie będzie poprawny, nie przejmuj się. Przejrzymy Twój dokument i poprawimy ewentualne błędy.
-
-1. Gotowe. Możesz sprawdzić na karcie Pull request, że Twoja propozycja została dodana. Administrator przejrzy Twój dokument. Jeśli będą w nim błędy, poprawi je lub zamieści komentarz z informacją, co należy poprawić. Jeśli dokument będzie poprawny, opatrzy go etykietanu oraz przypisze Ci odpowiedzialnosć za dokument. Może także zlecić konkretnym współpracownikom dokonanie przeglądu.
+Możesz sprawdzić na karcie Pull request, że Twoja propozycja została dodana. Administrator przejrzy Twój dokument, poprawi go w razie potrzeby lub zamieści komentarz z informacją, co należy poprawić. Jeśli dokument będzie poprawny, opatrzy go etykietami oraz przypisze Ci odpowiedzialnosć za dokument. Może także zlecić konkretnym współpracownikom dokonanie przeglądu.
 
 ![Na karcie Pull requesty zaznaczone nowe żądanie scalenia.](./img/github-destkop-003.png)
 
