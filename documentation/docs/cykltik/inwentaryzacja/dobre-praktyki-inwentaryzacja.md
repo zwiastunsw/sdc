@@ -77,25 +77,33 @@ Inwentaryzacja jest warunkiem wstępnym dla spełnienia wymogów EAA, ustawy o d
 
 Zgodnie z art. 2 ust. 1 Dyrektywy (UE) 2019/882 (EAA) oraz art. 3 ustawy z dnia 26 kwietnia 2024 r. o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług przez podmioty gospodarcze, obowiązek dostępności dotyczy m.in.. stron internetowych, aplikacji mobilnych, dokumentów cyfrowych i usług elektronicznych.
 
-> **Bez inwentaryzacji nie da się ustalić, które zasoby podlegają regulacjom.**
+:::note Ważne
+**Bez inwentaryzacji nie da się ustalić, które zasoby podlegają regulacjom.**
+:::
 
 ##### Ocena zgodności z normą EN 301 549 oraz WCAG 2.1
 
 Norma EN 301 549 (v3.2.1) jest wskazana jako techniczna podstawa oceny zgodności w EAA i w polskiej ustawie (art. 4 ust. 2).
 
-> **Tylko zinwentaryzowane zasoby mogą być poddane audytowi zgodności z wymaganiami technicznymi.**
+:::note Ważne
+**Tylko zinwentaryzowane zasoby mogą być poddane audytowi zgodności z wymaganiami technicznymi.**
+:::
 
 ##### Zarządzanie wyjątkami i zasadą nieproporcjonalnego obciążenia
 
 Art. 5 Dyrektywy EAA oraz art. 6 ustawy krajowej przewidują możliwość zastosowania wyjątku w przypadku nieproporcjonalnego obciążenia.
 
-> **Wyjątki można zastosować wyłącznie wobec konkretnych, zidentyfikowanych zasobów – rejestr jest niezbędny.**
+:::note Ważne
+**Wyjątki można zastosować wyłącznie wobec konkretnych, zidentyfikowanych zasobów – rejestr jest niezbędny.**
+:::
 
 ##### Raportowanie i deklaracje dostępności
 
 Zgodnie z art. 7 ustawy krajowej, podmioty zobowiązane muszą publikować deklaracje dostępności i udostępniać informacje o stanie wdrożenia.
 
-> **Rejestr zasobów stanowi podstawę do rzetelnego raportowania i aktualizacji deklaracji.**
+:::note Ważne
+**Rejestr zasobów stanowi podstawę do rzetelnego raportowania i aktualizacji deklaracji.**
+:::
 
 ##### Wdrożenie automatycznego monitoringu dostępności
 
@@ -105,7 +113,9 @@ Systematyczne, zautomatyzowane monitorowanie dostępności zasobów cyfrowych je
 
 Brak wiedzy o zasobach cyfrowych może prowadzić do nieświadomego naruszenia przepisów, skarg obywateli, a nawet sankcji administracyjnych (art. 10 ustawy).
 
-> **Rejestr zasobów pozwala na proaktywne zarządzanie ryzykiem i planowanie działań naprawczych.**
+:::note Ważne
+**Rejestr zasobów pozwala na proaktywne zarządzanie ryzykiem i planowanie działań naprawczych.**
+:::
 
 #### Zarządzanie ryzykiem
 
