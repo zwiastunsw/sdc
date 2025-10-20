@@ -13,9 +13,9 @@ opracowanie: Stefan Wajda
 # Dodaj dokument z Github Destkop
 
 :::info Wskazówka
-Ten poradnik objaśnia jak dodać swój projekt zalecenia, rozwiązania lub opis praktyki w środowisku **Github Destkop**.
+Ten poradnik objaśnia, jak dodać swój projekt zalecenia, rozwiązania lub opis praktyki w środowisku **Github Destkop**.
 
-Aby dodać swój projekt **bezpośrednio w repozytorium Sieci**, zobacz [**Dodaj dokument na Github**](./dodaj-dokument-do-github.md). 
+Aby dodać swój projekt **bezpośrednio w repozytorium Sieci**, zobacz [**Dodaj dokument na Github**](./dodaj-dokument-z-kopii-repo). 
 
 :::
 
