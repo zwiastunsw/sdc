@@ -46,7 +46,7 @@ Aby rozpocząć, możesz po prostu skorzystać z odpowiedniego łącza spośród
    - katalog wymiaru, np. ***komunikacja***
    - i katalog ***_nowy-projekt***.
 
-   Znajdziesz się w miejscu, w którym możesz dodać dokumenty sojego projektu:
+   Znajdziesz się w miejscu, w którym możesz dodać dokumenty swojego projektu:
 
    ![Okno katalogu nowy projekt. Strzałki wskazuje dwie lokalizacje łącza Dodaj plik](./img/dodaj-plik-okno-katalogu-nowy-projekt.png)
 2. Przejdź do obszaru treści głównej. 
@@ -82,7 +82,7 @@ about: "Rozwiązuje \"wszystkie problemy\" dostępności cyfrowej w organizacji"
   
   Aby utworzyć nagłówek 1 stopnia, rozpoczynamy wiersz od znaku **<q>#</q>**, drugiego stopnia - od dwóch znaków **<q>##</q>**. Aby utwoorzyć **nowy akapit**, rozpocznamy tekst od nowej linii poprzedzonej pustym wierszem. Aby utwórzyć **punkt listy z punktorem**, rozpoczynamy wiersz od  myślnika albo gwiazdki. Na dobry początek niech wystarczy tych kilka przykładów.
 
-6. Prześlij zmiany
+6. Wykonaj <span lang="en">commit</span>
 
    Gdy mamy gotowy dokument, musimy go wysłać. Angielskie **<span lang="en">commit</span>** już nawet spolonizowaliśmy i mówimy <q>skomitować</q>.
    
@@ -90,7 +90,7 @@ about: "Rozwiązuje \"wszystkie problemy\" dostępności cyfrowej w organizacji"
    2. W oknie modalnym możesz (2) zmienić tytuł i (3) dodać opis albo zrobić to później.
    3. Koniecznie (4) zaznacz opcję **<span lang="en">Create na new branch for this commit...</span>**.
    4. Możesz (5) zmienić nazwę gałęzi, np. zamiast członu *path1* dodaj nazwę twojego dokumentu.
-   5. Wybierz przycisk **<span lang="en">Propose chanes</span>**.
+   5. Wybierz przycisk **<span lang="en">Propose changes</span>**.
 
    ![Położenie przycisku Prześlij zmiany](./img/dodaj-plik-commit-changes.png)  
 
