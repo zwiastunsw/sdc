@@ -2,7 +2,6 @@
   "name": "siec-dostepnosci-cyfrowej",
   "version": "1.0.0",
   "private": true,
-  "type": "commonjs",
   "scripts": {
     "build": "docusaurus build",
     "clear": "docusaurus clear",
@@ -19,8 +18,8 @@
     "write-translations": "docusaurus write-translations"
   },
   "dependencies": {
-    "@docusaurus/core": "3.9.1",
-    "@docusaurus/preset-classic": "3.9.1",
+    "@docusaurus/core": "3.9.2",
+    "@docusaurus/preset-classic": "3.9.2",
     "@grnet/docusaurus-glossary-view": "2.0.0-rc.2",
     "@grnet/docusaurus-term-preview": "2.0.0-rc.2",
     "@grnet/docusaurus-terminology": "2.0.0-rc.2",
@@ -31,9 +30,9 @@
     "react-dom": "19.2.0"
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "3.9.1",
-    "@docusaurus/tsconfig": "3.9.1",
-    "@docusaurus/types": "3.9.1",
+    "@docusaurus/module-type-aliases": "3.9.2",
+    "@docusaurus/tsconfig": "3.9.2",
+    "@docusaurus/types": "3.9.2",
     "@types/imagemin": "9.0.1",
     "@types/imagemin-mozjpeg": "8.0.4",
     "imagemin": "9.0.1",
