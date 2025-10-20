@@ -12,7 +12,8 @@ ostatnia_aktualizacja: 24 września 2025 r.
 
 ---
 
-# Cykl życia TIK - ocena dojrzałości
+## Cykl życia TIK - ocena dojrzałości
+
 **Podsumowanie**: Opisuje, jak ocenić dojrzałość organizacji do zapewniania dostępności cyfrowej w caym cyklu życia technologii informacyjno-komunikacyjnych (na podstawie [Accessibility Maturity Model](https://www.w3.org/TR/maturity-model/)).
 
 :::warning Uwaga
@@ -72,6 +73,7 @@ Opis wymiaru Cykl życia TIK w Modelu dojrzałości dostępności odnosi się g�
 - Wymagania dotyczące dostępności są uwzględniane w kryteriach akceptacji w całym cyklu życia produktu
 
 ### Doświadczenie użytkownika
+
 - Badania użytkowników obejmują niepełnosprawności.
 - Formularze, komunikaty, instrukcje lub inne materiały dotyczące osób badanych są dostępne.
 
