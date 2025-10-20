@@ -8,7 +8,7 @@
     "deploy": "docusaurus deploy",
     "docusaurus": "docusaurus",
     "lint:md": "markdownlint docs/**/*.md --config .markdownlint.json",
-    "optimize-images": "svgo --config=svgo.config.js \"static/img/\" --output \"static/img/\"",
+    "optimize-images": "svgo --recursive --config=svgo.config.mjs \"static/img/\" --output \"static/img/\" && node scripts/optimize-images.js",
     "postinstall": "node fixes/package-fixes.js",
     "serve": "docusaurus serve",
     "start": "docusaurus start",
@@ -18,8 +18,8 @@
     "write-translations": "docusaurus write-translations"
   },
   "dependencies": {
-    "@docusaurus/core": "3.9.1",
-    "@docusaurus/preset-classic": "3.9.1",
+    "@docusaurus/core": "3.9.2",
+    "@docusaurus/preset-classic": "3.9.2",
     "@grnet/docusaurus-glossary-view": "2.0.0-rc.2",
     "@grnet/docusaurus-term-preview": "2.0.0-rc.2",
     "@grnet/docusaurus-terminology": "2.0.0-rc.2",
@@ -30,9 +30,15 @@
     "react-dom": "19.2.0"
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "3.9.1",
-    "@docusaurus/tsconfig": "3.9.1",
-    "@docusaurus/types": "3.9.1",
+    "@docusaurus/module-type-aliases": "3.9.2",
+    "@docusaurus/tsconfig": "3.9.2",
+    "@docusaurus/types": "3.9.2",
+    "@types/imagemin": "9.0.1",
+    "@types/imagemin-mozjpeg": "8.0.4",
+    "imagemin": "9.0.1",
+    "imagemin-cli": "8.0.0",
+    "imagemin-mozjpeg": "10.0.0",
+    "imagemin-pngquant": "10.0.0",
     "markdownlint": "0.39.0",
     "markdownlint-cli": "0.45.0",
     "svgo": "4.0.0",
