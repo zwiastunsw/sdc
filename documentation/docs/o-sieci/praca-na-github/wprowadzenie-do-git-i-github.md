@@ -23,15 +23,15 @@ Dzieki temu można łatwo zarządzać wieloma różnymi wersjami plików. Ułatw
 Najgtrudniejsze dla nowicjuszy są pierwsze kroki. Aby było łatwiej, poznaj na początek kilka podstawowych pojęć.
 
 - **Repozytorium** – miejsce przechowywania projektu. Może być lokalne lub zdalne (na GitHubie).
-- **Commit** – zapisanie zmian w repozytorium. Każdy **<em lang="en">commit</em>** powinien mieć zwięzły opis, co ułatwia śledzenie zmian.
-- **Branch** – gałąź, która pozwala na równoległe rozwijanie projektu, co programistom pomaga dodawać i testować nowe funkcje bez wpływu na główną wersję kodu, a nam pomoże inicjować dodanie nowych dokumentów, a następnie dyskutować nad nimi i korygować jeszcze przed publikacją na stronie i później po opublikowaniu.  
-- **Merge** – łączenie zmian z różnych gałęzi, co pozwala na integrację nowego kodu z istniejącym projektem lub poprawek i modyfikacji w finalnych dokumentach.
 - **Fork** - rozgałęzienie, utworzenie kopii projektu, które może posłużyć do pracy nad macierzystym projektem albo do rozwijania włąsnej, niezaeżnej wersji, wykorzystującej kod projektu. 
 - **Clone** - klonowanie, czyli tworzenie kopii repozytorium na lokalnym komputerze
+- **Branch** – gałąź, która pozwala na równoległe rozwijanie projektu, co programistom pomaga dodawać i testować nowe funkcje bez wpływu na główną wersję kodu, a nam pomoże inicjować dodanie nowych dokumentów, a następnie dyskutować nad nimi i korygować jeszcze przed publikacją na stronie i później po opublikowaniu.  
+- **Commit** – zapisanie zmian w repozytorium. Każdy **<em lang="en">commit</em>** powinien mieć zwięzły opis, co ułatwia śledzenie zmian.
+- **Merge** – łączenie zmian z różnych gałęzi, co pozwala na integrację nowego kodu z istniejącym projektem lub poprawek i modyfikacji w finalnych dokumentach.
 - **Push** - wysyłanie (wypychanie) lokalnych zmian do zdalnego repozytorium
 - **Pull** - pobranie najnowszych zmian ze zdalnego repozytorium
 - **Issues** - funkcja wspomagająca organizację i zarządzanie zadaniami w projekcie, która umożliwia zgłaszanie problemów, przypisywanie zadań, śledzenie postępów prac, tagowanie zgłoszeń, komentarze i dyskusje, integrację z **pull requestami**.
-- **Pull requesty** - sposób na wprowadzanie zmian, dzięki któremu można proponować, a następnie analizować, testować, rozwijać, korygować, przeglądać, komentować i zatwierdzać zmiany w kodzie, a w naszym przypadku w dokumenatach.   
+- **Pull requesty** - żądania scalenia; sposób na wprowadzanie zmian, dzięki któremu można proponować, a następnie analizować, testować, rozwijać, korygować, przeglądać, komentować i zatwierdzać zmiany w kodzie, a w naszym przypadku w dokumenatach.   
 
 ## Krótko o pull requestach
 
@@ -52,6 +52,6 @@ Gdy zostaną rozpatrzone wszystkie komentarze i zgłoszone sugestie oraz projekt
 
 Szczegółowe informacje znajdziesz w poradnikach:
 
-- [Dodaj dokument bezpośrednio do Github](./dodaj-dokument-do-github.md) 
-- [Dodaj projekt z Github Destkop](./dodaj-dokument-z-github-destkop.md)
-- [Komentuj i sugeruj poprawki](./komentuj-i-sugeruj-poprawki.md)
+- [Dodaj dokument bezpośrednio do Github](./dodaj-dokument-z-kopii-repo) 
+- [Dodaj projekt z Github Destkop](./dodaj-dokument-z-github-destkop)
+- [Komentuj i sugeruj poprawki](./komentuj-i-sugeruj-poprawki)

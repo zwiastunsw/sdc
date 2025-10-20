@@ -2,7 +2,7 @@
 id: skonfiguruj-edytor-kodu
 title: Skonfiguruj edytor kodu
 sidebar_label: Skonfiguruj edytor kodu
-sidebar_position: 5 
+sidebar_position: 4 
 data_zgloszenia: 18 października 2025 r.
 ostatnia_aktualizacja: 18 października 2025 r.
 opracowanie: Stefan Wajda

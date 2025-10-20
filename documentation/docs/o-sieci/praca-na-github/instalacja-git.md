@@ -2,7 +2,7 @@
 id: instalacja-git
 title: Zainstaluj Git
 sidebar_label: Zainstaluj Git
-sidebar_position: 4 
+sidebar_position: 5 
 data_zgloszenia: 18 października 2025 r.
 ostatnia_aktualizacja: 18 października 2025 r.
 opracowanie: Stefan Wajda
@@ -10,7 +10,13 @@ opracowanie: Stefan Wajda
 
 # Zainstaluj i skonfiguruj Git
 
-Aby korzystać z Githuba na swoim komputerze, potrzebujewsz programu **Git**. Git to system kontroli wersji - oprogramowanie, które pozwala programistom śledzić zmiany w kodzie źródłowym, zachowawać wcześniejsze wersje, a w razie potrzeby przywracać je.  
+Aby korzystać z Githuba na swoim komputerze, potrzebujewsz programu **Git**. Git to system kontroli wersji - oprogramowanie, które pozwala programistom śledzić zmiany w kodzie źródłowym, zachowawać wcześniejsze wersje, a w razie potrzeby przywracać je. 
+
+:::warning Uwaga 
+
+**Git** zostanie zapewne zainstalowany na Twoim komputerze podczas instalacji Github Destkop. 
+Jeśli nie otrzymasz powiadomienia, że trzeba zainstalować **Git**, a Github Destkop będzie działał, możesz śmiało pominąć ten krok.
+:::
 
 Instalacja Gita różni się nieco zależnie od systemu operacyjnego, którego używasz.
 

@@ -2,8 +2,8 @@
 id: dodaj-dokument-z-kopii-repo
 title: Dodaj dokument bezpośrednio na Github
 description: Poradnik objaśnia krok po kroku, jak uczestnik/-czka Sieci może dodać nowy dokument. 
-sidebar_position: 9
-sidebar_label: Dodaj dokument bezpośrenino na Github
+sidebar_position: 6
+sidebar_label: Dodaj dokument bezpośrednio na Github
 opracowanie: Stefan Wajda
 data_zgloszenia: 19 października 2025 r.
 data_aktualizacji: 19 października 2025 r.
