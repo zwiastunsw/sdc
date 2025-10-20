@@ -31,5 +31,23 @@ Proces uzyskiwania akceptacji złożony jest z kilku etapów:
 ## Jak dodawać swoje komentarze i propozycje poprawek do zgłoszonych propozycji
 
 ### Sposób 1. Użyj funkcji <span lang="en">Issues</span>
+
 To bardzo prosty sposób. Zgłoś swój komentarz lub propozycje poprawek jako problem, używając funkcji <span lang="en">Issues</span>. 
-1. Przejdź do repozytorium projektu Sieci i wybierz kartę <span lang="en">Issues</span> (Problemy)
+
+#### Zgłoszenie nowego problemu
+1. Przejdź do repozytorium projektu Sieci i wybierz kartę **<span lang="en">Issues</span>** (Problemy).
+2. Wybierz przycisk **<span lang="en">New Issue</span>** (Nowy problem)
+3. Wybierz szablon zgłoszenia
+4. Wpisz w formularzu tytuł zgłoszenia. 
+5. Wpisz treść zgłoszenia. 
+6. Wybierz przycisk **<span lang="en">Create</span>** (Problemy).
+
+#### Komentarz do zgłoszonego problemu
+1. Przejdź do repozytorium projektu Sieci i wybierz kartę **<span lang="en">Issues</span>** (Problemy).
+2. Wybierz z listy problem, do którego chcesz zgłosić komentarz.
+3. W formularzu **<span lang="en">Add a Comment</span>** (Dodaj komentarz) umieść swój komentarz. Możesz:
+   - posłużyć się znacznikami [Markdown](../poradniki/poradnik-do-markdown)
+   - odnieść się do wypowiedzi dowolnego przedmówcy lub przedmówców: wpisz nazwę użytkownika poprzedzając ją znakiem; @
+   - zacytować fragment wypowiedzi poprzednika albo fragment dokumentu, do którego chcesz się odnieść: skopiuj fragment, który chcesz zacytować, umieść na początku wiersza znak &gt; i spację, po czym wklej fragment, który chcesz oznaczyć jako cytat
+   - zilustrować swój komentarz grafiką,  np. zrzutem ekranu: 
+
