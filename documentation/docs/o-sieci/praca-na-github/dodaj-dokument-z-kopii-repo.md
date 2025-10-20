@@ -1,6 +1,6 @@
 ---
 id: dodaj-dokument-z-kopii-repo
-title: Dodaj dokument bezpośrenino na Github
+title: Dodaj dokument bezpośrednio na Github
 description: Poradnik objaśnia krok po kroku, jak uczestnik/-czka Sieci może dodać nowy dokument. 
 sidebar_position: 9
 sidebar_label: Dodaj dokument bezpośrenino na Github
@@ -9,7 +9,7 @@ data_zgloszenia: 19 października 2025 r.
 data_aktualizacji: 19 października 2025 r.
 ---
 
-# Dodaj dokument bezpośrenino na Github
+# Dodaj dokument bezpośrednio na Github
 
 :::info Wskazówka
 Ten poradnik objaśnia jak dodać swój projekt zalecenia, rozwiązania lub opis praktyki w środowisku **Github Destkop**.
