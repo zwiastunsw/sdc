@@ -30,22 +30,22 @@ Proces uzyskiwania akceptacji złożony jest z kilku etapów:
 
 ## Jak dodawać swoje komentarze i propozycje poprawek do zgłoszonych propozycji
 
-### Sposób 1. Użyj funkcji <span lang="en">Issues</span>
+### Sposób 1. Użyj funkcji *<em lang="en">Issues</em>* (Problemy)
 
-To bardzo prosty sposób. Zgłoś swój komentarz lub propozycje poprawek jako problem, używając funkcji <span lang="en">Issues</span>.  
+To bardzo prosty sposób. Zgłoś swój komentarz lub propozycje poprawek jako problem, używając funkcji **<em lang="en">Issues</em>**.  
 
 #### Zgłoszenie nowego problemu
-1. Przejdź do repozytorium projektu Sieci i wybierz kartę **<span lang="en">Issues</span>** (Problemy).
-2. Wybierz przycisk **<span lang="en">New Issue</span>** (Nowy problem)
+1. Przejdź do repozytorium projektu Sieci i wybierz kartę **<em lang="en">Issues</em>** (Problemy).
+2. Wybierz przycisk **<em lang="en">New Issue</em>** (Nowy problem)
 3. Wybierz szablon zgłoszenia
 4. Wpisz w formularzu tytuł zgłoszenia. 
 5. Wpisz treść zgłoszenia. 
-6. Wybierz przycisk **<span lang="en">Create</span>** (Problemy).
+6. Wybierz przycisk **<em lang="en">Create</em>** (Problemy).
 
 #### Komentarz do zgłoszonego problemu
-1. Przejdź do repozytorium projektu Sieci i wybierz kartę **<span lang="en">Issues</span>** (Problemy).
+1. Przejdź do repozytorium projektu Sieci i wybierz kartę **<em lang="en">Issues</em>** (Problemy).
 2. Wybierz z listy problem, do którego chcesz zgłosić komentarz.
-3. W formularzu **<span lang="en">Add a Comment</span>** (Dodaj komentarz) umieść swój komentarz. Możesz:
+3. W formularzu **<em lang="en">Add a Comment</em>** (Dodaj komentarz) umieść swój komentarz. Możesz:
    - posłużyć się znacznikami [Markdown](../poradniki/poradnik-do-markdown)
    - odnieść się do wypowiedzi dowolnego przedmówcy lub przedmówców: wpisz nazwę użytkownika poprzedzając ją znakiem; @
    - zacytować fragment wypowiedzi poprzednika albo fragment dokumentu, do którego chcesz się odnieść: skopiuj fragment, który chcesz zacytować, umieść na początku wiersza znak &gt; i spację, po czym wklej fragment, który chcesz oznaczyć jako cytat
@@ -58,28 +58,41 @@ W efekcie autorom również trudniej jest korzystać z uwag i sugestii komentuj�
 Dlatego zalecamy i zachęcamy **sposób 2**.
 
 ### Sposób 2. Edytuj dokument
-To nieco trudniejsza, ale o wiele bardziej efektywna metoda. Umożliwia komentowanie i zgłaszanie poprawek bezpośrednio w projekcie dokumentu, a cała dyskusja jest widoczna i zapamiętywana w historii **<span lang="en">pull requesta</span>**.
+To nieco trudniejsza, ale o wiele bardziej efektywna metoda. Umożliwia komentowanie i zgłaszanie poprawek bezpośrednio w projekcie dokumentu, a cała dyskusja jest widoczna i zapamiętywana w historii **<em lang="en">pull requesta</em>**.
 
-1. Przejdź do repozytorium Sieci i wybierz kartę **<span lang="en">Pull requests</span>** (Żądania scalenia).
+1. Przejdź do repozytorium Sieci i wybierz kartę **<em lang="en">Pull requests</em>** (Żądania scalenia).
 2. Wybierz z listy projekt, do którego chcesz się odnieść. <br /><br />
    ![Lista żądań scalenia](./img/komentuj-lista-projektow.png)
-3. Na stronie projektu wybierz łącze **<span lang="en">Files changed</span>** (Zmienione pliki)<br /><br />
+3. Na stronie projektu wybierz łącze **<em lang="en">Files changed</em>** (Zmienione pliki)<br /><br />
    ![Lista żądań scalenia](./img/komentuj-wybierz-lacze-zmienione-pliki.png)
-4. Wybierz w obszarze edytora fragment dokumentu, do którego chcesz się odnieść:
-   - **użytkownik myszy**: 
-     - zaznacz numer wiersza, w którym zaczyna się zaczyna się fragment, do którego chcesz się odnieść, 
-     - naciśnij Shift, 
-     - przesuń wskaźnik myszy do miejsca, które chcesz wybrać, 
-     - naciśnij przycisk **plus**, aby wywołać interfejs komentarza, <br /><br />
+4. Wybierz w obszarze treści dokumentu fragment, do którego chcesz się odnieść:
+   - **użytkownicy myszy**: 
+     - zaznacz numer wiersza z fragmentem, którego chcesz zrecenzować (1), 
+     - naciśnij <kbd>Shift</kbd> (2), 
+     - przesuń wskaźnik myszy do miejsca, które chcesz wybrać (3), 
+     - naciśnij przycisk **plus**, aby wywołać edytor (4), <br /><br />
    ![Lista żądań scalenia](./img/komentuj-wybierz-fragment-mysza.png)
-   - **użytkownik klawiatury**: 
-     - przejdź do numeru wiersza, od którego zaczyna się fragment, do którego chcesz się odnieść,
-     - przenieś się strzałką na tekst wiersza, 
-     - naciśnij klawisz Shift i strzałką w dół wybierz wiersze, które chcesz skomentować, 
-     - naciśnij Enter, aby wywołać interfejs komentarza: <br /><br />
+   - **użytkownicy klawiatury**: 
+     - przejdź do numeru wierszaz fragmentem, którego chcesz zrecenzować (1),
+     - przenieś się <kbd>strzałką w prawo</kbd> na tekst wiersza (2), 
+     - naciśnij klawisz <kbd>Shift</kbd>> i <kbd>strzałką w dół</kbd> wybierz wiersze, które chcesz skomentować (3), 
+     - naciśnij <kbd>Enter</kbd>, aby wywołać edytor (4): <br /><br />
    ![Lista żądań scalenia](./img/komentuj-wybierz-fragment-klawiatura.png)
-5. 
-
+5. Możesz **skomentować** wybrany fragment lub zgłosić sugestię modyfikacji:
+   - aby skomentować, wpisz treść komentarza w polu edytora: <br /><br />
+    ![Miejsce na komentarz w edytorze](./img/komentuj-dodaj-komentarz.png)
+   - aby zgłosić sugestię poprawki, wybierz przycisk **<em lang="en">Add a sugestion</em>** (Dodaj sugestie)<br /><br />
+    ![Przycisk Dodaj sugestię](./img/komentuj-dodaj-sugestie.png)<br /><br />
+    Do edytora zostanie skopiowany wybrany fragment: <br/><br />
+    ![Kopia wybranego fragmentu](./img/komentuj-dodaj-sugestie-cytat.png)<br /><br />
+    Popraw skopiowanny fragment<br /><br />
+    ![Sugestia zmienionego zapisu](./img/komentuj-dodaj-sugestie-sugestia.png)
+6. Wybierz przycisk **<em lang="en">Start a review</em>** (Rozpocznij recenzję)<br /><br />
+    ![Przycisk Rozpocznij recenzję](./img/komentuj-dodaj-sugestie-start-review.png)<br /><br />
+    Pojawi się podgląd wprowadzonych zmian i miejscem na komentarz kolejnego recenzenta<br /><br />
+    ![Podgląd różnic](./img/komentuj-dodaj-sugestie-roznice.png)<br /><br />
+7. Po wprowadzeniu wszytskich komentarzy i propozycji poprawek wybierz z paska narzędzi polecenie **<em lang="en">Submit review</em>** (Wyślij recenzję).<br /><br />
+    ![Przycisk Wyślij recenzję](./img/komentuj-submit-review.png)
 
 
 
