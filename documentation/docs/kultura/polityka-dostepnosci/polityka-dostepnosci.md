@@ -20,7 +20,7 @@ opracowanie: Anna Czekalska, Stefan Wajda
 wspolpraca: Jadwiga Kost, Joanna Nietupska  
 data_zgloszenia: 14 lipca 2025 r.
 ostatnia_aktualizacja: 24 września 2025 r.
-status: projekt
+wersja_robocza: true
 
 ---
 

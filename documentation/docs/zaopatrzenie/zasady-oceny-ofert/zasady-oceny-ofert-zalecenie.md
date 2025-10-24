@@ -13,8 +13,8 @@ tags: [
 		zaopatrzenie,
 ]
 opracowanie: Stefan Wajda
-data_zgloszenia: 12 czerwca 2025
-data_aktualizacji:  20 września 2025
+data_zgloszenia: 12 czerwca 2025 r.
+data_aktualizacji:  20 września 2025 r.
 wersja_robocza: true
 ---
 
