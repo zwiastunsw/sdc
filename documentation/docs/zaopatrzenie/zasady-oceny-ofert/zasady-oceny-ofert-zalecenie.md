@@ -15,10 +15,8 @@ tags: [
 opracowanie: Stefan Wajda
 data_zgloszenia: 12 czerwca 2025
 data_aktualizacji:  20 września 2025
-status: projekt
+wersja_robocza: true
 ---
-
-# Ocena dostępności cyfrowej deklarowanej w ofertach
 
 :::warning Uwaga
 

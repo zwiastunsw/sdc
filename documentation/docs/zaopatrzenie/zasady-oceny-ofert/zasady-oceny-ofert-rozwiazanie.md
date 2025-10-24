@@ -13,10 +13,8 @@ opracowanie: Stefan Wajda
 autor: George Rhodes, Uniwersytet Westminsterski
 data-zgloszenia: 12 czerwca 2025
 data-aktualizacji:  20 września 2025
-
+wersja_robocza: true
 ---
-
-# Stosowanie szablonu wymagań dostępności cyfrowej
 
 :::warning Uwaga
 
