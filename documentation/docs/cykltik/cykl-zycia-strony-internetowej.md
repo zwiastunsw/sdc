@@ -1,6 +1,6 @@
 ---
 id: cykl-zycia-strony-internetowej
-title: Cykl życia strony internetowej (TIK)
+title: Cykl życia strony internetowej (TIK). Ramowe wytyczne
 sidebar_label: Cykl życia strony internetowej
 sidebar_position: 4 
 keywords: [
@@ -17,7 +17,7 @@ opracowanie: Dawid Górny
 wersja_robocza: true
 ---
 
-## Ramowe wytyczne — Cykl życia strony internetowej (TIK)
+
 
 ## 1. Cel dokumentu
 

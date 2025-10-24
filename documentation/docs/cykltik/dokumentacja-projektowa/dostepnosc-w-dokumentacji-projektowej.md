@@ -20,13 +20,8 @@ projektowanie
 data_zgloszenia: 15 września 2025 r.
 ostatnia_aktualizacja: 26 września 2025 r.
 opracowanie: Cezary Tomczyk
-status: projekt
-
+wersja_robocza: true
 ---
-
-
-
-# Uwzględnienie wymogów dostępności w dokumentacji projektowej
 
 ## 1. Specyfikacja projektu
 

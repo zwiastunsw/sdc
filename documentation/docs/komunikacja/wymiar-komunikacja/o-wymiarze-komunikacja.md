@@ -6,11 +6,11 @@ sidebar_position: 0
 opracowanie: Stefan Wajda
 data_zgloszenia: 16 czerwca 2025 r.
 ostatnia_aktualizacja: 24 września 2025 r.
-
+wersja_robocza: true
 ---
 
 
-# O wymiarze Komunikacja
+
 
 :::tip Dokument roboczy
 
