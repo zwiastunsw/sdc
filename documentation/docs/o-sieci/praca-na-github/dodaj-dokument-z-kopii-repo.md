@@ -9,8 +9,6 @@ data_zgloszenia: 19 października 2025 r.
 data_aktualizacji: 19 października 2025 r.
 ---
 
-# Dodaj dokument bezpośrednio na Github
-
 :::info Wskazówka
 
 Ten poradnik objaśnia, jak dodać swój projekt zalecenia, rozwiązania lub opis praktyki **z kopii repozytorium Sieci na swoim koncie Github**.

@@ -3,11 +3,12 @@ id: formowanie-zalecen
 title: Formowanie zaleceń
 sidebar_label: Wymiary dostępności i punkty dowodowe w MDD
 sidebar_position: 6
+
+opracowanie: Stefan Wajda
+data_zgloszenia: 28 lipca 2025 r.
+ostatnia_aktualizacja: 24 września 2025 r.
 ---
 
-
-
-# Czym jest zalecenie
 
 Aktualna propozycja definicji terminu „zalecenie” w projekcie Słownika brzmi:
 

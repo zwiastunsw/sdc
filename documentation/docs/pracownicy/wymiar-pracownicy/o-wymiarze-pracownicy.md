@@ -9,13 +9,6 @@ ostatnia_aktualizacja: 24 września 2025 r.
 wersja_robocza: true
 ---
 
-
-:::tip Dokument roboczy
-
-**Nie wahaj się proponować zmian**. Możesz komentować, uzupełniać, redagować każdy fragment dokumentu.
-
-:::
-
 ## Opis wymiaru
 
 :::info Definicja

@@ -9,8 +9,6 @@ ostatnia_aktualizacja: 24 września 2025 r.
 wersja_robocza: true
 ---
 
-
-
 ## Jak ocenić poziom dojrzałości organizacji w wymiarze _Zaopatrzenie_
 
 1. Określ [punkty dowodowe](../../terms/punkt-dowodowy), które zostaną wykorzystane do oceny dojrzałości dostępności. 

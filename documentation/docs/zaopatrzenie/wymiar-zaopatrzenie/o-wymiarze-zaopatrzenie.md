@@ -9,14 +9,6 @@ ostatnia_aktualizacja: 24 września 2025 r.
 wersja_robocza: true
 ---
 
-
-:::tip Dokument roboczy
-
-**Nie wahaj się proponować zmian**. Możesz komentować, uzupełniać, redagować każdy fragment dokumentu.
-
-:::
-
-
 ## Opis wymiaru
 
 [Wymiar](../../terms/wymiar-dostepnosci) **Zaopatrzenie** w [Modelu dojrzałości dostępności](../../o-sieci/projekt/mdd) obejmuje strategiczny proces skoncentrowany na znajdowaniu i&nbsp;nabywaniu przez organizację opłacalnych i&nbsp; potrzebnych organizacji produktów i&nbsp;usług z komponentem technologii i treści cyfrowych ([technologii informacyjno-komunikacyjnych](../../terms/technologia-informacyjno-komunikacyjna)). 

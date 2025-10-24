@@ -10,8 +10,6 @@ wersja_robocza: true
 ---
 
 
-# Komunikacja - ocena dojrzałości
-
 ## Jak ocenić poziom dojrzałości w wymiarze Komunikacja
 
 1. Określ dowody, które należy wykorzystać do oceny dojrzałości wymiaru Komunikacja w Twojej organizacji. 

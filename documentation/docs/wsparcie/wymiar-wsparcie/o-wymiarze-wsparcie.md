@@ -9,8 +9,6 @@ ostatnia_aktualizacja: 24 września 2025 r.
 wersja_robocza: true
 ---
 
-
-
 ## Opis wymiaru
 
 :::info Definicja

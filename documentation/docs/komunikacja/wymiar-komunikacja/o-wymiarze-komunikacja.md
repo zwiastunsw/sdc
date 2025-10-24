@@ -10,15 +10,6 @@ wersja_robocza: true
 ---
 
 
-
-
-:::tip Dokument roboczy
-
-**Nie wahaj się proponować zmian**. Możesz komentować, uzupełniać, redagować każdy fragment tego dokumentu.
-
-:::
-
-
 ## Opis wymiaru
 
 [Wymiar](../../terms/wymiar-dostepnosci) **Komunikacja** w [Modelu dojrzałości dostępności](../../o-sieci/projekt/mdd) obejmuje rozwiązania i praktyki zapewniające dostępność cyfrową treści wytwarzanych przez organizację i&nbsp;adresowanych do różnych odbiorców. Dotyczy komunikatów, które mogą być: 
