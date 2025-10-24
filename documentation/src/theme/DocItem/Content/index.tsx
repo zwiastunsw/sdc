@@ -52,7 +52,7 @@ export default function DocItemContent({children}: Props): ReactNode {
     <Admonition
       type="caution"
       title={<DraftBannerTitle />} >
-       Jest to dokument roboczy, który w dowolnym momencie może zostać zmieniony, zastąpiony lub usunięty. Nie należy korzystać z tego dokumentu jako czegoś innego niż **dokument w trakcie opracowywania**.\n **Nie wahaj się proponować zmian**. Możesz komentować, uzupełniać, redagować każdy fragment dokumentu.
+                  Jest to dokument roboczy, który w dowolnym momencie może zostać zmieniony, zastąpiony lub usunięty. Nie należy korzystać z tego dokumentu jako czegoś innego niż <strong>dokument w trakcie opracowywania</strong>.<br /><br /> <strong>Nie wahaj się proponować zmian</strong>. Możesz komentować, uzupełniać, redagować każdy fragment dokumentu.
     </Admonition>
 
 
