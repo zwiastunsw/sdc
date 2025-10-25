@@ -10,6 +10,7 @@ import {
     DraftBannerTitle,
 } from '@docusaurus/theme-common';
 import Admonition from '@theme/Admonition';
+import styles from './styles.module.css';
 /**
  Title can be declared inside md content or declared through
  front matter and added manually. To make both cases consistent,
@@ -64,7 +65,7 @@ export default function DocItemContent({children}: Props): ReactNode {
           )}
           {/* Show banner only if front-matter flag or text is present */}
           {(opracowanie || wspolpraca ) && (
-              <div>
+              <div className="danePublikacji">
                   {/* Show 'opracowanie' with comma if it exists */}
                   {opracowanie && <>Opracowanie: {opracowanie} </>}
                   {/* Show 'wspolpraca' with comma if it exists */}
@@ -72,7 +73,7 @@ export default function DocItemContent({children}: Props): ReactNode {
                   </div>
           )}        
            {(data_zgloszenia || ostatnia_aktualizacja) && (                 
-                  <div>
+              <div className="danePublikacji">
                   {/* Always show 'data_zgloszenia' if it exists */}
                   {data_zgloszenia && <>Data zgłoszenia: {data_zgloszenia}</>}
 
