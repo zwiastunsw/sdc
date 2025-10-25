@@ -6,7 +6,7 @@
  */
 
  .danePublikacji {
-  margin-top: 1em;
-  margin-bottom: 1em;
-  font-size: .85em;
+  margin-top: 1.5em !important;
+  margin-bottom: 1.5em !important;
+  font-size: .85em !important;
  }
