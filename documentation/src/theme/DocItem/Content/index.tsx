@@ -10,7 +10,6 @@ import {
     DraftBannerTitle,
 } from '@docusaurus/theme-common';
 import Admonition from '@theme/Admonition';
-import styles from './styles.module.css';
 /**
  Title can be declared inside md content or declared through
  front matter and added manually. To make both cases consistent,
@@ -73,7 +72,7 @@ export default function DocItemContent({children}: Props): ReactNode {
                   </div>
           )}        
            {(data_zgloszenia || ostatnia_aktualizacja) && (                 
-              <div className="danePublikacji">
+              <div className="datyPublikacji">
                   {/* Always show 'data_zgloszenia' if it exists */}
                   {data_zgloszenia && <>Data zgłoszenia: {data_zgloszenia}</>}
 

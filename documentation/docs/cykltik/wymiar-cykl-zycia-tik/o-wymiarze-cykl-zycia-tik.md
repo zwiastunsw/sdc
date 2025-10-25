@@ -9,12 +9,6 @@ ostatnia_aktualizacja: 24 września 2025 r.
 wersja_robocza: true
 ---
 
-:::tip Dokument roboczy
-
-**Nie wahaj się proponować zmian**. Możesz komentować, uzupełniać, redagować każdy fragment dokumentu.
-
-:::
-
 Dostępne technologie informacyjno-komunikacyjne (TIK) są kluczowym czynnikiem umożliwiającym osobom z&nbsp;niepełnosprawnościami pełne i skuteczne uczestnictwo, na zasadzie równości, we wszystkich aspektach życia społecznego i&nbsp;rozwoju związanych z&nbsp;technologią.
 
 Dostępność powinna być brana pod uwagę w całym cyklu życia TIK: od pomysłu, poprzez projektowanie, wytwarzanie, testowanie, opracowanie ACR w oparciu o uznane w branży standardy, badania użytkowników, konserwację i starzenie się po wycofanie z&nbsp;eksploatacji. 
