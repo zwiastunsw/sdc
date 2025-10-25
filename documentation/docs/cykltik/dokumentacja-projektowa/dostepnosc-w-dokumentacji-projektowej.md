@@ -19,7 +19,7 @@ projektowanie
 ]
 data_zgloszenia: 15 września 2025 r.
 ostatnia_aktualizacja: 26 września 2025 r.
-opracowanie: Cezary Tomczyk
+
 wersja_robocza: true
 ---
 
