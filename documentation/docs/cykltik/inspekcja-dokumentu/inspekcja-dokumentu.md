@@ -37,7 +37,7 @@ Koordynator dostępności cyfrowej w organizacji powinien:
 
 ## Tworzenie dokumentu
 
-1. Nowe dokumenty powinny być tworzone wyłącznie na bazie przygotowanych szablonów, dostępnych w ogólnodostępnej bazie organizacji dla różnych typów pism.
+1. Nowe dokumenty powinny być tworzone głównie na bazie przygotowanych szablonów dostępnych w organizacji.
 2. Pracownik zatwierdzający dokument jest odpowiedzialny za weryfikację jego dostępności. Wszelkie uwagi dotyczące dostępności skutkują cofnięciem dokumentu do ponownej edycji.
 3. Dokumenty przeznaczone do publikacji (np. w BIP lub na stronie internetowej) wymagają bardziej szczegółowej kontroli lub sprawdzenia przez osobę biegle znającą zasady składu zgodnego z dostępnością.
 4. W przypadku dokumentów złożonych (np. specyfikacje, dokumentacje) zaleca się szczegółową weryfikację przez dodatkowego specjalistę lub zlecenie ich przygotowania zewnętrznemu podmiotowi specjalizującemu się w składzie tekstów dostępnych cyfrowo.
