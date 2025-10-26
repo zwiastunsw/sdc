@@ -1,34 +1,31 @@
 ---
-name: zapisy-w-zleceniach-zamowieniach-umowach
-about: Zapisy w zleceniach/zamówieniach/umowach
+id: zapisy-w-zleceniach-zamowieniach-umowach
+title: Zapisy w zleceniach/zamówieniach/umowach
+sidebar-position: 1
+sidebar-label: Zalecenie 
+description: Propozycja wymaganych zapisów w zleceniach/zamówieniach/umowach dotyczących produktów cyfrowych
+keywords: [
+        zaopatrzenie,
+		umowy
+]
+tags: [
+        zaopatrzenie,
+		umowy
+]
+opracowanie: Tomasz Bartel
+wspolpraca: Tomasz Bartel
+data_zgloszenia: 12 października 2025
+data_aktualizacji:  12 października 2025
+wersja_robocza: true
 ---
-- id: zapisy-w-zleceniach-zamowieniach-umowach
-- title: Zapisy w zleceniach/zamówieniach/umowach
-- sidebar-position: 1
-- sidebar-label: Zalecenie 
-- description: Propozycja wymaganych zapisów w zleceniach/zamówieniach/umowach dotyczących produktów cyfrowych
-- keywords: [
-        zaopatrzenie,
-		umowy
-]
-- tags: [
-        zaopatrzenie,
-		umowy
-]
-- opracowanie: Tomasz Bartel
-- wspolpraca: Tomasz Bartel
--data_zgloszenia: 12 października 2025
--data_aktualizacji:  12 października 2025
--status: projekt
-
  
-* Zapisy w zleceniach/zamówieniach/umowach
- 
-**Zalecenie**
+## Zalecenie
  
 **Podmiot publiczny powinien w zleceniach/zamówieniach/umowach dotyczących produktów cyfrowych zawrzeć następujące zapisy:**
  
-**Zapisy obligatoryjne:**
+## Rekomendacje
+
+### Zapisy obligatoryjne
  
 **Zamówienie nowego produktu:**
  
@@ -38,7 +35,7 @@ about: Zapisy w zleceniach/zamówieniach/umowach
  
 „Przedmiot zlecenia/zamówienia/umowy musi być utrzymywany zgodnie z wytycznymi zawartymi w załączniku do ustawy z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych.”
  
-**Zapisy fakultatywne:**
+### Zapisy fakultatywne
  
 1. Wykonawca zobowiązany jest do poinformowania Zamawiającego, jeśli w trakcie prac nad przedmiotem umowy okaże się, że wymogi Zamawiającego stoją w sprzeczności z ustawą z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych.
 2. (wyłącznie dla stron internetowych/oprogramowania) Załącznikiem do protokołu odbioru będzie raport z oceny przeprowadzonej przez audytora zewnętrznego.
@@ -48,7 +45,7 @@ about: Zapisy w zleceniach/zamówieniach/umowach
  
 Zgodnie z at. 5 ust. 1 ustawy o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych, podmiot publiczny zapewnia dostępność cyfrową przez spełnienie przez jego stronę internetową, zarządzane elementy strony internetowej, jego aplikację mobilną lub zarządzane elementy aplikacji mobilnej wymagań określonych w załączniku do ustaw. Zasadnym jest zatem zamieszczenie **wymagania** by program (strona/aplikacja) lub dokument spełniały wymogi dostępności cyfrowej.
  
-Uzasadnienie do zapisów fakultatywnych:
+## Uzasadnienie do zapisów fakultatywnych:
  
 1. W małych gminach/innych podmiotach publicznych , często brakuje osób, które orientują się w sprawach związanych z dostępnością cyfrową. Przy zamówieniach może się zdarzyć, że np. zastosowanie kolorów (kontrast), lay out nie będą spełniać wymagań dostępności. Informacje o tym powinien przekazać Wykonawca.
 2. Dlaczego raport z oceny przeprowadzonej przez audytora zewnętrznego jest tylko fakultatywny? W wielu instytucjach są już zatrudnione osoby, które mogę bez problemu przeprowadzić audyt, a nie można ukrywać, że wykonanie takiego raportu podnosi koszt umowy.
