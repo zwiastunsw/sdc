@@ -1,5 +1,6 @@
 ---
 id: inspekcja-dokumentu
+title: Kontrola dokumentów pod kątem dostępności cyfrowej
 description: Projekt zalecenia. Uwzględnienie podczas tworzenia i drogi dokumentów w jednostce wymogów dostępności WCAG 2.1 AA
 wymiar: Zalecenia i Rekomendacje
 keywords: [WCAG 2.1, dokumenty cyfrowe]
@@ -7,9 +8,10 @@ tags: [WCAG 2.1, dokumenty cyfrowe]
 opracowanie: Krzysztof Głaz
 data_zgloszenia: 17 wrzesień 2025 rok
 data_aktualizacji: 26 wrzesień 2025 rok
+draft: true
 ---
 
-# Kontrola dokumentów pod kątem dostępności cyfrowej
+
 
 Celem tego dokumentu jest ustalenie i wdrożenie jednolitych procedur oraz wypracowanie trwałych nawyków w zakresie zapewnienia pełnej dostępności cyfrowej wszystkich dokumentów wytwarzanych w instytucji, na każdym etapie ich obiegu. Ma on również na celu standaryzacje procesu wytwarzania dokumentów, wzrost świadomości i kompetencji oraz zapewnienie zgodności prawnej.
 
