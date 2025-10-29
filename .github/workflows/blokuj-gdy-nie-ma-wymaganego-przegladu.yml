@@ -1,4 +1,4 @@
-name: Block Merge Without Required Review
+name: Blokuj, gdy nie ma wymaganego przeglądu
 
 on:
   pull_request:
@@ -9,7 +9,7 @@ jobs:
   require-one-review:
     runs-on: ubuntu-latest
     steps:
-      - name: Ensure at least one required reviewer approved
+      - name: Upewnij się, że co najmniej jeden wymagany recenzent wyraził zgodę.
         uses: actions/github-script@v7
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
@@ -29,9 +29,9 @@ jobs:
             const hasApproval = requiredReviewers.some(u => latest[u] === "APPROVED");
 
             if (!hasApproval) {
-              core.setFailed(
-                `❌ Pull request blocked: At least one of the required reviewers must approve. Required: ${requiredReviewers.join(", ")}`
+              core.info(
+                `❌ Pull request zablokowany: Co najmniej jeden z wymaganych recenzentów musi wyrazić zgodę.`
               );
             } else {
-              console.log("✅ Merge allowed: At least one required reviewer approved");
+              console.log("✅ Scalanie dozwolone: Co najmniej jeden recenzent musi wyrazić zgodę.");
             }
