@@ -5,6 +5,7 @@ on:
     types: [opened, reopened, synchronize, ready_for_review, review_requested]
   pull_request_review:
     types: [submitted, edited, dismissed]
+
 jobs:
   require-one-review:
     runs-on: ubuntu-latest
@@ -14,24 +15,24 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
-            const requiredReviewers = ["zwiastunsw", "redaktorbs", "MKW2017"]; // <-- replace with usernames
+            const requiredReviewers = ["zwiastunsw", "redaktorbs", "MKW2017"];
+
             const { data: reviews } = await github.rest.pulls.listReviews({
               owner: context.repo.owner,
               repo: context.repo.repo,
               pull_number: context.payload.pull_request.number,
             });
 
-            // Map latest review state per user
+            // Ostatni stan recenzji dla każdego użytkownika
             const latest = {};
             reviews.forEach(r => { latest[r.user.login] = r.state; });
 
-            // Check if none of the required reviewers approved
+            // Czy któryś z wymaganych recenzentów zatwierdził PR
             const hasApproval = requiredReviewers.some(u => latest[u] === "APPROVED");
 
             if (!hasApproval) {
-              core.info(
-                `❌ Pull request zablokowany: Co najmniej jeden z wymaganych recenzentów musi wyrazić zgodę.`
-              );
-            } else {
-              console.log("✅ Scalanie dozwolone: Co najmniej jeden recenzent musi wyrazić zgodę.");
+              core.setFailed("❌ Pull request zablokowany: co najmniej jeden z wymaganych recenzentów musi wyrazić zgodę.");
+              return; // 👈 kończy skrypt po ustawieniu błędu
             }
+
+            core.info("✅ Scalanie dozwolone: co najmniej jeden recenzent wyraził zgodę.");
