@@ -14,8 +14,8 @@ WCAG 2.1 AA,
 dostepnosc cyfrowa, 
 cykl życia TIK
 ]
-data_zgloszenia: 15 września 2025 r.
-ostatnia_aktualizacja: 26 września 2025 r.
+data_zgloszenia: 20 lipca 2025 r.
+ostatnia_aktualizacja: 30 października 2025 r.
 opracowanie: Tomasz Kałużyński
 wersja_robocza: true
 ---
@@ -37,14 +37,11 @@ skryptów.
 
 1.  Ocenie dostępności poddawane są poszczególne komponenty i moduły, za
     pomocą których będzie budowana strona internetowa.
-
 2.  Weryfikacja elementów strony przeprowadzana jest przez przeszkolone
     w tym zakresie osoby.
-
 3.  Dostępność wprowadzanych elementów strony podlega kontroli na każdym
     etapie projektowania strony, a także w trakcie jej właściwego
     funkcjonowania.
-
 4.  W odniesieniu do dostępności dokonywana jest ocena i analiza
     współdziałania poszczególnych elementów strony.
 
@@ -54,9 +51,7 @@ Weryfikacji użytych elementów do budowy strony dokonują przeszkolone w
 zakresie dostępności osoby za pomocą:
 
 1.  Dostępnych w sieci narzędzi, wykorzystujących skrypty do walidacji
-
 2.  Manualnej konfiguracji elementów
-
 3.  Konsultacji i poddaniu testom elementów przy współpracy osób ze
     specjalnymi potrzebami.
 
@@ -68,11 +63,8 @@ każdym etapie.
 Dobór odpowiednich komponentów i modułów odbywa się w oparciu o:
 
 - wiedzę na temat ich działania,
-
 - założenia docelowego działania strony,
-
 - sprecyzowanie grupy odbiorców,
-
 - wytyczne wynikające z Ustawy o Dostępności.
 
 ## Faza wdrażania i budowy strony
