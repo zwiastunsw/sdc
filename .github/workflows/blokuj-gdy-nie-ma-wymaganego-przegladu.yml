@@ -1,4 +1,4 @@
-name: Blokuj, gdy nie ma wymaganego przeglądu
+name: require-one-review # 👈 krótka, techniczna nazwa bez ukośnika i spacji
 
 on:
   pull_request:
@@ -8,10 +8,11 @@ on:
 
 jobs:
   require-one-review:
+    name: Sprawdź wymagany przegląd # 👈 label widoczny w UI, NIE używany w rulesetach
     runs-on: ubuntu-latest
     steps:
-      - name: Upewnij się, że co najmniej jeden wymagany recenzent wyraził zgodę.
-        uses: actions/github-script@v7
+      - name: Sprawdź wymagany przegląd
+        uses: actions/github-script@v8
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
@@ -23,16 +24,20 @@ jobs:
               pull_number: context.payload.pull_request.number,
             });
 
-            // Ostatni stan recenzji dla każdego użytkownika
+            // 🧩 Najnowszy stan dla każdego recenzenta
             const latest = {};
-            reviews.forEach(r => { latest[r.user.login] = r.state; });
+            for (const r of reviews) {
+              latest[r.user.login] = r.state;
+            }
 
-            // Czy któryś z wymaganych recenzentów zatwierdził PR
-            const hasApproval = requiredReviewers.some(u => latest[u] === "APPROVED");
+            const hasApproval = requiredReviewers.some(
+              (u) => latest[u] === "APPROVED"
+            );
 
             if (!hasApproval) {
               core.setFailed("❌ Pull request zablokowany: co najmniej jeden z wymaganych recenzentów musi wyrazić zgodę.");
-              return; // 👈 kończy skrypt po ustawieniu błędu
+              return; // ⛔ natychmiast kończy skrypt
             }
 
-            core.info("✅ Scalanie dozwolone: co najmniej jeden recenzent wyraził zgodę.");
+            core.info("✅ Scalanie dozwolone: co najmniej jeden wymagany recenzent wyraził zgodę.");
+
