@@ -14,21 +14,23 @@ wersja_robocza: true
 
 ## Zalecenie jako dokument Sieci 
 
-Jednym z trzech głównych zadań Sieci jest „wypracowanie zaleceń i rekomendacji wdrażania dostępności cyfrowej, które określą sposób wdrażania dostępności cyfrowej w podmiotach publicznych”. Według wniosku projektowego ma to być być „dokument, który określi, jak wdrażać dostępność cyfrową w podmiotach publicznych oraz wskaże ramy działalności instytucji odpowiedzialnej za nadzór nad dostępnością cyfrową w Polsce. Dokument będzie też uwzględniać podstawy prawne dostępności cyfrowej i, jeśli zostaną zidentyfikowane, potrzeby zmian.”
+Jednym z trzech głównych zadań Sieci jest „wypracowanie zaleceń i rekomendacji wdrażania dostępności cyfrowej, które określą sposób wdrażania dostępności cyfrowej w podmiotach publicznych”. Według wniosku projektowego ma to być być 
+
+> dokument, który określi, jak wdrażać dostępność cyfrową w podmiotach publicznych oraz wskaże ramy działalności instytucji odpowiedzialnej za nadzór nad dostępnością cyfrową w Polsce. Dokument będzie też uwzględniać podstawy prawne dostępności cyfrowej i, jeśli zostaną zidentyfikowane, potrzeby zmian.
 
 Celem tego opracowania jest określenie spójnych zasad i struktury formowania przez uczestników Sieci projektów zaleceń, które instytucja odpowiedzialna za nadzór nad dostępnością cyfrową w Polsce skieruje do podmiotów publicznych.  
 
 ## Robocza definicja zalecenia
 
-W oparciu o efekty dotychczasowej pracy Sieci i przedstawione wcześniej propozycje można przyjąć następującą **roboczą** definicję terminu**zalecenie**:
+W oparciu o efekty dotychczasowej pracy Sieci i przedstawione wcześniej propozycje można przyjąć następującą **roboczą** definicję terminu **zalecenie**:
 
 :::info Definicja terminu
 
-zalecenie: wystąpienie o charakterze służbowym adresowane do organizacji, podstawowa forma dokumentu Sieci. 
+**zalecenie**: wystąpienie o charakterze służbowym adresowane do organizacji, podstawowa forma dokumentu Sieci. 
 
 Zalecenie opisuje zwięźle zamierzony stan lub rezultat dotyczący dojrzałości organizacji do zapewniania dostępności cyfrowej oraz wskazuje, co jest konieczne lub korzystne, aby organizacja skutecznie realizowała cel polityki zapewniania dostępności cyfrowej, którego dotyczy zalecenie. Zalecenie proponuje wdrożenie w organizacji pewnego planu działania – polityki, procedury, reguły (przepisu wewnętrznego) – który prowadzi do osiągnięcia i utrzymania przez organizację zdolności efektywnego wypełniania jej misji i celów strategicznych w zakresie dostępności cyfrowej. 
 
-Zalecenie nie ma mocy wiążącej - jest wskazówką, sugestią, instrukcją, proponowanym podejściem do zarządzania konkretnym aspektem zapewniania dostępności cyfrowej.
+Zalecenie nie ma mocy wiążącej -- jest wskazówką, sugestią, instrukcją, proponowanym podejściem do zarządzania konkretnym aspektem zapewniania dostępności cyfrowej.
 
 :::
 
@@ -57,7 +59,7 @@ Poniżej znajduje się zestawienie metadanych ze zwięzłym opisem ich roli:
 ```md
 ---
 id: identyfikator-dokumentu # dokładnie taki sam, jak nazwa pliku z dokumentem, bez rozszerzenia. Powinien nazywać temat zalecenia
-title: Tytuł dokumentu. Staraj się ująć tytuł w kilku słowa. 
+title: Tytuł dokumentu. Staraj się ująć tytuł w kilku słowach. 
 description: Zwięzły opis - streszczenie dokumentu dla wyszukiwarek (do 150 znaków)
 sidebar_label: Etykieta wyświetlana w bocznym menu - skrócony tytuł (kilka słów)
 sidebar_position: 1  # określa pozycję w grupie dokumentów, gdy w kategorii umieszczonych jest więcej niż jeden dokument
@@ -93,7 +95,7 @@ Ponieważ zalecenia Sieci nie mają mocy wiążącej:
 
 > nie należy używać sformułowań wyrażających nakazowy lub zakazowy charakter ani struktur czy wyrażeń zbliżonych do tych stosowanych w aktach o charakterze wiążącym
 >
-> Wspólny przewodnik praktyczny Parlamentu Europejskiej, Rady i Komisji przeznaczony dla osób redagujących akty prawne Unii Europejskiej, Unia Europejska 2015, pkt. 2.3.3, s. 12.
+> -- Wspólny przewodnik praktyczny Parlamentu Europejskiej, Rady i Komisji przeznaczony dla osób redagujących akty prawne Unii Europejskiej, Unia Europejska 2015, pkt. 2.3.3, s. 12.
 
 Sekcję z treścią zalecenia tytułujemy słowem Zalecenie i oznaczamy, jako nagłówek 2. stopnia (`## Zalecenie`).
 
@@ -103,9 +105,9 @@ Przyjęta na początku tego opracowania definicja precyzuje, co może być przed
 Może to być opracowanie lub uzupełnienie i wdrożenie:
 
 - **polityki**, czyli trwale obowiązującego (ciągłego) planu dostarczającego generalnych wytycznych dotyczących działania w określonej sferze,
-- **procedury**czyli trwale obowiązującego (ciągłego) planu), który określa, w jaki sposób mają być wykonywane powtarzające się zadania, wyszczególniającego te zadania, konieczne kroki i porządek, którego należy się trzymać,
-- **reguły i przepisy**czyli trwale obowiązujące (ciągłe) plany, które w sposób najbardziej konkretny określają konieczny, wymagany przebieg działania,
-- **planu operacyjnego**, czyli planu jednorazowego, który może być powtarzany (po wprowadzeniu zmian dotyczących terminów, odpowiedzialnych osób, zakresu) określającego szczegółowo, jak osiągnąć krótkoterminowe cele organizacji poprzez rozpisanie konkretnych zadań, harmonogramów, przypisanie odpowiedzialności i alokację zasobów (ludzkich, technicznych).
+- **procedury**, czyli trwale obowiązującego (ciągłego) planu, który określa, w jaki sposób mają być wykonywane powtarzające się zadania, wyszczególniającego te zadania, konieczne kroki i porządek, którego należy się trzymać,
+- **reguły i przepisy**, czyli trwale obowiązujące (ciągłe) plany, które w sposób najbardziej konkretny określają konieczny, wymagany przebieg działania,
+- **planu operacyjnego**, czyli jednorazowego planu, który może być powtarzany (po wprowadzeniu zmian dotyczących terminów, odpowiedzialnych osób, zakresu) określającego szczegółowo, jak osiągnąć krótkoterminowe cele organizacji poprzez rozpisanie konkretnych zadań, harmonogramów, przypisanie odpowiedzialności i alokację zasobów (ludzkich, technicznych).
 
 
 #### Adresaci zaleceń
@@ -126,15 +128,15 @@ Pogodzenie wymogów prostoty i precyzji może być czasem trudne. Prosty język 
 
 > Konstruuj więc tekst z myślą o odbiorcy, ze świadomością jego potrzeb i kompetencji językowych. Jeżeli piszesz wytyczne dla inspektorów budowlanych, język techniczny będzie jak najbardziej na miejscu. Prostota Twojego pisma będzie się wyrażać przede wszystkim w sposobie uporządkowania informacji. 
 >
-> Komunikacja pisemna. Rekomendacje. Kancelaria Prezesa Rady Ministrów. Warszawa 2017, s. 10;.
+> -- Komunikacja pisemna. Rekomendacje. Kancelaria Prezesa Rady Ministrów. Warszawa 2017, s. 10;.
 
 Prostotę osiąga się często kosztem precyzji i odwrotnie. Wszędzie, gdzie to jest możliwe, staramy się stosować zasady prostego języka tak, aby nie utracić precyzji, nie zubażać przekazu, nie zniekształcać znaczenia. Ale tam, gdzie jest to konieczne, korzystamy z odpowiedniej, precyzyjnej terminologii oraz bardziej złożonej składni.
 
-W niektórych sugestiach próbuje się zastąpić jedną z istotnych wskazówek prostego języka, by w miarę możliwości unikać form bezosobowych i starać się kierować tekst do jednej osoby, nawet jeśli dokument odnosi się do dużej grupy osób, **nakazem kierowania tekstu bezpośrednio do odbiorcy za pomocą form 2. osoby liczby pojedynczej w trybie rozkazującym** („Zrób…”, „Rozważ”, „Zapewnij”) 
+W niektórych sugestiach próbuje się zastąpić jedną z istotnych wskazówek prostego języka, by w miarę możliwości unikać form bezosobowych i starać się kierować tekst do jednej osoby, nawet jeśli dokument odnosi się do dużej grupy osób, **nakazem kierowania tekstu** bezpośrednio do odbiorcy **za pomocą form 2. osoby liczby pojedynczej w trybie rozkazującym** („Zrób…”, „Rozważ”, „Zapewnij”) 
 
-Jest to niewątpliwie bardzo dobra forma komunikowania się z odbiorcami poradników, instrukcji, wskazówek, forma przyjęta już dość powszechnie w Polsce komunikowaniu się w Internecie, czy też w kontaktach z konkretnymi osobami.
+Jest to niewątpliwie bardzo dobra forma komunikowania się z odbiorcami poradników, instrukcji, wskazówek, także forma przyjęta już dość powszechnie w Polsce komunikowaniu się w Internecie oraz w kontaktach z konkretnymi osobami.
 
-Zalecenia i rekomendacje projektowane w Sieci odnoszą się i będą kierowane do organizacji, czasem mogą odnosić się do kierownika czy kierownictwa organizacji, rzadziej do określonych służb w organizacji. Używanie w tym kontekście form 2. osoby i trybu rozkazującego nie jest właściwe i może być odbierane jako niestosowne.
+Zalecenia i rekomendacje projektowane w Sieci odnoszą się i będą kierowane do organizacji, czasem mogą odnosić się do kierownika czy kierownictwa organizacji, rzadziej do określonych służb w organizacji. Używanie w tym kontekście form 2. osoby liczby pojedynczej i trybu rozkazującego nie jest właściwe i może być odbierane jako niestosowne.
 
 Zgłoszono również **zastrzeżenie do używania czasowników modalnych**, szczególnie czasownika „powinien”, który może powodować, że tekst jest nieprecyzyjny, niejednoznaczny.
 
@@ -162,8 +164,8 @@ Zalecenia określają pewne cele do określenia. Podobnie jak jakość i użytec
 #### Treść rekomendacji
 Słowa „zalecenie” i „rekomendacja” w języku polskim to wyrazy bliskoznaczne. Ale:
 
-- zalecenie jest pojęciem bardziej ogólnym, służącym do przekazania informacji o tym, co należy zrobić,
-- rekomendacja jest pojęciem bardziej szczegółowym, służącym do wskazania najlepszego lub proponowanego sposobu, zwrócenia uwagi na istotne aspekty działania lub walory polecanego sposobu czy polecanego (rekomendowanego) wykonawcy, pracownika, lekarza, itp.
+- **zalecenie** jest pojęciem bardziej ogólnym, służącym do przekazania informacji o tym, co należy zrobić,
+- **rekomendacja** jest pojęciem bardziej szczegółowym, służącym do wskazania najlepszego lub proponowanego sposobu, zwrócenia uwagi na istotne aspekty działania lub walory polecanego sposobu czy polecanego (rekomendowanego) wykonawcy, pracownika, lekarza, itp.
 
 Tę różnicę znaczeniową wykorzystujemy w formowaniu naszych projektów zaleceń i rekomendacji. 
 
@@ -171,7 +173,7 @@ Opierając się na tych konotacjach (skojarzenia, wyobrażenia i uczucia, jakie 
 
 :::info Definicja terminu
 
-rekomendacja: sugestia, propozycja zastosowania określonego sposobu działania lub uwzględnienia albo rozważenia określonych aspektów działania, opisujące szczegółowiej, w jaki sposób optymalnie można dane zalecenie lub jego część zrealizować. Może wskazywać na polecane sprawdzone rozwiązanie, dobrą praktykę lub kilka dobrych praktyk jako sposoby skutecznego wdrożenia zalecenia.
+**rekomendacja**: sugestia, propozycja zastosowania określonego sposobu działania lub uwzględnienia albo rozważenia określonych aspektów działania, opisujące szczegółowiej, w jaki sposób optymalnie można dane zalecenie lub jego część zrealizować. Może wskazywać na polecane sprawdzone rozwiązanie, dobrą praktykę lub kilka dobrych praktyk jako sposoby skutecznego wdrożenia zalecenia.
 
 :::
 
@@ -241,7 +243,8 @@ Na opis każdego opracowania składa się:
 W przypadku publikacji internetowych tytuł publikacji zamieniamy na łącze, a ścieżkę dostępu podajemy zwykłym tekstem, na przykład:
 
 ```md
-- [WAI W3C, Accessibility Fundamentals Overview](https://www.w3.org/WAI/fundamentals/), dostęp: 30 października 2025 
+- [WAI W3C, Accessibility Fundamentals Overview](https://www.w3.org/WAI/fundamentals/), 
+  dostęp: 30 października 2025 
 ```
 
 ### Historia wersji
@@ -254,5 +257,5 @@ Historię wersji umieszczamy w tabeli danych z 4 kolumnami: Nr wersji, Autor, Da
 ## Historia wersji
 | Nr wersji |     Autor       |  Data          |     Opis zmian       |
 |-----------|-----------------|----------------|----------------------|
-| 0.9       | Imię i Nazwisko | 10 marca 2025  | wersja robocza       |
+| 0.9       | Imię i Nazwisko | 10 marca 2025  | kandydat do wydania  |
 ```
