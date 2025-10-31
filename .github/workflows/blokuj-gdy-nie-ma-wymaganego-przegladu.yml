@@ -1,4 +1,4 @@
-name: require-one-review # 👈 krótka, techniczna nazwa bez ukośnika i spacji
+name: require-one-review  # <-- pozostaje bez zmian
 
 on:
   pull_request:
@@ -8,7 +8,7 @@ on:
 
 jobs:
   require-one-review:
-    name: Sprawdź wymagany przegląd # 👈 label widoczny w UI, NIE używany w rulesetach
+    name: Sprawdź wymagany przegląd
     runs-on: ubuntu-latest
     steps:
       - name: Sprawdź wymagany przegląd
@@ -18,17 +18,23 @@ jobs:
           script: |
             const requiredReviewers = ["zwiastunsw", "redaktorbs", "MKW2017"];
 
+            // Jeśli PR od Dependabot, ignorujemy wymaganie recenzenta
+            const prAuthor = context.payload.pull_request.user.login;
+            if (prAuthor === "dependabot[bot]") {
+              core.info("PR od Dependabot – wymaganie recenzenta pomijane.");
+              return; // check zakończony sukcesem
+            }
+
+            // Pobierz recenzje PR
             const { data: reviews } = await github.rest.pulls.listReviews({
               owner: context.repo.owner,
               repo: context.repo.repo,
               pull_number: context.payload.pull_request.number,
             });
 
-            // 🧩 Najnowszy stan dla każdego recenzenta
+            // Najnowszy stan recenzenta
             const latest = {};
-            for (const r of reviews) {
-              latest[r.user.login] = r.state;
-            }
+            for (const r of reviews) latest[r.user.login] = r.state;
 
             const hasApproval = requiredReviewers.some(
               (u) => latest[u] === "APPROVED"
@@ -36,8 +42,7 @@ jobs:
 
             if (!hasApproval) {
               core.setFailed("❌ Pull request zablokowany: co najmniej jeden z wymaganych recenzentów musi wyrazić zgodę.");
-              return; // ⛔ natychmiast kończy skrypt
+              return;
             }
 
             core.info("✅ Scalanie dozwolone: co najmniej jeden wymagany recenzent wyraził zgodę.");
-
