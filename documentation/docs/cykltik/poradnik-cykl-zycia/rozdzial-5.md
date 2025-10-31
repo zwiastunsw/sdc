@@ -14,9 +14,9 @@ WCAG 2.1 AA,
 dostepnosc cyfrowa, 
 cykl życia TIK
 ]
-data_zgloszenia: 15 września 2025 r.
-ostatnia_aktualizacja: 26 września 2025 r.
-opracowanie: aada
+data_zgloszenia: 16 lipca 2025 r.
+ostatnia_aktualizacja: 30 października 2025 r.
+opracowanie: Angelika Sosnowska
 wersja_robocza: true
 ---
 
