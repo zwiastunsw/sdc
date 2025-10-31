@@ -35,10 +35,8 @@ dostępności cyfrowej.
 Na początku należy określić, które produkty cyfrowe:
 
 - nie są już aktualizowane i nie spełniają wymagań dostępności,
-- są trudne lub zbyt kosztowne w utrzymaniu i integracji z nowymi
-  systemami,
-- nie są zgodne z aktualnymi standardami bezpieczeństwa i
-  interoperacyjności,
+- są trudne lub zbyt kosztowne w utrzymaniu i integracji z nowymi systemami,
+- nie są zgodne z aktualnymi standardami bezpieczeństwa i interoperacyjności,
 - nie są już używane przez użytkowników lub generują skargi z powodu
   niskiej użyteczności czy braku dostępności.
 
@@ -78,7 +76,7 @@ Proces wycofania należy poprzedzić odpowiednią komunikacją:
 
 - informując o planowanych działaniach, przyczynach wycofania oraz
   proponowanych alternatywach,
-- prezentując te informacje w formatach przyjaznych -- także w wersjach
+- prezentując te informacje w formatach przyjaznych - także w wersjach
   tekstowych łatwych do czytania (ETR) lub języku migowym,
 - umożliwiając kontakt zwrotny i zadanie pytań w dostępnej formie.
 
@@ -90,28 +88,26 @@ użytkownicy odwiedzają najczęściej.
 Działania związane z wycofaniem powinny zostać udokumentowane:
 
 - w deklaracji dostępności należy wskazać datę zakończenia obsługi i
-  uzasadnienie (np. brak możliwości aktualizacji bez naruszenia
-  dostępności),
+  uzasadnienie (np. brak możliwości aktualizacji bez naruszenia dostępności),
 - ocenić, czy dane wycofywane rozwiązanie było zgodne z wymaganiami w
   ostatnim okresie działania,
-- uwzględnić w rocznym sprawozdaniu informacje o liczbie zgłoszeń
-  dotyczących niedostępnych zasobów oraz zastosowanych rozwiązaniach
-  alternatywnych.
+- uwzględnić w rocznym sprawozdaniu informacje o liczbie zgłoszeń dotyczących 
+  niedostępnych zasobów oraz zastosowanych rozwiązaniach alternatywnych.
 
 Regularne sprawozdania ułatwiają instytucjom wykazanie ciągłości
 działań i odpowiedzialności za dostępność.
 
-###  6.6. Lista kontrolna -- wycofanie z zachowaniem dostępności
+###  6.6. Lista kontrolna - wycofanie z zachowaniem dostępności
 
 |Nr   | Kryterium kontrolne                           | Tak | Nie |   Uwagi     |
-| -- |  ---------------------------------------------|  ---|  ---|  -----------|
+| ---- |  -----------------------|  ----|  ----|  ------|
 |  1 |  Czy produkt cyfrowy objęto audytem dostępności przed decyzją o jego wycofaniu?  | | | |
 |  2 |  Czy zebrano dane o użyciu i zgłoszeniach użytkowników?  | | | |
 |  3 |  Czy przygotowano dostępne alternatywy lub nowe rozwiązanie zgodne z WCAG i EN 301 549?  | | | |
-|  4 |  Czy użytkownicy mają czas i możliwość przejścia na nowe rozwiązanie?  | | | | 
+|  4 |  Czy użytkownicy mają czas i możliwość przejścia na nowe rozwiązanie? | | | | 
 |  5 |  Czy dane i dokumenty zostały zapisane w formacie dostępnym (np. PDF/UA, DOCX, CSV)?  | | | |
 |  6 |  Czy istnieje dokumentacja umożliwiająca ich ponowne wykorzystanie w sposób dostępny?  | | | |
 |  7 |  Czy komunikat o wycofaniu został udostępniony w sposób dostępny (np. PJM, ETR, tekst alternatywny)?  | | | |
-|  8 |  Czy przewidziano możliwość kontaktu dla osób ze szczególnymi potrzebami?   | | | |
+|  8 |  Czy przewidziano możliwość kontaktu dla osób ze szczególnymi potrzebami? | | | |
 |  9 |  Czy udokumentowano powody wycofania i ocenę kosztów utrzymania dostępności?  | | | |
-| 10 |  Czy informacje te zostały wpisane do  deklaracji dostępności i raportu rocznego?  | | | |
+| 10 |  Czy informacje te zostały wpisane do  deklaracji dostępności i raportu rocznego? | | | |

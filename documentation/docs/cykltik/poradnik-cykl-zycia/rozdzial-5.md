@@ -33,11 +33,11 @@ użytkowników i wprowadzanie poprawek.
 
 Żeby mieć pewność, że nasz produkt cyfrowy nadal jest dostępny:
 
-- planuj i regularnie przeprowadzaj testy -- zarówno automatyczne (np.
+- planuj i regularnie przeprowadzaj testy - zarówno automatyczne (np.
   WAVE, axe), jak i ręczne (np. testy z klawiaturą, czytnikiem ekranu),
-- zapisuj wyniki testów i twórz krótkie raporty -- dzięki temu łatwiej
+- zapisuj wyniki testów i twórz krótkie raporty - dzięki temu łatwiej
   będzie zobaczyć, co działa dobrze, a co trzeba poprawić,
-- testuj wszystkie zmiany przed ich opublikowaniem -- nawet mała
+- testuj wszystkie zmiany przed ich opublikowaniem - nawet mała
   poprawka może spowodować błąd.
 
 ### 5.2. Zgłoszenia od użytkowników
@@ -48,7 +48,7 @@ formularz na stronie, adres e-mail lub numer telefonu. Ważne, by:
 
 - jasno określić, kto odpowiada na zgłoszenia,
 - ustalić maksymalny czas odpowiedzi (np. 7 dni),
-- prowadzić listę zgłoszeń i analizować, które problemy się powtarzają -- wtedy łatwiej zaplanować większe poprawki.
+- prowadzić listę zgłoszeń i analizować, które problemy się powtarzają - wtedy łatwiej zaplanować większe poprawki.
 
 ### 5.3. Aktualizacja treści
 
@@ -69,27 +69,27 @@ Każda aktualizacja strony, aplikacji czy systemu powinna być sprawdzana
 pod kątem dostępności. Często nowe funkcje, dodatki lub zewnętrzne
 komponenty (np. mapy, wtyczki, płatności online) wprowadzają błędy,
 które wcześniej nie występowały. W planach rozwoju trzeba zawsze brać
-pod uwagę dostępność -- każde nowe zadanie powinno zawierać jasno
+pod uwagę dostępność - każde nowe zadanie powinno zawierać jasno
 określone wymagania, które pomogą zadbać o dostępność.
 
 ### 5.5. Audyty i poprawki
 
-- Raz w roku warto zlecić pełny audyt dostępności -- może go wykonać
+- Raz w roku warto zlecić pełny audyt dostępności - może go wykonać
   zewnętrzny ekspert albo przeszkolony zespół wewnętrzny.
 - Po każdej zmianie takiej jak np. redesign strony, nowa wersja
   aplikacji trzeba wykonać audyt weryfikacyjny.
-- Sam audyt nie wystarczy -- trzeba wdrażać poprawki i sprawdzać, czy
+- Sam audyt nie wystarczy - trzeba wdrażać poprawki i sprawdzać, czy
   rzeczywiście działają.
   
 ### 5.6. Rozwój zespołu i kompetencji
 
-Dostępność cyfrowa to nie tylko technologia -- to też wiedza i
+Dostępność cyfrowa to nie tylko technologia - to też wiedza i
 współpraca:
 
 - organizuj szkolenia dla redaktorów, programistów i osób
   zarządzających,
 - omawiaj bieżący stan dostępności na spotkaniach zespołu,
-- dokumentuj dobre praktyki, checklisty i szablony -- dzięki temu nowi
+- dokumentuj dobre praktyki, checklisty i szablony - dzięki temu nowi
   pracownicy szybciej się wdrożą i będą wiedzieli, jak pracować z
   dostępnością.
 
@@ -97,30 +97,28 @@ współpraca:
 
 #### Strony internetowe
 
-Przy każdej zmianie dbaj o strukturę nagłówków i dostępność nawigacji.
-
-Nowe przyciski, formularze, banery -- wszystko musi być testowane pod
+- Przy każdej zmianie dbaj o strukturę nagłówków i dostępność nawigacji.
+- Nowe przyciski, formularze, banery - wszystko musi być testowane pod
 kątem dostępności. 
 
 #### Aplikacje mobilne
 
-Upewnij się, że nowe funkcje działają z TalkBack (Android) i VoiceOver
+- Upewnij się, że nowe funkcje działają z TalkBack (Android) i VoiceOver
 (iOS).
-
-Pamiętaj o powiększaniu tekstu, trybie ciemnym i zgodności z
+- Pamiętaj o powiększaniu tekstu, trybie ciemnym i zgodności z
 ustawieniami systemowymi użytkownika.
 
 #### Dokumenty cyfrowe
 
-- Nowe wersje dokumentów powinny być zgodne z WCAG -- ze strukturą
+- Nowe wersje dokumentów powinny być zgodne z WCAG - ze strukturą
   nagłówków, opisami alternatywnymi i odpowiednim formatowaniem.
-- Unikaj dokumentów w formie skanów -- są niedostępne dla czytników
+- Unikaj dokumentów w formie skanów - są niedostępne dla czytników
   ekranu.
 
-### 5.8 Lista kontrolna -- faza utrzymania i rozwoju
+### 5.8 Lista kontrolna - faza utrzymania i rozwoju
 
 | Nr | Kryterium kontrolne                           | Tak | Nie |   Uwagi     |
-| ---|  ---------------------------------------------|  ---|  ---|  -----------|
+| ----|  -----------------------|  ----|  ----|  ------|
 |  1  | Czy ustalono osobę odpowiedzialną za utrzymanie dostępności i reagowanie na zgłoszenia? | | | |                        
 |  2  | Czy zaplanowano regularne testy dostępności (automatyczne i ręczne)?  | | | |                           
 |  3  | Czy wdrożono formularz zgłaszania problemów z dostępnością i procedurę reagowania? | | | |             

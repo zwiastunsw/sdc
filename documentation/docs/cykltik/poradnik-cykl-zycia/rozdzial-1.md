@@ -22,7 +22,7 @@ wersja_robocza: true
 
 ## Rozdział 1. Faza koncepcji i definiowania wymagań
 
-To moment, kiedy pojawia się pomysł -- zanim jeszcze powstanie
+To moment, kiedy pojawia się pomysł - zanim jeszcze powstanie
 dokument, strona czy aplikacja. To kluczowy etap, bo decyzje podjęte
 tutaj wpływają na cały projekt. Jeśli dostępność cyfrowa zostanie
 pominięta na starcie, jej zapewnienie na późniejszych etapach może być
@@ -41,25 +41,24 @@ pojawić się **dodatkowe wymogi**, np. związane z edukacją, ochroną
 zdrowia, sądownictwem, usługami transgranicznymi czy danymi wrażliwymi.
 
 Dlatego każda instytucja powinna zadać sobie pytanie:\
-**„Jakie akty prawne i standardy obowiązują nas w odniesieniu do
-produktu cyfrowego, który planujemy?"**\
+**„Jakie akty prawne i standardy obowiązują nas w odniesieniu do produktu cyfrowego, który planujemy?"**\
 Uwzględnienie analizy prawnej już na etapie koncepcji pozwala zaplanować
 adekwatne i trwałe rozwiązania oraz uniknąć ryzyka niezgodności z
 przepisami.
 
 Zgodnie z ustawą o dostępności cyfrowej i wytycznymi WCAG:
 
-- **WCAG 2.1 AA** to obecnie wymagany standard dostępności -- obowiązuje
+- **WCAG 2.1 AA** to obecnie wymagany standard dostępności - obowiązuje
   wszystkie strony, dokumenty i aplikacje objęte ustawą. Warto jednak
   sięgnąć po **WCAG 2.2**, bo dodaje nowe, praktyczne zasady, które
-  jeszcze lepiej odpowiadają na potrzeby użytkowników -- na przykład
+  jeszcze lepiej odpowiadają na potrzeby użytkowników - na przykład
   osób korzystających z urządzeń mobilnych albo mających problemy z
   koncentracją. Stosowanie WCAG 2.2 już teraz pozwala tworzyć bardziej
   przyjazne i nowoczesne rozwiązania cyfrowe, a także przygotowuje nas
   na przyszłe zmiany przepisów.
 
-- W opisie zamówienia wymagaj, aby produkt końcowy -- strona
-  internetowa, aplikacja czy dokument -- był zgodny z wymaganiami
+- W opisie zamówienia wymagaj, aby produkt końcowy - strona
+  internetowa, aplikacja czy dokument - był zgodny z wymaganiami
   dostępności, np. według standardu WCAG. Dzięki temu wykonawca/
   dostawca od początku wie, że dostępność jest jednym z kluczowych
   obszarów jakości i musi być traktowana z odpowiednią uwagą. Można też
@@ -68,7 +67,7 @@ Zgodnie z ustawą o dostępności cyfrowej i wytycznymi WCAG:
   dostępności cyfrowej jako element odbioru prac.
 - Gdy nie da się zapewnić pełnej dostępności cyfrowej, trzeba zapewnić
   **alternatywny dostęp**. Oznacza to, że użytkownik musi mieć możliwość
-  dotarcia do tych samych informacji lub usług inną drogą -- na przykład
+  dotarcia do tych samych informacji lub usług inną drogą - na przykład
   przez rozmowę telefoniczną, kontakt e-mailowy albo udostępnienie
   uproszczonej wersji treści. Ważne, aby ta alternatywa była łatwa do
   znalezienia i szybka w użyciu. W przypadku materiałów wideo z
@@ -103,18 +102,17 @@ Zgodnie z ustawą o dostępności cyfrowej i wytycznymi WCAG:
 Już na początku trzeba:
 
 - **Zidentyfikować możliwie szerokie spektrum potrzeb użytkowników**,
-  wynikających z różnorodnych sposobów korzystania z technologii --
+  wynikających z różnorodnych sposobów korzystania z technologii -
   niezależnie od wieku, poziomu kompetencji cyfrowych, używanych
   urządzeń czy technologii wspomagających. Celem nie jest wyodrębnianie
   konkretnych grup, lecz projektowanie produktów cyfrowych w sposób
-  dostępny dla wszystkich użytkowników, zgodnie z zasadą dostępności
-  uniwersalnej i wymaganiami WCAG. **Dostępność cyfrowa nie jest opcją,
-  lecz podstawową cechą dobrej jakości usług** -- jej uwzględnianie od
-  początku projektowania pozwala realnie odpowiedzieć na potrzeby
+  dostępny dla wszystkich użytkowników, zgodnie z zasadą dostępności uniwersalnej i wymaganiami WCAG.
+  **Dostępność cyfrowa nie jest opcją, lecz podstawową cechą dobrej jakości usług** 
+  - jej uwzględnianie od początku projektowania pozwala realnie odpowiedzieć na potrzeby
   wszystkich użytkowników.
   
 - **Sprawdzić, jakie mamy przepisy** i wewnętrzne procedury, które mogą
-  mieć wpływ na dostępność -- zarówno te wynikające z przepisów prawa
+  mieć wpływ na dostępność - zarówno te wynikające z przepisów prawa
   (np. ustawa o dostępności cyfrowej, Kodeks pracy, prawo zamówień
   publicznych), jak i regulacje wewnętrzne organizacji. Warto też
   sprawdzić, czy istnieją instrukcje tworzenia treści, zasady
@@ -122,32 +120,32 @@ Już na początku trzeba:
   mogą wspierać albo utrudniać realizację zasad dostępności. Dzięki temu
   można zidentyfikować luki i uzupełnić je na możliwie wczesnym etapie,
   zanim projekt wejdzie w fazę realizacji.
-- **Ocenić, jak wygląda dostępność w naszej organizacji** -- warto
+- **Ocenić, jak wygląda dostępność w naszej organizacji** - warto
   przyjrzeć się temu, czy pracownicy wiedzą, czym jest dostępność
   cyfrowa i czy przeszli odpowiednie szkolenia. Dobrze też sprawdzić,
-  czy mamy narzędzia do tworzenia dostępnych treści -- np. edytory
+  czy mamy narzędzia do tworzenia dostępnych treści - np. edytory
   dokumentów ze wsparciem dla WCAG, czytniki ekranu do testowania lub
   szablony dostępnych stron. Warto zapytać samych pracowników, z jakimi
   barierami się spotykają i jakie wsparcie byłoby dla nich pomocne.
 - **Zaplanować budżet** na wszystkie działania związane z dostępnością
-  cyfrową -- w tym szkolenia dla zespołu, testy użyteczności i
+  cyfrową - w tym szkolenia dla zespołu, testy użyteczności i
   dostępności (zarówno automatyczne, jak i z udziałem użytkowników), a
   także późniejsze poprawki i wdrożenie rekomendacji. Warto też
   uwzględnić koszty licencji narzędzi wspierających dostępność,
   tłumaczeń na PJM czy opracowania alternatywnych wersji treści.
 - **Wybrać technologie i wykonawców**, którzy mają doświadczenie z
-  dostępnością -- warto postawić na takie narzędzia i rozwiązania, które
+  dostępnością - warto postawić na takie narzędzia i rozwiązania, które
   wspierają tworzenie treści zgodnych z WCAG (np. edytory z wbudowaną
   walidacją dostępności, systemy CMS z możliwością edycji tekstu
   alternatywnego, kontrastów czy struktur nagłówków). Równie istotny
-  jest wybór wykonawców -- należy sprawdzić ich doświadczenie, zapytać o
+  jest wybór wykonawców - należy sprawdzić ich doświadczenie, zapytać o
   wcześniejsze projekty, poprosić o referencje oraz zapisywać wymagania
   dostępności w umowie, w tym również warunek wykonania testów przed
   końcowym odbiorem.
-- **Dodać dostępność do dokumentów przetargowych** -- należy jasno
+- **Dodać dostępność do dokumentów przetargowych** - należy jasno
   wpisać w dokumentację przetargową wymagania dotyczące dostępności
   cyfrowej, np. obowiązek spełniania kryteriów sukcesu standardu WCAG
-  2.1 poziomu AA lub WCAG 2.2, poziomu AA, uwzględnienie normy EN 301
+  2.1 poziomu AA lub WCAG 2.2, poziomu AA, uwzględnienie normy PN ETSI EN 301
   549 oraz przeprowadzenie testów dostępności przed odbiorem. Warto
   dodać, że brak spełnienia wymagań dostępności może być podstawą do
   odrzucenia wykonania lub naliczenia kar umownych. Takie zapisy
@@ -160,8 +158,8 @@ Już na początku trzeba:
 
 Różne typy produktów cyfrowych mają swoje specyficzne wymagania w
 zakresie dostępności. Już na etapie koncepcji warto zidentyfikować,
-jaki typ produktu planujemy -- czy będzie to dokument, strona
-internetowa, czy aplikacja mobilna -- i odpowiednio dostosować listę
+jaki typ produktu planujemy - czy będzie to dokument, strona
+internetowa, czy aplikacja mobilna - i odpowiednio dostosować listę
 pytań oraz kryteriów dostępności. Poniżej przedstawiamy zestawienie
 najważniejszych zagadnień dla każdego z tych trzech typów.
 
@@ -176,21 +174,21 @@ najważniejszych zagadnień dla każdego z tych trzech typów.
   ekranu?
 - Czy zapewniamy opisy alternatywne dla grafik i zdjęć w dokumentach?
 - Jak wygląda proces sprawdzania dostępności dokumentów przed ich
-  publikacją -- czy używamy narzędzi takich jak wbudowane testery
+  publikacją - czy używamy narzędzi takich jak wbudowane testery
   dostępności w pakiecie Office lub Adobe Acrobat Pro?
 
 #### Strony internetowe 
 
-- Czy tworzymy nową stronę czy modernizujemy istniejącą -- i jaki zakres
+- Czy tworzymy nową stronę czy modernizujemy istniejącą - i jaki zakres
   zmian planujemy? Czy planowane zmiany są istotne, co może mieć wpływ
   na konieczność aktualizacji deklaracji dostępności.
-- Jakiego systemu zarządzania treścią (CMS) używamy -- czy pozwala on na
+- Jakiego systemu zarządzania treścią (CMS) używamy - czy pozwala on na
   edycję kodu, dodawanie opisów alternatywnych, ustalanie kontrastu i
   struktury nagłówków?
 - Czy dostępność jest ujęta w procesie projektowania UX i UI?
 - Czy planujemy testy z użytkownikami, w tym z osobami z
   niepełnosprawnościami?
-- Jakie zasady nawigacji obowiązują na stronie -- czy możliwa jest
+- Jakie zasady nawigacji obowiązują na stronie - czy możliwa jest
   obsługa wyłącznie klawiaturą?
 - Czy formularze, przyciski i linki mają jednoznaczne etykiety i
   odpowiedni kontrast?
@@ -210,7 +208,7 @@ najważniejszych zagadnień dla każdego z tych trzech typów.
 - Czy zadbaliśmy o odpowiednią wielkość elementów interaktywnych i
   odstępy między nimi?
 - Czy aplikacja umożliwia zmianę rozmiaru tekstu i kontrastu? Względnie
-  -- czy rozmiar tekstu i kontrast będą zapewnione domyślnie (by design)
+  - czy rozmiar tekstu i kontrast będą zapewnione domyślnie (by design)
   na właściwym poziomie?
 - Czy użytkownik znajdzie informację o dostępności aplikacji w opisie w
   App Store i Google Play?
@@ -223,10 +221,10 @@ i uniknąć błędów, które później są kosztowne do naprawienia. To
 również dobra baza do stworzenia listy kontrolnej i oceny zgodności z
 wymaganiami prawnymi.
 
-### 1.4 Lista kontrolna -- faza koncepcji i definiowania wymagań
+### 1.4 Lista kontrolna - faza koncepcji i definiowania wymagań
 
 |Nr   | Kryterium kontrolne                           | Tak | Nie |   Uwagi     |
-|-----|-----------------------------------------------|-----|-----|-------------|
+|---|------------------------|---|---|-------|
 |1    | Czy przeprowadzono wstępną analizę  obowiązujących przepisów prawa, w tym ustaw o dostępności oraz ewentualnych regulacji branżowych lub wewnętrznych, mających zastosowanie do planowanego produktu  cyfrowego? | | | | 
 |2    | Czy zidentyfikowano wszystkie potencjalne  grupy użytkowników? | | | |                                         
 |3    | Czy przeprowadzono analizę ryzyka dostępności? | | | |             
