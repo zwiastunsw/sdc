@@ -10,7 +10,6 @@
     "lint:md": "markdownlint docs/**/*.md --config .markdownlint.json",
     "optimize-images": "svgo --recursive --config=svgo.config.mjs \"static/img/\" --output \"static/img/\" && node scripts/optimize-images.js",
     "postinstall": "node fixes/package-fixes.js",
-    "preinstall": "npx npm-force-resolutions",
     "serve": "docusaurus serve",
     "start": "docusaurus start",
     "swizzle": "docusaurus swizzle",
