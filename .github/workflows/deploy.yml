@@ -24,13 +24,13 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v6
         with:
-          node-version: 24
+          node-version: 25
           cache: npm
           cache-dependency-path: documentation/package-lock.json
 
       - name: Install dependencies
         working-directory: documentation
-        run: npm install -f
+        run: npm ci
 
       - name: Build site
         working-directory: documentation
