@@ -48,7 +48,7 @@
   },
   "resolutions": {
     "got": "11.8.5",
-    "locate-path": "8.0.0",
+    "locate-path": "5.0.0",
     "rollup": "4.52.5"
   },
   "browserslist": {
