@@ -42,12 +42,12 @@
     "imagemin-pngquant": "10.0.0",
     "markdownlint": "0.39.0",
     "markdownlint-cli": "0.45.0",
-    "npm-force-resolutions": "0.0.10",
-    "rollup": "4.52.5",
     "svgo": "4.0.0",
     "typescript": "5.9.3"
   },
-  "resolutions": {},
+  "overrides": {
+    "rollup": "4.52.5"
+  },
   "browserslist": {
     "production": [
       ">0.5%",
