@@ -1,7 +1,7 @@
 name: Auto Convert PR to Draft (Docs/Blog Only)
 
 on:
-  pull_request_target:
+  pull_request:
     types: [opened, reopened, ready_for_review, synchronize]
 
 permissions:
@@ -14,14 +14,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Fetch PR info and changed files
+      - name: Check if docs or blog are affected
         id: affected
         uses: actions/github-script@v8
         with:
           script: |
             const pr = context.payload.pull_request;
 
-            // Pobierz zmienione pliki (bez checkoutu)
             const { data: files } = await github.rest.pulls.listFiles({
               owner: context.repo.owner,
               repo: context.repo.repo,
@@ -29,7 +28,6 @@ jobs:
               per_page: 300,
             });
 
-            // Sprawdź, czy dotyczy docs lub blog
             const affectsDocsOrBlog = files.some(f =>
               f.filename.startsWith('documentation/docs/') ||
               f.filename.startsWith('documentation/blog/')
@@ -38,17 +36,18 @@ jobs:
             core.setOutput('affected', affectsDocsOrBlog ? 'true' : 'false');
             core.info(`📁 Affects docs/blog: ${affectsDocsOrBlog}`);
 
-      - name: Determine allowed reviewers (includes secret)
+      - name: Determine allowed reviewers (safe for forks)
         id: reviewers
         if: steps.affected.outputs.affected == 'true'
         uses: actions/github-script@v8
         env:
-          ALLOWED_REVIEWERS: ${{ secrets.ALLOWED_REVIEWERS }}
+          ALLOWED_REVIEWERS: ${{ secrets.ALLOWED_REVIEWERS || '' }}
         with:
           script: |
             const pr = context.payload.pull_request;
             const prAuthor = pr.user.login.toLowerCase();
 
+            // Jeśli sekret niedostępny (PR z forka), fallback do pustej listy
             const secret = process.env.ALLOWED_REVIEWERS || '';
             const allowedUsers = secret
               .split(',')
@@ -56,10 +55,9 @@ jobs:
               .filter(Boolean);
 
             if (!secret) {
-              core.warning('⚠️ Secret ALLOWED_REVIEWERS is empty or missing.');
+              core.warning('⚠️ ALLOWED_REVIEWERS secret not available (probably fork PR) — proceeding in restricted mode.');
             }
 
-            // Autor PR nie może sam zatwierdzić swojego PR
             const reviewers = allowedUsers.filter(u => u !== prAuthor);
             core.setOutput('reviewers', reviewers.join(','));
             core.info(`👥 Allowed reviewers (excluding author): ${reviewers.join(', ') || 'none'}`);
@@ -72,7 +70,7 @@ jobs:
             const pr = context.payload.pull_request;
             const prNumber = pr.number;
 
-            // Konwersja tylko jeśli nie jest już draftem
+            // Always convert affected PRs to draft
             if (!pr.draft) {
               await github.rest.pulls.update({
                 owner: context.repo.owner,
@@ -85,6 +83,7 @@ jobs:
               core.info('ℹ️ PR already a draft.');
             }
 
+            // Create informative comment with hidden marker
             const message = [
               '👋 Ten PR został automatycznie przekonwertowany na **draft**.',
               '',
@@ -94,7 +93,6 @@ jobs:
               '<!-- draft-auto-bot -->'
             ].join('\n');
 
-            // Sprawdź, czy komentarz już istnieje
             const { data: comments } = await github.rest.issues.listComments({
               owner: context.repo.owner,
               repo: context.repo.repo,
