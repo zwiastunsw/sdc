@@ -1,118 +1,42 @@
-name: Auto Convert PR to Draft (Docs/Blog Only)
+name: Auto Draft
 
 on:
-  pull_request:
-    types: [opened, reopened, ready_for_review, synchronize]
+  pull_request_target:
+    types: [opened, synchronize, reopened, ready_for_review]
 
 permissions:
-  pull-requests: write
   contents: read
-  issues: write
+  pull-requests: read
 
 jobs:
-  auto-draft:
+  detect-docs-change:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Check if docs or blog are affected
-        id: affected
-        uses: actions/github-script@v8
+      - name: Checkout repo
+        uses: actions/checkout@v4
         with:
-          script: |
-            const pr = context.payload.pull_request;
+          fetch-depth: 2
 
-            const { data: files } = await github.rest.pulls.listFiles({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              pull_number: pr.number,
-              per_page: 300,
-            });
+      - name: Sprawdź zmienione pliki
+        id: changes
+        run: |
+          git fetch origin ${{ github.event.pull_request.base.ref }} --depth=1
+          git diff --name-only origin/${{ github.event.pull_request.base.ref }} > changed_files.txt
+          cat changed_files.txt
+          if grep -E '^documentation/(docs|blog)/' changed_files.txt; then
+            echo "DOCS_CHANGED=true" >> $GITHUB_ENV
+          else
+            echo "DOCS_CHANGED=false" >> $GITHUB_ENV
+          fi
 
-            const affectsDocsOrBlog = files.some(f =>
-              f.filename.startsWith('documentation/docs/') ||
-              f.filename.startsWith('documentation/blog/')
-            );
+      - name: Zapisz wynik do artefaktu
+        run: |
+          mkdir -p artifact
+          echo "{\"draftApplied\": ${DOCS_CHANGED,,}}" > artifact/result.json
 
-            core.setOutput('affected', affectsDocsOrBlog ? 'true' : 'false');
-            core.info(`📁 Affects docs/blog: ${affectsDocsOrBlog}`);
-
-      - name: Determine allowed reviewers (safe for forks)
-        id: reviewers
-        if: steps.affected.outputs.affected == 'true'
-        uses: actions/github-script@v8
-        env:
-          ALLOWED_REVIEWERS: ${{ secrets.ALLOWED_REVIEWERS || '' }}
+      - name: Upload artefakt
+        uses: actions/upload-artifact@v4
         with:
-          script: |
-            const pr = context.payload.pull_request;
-            const prAuthor = pr.user.login.toLowerCase();
-
-            // Jeśli sekret niedostępny (PR z forka), fallback do pustej listy
-            const secret = process.env.ALLOWED_REVIEWERS || '';
-            const allowedUsers = secret
-              .split(',')
-              .map(u => u.trim().toLowerCase())
-              .filter(Boolean);
-
-            if (!secret) {
-              core.warning('⚠️ ALLOWED_REVIEWERS secret not available (probably fork PR) — proceeding in restricted mode.');
-            }
-
-            const reviewers = allowedUsers.filter(u => u !== prAuthor);
-            core.setOutput('reviewers', reviewers.join(','));
-            core.info(`👥 Allowed reviewers (excluding author): ${reviewers.join(', ') || 'none'}`);
-
-      - name: Convert PR to draft and add single comment
-        if: steps.affected.outputs.affected == 'true'
-        uses: actions/github-script@v8
-        with:
-          script: |
-            const pr = context.payload.pull_request;
-            const prNumber = pr.number;
-
-            // Always convert affected PRs to draft
-            if (!pr.draft) {
-              await github.rest.pulls.update({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                pull_number: prNumber,
-                draft: true,
-              });
-              core.notice(`✅ PR #${prNumber} converted to draft.`);
-            } else {
-              core.info('ℹ️ PR already a draft.');
-            }
-
-            // Create informative comment with hidden marker
-            const message = [
-              '👋 Ten PR został automatycznie przekonwertowany na **draft**.',
-              '',
-              'Tylko upoważnieni użytkownicy mogą oznaczać PR jako gotowy “Ready for review” (gotowy do końcowego przeglądu).',
-              'Autor PR nie może sam oznaczyć swojego PR.',
-              'Jeśli uważasz, że jest to błąd, skontaktuj się z administratorem.',
-              '<!-- draft-auto-bot -->'
-            ].join('\n');
-
-            const { data: comments } = await github.rest.issues.listComments({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              issue_number: prNumber,
-              per_page: 100,
-            });
-
-            const alreadyCommented = comments.some(c =>
-              c.user.type === 'Bot' &&
-              c.body.includes('<!-- draft-auto-bot -->')
-            );
-
-            if (!alreadyCommented) {
-              await github.rest.issues.createComment({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                issue_number: prNumber,
-                body: message,
-              });
-              core.info('💬 Comment added to PR explaining conversion.');
-            } else {
-              core.info('💬 Draft comment already exists — skipping.');
-            }
+          name: auto-draft-result
+          path: artifact/result.json
