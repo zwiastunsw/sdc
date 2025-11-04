@@ -36,7 +36,7 @@ jobs:
           echo "{\"draftApplied\": ${DOCS_CHANGED,,}}" > artifact/result.json
 
       - name: Upload artefakt
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v5
         with:
           name: auto-draft-result
           path: artifact/result.json
