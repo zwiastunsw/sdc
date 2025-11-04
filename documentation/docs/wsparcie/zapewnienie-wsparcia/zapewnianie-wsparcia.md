@@ -157,6 +157,17 @@ Organizacja ustala i wdraża proces wnioskowania i zapewniania pracownikom dosto
    - Tworzenie formalnych procedur wnioskowania o dostosowania w organizacjach publicznych i prywatnych.
    - Wdrażanie zasady „Design for All” / „Accessibility by Design” w projektowaniu systemów IT i treści cyfrowych.
    - Monitorowanie skuteczności usprawnień i szkolenia pracowników z zakresu dostępności cyfrowej.
+5. **Publikacje zwarte**
+   - [CIOP–PIB, Osoba z niepełnosprawnością wzrokową w pracy. Poradnik dla pracodawców](https://m.ciop.pl/CIOPPortalWAR/file/97895/niepelnosprawnosc-wzrokowa-poradnik-dla-pracodawcy.pdf)
+   - [CIOP–PIB, Osoba z niepełnosprawnością słuchową w pracy. Poradnik dla pracodawców](https://m.ciop.pl/CIOPPortalWAR/file/97893/niepelnosprawnosc-sluchowa-poradnik-dla-pracodawcy.pdf)
+   - [CIOP–PIB, Osoba z niepełnosprawnością ruchową w pracy. Poradnik dla pracodawców](https://m.ciop.pl/CIOPPortalWAR/file/97894/niepelnosprawnosc-ruchowa-poradnik-dla-pracodawcy.pdf)
+   - [CIOP–PIB, Osoba z niepełnosprawnością intelektualną w pracy. Poradnik dla pracodawców](https://www.ciop.pl/CIOPPortalWAR/file/88310/Osoba_z_niepelnosprawnoscia_intelektualna_w_pracy-Poradnik_dla_pracodawcow.pdf)
+   - [CIOP–PIB, Projektowanie obiektów, pomieszczeń oraz przystosowanie stanoiwisk pracy dla osób niepełnosprawnych o specyficznych potrzebach - ramowe wytyczne](https://www.pfron.org.pl/o-funduszu/projekty/projekty-ue/program-operacyjny-kap/zakonczone-projekty/ramowe-wytyczne-w-zakr/efekty-projektu/#Publikacja)
+   - [CIOP–PIB, Przystosowanie obiektów, pomieszczeń oraz stanowisk pracy dla osób niepełnosprawnych o specyficznych potrzebach - dobre praktyki](https://www.pfron.org.pl/o-funduszu/projekty/projekty-ue/program-operacyjny-kap/zakonczone-projekty/ramowe-wytyczne-w-zakr/efekty-projektu/#Publikacja)
+   - [CIOP–PIB, Lista kontrolna do oceny ergonomicznej stanowiska pracy osób z różnymi rodzajami niepełnosprawności](https://www.pfron.org.pl/o-funduszu/projekty/projekty-ue/program-operacyjny-kap/zakonczone-projekty/ramowe-wytyczne-w-zakr/efekty-projektu/#Lista)
+   - [Fundacja Aktywizacja, Postaw na pracę. Dostępne miejsca pracy](https://aktywizacja.org.pl/wiedza/publikacje/broszura-dostepne-miejsca-pracy/)
+   - [Fundacja Aktywizacja, Poradnik dla pracodawców, o tym jak tworzyć dostępne miejsce pracy](https://aktywizacja.org.pl/wp-content/uploads/2024/06/Fundacja-Aktywizacja_Poradnik-dla-pracodawcow-o-tym-jak-tworzyc-dostepne-miejsce-pracy.pdf)
+   - [Fundacja Aktywizacja, Osoba z niepełnosprawnością w Twojej firmie – Niezbędnik pracodawcy](https://aktywizacja.org.pl/wiedza/publikacje/osoba-z-niepelnosprawnoscia-w-twojej-firmie-niezbednik-pracodawcy/)   
 
 ## Źródła w formacie APA
 
