@@ -21,7 +21,7 @@ jobs:
           echo "REPO=$(jq -r '.repository.full_name' <<< '${{ toJson(github.event.workflow_run) }}')" >> $GITHUB_ENV
 
       - name: Pobierz artefakt z poprzedniego workflow
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v6
         with:
           name: auto-draft-result
           github-token: ${{ secrets.GITHUB_TOKEN }}
