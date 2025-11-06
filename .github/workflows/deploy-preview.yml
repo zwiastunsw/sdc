@@ -51,7 +51,7 @@ jobs:
         working-directory: documentation
 
       - name: Upload build artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v5
         with:
           name: pr-preview
           path: documentation/build
