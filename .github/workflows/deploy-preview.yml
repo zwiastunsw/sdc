@@ -100,7 +100,7 @@ jobs:
           git push origin staging
 
       - name: Upload full staging branch as artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
           path: .
 
