@@ -18,8 +18,9 @@ const config: Config = {
     url: 'https://siec-dostepnosci-cyfrowej.github.io',
     // Set the /<baseUrl>/ pathname under which your site is served
     // For GitHub pages deployment, it is often '/<projectName>/'
-    baseUrl: '/sdc/',
-
+    
+	baseUrl: process.env.BASE_URL || '/sdc/',
+ 
     // GitHub pages deployment config.
     // If you aren't using GitHub pages, you don't need these.
     organizationName: 'Sieć Dostępności Cyfrowej', // Usually your GitHub org/user name.

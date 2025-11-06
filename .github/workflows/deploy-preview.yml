@@ -44,10 +44,10 @@ jobs:
         working-directory: documentation
 
       - name: Build Docusaurus with dynamic base URL
+        env:
+         BASE_URL: /pr-${{ env.PR_NUMBER }}/
         run: |
-          npx docusaurus build \
-            --out-dir build \
-            --base-url "/pr-${{ env.PR_NUMBER }}/"
+          npx docusaurus build --out-dir build
         working-directory: documentation
 
       - name: Upload build artifact
