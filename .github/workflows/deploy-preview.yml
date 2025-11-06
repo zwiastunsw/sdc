@@ -1,0 +1,120 @@
+name: Deploy PR Preview
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+  workflow_dispatch:
+    inputs:
+      pr_number:
+        description: "Pull Request number (for manual runs)"
+        required: true
+        type: number
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+  pull-requests: write
+
+concurrency:
+  group: preview-${{ github.event.pull_request.number || github.event.inputs.pr_number }}
+  cancel-in-progress: true
+
+env:
+  PR_NUMBER: ${{ github.event.pull_request.number || github.event.inputs.pr_number }}
+
+jobs:
+  build:
+    name: Build and test Docusaurus
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 25
+          cache: npm
+          cache-dependency-path: documentation/package-lock.json
+
+      - name: Install dependencies
+        run: npm install -f
+        working-directory: documentation
+
+      - name: Build Docusaurus with dynamic base URL
+        run: |
+          npx docusaurus build \
+            --out-dir build \
+            --base-url "/pr-${{ env.PR_NUMBER }}/"
+        working-directory: documentation
+
+      - name: Upload build artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: pr-preview
+          path: documentation/build
+
+  deploy:
+    name: Deploy to previews environment
+    needs: build
+    runs-on: ubuntu-latest
+    environment: previews
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Download built preview artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: pr-preview
+          path: build
+
+      - name: Configure Git (GitHub Actions Bot)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Update staging branch with PR preview
+        run: |
+          git fetch origin staging || true
+          if git show-ref --verify --quiet refs/remotes/origin/staging; then
+            git checkout staging
+            git pull origin staging --rebase || true
+          else
+            git checkout -b staging
+          fi
+
+          if [ -d "pr-${{ env.PR_NUMBER }}" ]; then
+             rm -rf "pr-${{ env.PR_NUMBER }}"
+          fi
+          mkdir -p "pr-${{ env.PR_NUMBER }}"
+          cp -r build/* "pr-${{ env.PR_NUMBER }}/"
+
+          git add "pr-${{ env.PR_NUMBER }}"
+          git commit -m "PR #${{ env.PR_NUMBER }} preview update" || echo "No changes"
+          git push origin staging
+
+      - name: Upload full staging branch as artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+      - name: Deploy to Pages (previews environment)
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+      - name: Comment PR with preview URL
+        if: ${{ github.event_name == 'pull_request' }}
+        uses: marocchino/sticky-pull-request-comment@v2
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          pull-request-number: ${{ env.PR_NUMBER }}
+          header: "pr-preview-comment"
+          body: |
+            🚀 **PR Preview Available**
+            🔗 ${{ steps.deployment.outputs.page_url }}pr-${{ env.PR_NUMBER }}/
