@@ -74,7 +74,7 @@
 <body>
 
 <div class="download">
-    <a href="Procedura_badania_dostepnosci.docx" download>Pobierz wersję Word (.docx)</a>
+    <a href="ramowa-procedura-oceniania-dostepnosci.docx" download>Pobierz wersję Word (.docx)</a>
 </div>
 
 <h1>Procedura badania i oceniania dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotu publicznego</h1>

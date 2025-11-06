@@ -1,7 +1,7 @@
 ---
 id: procedura-oceniania-witryn-i-aplikacji
 title: Procedura badania i oceniania dostępności cyfrowej stron internetowych i aplikacji mobilnych
-sidebar_label: Procedura badania i oceniania dostępności cyfrowej
+sidebar_label: Procedura badania i oceniania dostępności cyfrowej. Zalecenie
 sidebar_position: 0
 description: Organizacja ustanawia i wdraża procedurę badania i oceniania dostępności cyfrowej stron internetowych i aplikacji mobilnych
 keywords: [cykl życia TIK, dostępność cyfrowa, deklaracja dostępności, przegląd dostępności]
@@ -121,13 +121,24 @@ Procedura badania gwarantuje, że:
    - wspiera efektywne wykorzystanie środków publicznych,
    - zapewnia, że organizacja działa zgodnie z zasadami przejrzystości i równego dostępu do usług cyfrowych.
 
-## Załączniki
 
-- [Ramowa procedura oceniania dostepnosci](ramowa-procedura-oceniania-dostepnosci)
-- [Ramowa procedura oceniania dostepnosci, HTML](ramowa-procedura-oceniania-dostepnosci)
-- [Ramowa procedura oceniania dostepnosci](ramowa-procedura-oceniania-dostepnosci.html)
-- [Ramowa procedura oceniania dostepnosci, DOCX](Procedura_badania_dostepnosci.docx)
-- [Ramowa procedura oceniania dostepnosci, PDF](procedura_badania_dostepnosci_PDFUA.pdf)
+## Załączniki
+- [Ramowa procedura oceniania dostepnosci](ramowa-procedura-oceniania-dostepnosci-v2)
+- [Ramowa procedura oceniania dostepnosci, HTML](/cykltik/procedura-oceny-dostepnosci/ramowa-procedura-oceniania-dostepnosci.txt)
+- [Ramowa procedura oceniania dostepnosci, DOCX](/cykltik/procedura-oceny-dostepnosci/ramowa-procedura-oceniania-dostepnosci.docx)
+- [Ramowa procedura oceniania dostepnosci, PDF](/cykltik/procedura-oceny-dostepnosci/ramowa-procedura-oceniania-dostepnosci-pdfua.pdf)
+- [Ramowa rozszerzona procedura oceniania dostepnosci](ramowa-procedura-oceniania-dostepnosci-v1)
+- [Ramowa rozszerzona procedura oceniania dostepnosci, HTML](/cykltik/procedura-oceny-dostepnosci/ramowa-rozszerzona-procedura-oceniania-dostepnosci.txt)
+- [Ramowa rozszerzona procedura oceniania dostepnosci, DOCX](/cykltik/procedura-oceny-dostepnosci/ramowa-rozszerzona-procedura-oceniania-dostepnosci.docx)
+- [Ramowa rozszerzona procedura oceniania dostepnosci, PDF](/cykltik/procedura-oceny-dostepnosci/ramowa-rozszerzona-procedura-oceniania-dostepnosci.pdf)
+
+
+
+
+
+
+
+
 
 
    

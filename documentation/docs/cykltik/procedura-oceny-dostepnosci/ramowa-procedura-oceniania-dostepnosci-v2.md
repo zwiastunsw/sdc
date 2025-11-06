@@ -1,8 +1,8 @@
 ---
 id: ramowa-procedura-oceniania-dostepnosci-v2
 title: Ramowa procedura badania i oceniania dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotu publicznego
-sidebar_label: Ramowa procedura. Wersja 2 (prostsza)
-sidebar_position: 3
+sidebar_label: Ramowa procedura. Wersja 2
+sidebar_position: 2
 description: Organizacja ustanawia i wdraża procedurę badania i oceniania dostępności cyfrowej stron internetowych i aplikacji mobilnych
 keywords: [cykl życia TIK, dostępność cyfrowa, deklaracja dostępności, przegląd dostępności]
 tags: [cykl życia TIK, dostępność cyfrowa, deklaracja dostępności, przegląd dostępności]
@@ -13,60 +13,124 @@ wersja_robocza: true
 
 ---
 
+**Urząd Miejski w Nowoczesnym**  
+Wersja 1.0 · 2025  
+
+---
+
+## Spis treści
+1. Cel procedury  
+2. Zakres stosowania  
+3. Podstawy prawne i standardy  
+4. Definicje  
+5. Odpowiedzialności  
+6. Rodzaje badań dostępności  
+7. Etapy i metody badań  
+8. Dokumentowanie i archiwizacja wyników  
+9. Wskaźniki efektywności  
+10. Postanowienia końcowe  
+11. Załącznik: Wzór raportu z badania dostępności cyfrowej  
+
+---
 
 ## 1. Cel procedury
-Celem procedury jest zapewnienie zgodności serwisów internetowych i aplikacji mobilnych podmiotu z przepisami ustawy z dnia 4 kwietnia 2019 r. o dostępności cyfrowej, ustanowienie jednolitych zasad oceny, monitorowania i doskonalenia dostępności cyfrowej, umożliwienie sporządzania wiarygodnych oświadczeń o dostępności oraz wspieranie ciągłego podnoszenia jakości cyfrowych usług publicznych.
+Celem niniejszej procedury jest zapewnienie systematycznego, udokumentowanego i zgodnego z prawem procesu badania i oceniania dostępności cyfrowej stron internetowych, aplikacji mobilnych i publikacji cyfrowych Urzędu Miejskiego w Nowoczesnym.
+
+Procedura stanowi element systemu zarządzania dostępnością i jest powiązana z **Polityką dostępności Urzędu Miejskiego w Nowoczesnym**.
+
+---
 
 ## 2. Zakres stosowania
-Procedura obejmuje wszystkie strony internetowe oraz aplikacje mobilne prowadzone lub współprowadzane przez podmiot publiczny, systemy i treści publikowane w imieniu podmiotu oraz okresowe i doraźne audyty dostępności cyfrowej.
+Procedura obejmuje wszystkie działania związane z badaniem, ocenianiem i monitorowaniem dostępności cyfrowej stron internetowych, aplikacji mobilnych oraz publikacji cyfrowych opracowywanych lub utrzymywanych przez Urząd Miejski w Nowoczesnym.
 
-## 3. Podstawa prawna
-- Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych  
-- Dyrektywa (UE) 2016/2102 Parlamentu Europejskiego i Rady  
-- Rozporządzenie Ministra Cyfryzacji z dnia 12 kwietnia 2019 r.  
-- Wytyczne WCAG 2.1 na poziomie AA  
+---
+
+## 3. Podstawy prawne i standardy
+- [Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000848)  
+- [Warunki techniczne publikacji i struktura dokumentu elektronicznego deklaracji dostępności](https://www.gov.pl/web/dostepnosc-cyfrowa/publikowanie-deklaracji-dostepnosci)  
+- [Wytyczne dla dostępności treści internetowych (WCAG) 2.1](https://www.w3.org/Translations/WCAG21-pl/)  
+- [PN ETSI EN 301 549 v. 3.1.2 Wymagania dotyczące dostępności produktów i usług ICT](https://sklep.pkn.pl/pn-etsi-en-301-549-v3-2-1-2021-09p.html)  
+- [Website Accessibility Conformance Evaluation Methodology (WCAG-EM) 1.0](https://www.w3.org/TR/WCAG-EM/)  
+- [Easy Checks – A First Review of Web Accessibility](https://www.w3.org/WAI/test-evaluate/preliminary/)  
+
+---
 
 ## 4. Definicje
-- **Dostępność cyfrowa** – cecha serwisu internetowego lub aplikacji umożliwiająca korzystanie z nich wszystkim użytkownikom, w tym osobom z niepełnosprawnościami.  
-- **Audyt dostępności** – formalny proces oceny zgodności serwisu z wymaganiami WCAG 2.1.  
-- **Badanie uproszczone** – wstępna ocena dostępności wykonywana wewnętrznie.  
-- **Oświadczenie o dostępności** – dokument informujący o stanie dostępności cyfrowej serwisu.  
+**Dostępność cyfrowa** – właściwość strony internetowej, aplikacji lub dokumentu cyfrowego umożliwiająca korzystanie z nich przez wszystkie osoby, w tym z niepełnosprawnościami.  
+**Badanie dostępności** – zorganizowany proces oceny zgodności z wymaganiami WCAG 2.1.  
+**Audyt zgodności** – kompleksowe badanie reprezentatywnej próbki treści cyfrowych.  
+**Monitoring** – cykliczne, zautomatyzowane sprawdzanie wybranych stron.  
+**Przegląd ramowy** – uproszczona, roczna ocena dostępności.  
 
-## 5. Odpowiedzialność
-| Funkcja / komórka | Zakres odpowiedzialności |
-|--------------------|---------------------------|
-| Koordynator ds. dostępności | Nadzór nad realizacją procedury, inicjowanie audytów |
-| Administrator | Wdrażanie rekomendacji z audytów |
-| Dział IT | Zapewnienie technicznych warunków dostępności |
-| Komórka merytoryczna | Zapewnienie dostępności treści |
-| Kierownictwo | Zatwierdzanie planów badań i raportów |
+---
 
-## 6. Etapy procesu badania dostępności
-1. **Planowanie** – sporządzenie rocznego planu badań, harmonogramu, metodyki.  
-2. **Przeprowadzenie badania** – minimum raz w roku lub po istotnej zmianie.  
-3. **Raportowanie** – przygotowanie raportu z audytu z zaleceniami.  
-4. **Działania korygujące** – wdrażanie poprawek i weryfikacja.  
-5. **Publikacja oświadczenia o dostępności.**  
-6. **Przegląd i doskonalenie** – coroczna aktualizacja metodyki i narzędzi.  
+## 5. Odpowiedzialności
+- **Osoba odpowiedzialna za dostępność** koordynuje plan badań i nadzoruje wdrożenie zaleceń.  
+- **Zespół ds. dostępności** prowadzi badania, analizuje wyniki i przygotowuje raporty.  
+- **Administratorzy i redaktorzy** przeprowadzają bieżące weryfikacje i reagują na problemy.  
+- **Kierownicy jednostek organizacyjnych** zapewniają wdrożenie działań naprawczych.  
 
-## 7. Dokumentacja i archiwizacja
-Raporty, plany i oświadczenia przechowuje się przez co najmniej 5 lat. Dokumentacja może być udostępniona organom kontrolnym.
+---
 
-## 8. Załączniki (przykładowe)
-1. Wzór rocznego planu badań.  
-2. Lista kontrolna badania WCAG 2.1.  
-3. Wzór raportu z audytu.  
-4. Rejestr działań korygujących.  
+## 6. Rodzaje badań dostępności
+1. **Bieżące ocenianie** – wykonywane przez redaktorów przy publikacji treści.  
+2. **Wycinkowe badania** – realizowane przy zgłoszeniach problemów lub zmianach funkcjonalności.  
+3. **Monitoring dostępności** – cykliczne badanie zestawu stron (min. 25 w dużych serwisach).  
+4. **Przegląd roczny** – uproszczone testy podstawowych kryteriów WCAG.  
+5. **Testy z użytkownikami z niepełnosprawnościami** – weryfikacja praktyczna użyteczności.  
+6. **Audyt zgodności** – pełna ocena według WCAG-EM lub równoważnej metodyki.  
 
-## 9. Postanowienia końcowe
-Procedura wchodzi w życie z dniem podpisania przez kierownika jednostki. Zmiany wymagają zatwierdzenia po opinii Koordynatora ds. dostępności.
+---
 
+## 7. Etapy i metody badań
+1. Planowanie zakresu badania.  
+2. Wybór metody (narzędzia automatyczne, testy manualne, testy użytkowników).  
+3. Wykonanie testów.  
+4. Opracowanie raportu z wynikami.  
+5. Przekazanie raportu osobie odpowiedzialnej.  
+6. Wdrożenie działań naprawczych.  
 
+---
 
- 
+## 8. Dokumentowanie i archiwizacja wyników
+- Raport z badania wypełnia osoba przeprowadzająca ocenę dostępności.  
+- Po zatwierdzeniu przez osobę odpowiedzialną raport jest przekazywany do archiwizacji i przechowywany przez minimum 3 lata.  
+- Wzór raportu stanowi załącznik do niniejszej procedury.  
 
+---
 
-   
+## 9. Wskaźniki efektywności
+- średni poziom zgodności WCAG (w %),  
+- liczba stwierdzonych niezgodności,  
+- czas reakcji na problemy,  
+- liczba działań naprawczych zakończonych skutecznie.  
 
+---
 
+## 10. Postanowienia końcowe
+Procedura podlega przeglądowi co najmniej raz w roku oraz każdorazowo po istotnych zmianach w przepisach lub technologii publikacji treści cyfrowych.  
 
+---
+
+## 11. Załącznik: Wzór raportu z badania dostępności cyfrowej
+
+| Nr | Kryterium WCAG 2.1 | Ocena (0–2–5) | Uwagi / Opis problemu | Zalecane działania |
+|----|---------------------|---------------|-----------------------|--------------------|
+| 1  | Teksty alternatywne dla obrazów |   |   |   |
+| 2  | Kontrast i czytelność |   |   |   |
+| 3  | Nawigacja klawiaturą |   |   |   |
+| 4  | Formularze i etykiety |   |   |   |
+| 5  | Multimedia i napisy |   |   |   |
+| ... | ... | ... | ... | ... |
+
+**Średni wynik zgodności:** ……… %  
+**Rekomendacje działań naprawczych:**  
+................................................................................
+
+**Data badania:** …………………  
+**Osoba przeprowadzająca badanie:** ……………………………………  
+**Zatwierdzono dnia:** …………………  
+
+---
+
+Urząd Miejski w Nowoczesnym · Wersja 1.0 · 2025
