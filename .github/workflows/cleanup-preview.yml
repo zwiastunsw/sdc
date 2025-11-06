@@ -8,14 +8,15 @@ on:
         required: true
         type: number
 
+        
+permissions:
+  contents: write       # Modify staging branch
+  pull-requests: write  # Remove sticky preview comment
+
 jobs:
   cleanup:
     runs-on: ubuntu-latest
     environment: previews
-
-permissions:
-  contents: write       # Modify staging branch
-  pull-requests: write  # Remove sticky preview comment
 
     steps:
       - uses: actions/checkout@v4
