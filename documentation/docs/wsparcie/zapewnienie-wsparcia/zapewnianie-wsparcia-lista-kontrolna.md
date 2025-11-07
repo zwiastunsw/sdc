@@ -31,16 +31,16 @@ wersja_robocza: true
    ☐ Wyjaśnić, jak wypełniać formularz wniosku i jakie informacje są potrzebne.\
    ☐ Podkreślić zasady poufności i brak konsekwencji negatywnych dla wnioskujących.
 3. **Szkolenia wewnętrzne**\
-   ☐ Przeszkolić HR i przełożonych w zakresie przyjmowania i obsługi wniosków.\
+   ☐ Przeszkolić Dział kadr i przełożonych w zakresie przyjmowania i obsługi wniosków.\
    ☐ Przeszkolić IT w zakresie wdrażania dostosowań cyfrowych zgodnie ze standardami WCAG i ISO.\
    ☐ Wprowadzić szkolenia dla pracowników w zakresie korzystania z dostępnych usprawnień.
 4. **Obsługa wniosków**\
-   ☐ Ustalić dedykowany kanał przyjmowania wniosków (formularz online, e-mail, HR).\
+   ☐ Ustalić dedykowany kanał przyjmowania wniosków (formularz online, e-mail, Dział kadr).\
    ☐ Określić terminy rozpatrywania wniosków (np. do 30 dni roboczych).\
    ☐ Powołać osoby odpowiedzialne za analizę, wdrożenie i monitorowanie usprawnień.
 5. **Wdrożenie usprawnień**\
    ☐ IT i inne odpowiednie działy realizują dostosowania zgodnie z zaleceniami.\
-   ☐ HR monitoruje proces i potwierdza wdrożenie w systemie rejestracji wniosków.\
+   ☐ Dział kadr monitoruje proces i potwierdza wdrożenie w systemie rejestracji wniosków.\
    ☐ Sprawdzić, czy wdrożone rozwiązania faktycznie eliminują bariery dla pracownika.
 6. **Monitorowanie i doskonalenie**\
    ☐ Regularnie przeglądać rejestr wniosków i wdrożonych usprawnień.\

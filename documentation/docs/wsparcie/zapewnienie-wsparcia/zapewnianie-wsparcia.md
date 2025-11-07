@@ -29,19 +29,19 @@ Organizacja ustala i wdraża proces wnioskowania i zapewniania pracownikom dosto
    
    - **cel**: zapewnienie równych szans i możliwości korzystania z technologii i zasobów cyfrowych przez wszystkich pracowników, w tym osoby z niepełnosprawnościami;
    - **zakres**: wszystkie systemy IT, oprogramowanie, aplikacje, treści intranetowe, szkoleniowe i komunikacyjne;
-   - **odpowiedzialność**: wskazanie działu lub osoby (np. HR, BHP, IT, Działu Różnorodności i Włączenia), odpowiedzialnej za obsługę wniosków i wdrażanie dostosowań.
+   - **odpowiedzialność**: wskazanie działu lub osoby (np. Dział kadr, BHP, IT, Działu Różnorodności i Włączenia), odpowiedzialnej za obsługę wniosków i wdrażanie dostosowań.
 
 2. **Proces składania wniosków o dostosowania**\
    Organizacja powinna zapewnić jasny i poufny mechanizm wnioskowania o dostosowania cyfrowe, który może obejmować:
    
-   a) **Formularz wniosku (elektroniczny lub papierowy), zawierający:**
+   a) **Formularz wniosku (elektroniczny i papierowy), zawierający:**
       - dane pracownika (lub możliwość anonimowego zgłoszenia wstępnego);
-	  - opis trudności lub barier (np. „czytnik ekranu nie działa poprawnie w systemie HR”);
+	  - opis trudności lub barier (np. „czytnik ekranu nie działa poprawnie w systemie obsługi kadr”);
 	  - propozycję lub oczekiwany typ usprawnienia (np. powiększenie czcionki, zmiana kontrastu, alternatywny format pliku, dodatkowe oprogramowanie wspomagające).
 	  
    b) **Kanały kontaktu**:
-      - HR lub dział BHP,
-	  - Pełnomocnik ds. dostępności,
+      - dział kadr lub dział BHP,
+	  - pełnomocnik ds. dostępności,
 	  - dedykowana skrzynka mailowa (np. dostosowania@firma.pl),
 	  - system ticketowy IT (dla zgłoszeń technicznych).
 
@@ -73,9 +73,9 @@ Organizacja ustala i wdraża proces wnioskowania i zapewniania pracownikom dosto
    - szkolenia dla kadry kierowniczej i działu IT z zakresu dostępności.
 
 6. **Przykładowe dobre praktyki**
-   - Wdrożenie zasady „design for all” w projektach IT – dostępność od fazy projektowania.
+   - Wdrożenie zasady „projektowania dla wszystkich” w projektach IT – dostępność od fazy projektowania.
    - Używanie standardów WCAG 2.1 AA przy tworzeniu i zakupie oprogramowania.
-   - Stworzenie wewnętrznego zespołu ds. dostępności cyfrowej (HR + IT + komunikacja).
+   - Stworzenie wewnętrznego zespołu ds. dostępności cyfrowej (Dział kadr + IT + komunikacja).
    - Szkolenia dla wszystkich pracowników z używania dostępnych narzędzi i tworzenia dostępnych dokumentów (np. PowerPoint, PDF, treści intranetowych).
 
 

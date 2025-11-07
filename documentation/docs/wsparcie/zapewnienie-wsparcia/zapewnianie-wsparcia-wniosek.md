@@ -65,7 +65,7 @@ Podpis wnioskodawcy: ....................................................
 Data: ....................................................
 
 
-## 6. Część do wypełnienia przez dział HR / Pełnomocnika ds. dostępności
+## 6. Część do wypełnienia przez dział kadr / Pełnomocnika ds. dostępności
 
 | Pozycja | Opis |
 |----------|------|
@@ -87,10 +87,10 @@ Data: ....................................................
 | Opis wdrożonego rozwiązania | ................................................................................................................................................................................................................................................ |
 | Ocena skuteczności (opinia pracownika) | ................................................................................................................................................................................................................................................ |
 | Podpis pracownika | .................................................... |
-| Podpis przedstawiciela HR / IT | .................................................... |
+| Podpis przedstawiciela Działu kadr / IT | .................................................... |
 
 
 **Uwagi końcowe:**  
-Wniosek należy przekazać do działu HR lub pełnomocnika ds. dostępności (osobiście, mailowo lub przez dedykowany system zgłoszeń).  
+Wniosek należy przekazać do działu kadr lub pełnomocnika ds. dostępności (osobiście, mailowo lub przez dedykowany system zgłoszeń).  
 Czas rozpatrzenia wniosku – do **30 dni roboczych**.
 
