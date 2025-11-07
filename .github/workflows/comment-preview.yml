@@ -1,0 +1,39 @@
+name: Comment PR Preview
+
+on:
+  workflow_run:
+    workflows: ["Deploy PR Preview"]
+    types:
+      - completed
+
+permissions:
+  contents: read        # required to read repo and artifacts
+  pull-requests: write  # required to post/update PR comment
+
+jobs:
+  comment:
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Download preview metadata
+        uses: actions/download-artifact@v4
+        with:
+          name: preview-metadata
+          path: .
+
+      - name: Load metadata
+        run: |
+          set -o allexport
+          source preview.env
+          set +o allexport
+        shell: bash
+
+      - name: Comment on PR
+        uses: marocchino/sticky-pull-request-comment@v2
+        with:
+          number: ${{ env.PR_NUMBER }}
+          header: "pr-preview-comment"
+          message: |
+            🚀 **PR Preview Available**
+            🔗 ${{ env.PAGE_URL }}pr-${{ env.PR_NUMBER }}/

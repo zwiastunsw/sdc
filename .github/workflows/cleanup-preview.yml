@@ -8,7 +8,6 @@ on:
         required: true
         type: number
 
-        
 permissions:
   contents: write       # Modify staging branch
   pull-requests: write  # Remove sticky preview comment
@@ -19,7 +18,7 @@ jobs:
     environment: previews
 
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v4
 
       - name: Configure Git as GitHub Actions bot
         run: |
@@ -38,7 +37,6 @@ jobs:
       - name: Delete PR preview comment
         uses: marocchino/sticky-pull-request-comment@v2
         with:
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
-          pull-request-number: ${{ github.event.inputs.pr_number }}
+          number: ${{ github.event.inputs.pr_number }}
           header: "pr-preview-comment"
           delete: true
