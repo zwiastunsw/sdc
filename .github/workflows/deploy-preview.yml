@@ -66,13 +66,13 @@ jobs:
            git add .gitkeep
            git commit -m "Initial empty commit for staging branch"
           fi
-
+          ls
           if [ -d "pr-${{ env.PR_NUMBER }}" ]; then
              rm -rf "pr-${{ env.PR_NUMBER }}"
           fi
           mkdir -p "pr-${{ env.PR_NUMBER }}"
           cp -r build/* "pr-${{ env.PR_NUMBER }}/"
-
+          ls
           git add "pr-${{ env.PR_NUMBER }}"
           git commit -m "PR #${{ env.PR_NUMBER }} preview update" || echo "No changes"
           git push origin staging
