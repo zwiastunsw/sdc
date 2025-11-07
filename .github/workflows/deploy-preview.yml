@@ -78,7 +78,7 @@ jobs:
           git push origin staging
 
       - name: Upload build artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v5
         with:
           name: pr-preview
           path: documentation/build
@@ -108,7 +108,7 @@ jobs:
         shell: bash
 
       - name: Upload metadata artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v5
         with:
           name: preview-metadata
           path: preview.env
