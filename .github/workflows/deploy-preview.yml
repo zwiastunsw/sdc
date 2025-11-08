@@ -14,7 +14,6 @@ permissions:
   contents: write
   pages: write
   id-token: write
-  pull-requests: write
 
 concurrency:
   group: preview-${{ github.event.pull_request.number || github.event.inputs.pr_number }}
@@ -25,12 +24,13 @@ env:
 
 jobs:
   build:
-    name: Build and test Docusaurus
+    name: 🧱 Build Docusaurus
     runs-on: ubuntu-latest
+    if: github.actor != 'dependabot[bot]'   # Skip Dependabot PRs
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -43,11 +43,10 @@ jobs:
         run: npm install -f
         working-directory: documentation
 
-      - name: Build Docusaurus with dynamic base URL
+      - name: Build site
         env:
-         BASE_URL: /pr-${{ env.PR_NUMBER }}/
-        run: |
-          npx docusaurus build --out-dir build
+          BASE_URL: /sdc/pr-${{ env.PR_NUMBER }}/
+        run: npx docusaurus build --out-dir build
         working-directory: documentation
 
       - name: Upload build artifact
@@ -56,15 +55,15 @@ jobs:
           name: pr-preview
           path: documentation/build
 
-  deploy:
-    name: Deploy to previews environment
-    needs: build
+  staging:
+    name: 🪄 Update Staging Branch
     runs-on: ubuntu-latest
-    environment: previews
+    needs: build
+    if: github.actor != 'dependabot[bot]'
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           fetch-depth: 0
 
@@ -74,10 +73,17 @@ jobs:
           name: pr-preview
           path: build
 
-      - name: Configure Git (GitHub Actions Bot)
+      - name: Configure Git
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Reset package-lock.json if changed
+        run: |
+          if git ls-files --modified | grep -q 'documentation/package-lock.json'; then
+            echo "Resetting modified package-lock.json"
+            git checkout -- documentation/package-lock.json
+          fi
 
       - name: Update staging branch with PR preview
         run: |
@@ -86,7 +92,11 @@ jobs:
             git checkout staging
             git pull origin staging --rebase || true
           else
-            git checkout -b staging
+            git checkout --orphan staging
+            git rm -rf .
+            touch .gitkeep
+            git add .gitkeep
+            git commit -m "Initial empty commit for staging branch"
           fi
 
           if [ -d "pr-${{ env.PR_NUMBER }}" ]; then
@@ -100,21 +110,32 @@ jobs:
           git push origin staging
 
       - name: Upload full staging branch as artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
           path: .
 
-      - name: Deploy to Pages (previews environment)
+  deploy:
+    name: 🚀 Deploy Preview to Pages
+    runs-on: ubuntu-latest
+    needs: staging
+    if: github.actor != 'dependabot[bot]'
+    environment: previews
+
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Upload to Pages
         id: deployment
         uses: actions/deploy-pages@v4
 
-      - name: Comment PR with preview URL
-        if: ${{ github.event_name == 'pull_request' }}
-        uses: marocchino/sticky-pull-request-comment@v2
+      - name: Save preview metadata
+        run: |
+          echo "PAGE_URL=${{ steps.deployment.outputs.page_url }}" >> preview.env
+          echo "PR_NUMBER=${{ env.PR_NUMBER }}" >> preview.env
+        shell: bash
+
+      - name: Upload metadata artifact
+        uses: actions/upload-artifact@v4
         with:
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
-          pull-request-number: ${{ env.PR_NUMBER }}
-          header: "pr-preview-comment"
-          body: |
-            🚀 **PR Preview Available**
-            🔗 ${{ steps.deployment.outputs.page_url }}pr-${{ env.PR_NUMBER }}/
+          name: preview-metadata
+          path: preview.env
