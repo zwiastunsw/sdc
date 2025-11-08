@@ -22,11 +22,14 @@ jobs:
 
       - name: Trigger Netlify previews for each PR
         env:
-          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
-          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+              NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+              NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
         run: |
+          sudo apt-get update && sudo apt-get install -y jq
           echo "🔁 Rebuilding previews for open PRs..."
-          echo "${{ steps.prs.outputs.data }}" | jq -r '.[].head.ref' | while read branch; do
+
+            # Decode the JSON safely (GitHub escapes it)
+            echo '${{ steps.prs.outputs.data }}' | jq -r '.[].head.ref' | while read branch; do
             echo "➡️  Triggering Netlify build for $branch"
             curl -s -X POST \
               -H "Authorization: Bearer $NETLIFY_AUTH_TOKEN" \
