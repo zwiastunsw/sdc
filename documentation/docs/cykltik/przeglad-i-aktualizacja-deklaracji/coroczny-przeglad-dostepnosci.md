@@ -212,5 +212,5 @@ Dokumenty te różniwż mogą być przygotowane w formatach HTML + JSON-LD (EARL
 - [Szablon przeglądu dostępności cyfrowej (plik Excel)](/cykltik/przeglad-i-aktualizacja-deklaracji/szablon-przegladu-dostepnosci-cyfrowej.xlsx)
 - [Instrukcja publikacji raportu samooceny dostępności cyfrowej w BIP (plik Word)](/cykltik/przeglad-i-aktualizacja-deklaracji/przeglad-instrukcja-publikacji-wynikow-w-BIP.docx)
 - [Procedura przeglądu dostępności cyfrowej (plik Word)](/cykltik/przeglad-i-aktualizacja-deklaracji/procedura-przegladu-dostepnosci.docx)
-- <a href="/cykltik/przeglad-i-aktualizacja-deklaracji/dowod-samooceny-dynamiczny-przyklad.html" download>Szablon raportu samooceny dostępności (HTML)</a>
-- <a href="/cykltik/przeglad-i-aktualizacja-deklaracji/raport-samooceny-dostepnosci-szablon.html" download>Dowód samooceny w Deklaracji dostępności (HTML)</a>
+- [Szablon raportu samooceny dostępności (HTML)](/cykltik/przeglad-i-aktualizacja-deklaracji/raport-samooceny-dostepnosci-szablon.txt)
+- [Dowód samooceny w Deklaracji dostępności (HTML)](/cykltik/przeglad-i-aktualizacja-deklaracji/dowod-samooceny-dynamiczny-przyklad.txt)
