@@ -95,9 +95,8 @@ Data zatwierdzenia:
 Podpis:
 
 ## Załączniki
-- [Szablon przeglądu dostępności cyfrowej (plik Excel)](szablon-przegladu-dostepnosci-cyfrowej.xlsx)
-- [Instrukcja publikacji raportu samooceny dostępności cyfrowej w BIP](przeglad-instrukcja-publikacji-wynikow-w-BIP)
-- [Instrukcja publikacji raportu samooceny dostępności cyfrowej w BIP (plik Word)](przeglad-instrukcja-publikacji-wynikow-w-BIP.docx)
-- [Procedura przeglądu dostępności cyfrowej (plik Word)](procedura-przegladu-dostepnosci.docx)
-- [Szablon raportu samooceny dostępności (HTML)](raport-samooceny-dostepnosci-szablon.html)
-- [Dowód samooceny w Deklaracji dostępności (HTML)](dowod-samooceny-dynamiczny-przyklad.html)
+- [Szablon przeglądu dostępności cyfrowej (plik Excel)](/cykltik/przeglad-i-aktualizacja-deklaracji/szablon-przegladu-dostepnosci-cyfrowej.xlsx)
+- [Instrukcja publikacji raportu samooceny dostępności cyfrowej w BIP (plik Word)](/cykltik/przeglad-i-aktualizacja-deklaracji/przeglad-instrukcja-publikacji-wynikow-w-BIP.docx)
+- [Procedura przeglądu dostępności cyfrowej (plik Word)](/cykltik/przeglad-i-aktualizacja-deklaracji/procedura-przegladu-dostepnosci.docx)
+- [Szablon raportu samooceny dostępności (HTML)](/cykltik/przeglad-i-aktualizacja-deklaracji/raport-samooceny-dostepnosci-szablon.txt)
+- [Dowód samooceny w Deklaracji dostępności (HTML)](/cykltik/przeglad-i-aktualizacja-deklaracji/dowod-samooceny-dynamiczny-przyklad.txt)
