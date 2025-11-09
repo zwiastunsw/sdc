@@ -18,7 +18,7 @@ Organizacja ustala i wdraża procedurę badania, oceny i zapewnienia dostępnoś
 - stałego zapewniania dostępności cyfrowej treści cyfrowych publikowanych przez organizację,
 - zapobiegania umieszczaniu na stronach internetowych i w aplikacjach mobilnych treści, które nie spełniają wymogów dostępności,
 - podejmowania działań poprawiających dostępność i korygujących stwierdzone naruszenia obowiązku zapewniania dostępności,
-- doprowadzenia stanu dostępności cyfrowej co najmniej do poziomu wymaganego w ustawie o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych oraz utrzmania osiągniętego poziomu
+- doprowadzenia stanu dostępności cyfrowej co najmniej do poziomu wymaganego w ustawie o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych oraz utrzymania osiągniętego poziomu
 - sporządzania i aktualizacji deklaracji dostępności.
 
 ## Rekomendacje
@@ -40,7 +40,7 @@ Organizacja ustala i wdraża procedurę badania, oceny i zapewnienia dostępnoś
    - audyty zgodności.   
 3. **Bieżące ocenianie dostępności** polega na weryfikacji zgodności 
    z wymaganiami dostępności przeprowadzanej przez autorów i redaktorów 
-   jest zapewnienie, że każda nowy dokument i każda nowa publiakcja 
+   jest zapewnienie, że każda nowy dokument i każda nowa publikacja 
    w organizacji standardy dostępności oraz zapobieganie umieszczaniu 
    przekazywaniu adresatom treści, które wymogów dostępności nie spełniają.
 4. **Wycinkowe badania dostępności** badania dostępności przeprowadza się 
@@ -55,19 +55,18 @@ Organizacja ustala i wdraża procedurę badania, oceny i zapewnienia dostępnoś
    nowej złożonej (niestandardowej) funkcjonalności, która może powodować 
    problemy z dostępnością do treści.   
 5. **Monitoring dostępności witryn internetowych** polega na cyklicznym 
-   automatycznym badaniu wszystkich wszystkich lub wybranego zestawu stron 
+   automatycznym badaniu wszystkich lub wybranego zestawu stron 
    internetowych w każdej witrynie obejmującego co najmniej 25 wytypowanych 
    stron w każdej dużej witrynie. Monitoring prowadzi się w celu uzyskania 
    obiektywnej syntetycznej informacji o stanie zapewniania dostępności cyfrowej 
    wydawanych witryn internetowych oraz wspomaganie redaktorów i administratorów 
    wykrywaniu i szybkim reagowaniu na problemy niezidentyfikowane przed publikacją 
    lub spowodowanych aktualizacjami oprogramowania i innymi czynnikami.  
-6. **Ramowy przegląd dostępności** przeprowadza się co najmniej raz w roku  
+6. **Ramowy przegląd dostępności** przeprowadza się co najmniej raz w roku 
    (najpóźniej do 31 marca) oraz po **znaczących** aktualizacjach treści 
-   lub oprogramowania (CMS) w celu weryfikacji, czy faktyczny stan  
-   dostępności strony internetowej lub aplikacji mobilnej odpowiada informacjom 
-   zawartym w deklaracji, wychwycenie najważniejszych błędów oraz przygotowanie danych do 
-   **aktualizacji deklaracji dostępności**. \
+   lub oprogramowania (CMS) w celu weryfikacji, czy faktyczny stan 
+   dostępności strony internetowej lub aplikacji mobilnej odpowiada 
+   oraz przygotowanie danych do  **aktualizacji deklaracji dostępności**. \
    Przegląd polega na przeprowadzeniu testów krytycznych wymagań zgodności oraz podstawowych przypadków użycia
    w oparciu o sugerowaną przez W3C procedurę znaną jako Łatwe testy (<em>Easy check</em>) 
    lub równoważną **uproszczoną listę kontrolną zgodności z WCAG 2.1** (np. 20-25 kryteriów).
