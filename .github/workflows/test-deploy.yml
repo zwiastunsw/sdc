@@ -1,8 +1,10 @@
-name: Deploy main site to GitHub Pages
+name: Test deployment
 
 on:
-  push:
-    branches: [main]
+  pull_request:
+    branches:
+      - main
+    
   workflow_dispatch:
 
 concurrency:
