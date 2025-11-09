@@ -1,4 +1,4 @@
-name: Deploy main site to GitHub Pages
+name: Test deployment
 
 on:
   pull_request:
