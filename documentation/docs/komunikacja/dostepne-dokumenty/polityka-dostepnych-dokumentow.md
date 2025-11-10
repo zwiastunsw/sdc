@@ -78,7 +78,7 @@ wersja_robocza: true
    - stosowanie tekstu alternatywnego (ALT) dla grafik i wykresów,  
    - właściwe opisywanie tabel i nagłówków kolumn,  
    - stosowanie kontrastu tekstu zgodnego z WCAG (min. 4.5:1).  
-2. Dokumenty PDF powinny być tworzone poprzez **eksport z pliku źródłowego** (Word, PowerPoint) z zachowaniem struktury dostępności.  
+2. Dokumenty PDF powinny być tworzone poprzez **zapisanie pliku źródłowego jako PDF** (Word, PowerPoint) z zachowaniem struktury dostępności.  
 3. Niedopuszczalne jest publikowanie dokumentów PDF powstałych poprzez skanowanie, jeśli nie zawierają warstwy tekstowej (OCR).  
 4. Zalecane formaty dostępne:  
    - DOCX, XLSX, PPTX (zachowujące style),  
@@ -94,7 +94,7 @@ wersja_robocza: true
 | **Zespół ds. dostępności cyfrowej** | Opracowuje i aktualizuje zasady, szablony, materiały szkoleniowe, monitoruje realizację. |
 | **Autorzy dokumentów** | Tworzą dokumenty zgodnie z zasadami i szablonami. |
 | **Dział IT** | Zapewnia narzędzia do tworzenia i sprawdzania dostępności, wspiera technicznie szablony. |
-| **Dział szkoleń / HR** | Organizuje szkolenia i monitoruje poziom kompetencji pracowników. |
+| **Dział szkoleń / Dział kadr** | Organizuje szkolenia i monitoruje poziom kompetencji pracowników. |
 
 ---
 
@@ -103,7 +103,7 @@ wersja_robocza: true
 1. Każdy nowy pracownik, którego zakres obowiązków obejmuje tworzenie dokumentów, uczestniczy w szkoleniu wprowadzającym z zakresu dostępności cyfrowej.  
 2. Szkolenia powtarzane są cyklicznie – co najmniej raz na dwa lata.  
 3. Wiedza i umiejętności pracowników są oceniane w ramach corocznego **badania kompetencji** organizowanego przez Zespół ds. dostępności.  
-4. Osoby wykazujące się wysokimi kompetencjami mogą uzyskać **mikropoświadczenie kompetencji autora dostępnych dokumentów**.
+4. Osoby wykazujące się wysokimi kompetencjami mogą uzyskać **mikropoświadczenie kompetencji twórcy dostępnych dokumentów**.
 
 ---
 

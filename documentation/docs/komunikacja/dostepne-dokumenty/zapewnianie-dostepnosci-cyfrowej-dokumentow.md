@@ -16,9 +16,9 @@ wersja_robocza: true
 ## § 1. Cel i przedmiot procedury
 
 1. Celem procedury jest zapewnienie, aby wszystkie dokumenty wytwarzane, publikowane lub przekazywane w organizacji były zgodne z wymaganiami dostępności cyfrowej, wynikającymi z:
-   1. ustawy z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych,
-   2. wytycznych WCAG 2.1 na poziomie AA,
-   3. wewnętrznych standardów i zasad organizacji.
+   - ustawy z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych,
+   - wytycznych WCAG 2.1 na poziomie AA,
+   - wewnętrznych standardów i zasad organizacji.
 2. Procedura określa zasady, role i etapy działań związanych z planowaniem, tworzeniem, sprawdzaniem oraz oceną jakości dokumentów cyfrowych w organizacji.
 
 ## § 2. Zakres stosowania

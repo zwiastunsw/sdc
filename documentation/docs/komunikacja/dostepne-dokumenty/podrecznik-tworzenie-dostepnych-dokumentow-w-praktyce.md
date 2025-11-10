@@ -113,7 +113,7 @@ Dbałość o dostępność to nie tylko obowiązek prawny, ale również **stand
 
 ## 9. Sprawdzanie i testowanie dostępności
 - W Wordzie: karta **Recenzja → Sprawdź dostępność**.  
-- W Adobe Acrobat: narzędzie **Full Check**.  
+- W Adobe Acrobat: narzędzie **Pełne sprawdzanie** (oraz **Inspekcja wstępna**).  
 - Użyj czytnika ekranu (NVDA, VoiceOver) do testów użytkowych.  
 - Przetestuj na urządzeniach mobilnych i w trybie dużego kontrastu.  
 
