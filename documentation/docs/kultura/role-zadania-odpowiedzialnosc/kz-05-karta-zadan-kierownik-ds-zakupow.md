@@ -11,11 +11,13 @@ data_zgloszenia: 7 listoapada lipca 2025 r.
 ostatnia_aktualizacja: 7 listoapada lipca 2025 r.
 wersja_robocza: true
 ---
-Urząd Miejski w Nowoczesnym Mieście Cyfrowym
-Opracował: Zespół ds. dostępności cyfrowej
-Data: listopad 2025
-Wersja: 1.0
-Opis alternatywny logo: Logo Urzędu Miejskiego w Nowoczesnym Mieście Cyfrowym -- znak
+
+Urząd Miejski w Nowoczesnym Mieście Cyfrowym\
+Opracował: Zespół ds. dostępności cyfrowej\
+Data: listopad 2025\
+Wersja: 1.0\
+
+Opis alternatywny logo: Logo Urzędu Miejskiego w Nowoczesnym Mieście Cyfrowym - znak
 graficzny jednostki użyty w celach demonstracyjnych.
 
 ## 1. Informacje ogólne

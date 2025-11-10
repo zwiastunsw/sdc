@@ -1,6 +1,6 @@
 ---
 id: kz-01-karta-zadan-kierownik-organizacji
-title: Karta zadań - Karta zadań – Kierownik organizacji lub członek zarządu
+title: Karta zadań – Kierownik organizacji lub członek zarządu
 sidebar_label: Kierownik organizacji lub członek zarządu
 sidebar_position: 1
 description: Określa cel roli projektodawca lub właściciel produktu w systemie zarządzania dostępnością cyfrową, zakres zadań, odpowiedzialności 
@@ -13,11 +13,12 @@ wersja_robocza: true
 ---
 
 
-Urząd Miejski w Nowoczesnym Mieście Cyfrowym
-Opracował: Zespół ds. dostępności cyfrowej
-Data: listopad 2025
-Wersja: 1.0
-Opis alternatywny logo: Logo Urzędu Miejskiego w Nowoczesnym Mieście Cyfrowym -- znak
+Urząd Miejski w Nowoczesnym Mieście Cyfrowym\
+Opracował: Zespół ds. dostępności cyfrowej\
+Data: listopad 2025\
+Wersja: 1.0\
+
+Opis alternatywny logo: Logo Urzędu Miejskiego w Nowoczesnym Mieście Cyfrowym - znak
 graficzny jednostki użyty w celach demonstracyjnych.
 
 
