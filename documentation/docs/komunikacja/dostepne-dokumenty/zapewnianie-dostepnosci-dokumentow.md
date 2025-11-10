@@ -69,9 +69,9 @@ Dla realizacji zalecenia rekomenduje się, aby podmioty publiczne podejmowały n
 1. **Ustawa z dnia 4 kwietnia 2019 r.** o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych (Dz.U. 2019 poz. 848 z późn. zm.).  
 2. **Ustawa z dnia 19 lipca 2019 r.** o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz.U. 2020 poz. 1062 z późn. zm.).  
 3. **Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2019/882** z dnia 17 kwietnia 2019 r. w sprawie wymogów dostępności produktów i usług (European Accessibility Act).  
-4. **Norma europejska EN 301 549 V3.2.1 (2021-03)** – *Accessibility requirements for ICT products and services*.  
-5. ** Wytyczne WCAG 2.1 (Wytyczne dla dostępności treści internetowych)** opracowane przez W3C/WAI.  
-6. **Wytyczne Komisji Europejskiej z 2022 r.** w sprawie mikropoświadczeń w edukacji i szkoleniach (*European Approach to Micro-Credentials*).
+4. **Norma europejska EN 301 549 V3.2.1 (2021-03)** – Wymagania dotyczące dostępności produktów i usług ICT.  
+5. **Wytyczne WCAG 2.1 (Wytyczne dla dostępności treści internetowych)** opracowane przez W3C/WAI.  
+6. **Wytyczne Komisji Europejskiej z 2022 r.** w sprawie mikropoświadczeń w edukacji i szkoleniach
 
 ---
 
@@ -90,14 +90,14 @@ Zapewnienie dostępności dokumentów:
 
 ## 6. Źródła i opracowania
 
-1. Wytyczne WCAG 2.1 (Wytyczne dla dostępności treści internetowych). 
+1. [Wytyczne WCAG 2.1 (Wytyczne dla dostępności treści internetowych)](https://www.w3.org/Translations/WCAG21-pl/). 
 2. Dyrektywa (UE) 2016/2102 Parlamentu Europejskiego i Rady z dnia 26 października 2016 r. w sprawie dostępności stron internetowych i aplikacji mobilnych organów sektora publicznego. 
 3. [PL ETSI EN 301 549 V3.2.1 – Wymagania dotyczące dostępności produktów i usług ICT](https://sklep.pkn.pl/pn-etsi-en-301-549-v3-2-1-2021-09p.html). 
 4. Dyrektywa (UE) 2019/882 – Europejski Akt o Dostępności (EAA).  
 5. Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych (Dz.U. 2019 poz. 848 z późn. zm.).  
 6. Ustawa z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz.U. 2019 poz. 1696 z późn. zm.).  
 7. [W3C Web Accessibility Initiative (WAI): Planning and Managing Web Accessibility](https://www.w3.org/WAI/planning-and-managing/](https://lepszyweb.pl/blog2/ramy-strategii-dostepnosci-webaim)
-8. [European Approach to Micro-Credentials (2022)] – Communication from the European Commission](https://education.ec.europa.eu/sites/default/files/document-library-docs/european-approach-micro-credentials-higher-education-consultation-group-output-final-report.pdf)
+8. [European Approach to Micro-Credentials (2022) – Communication from the European Commission](https://education.ec.europa.eu/sites/default/files/document-library-docs/european-approach-micro-credentials-higher-education-consultation-group-output-final-report.pdf)
 
 ## Załączniki
 
