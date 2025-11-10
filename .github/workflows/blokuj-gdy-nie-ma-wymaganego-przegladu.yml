@@ -26,26 +26,25 @@ jobs:
       - name: Check required reviews
         id: check
         uses: actions/github-script@v8
-        env:
-          ALLOWED_REVIEWERS: ${{ secrets.ALLOWED_REVIEWERS }}
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
-            const reviewers = process.env.ALLOWED_REVIEWERS
-              ? process.env.ALLOWED_REVIEWERS.split(",").map(r => r.trim())
-              : [];
             const pr = context.payload.pull_request;
             const prAuthor = pr.user.login;
 
-            if (!reviewers.length) {
-              core.notice("⚠️ No reviewers defined in ALLOWED_REVIEWERS secret — skipping check.");
+            // ✅ Dependabot PRs are automatically approved (no secret access)
+            if (prAuthor === "dependabot[bot]" || prAuthor.toLowerCase().startsWith("dependabot")) {
+              core.notice("🤖 Dependabot PR — skipping review requirement ✅");
               core.setOutput("status", "approved");
               return;
             }
 
-            // Skip Dependabot PRs
-            if (prAuthor === "dependabot[bot]") {
-              core.notice("🤖 Dependabot PR – skipping review requirement ✅");
+            // Now safe to load reviewers from secret
+            const reviewersRaw = process.env.ALLOWED_REVIEWERS || "";
+            const reviewers = reviewersRaw.split(",").map(r => r.trim()).filter(Boolean);
+
+            if (!reviewers.length) {
+              core.notice("⚠️ No reviewers defined in ALLOWED_REVIEWERS secret — skipping check.");
               core.setOutput("status", "approved");
               return;
             }
@@ -57,13 +56,13 @@ jobs:
               pull_number: pr.number,
             });
 
-            // Track latest review state per user
+            // Get the latest review state per reviewer
             const latest = {};
             for (const r of reviews) {
               latest[r.user.login] = r.state;
             }
 
-            // Collect approved reviewers who are in the allowed list
+            // Count approved reviewers from allowed list
             const approvers = reviewers.filter(u => latest[u] === "APPROVED");
 
             const requiredApprovals = 2;
@@ -78,7 +77,10 @@ jobs:
               core.setOutput("status", "pending");
             }
 
+        env:
+          ALLOWED_REVIEWERS: ${{ secrets.ALLOWED_REVIEWERS }}
+
       - name: Mark neutral status if waiting for approvals
         if: steps.check.outputs.status == 'pending'
-        run: echo "⏸️ Nie ma jeszcze wystarczającej liczby przeglądów — status pozostanie neutralna."
+        run: echo "⏸️ Waiting for more reviews — check remains pending."
         continue-on-error: true
