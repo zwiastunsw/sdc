@@ -1,7 +1,7 @@
 ---
 id: zal-1-opis-procesow-dostepnosc-cyfrowa
 title: Opis głównych procesów zapewniania dostępności cyfrowej. Załącznik nr 1 
-sidebar_label: Zasady raportowania i wskaźniki monitorowania
+sidebar_label: Opis głównych procesów
 sidebar_position: 25
 description: Opis głównych procesów zapewniania dostępności cyfrowej 
 keywords: [polityka dostępności, dostępność cyfrowa, kultura organizacyjna, zarządzanie, role organizacyjne]
@@ -13,10 +13,13 @@ wersja_robocza: true
 ---
  
 
-**Urząd Miejski w Nowym Mieście**  
-Opracował: Zespół ds. dostępności cyfrowej  
-Data: listopad 2025  
-Wersja: 1.0  
+Urząd Miejski w Nowoczesnym Mieście Cyfrowym\
+Opracował: Zespół ds. dostępności cyfrowej\
+Data: listopad 2025\
+Wersja: 1.0\
+
+Opis alternatywny logo: Logo Urzędu Miejskiego w Nowoczesnym Mieście Cyfrowym - znak
+graficzny jednostki użyty w celach demonstracyjnych.
 
 ---
 
