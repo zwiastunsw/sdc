@@ -96,7 +96,7 @@ Zapewnienie dostępności dokumentów:
 4. Dyrektywa (UE) 2019/882 – Europejski Akt o Dostępności (EAA).  
 5. Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych (Dz.U. 2019 poz. 848 z późn. zm.).  
 6. Ustawa z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz.U. 2019 poz. 1696 z późn. zm.).  
-7. [W3C Web Accessibility Initiative (WAI): Planning and Managing Web Accessibility](https://www.w3.org/WAI/planning-and-managing/](https://lepszyweb.pl/blog2/ramy-strategii-dostepnosci-webaim)
+7. [W3C Web Accessibility Initiative (WAI): Planning and Managing Web Accessibility](https://www.w3.org/WAI/planning-and-managing/)
 8. [European Approach to Micro-Credentials (2022) – Communication from the European Commission](https://education.ec.europa.eu/sites/default/files/document-library-docs/european-approach-micro-credentials-higher-education-consultation-group-output-final-report.pdf)
 
 ## Załączniki
