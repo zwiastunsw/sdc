@@ -13,17 +13,23 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout PR head safely (works for forks)
         uses: actions/checkout@v5
         with:
-          fetch-depth: 2
+          # Check out the base repository, but then fetch the head commit explicitly
+          fetch-depth: 0
+          ref: ${{ github.event.pull_request.head.sha }}
+
+      - name: Fetch base branch
+        run: |
+          git fetch origin ${{ github.event.pull_request.base.ref }} --depth=1
 
       - name: Sprawdź zmienione pliki
         id: changes
         run: |
-          git fetch origin ${{ github.event.pull_request.base.ref }} --depth=1
           git diff --name-only origin/${{ github.event.pull_request.base.ref }} > changed_files.txt
-          cat changed_files.txt
+          echo "=== Changed files ==="
+          cat changed_files.txt || true
           if grep -E '^documentation/(docs|blog)/' changed_files.txt; then
             echo "DOCS_CHANGED=true" >> $GITHUB_ENV
           else
