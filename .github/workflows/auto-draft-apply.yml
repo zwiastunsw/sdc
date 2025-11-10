@@ -6,21 +6,18 @@ on:
     types: [completed]
 
 permissions:
-  contents: read
   pull-requests: write
+  issues: write
+  actions: write
+  contents: read
 
 jobs:
   apply-draft:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Pobierz szczegóły workflow_run
-        id: get_info
-        run: |
-          echo "PR_NUMBER=$(jq -r '.pull_requests[0].number' <<< '${{ toJson(github.event.workflow_run) }}')" >> $GITHUB_ENV
-          echo "REPO=$(jq -r '.repository.full_name' <<< '${{ toJson(github.event.workflow_run) }}')" >> $GITHUB_ENV
-
-      - name: Pobierz artefakt z poprzedniego workflow
+      # 1️⃣ Download artifact from base workflow
+      - name: Pobierz artefakt z Auto Draft
         uses: actions/download-artifact@v6
         with:
           name: auto-draft-result
@@ -28,16 +25,22 @@ jobs:
           run-id: ${{ github.event.workflow_run.id }}
           path: ./artifact
 
-      - name: Odczytaj wynik
+      # 2️⃣ Read draftApplied and PR number
+      - name: Read result
         id: read_result
         run: |
           if [ -f ./artifact/result.json ]; then
             cat ./artifact/result.json
-            echo "DRAFT_APPLIED=$(jq -r '.draftApplied' ./artifact/result.json)" >> $GITHUB_ENV
+            DRAFT_APPLIED=$(jq -r '.draftApplied' ./artifact/result.json)
+            PR_NUMBER=$(jq -r '.prNumber' ./artifact/result.json)
+            echo "DRAFT_APPLIED=$DRAFT_APPLIED" >> $GITHUB_ENV
+            echo "PR_NUMBER=$PR_NUMBER" >> $GITHUB_ENV
           else
             echo "DRAFT_APPLIED=false" >> $GITHUB_ENV
+            echo "PR_NUMBER=" >> $GITHUB_ENV
           fi
 
+      # 3️⃣ Mark PR as draft (if needed)
       - name: Oznacz PR jako draft (jeśli dotyczy)
         if: env.DRAFT_APPLIED == 'true'
         uses: actions/github-script@v8
@@ -52,6 +55,7 @@ jobs:
               draft: true
             });
 
+      # 4️⃣ Check if comment already exists
       - name: Sprawdź czy komentarz już istnieje
         if: env.DRAFT_APPLIED == 'true'
         id: check_comment
@@ -67,12 +71,14 @@ jobs:
             const existing = comments.find(c => c.body?.includes('<!-- auto-draft-marker -->'));
             core.setOutput('exists', existing ? 'true' : 'false');
 
+      # 5️⃣ Add comment (once)
       - name: Dodaj komentarz (tylko raz)
         if: env.DRAFT_APPLIED == 'true' && steps.check_comment.outputs.exists != 'true'
         uses: actions/github-script@v8
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
+            const pr_number = process.env.PR_NUMBER;
             const message = [
               '👋 Ten PR został automatycznie przekonwertowany na **draft**.',
               '',
@@ -84,6 +90,6 @@ jobs:
 
             await github.rest.issues.createComment({
               ...context.repo,
-              issue_number: process.env.PR_NUMBER,
+              issue_number: pr_number,
               body: message
             });
