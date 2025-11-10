@@ -58,8 +58,7 @@ Organizacja określa role, zadania i odpowiedzialność wszystkich pracowników 
 - Ustawa z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz.U. 2019 poz. 1696 z późn. zm.).  
 - Dyrektywa (UE) 2016/2102 Parlamentu Europejskiego i Rady z dnia 26 października 2016 r. w sprawie dostępności stron internetowych i aplikacji mobilnych organów sektora publicznego.  
 - Dyrektywa (UE) 2019/882 – Europejski Akt o Dostępności (EAA).  
-- Rozporządzenie Ministra Cyfryzacji z dnia 26 kwietnia 2023 r. w sprawie audytu dostępności cyfrowej (Dz.U. 2023 poz. 835).  
-- Wytyczne WCAG 2.1 (Web Content Accessibility Guidelines) opracowane przez W3C Web Accessibility Initiative (WAI).  
+- Wytyczne WCAG 2.1 (Wytyczne dla dostępności treści internetowych) .  
 
 ---
 
@@ -97,7 +96,6 @@ Odpowiedzialność za dostępność wymaga zmiany podejścia i kultury organizac
 - [W3C Web Accessibility Initiative (WAI): Accessibility Roles and Responsibilities Mapping (ARRM)](https://www.w3.org/WAI/planning/arrm/).  
 - [PL ETSI EN 301 549 V3.2.1 – Wymagania dotyczące dostępności produktów i usług ICT](https://sklep.pkn.pl/pn-etsi-en-301-549-v3-2-1-2021-09p.html).  
 - [W3C Web Accessibility Initiative (WAI): Planning and Managing Web Accessibility](https://www.w3.org/WAI/planning-and-managing/](https://lepszyweb.pl/blog2/ramy-strategii-dostepnosci-webaim)
--  
 
 ---
 
