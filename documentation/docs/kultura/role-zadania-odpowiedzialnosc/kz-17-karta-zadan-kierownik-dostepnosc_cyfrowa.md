@@ -1,3 +1,4 @@
+---
 id: kz-17-karta-zadan-kierownik-dostepnosc_cyfrowa
 title: Karta zadań – Osoba sprawująca funkcje kierownicze lub samodzielne
 sidebar_label: Projektodawca lub właściciel produktu
