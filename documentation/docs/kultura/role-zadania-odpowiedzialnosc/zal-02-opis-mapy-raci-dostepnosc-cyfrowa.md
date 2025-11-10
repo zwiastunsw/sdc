@@ -1,7 +1,7 @@
 ---
 id: zal-2-opis-mapy-raci-dostepnosc-cyfrowa
 title: Opis interpretacyjny mapy odpowiedzialności (RACI) 
-sidebar_label:  Opis interpretacyjny mapy odpowiedzialnośc
+sidebar_label:  Opis interpretacyjny mapy odpowiedzialności
 sidebar_position: 26
 description: Określa zasady raportowania i wskaźniki monitorowania dostępności cyfrowej 
 keywords: [polityka dostępności, dostępność cyfrowa, kultura organizacyjna, zarządzanie, role organizacyjne]

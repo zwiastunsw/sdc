@@ -12,6 +12,7 @@ ostatnia_aktualizacja: 7 listoapada lipca 2025 r.
 wersja_robocza: true
 ---
 
+
 ## 1. Zalecenie
 Organizacja określa **role, zadania i odpowiedzialność wszystkich pracowników** w zakresie zapewniania dostępności cyfrowej informacji, usług i dokumentów, uwzględniając przy tym specyfikę stanowisk i zakres obowiązków.
 
