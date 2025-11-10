@@ -1,7 +1,7 @@
 ---
 id: zapewnianie-dostepnosci-dokumentow
 title: Zapewnianie dostępności cyfrowej dokumentów biurowych
-sidebar_position: 1
+sidebar_position: 0
 sidebar_label: Projekt zalecenia
 description: Organizacja ustanawia i wdraża zasady oraz procedury zapewniające dostępność dokumentów cyfrowych 
 keywords: [dostępne dokumenty, komunikacja, wiedza i umiejętności]
