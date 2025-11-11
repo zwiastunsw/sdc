@@ -14,36 +14,35 @@ on:
       - edited
       - dismissed
 
+permissions:
+  pull-requests: read
+  contents: read
+
 jobs:
   require-one-review:
-    name: require-one-review
     runs-on: ubuntu-latest
-    permissions:
-      pull-requests: read
-      contents: read
+    name: Check for required reviews
 
     steps:
       - name: Check required reviews
         id: check
         uses: actions/github-script@v8
-        env:
-          ALLOWED_REVIEWERS: ${{ vars.ALLOWED_REVIEWERS || secrets.ALLOWED_REVIEWERS }}
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
-            const reviewers = process.env.ALLOWED_REVIEWERS
-              ? process.env.ALLOWED_REVIEWERS.split(",").map(r => r.trim()).filter(Boolean)
-              : [];
+            // ✅ Hardcoded list of allowed reviewers
+            const reviewers = ["zwiastunsw", "redaktorbs", "MKW2017"];
+
             const pr = context.payload.pull_request;
             const prAuthor = pr.user.login;
 
             if (!reviewers.length) {
-              core.notice("⚠️ No reviewers defined in vars or secrets — skipping check.");
+              core.notice("⚠️ No reviewers defined — skipping check.");
               core.setOutput("status", "approved");
               return;
             }
 
-            // Skip Dependabot PRs (auto-approved)
+            // 🤖 Skip Dependabot PRs (auto-approved)
             if (prAuthor === "dependabot[bot]") {
               core.notice("🤖 Dependabot PR – skipping review requirement ✅");
               core.setOutput("status", "approved");
@@ -79,5 +78,5 @@ jobs:
 
       - name: Mark neutral status if waiting for approvals
         if: steps.check.outputs.status == 'pending'
-        run: echo "⏸️ Waiting for additional required reviews."
+        run: echo "⏸️ Waiting for additional required reviews — status neutral."
         continue-on-error: true
