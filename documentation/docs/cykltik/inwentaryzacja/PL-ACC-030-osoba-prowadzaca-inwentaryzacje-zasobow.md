@@ -2,7 +2,7 @@
 id: PL-ACC-030-osoba-prowadzaca-inwentaryzacje-zasobow
 title: "Mikropoświadczenie: Osoba prowadząca inwentaryzację zasobów cyfrowych"
 description: Projekt mikropoświadczenia Osoba prowadząca inwentaryzację zasobów cyfrowych
-sidebar_label: Projekt mikropoświadczenia
+sidebar_label: Projekt mikropoświadczenia 1
 sidebar_position: 2
 keywords: [cykl życia TIK, dostępność cyfrowa,dobre praktyki, zalecenia, inwentaryzacja zasobów, mikropoświadczenie]
 tags: [cykl życia TIK, dostępność cyfrowa,dobre praktyki, zalecenia, inwentaryzacja zasobów, mikropoświadczenie]
@@ -16,11 +16,11 @@ wersja_robocza: true
 
 ## 1. Informacje ogólne
 
-**Poziom:** Podstawowy – praktyczny  
-**Kod mikropoświadczenia:** PL-ACC-019  
-**Wydawca:** Centrum Kompetencji Dostępności Cyfrowej (CKDC)  
-**Okres ważności:** 3 lata  
-**Forma:** Mikropoświadczenie cyfrowe (Europass Digital Credential)
+- **Poziom:** Podstawowy – praktyczny  
+- **Kod mikropoświadczenia:** PL-ACC-019  
+- **Wydawca:** Centrum Kompetencji Dostępności Cyfrowej (CKDC)  
+- **Okres ważności:** 3 lata  
+- **Forma:** Mikropoświadczenie cyfrowe (Europass Digital Credential)
 
 ---
 

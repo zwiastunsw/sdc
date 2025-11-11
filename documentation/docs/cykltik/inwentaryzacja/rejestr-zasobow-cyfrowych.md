@@ -89,9 +89,10 @@ Rejestr powinien być prowadzony w sposób umożliwiający identyfikację właś
 
 ## 7. Załączniki
 
-### Załącznik 1. Projekt mikropoświadczenia
+### Załącznik 1. Projekty mikropoświadczeń
 
-[Projekt mikropoświadczenia: Osoba prowadząca inwentaryzację zasobów cyfrowych](PL-ACC-030-osoba-prowadzaca-inwentaryzacje-zasobow)
+- [Projekt mikropoświadczenia: Osoba prowadząca inwentaryzację zasobów cyfrowych](PL-ACC-030-osoba-prowadzaca-inwentaryzacje-zasobow)
+- [Projekt mikropoświadczenia: PL-ACC-031-koordynator-inwentaryzacji](Koordynator procesu inwentaryzacji zasobów cyfrowych)
 
 ### Załącznik 2. Przykłady zasobów cyfrowych
 
