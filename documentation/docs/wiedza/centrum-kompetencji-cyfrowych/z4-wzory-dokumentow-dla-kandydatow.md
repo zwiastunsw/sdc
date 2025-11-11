@@ -2,7 +2,7 @@
 id: z4-wzory-dokumentow-dla-kandydatow
 title: Wzory dokumentów dla kandydatów   
 description: Projekt wzorów dokumentów dla kandydatów  
-sidebar_label: Akredytacji ośrodków szkoleniowych
+sidebar_label: Wzory dokumentów dla kandydatów
 sidebar_position: 6
 keywords: [dostępność cyfrowa, mikropoświadczenie]
 tags: [dostępność cyfrowa, mikropoświadczenie]

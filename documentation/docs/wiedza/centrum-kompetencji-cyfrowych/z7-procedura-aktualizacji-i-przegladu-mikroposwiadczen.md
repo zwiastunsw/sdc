@@ -2,7 +2,7 @@
 id: z7-procedura-aktualizacji-i-przegladu-mikroposwiadczen
 title: Procedura aktualizacji i przeglądu mikropoświadczeń CKDC  
 description: Projekt procedury aktualizacji i przeglądu mikropoświadczeń CKDC    
-sidebar_label: Akredytacji ośrodków szkoleniowych
+sidebar_label: Procedura aktualizacji i przeglądu mikropoświadczeń
 sidebar_position: 9
 keywords: [dostępność cyfrowa, mikropoświadczenie]
 tags: [dostępność cyfrowa, mikropoświadczenie]

@@ -1,8 +1,8 @@
 ---
 id: z5-instrukcja-rejestracji-i-publikacji-mikroposwiadczen
 title: Instrukcja rejestracji i publikacji mikropoświadczeń CKDC w systemie Europass Digital Credentials (EDC)
-description: Projekt Instrukcja rejestracji i publikacji mikropoświadczeń CKDC  
-sidebar_label: Akredytacji ośrodków szkoleniowych
+description: Projekt Instrukcji rejestracji i publikacji mikropoświadczeń CKDC  
+sidebar_label: Instrukcji rejestracji...
 sidebar_position: 7
 keywords: [dostępność cyfrowa, mikropoświadczenie]
 tags: [dostępność cyfrowa, mikropoświadczenie]

@@ -2,7 +2,7 @@
 id: z3-wzory-formularzy-walidacyjnych-i-raportow-oceny
 title: Wzory formularzy walidacyjnych i raportów oceny  
 description: Projekt wzorów formularzy walidacyjnych i raportów oceny  
-sidebar_label: Akredytacji ośrodków szkoleniowych
+sidebar_label: zory formularzy walidacyjnych
 sidebar_position: 5
 keywords: [dostępność cyfrowa, mikropoświadczenie]
 tags: [dostępność cyfrowa, mikropoświadczenie]

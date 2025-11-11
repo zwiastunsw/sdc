@@ -2,7 +2,7 @@
 id: z6-instrukcja-stosowania-identyfikatorów-i-metadanych
 title: Instrukcja stosowania identyfikatorów i metadanych CKDC 
 description: Projekt Instrukcja rejestracji i publikacji mikropoświadczeń CKDC  
-sidebar_label: Akredytacji ośrodków szkoleniowych
+sidebar_label: Instrukcja stosowania identyfikatorów
 sidebar_position: 8
 keywords: [dostępność cyfrowa, mikropoświadczenie]
 tags: [dostępność cyfrowa, mikropoświadczenie]
