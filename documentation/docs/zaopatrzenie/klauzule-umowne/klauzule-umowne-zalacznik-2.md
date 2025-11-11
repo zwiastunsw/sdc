@@ -98,7 +98,7 @@ wersja_robocza: true
 3. Wykonawca przekazuje Zamawiającemu raport z przeglądu, obejmujący:  
    - streszczenie wyników testów automatycznych i manualnych,  
    - listę wykrytych problemów, ich klasyfikację i rekomendacje,  
-   - zaktualizowaną wersję Deklaracji dostępności (w formacie HTML zgodnym z WCAG),  
+   - zaktualizowaną wersję Deklaracji dostępności (w formacie HTML, zgodnie z wymogami określonymi w dokumencie Warunki techniczne publikacji i struktura deklaracji dostępności),  
    - dane w formacie JSON-LD lub EARL.  
 4. Prace naprawcze wynikające z raportu mogą być zlecane odrębnie, po uzgodnieniu kosztów i harmonogramu.  
 5. W przypadku zidentyfikowania poważnych naruszeń zasad dostępności Wykonawca zobowiązuje się przedstawić plan naprawczy z terminami realizacji.
