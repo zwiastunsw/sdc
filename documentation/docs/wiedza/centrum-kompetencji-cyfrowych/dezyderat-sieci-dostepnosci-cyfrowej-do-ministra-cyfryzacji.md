@@ -35,7 +35,7 @@ Wdrażanie i utrzymywanie dostępności cyfrowej w sektorze publicznym wymaga:
 - spójnego systemu walidacji kompetencji i wymiany dobrych praktyk.  
 
 Obecnie wiele instytucji samodzielnie podejmuje działania w zakresie edukacji, testowania i audytu dostępności, co prowadzi do rozproszenia zasobów i nierównych standardów wdrożeń.  
-Sieć Dostępności Cyfrowej, po kilkuletniej działalności i współpracy międzyinstytucjonalnej, dostrzega potrzebę utworzenia **stałego, krajowego ośrodka kompetencyjnego** koordynującego te działania.
+Sieć Dostępności Cyfrowej dostrzega potrzebę utworzenia **stałego, krajowego ośrodka kompetencyjnego** koordynującego te działania.
 
 ---
 
