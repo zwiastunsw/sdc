@@ -8,7 +8,7 @@ keywords: [polityka dostępności, dostępność cyfrowa, kultura organizacyjna,
 tags: [polityka dostępności, dostępność cyfrowa, kultura organizacyjna, zarządzanie]
 opracowanie: Stefan Wajda 
 data_zgloszenia: 7 listoapada lipca 2025 r.
-ostatnia_aktualizacja: 7 listoapada lipca 2025 r.
+ostatnia_aktualizacja: 11 listoapada lipca 2025 r.
 wersja_robocza: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 id: zal-3-mapa-odpowiedzialnosci-raci-dostepnosc-cyfrowa
-title: Mapa odpowiedzialności (RACI) w systemie zapewniania dostępności cyfrowej  . Załącznik nr 3
+title: Mapa odpowiedzialności (RACI) w systemie zapewniania dostępności cyfrowej. Załącznik nr 3
 sidebar_label: Mapa odpowiedzialności (RACI)
 sidebar_position: 27
 description: Określa zasady raportowania i wskaźniki monitorowania dostępności cyfrowej 
@@ -8,7 +8,7 @@ keywords: [polityka dostępności, dostępność cyfrowa, kultura organizacyjna,
 tags: [polityka dostępności, dostępność cyfrowa, kultura organizacyjna, zarządzanie, role organizacyjne]
 opracowanie: Stefan Wajda 
 data_zgloszenia: 7 listoapada lipca 2025 r.
-ostatnia_aktualizacja: 7 listoapada lipca 2025 r.
+ostatnia_aktualizacja: 11 listoapada lipca 2025 r.
 wersja_robocza: true
 ---
 
