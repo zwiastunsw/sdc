@@ -4,8 +4,8 @@ title: Procedura badania i oceniania dostępności cyfrowej stron internetowych 
 sidebar_label: Procedura badania i oceniania dostępności cyfrowej. Zalecenie
 sidebar_position: 0
 description: Organizacja ustanawia i wdraża procedurę badania i oceniania dostępności cyfrowej stron internetowych i aplikacji mobilnych
-keywords: [cykl życia TIK, dostępność cyfrowa, deklaracja dostępności, przegląd dostępności]
-tags: [cykl życia TIK, dostępność cyfrowa, deklaracja dostępności, przegląd dostępności]
+keywords: [cykl życia TIK, dostępność cyfrowa, deklaracja dostępności, przegląd dostępności, audyt zgodności]
+tags: [cykl życia TIK, dostępność cyfrowa, deklaracja dostępności, przegląd dostępności, audyt zgodności]
 opracowanie: Stefan Wajda 
 data_zgloszenia: 6 listopada 2025 r.
 ostatnia_aktualizacja: 6 listopada 2025 r.
