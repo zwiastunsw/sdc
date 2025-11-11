@@ -83,8 +83,10 @@ Rejestr powinien być prowadzony w sposób umożliwiający identyfikację właś
 
 ## 6. Źródła
 
-- **do opracowania**
-
+- [Digital Accessibility Portfolio Inventory Guidelines](https://accessibility.uiowa.edu/digital-accessibility-portfolio-inventory-guidelines)
+- [Guide to Creating a Successful Digital Accessibility Program — Part 2: Getting Started](https://www.tpgi.com/guide-to-creating-a-successful-digital-accessibility-program-part-2-getting-started/)
+- [3 tips for tackling your digital accessibility audit](https://its.unc.edu/2025/03/03/3-tips-digital-accessibility-audit/)
+- [Inventory IT for Accessibility](https://accessibility.umich.edu/how-to/manage/inventory-it)
 ---
 
 ## 7. Załączniki
