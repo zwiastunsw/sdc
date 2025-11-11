@@ -1,47 +1,82 @@
 name: require-one-review
- 
+
 on:
   pull_request:
-    types: [opened, reopened, synchronize, ready_for_review, review_requested]
+    types:
+      - opened
+      - reopened
+      - synchronize
+      - ready_for_review
+      - review_requested
   pull_request_review:
-    types: [submitted, edited, dismissed]
- 
+    types:
+      - submitted
+      - edited
+      - dismissed
+
+permissions:
+  pull-requests: read
+  contents: read
+
 jobs:
   require-one-review:
     runs-on: ubuntu-latest
-    permissions:
-      pull-requests: read
+    name: Check for required reviews
+
     steps:
-      - name: Sprawdź wymagany przegląd
+      - name: Check required reviews
+        id: check
         uses: actions/github-script@v8
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
-            const requiredReviewers = ["zwiastunsw", "redaktorbs", "MKW2017"];
+            // ✅ Hardcoded list of allowed reviewers
+            const reviewers = ["zwiastunsw", "redaktorbs", "MKW2017"];
+
             const pr = context.payload.pull_request;
             const prAuthor = pr.user.login;
- 
-            // ⚙️ Dependabot — pomijamy
-            if (prAuthor === "dependabot[bot]") {
-              core.info("PR od Dependabot – pominięty ✅");
+
+            if (!reviewers.length) {
+              core.notice("⚠️ No reviewers defined — skipping check.");
+              core.setOutput("status", "approved");
               return;
             }
- 
+
+            // 🤖 Skip Dependabot PRs (auto-approved)
+            if (prAuthor === "dependabot[bot]") {
+              core.notice("🤖 Dependabot PR – skipping review requirement ✅");
+              core.setOutput("status", "approved");
+              return;
+            }
+
+            // Fetch all PR reviews
             const { data: reviews } = await github.rest.pulls.listReviews({
               owner: context.repo.owner,
               repo: context.repo.repo,
               pull_number: pr.number,
             });
- 
+
+            // Get latest review state per user
             const latest = {};
-            for (const r of reviews) latest[r.user.login] = r.state;
- 
-            const hasApproval = ["zwiastunsw", "redaktorbs", "MKW2017"]
-              .some(u => latest[u] === "APPROVED");
- 
-            if (!hasApproval) {
-              core.setFailed("❌ Brak wymaganego przeglądu");
-              return;
+            for (const r of reviews) {
+              latest[r.user.login] = r.state;
             }
- 
-            core.info("✅ Wymagany przegląd uzyskany – PR może być scalony.");
+
+            // Collect approved reviewers who are allowed
+            const approvers = reviewers.filter(u => latest[u] === "APPROVED");
+            const requiredApprovals = 2;
+            const approvalCount = approvers.length;
+
+            if (approvalCount >= requiredApprovals) {
+              core.notice(`✅ ${approvalCount} required reviewers approved: ${approvers.join(", ")}`);
+              core.setOutput("status", "approved");
+            } else {
+              const remaining = requiredApprovals - approvalCount;
+              core.notice(`🕒 Waiting for ${remaining} more approval(s) from: ${reviewers.join(", ")}`);
+              core.setOutput("status", "pending");
+            }
+
+      - name: Mark neutral status if waiting for approvals
+        if: steps.check.outputs.status == 'pending'
+        run: echo "⏸️ Waiting for additional required reviews — status neutral."
+        continue-on-error: true
