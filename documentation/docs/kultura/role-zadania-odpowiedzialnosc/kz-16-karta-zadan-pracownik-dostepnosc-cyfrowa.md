@@ -116,15 +116,15 @@ dokumentów, komunikatów i treści cyfrowych.
 
 ## 10. Kluczowe procesy wspierane lub realizowane przez pracownika
 
-1. Proces tworzenia i udostępniania dokumentów cyfrowych\
-   Przygotowywanie i przekazywanie dokumentów urzędowych w formie dostępnejcyfrowo.
-2. Proces komunikacji pisemnej i cyfrowej\
+1. **Proces tworzenia i udostępniania dokumentów cyfrowych**\
+   Przygotowywanie i przekazywanie dokumentów urzędowych w formie dostępnej cyfrowo.
+2. **Proces komunikacji pisemnej i cyfrowej**\
    Przygotowywanie komunikatów, e-maili i pism w sposób zrozumiały i dostępny.
-3. Proces współtworzenia treści internetowych i informacyjnych\
+3. **Proces współtworzenia treści internetowych i informacyjnych**\
    Współpraca przy opracowywaniu treści publikowanych w internecie i intranecie.
-4. Proces identyfikacji i zgłaszania barier dostępności\
+4. **Proces identyfikacji i zgłaszania barier dostępności**\
    Zgłaszanie zauważonych barier i proponowanie usprawnień w zakresie dostępności cyfrowej.
-5. Proces doskonalenia kompetencji w zakresie dostępności\
+5. **Proces doskonalenia kompetencji w zakresie dostępności**\
    Udział w szkoleniach, warsztatach i działaniach rozwojowych dotyczących dostępności.
 
 Każdy pracownik jednostki publicznej ma obowiązek dbać o dostępność

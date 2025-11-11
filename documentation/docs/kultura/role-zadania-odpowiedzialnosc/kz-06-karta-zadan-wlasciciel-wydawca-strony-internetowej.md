@@ -115,20 +115,20 @@ serwisu.
   publicznej.
 
 ## 10. Kluczowe procesy wspierane lub realizowane przez właściciela / wydawcę strony internetowej
-1.  Proces zarządzania serwisem internetowym\
-    Planowanie, organizacja i nadzór nad strukturą, treściami i
+1. **Proces zarządzania serwisem internetowym**\
+   Planowanie, organizacja i nadzór nad strukturą, treściami i
 	funkcjonalnością strony w kontekście dostępności.
-2.  Proces publikacji i aktualizacji treści\
-    Zapewnienie, że publikowane materiały są zgodne z zasadami dostępności i
+2. **Proces publikacji i aktualizacji treści**\
+   Zapewnienie, że publikowane materiały są zgodne z zasadami dostępności i
 	języka prostego.
-3.  Proces monitorowania i audytowania dostępności\
-    Regularne przeglądy stron i raportowanie wyników koordynatorowi ds.
+3. **Proces monitorowania i audytowania dostępności**\
+   Regularne przeglądy stron i raportowanie wyników koordynatorowi ds.
 	dostępności.
-4.  Proces reagowania na zgłoszenia użytkowników\
-    Obsługa zgłoszeń dotyczących braku dostępności i podejmowanie działań
+4. **Proces reagowania na zgłoszenia użytkowników**\
+   Obsługa zgłoszeń dotyczących braku dostępności i podejmowanie działań
 	naprawczych.
-5.  Proces planowania rozwoju serwisów internetowych\
-    Udział w projektach modernizacji, aktualizacji i wdrażania nowych
+5. **Proces planowania rozwoju serwisów internetowych**\
+   Udział w projektach modernizacji, aktualizacji i wdrażania nowych
 	funkcjonalności z uwzględnieniem zasad dostępności.
 
 Właściciel lub wydawca strony internetowej pełni strategiczną rolę w

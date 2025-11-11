@@ -114,28 +114,26 @@ Kierownik organizacji uruchamia, nadzoruje i ocenia kluczowe procesy w
 ramach systemowego zarządzania dostępnością cyfrową. Procesy te stanowią
 podstawę planowania, realizacji i monitorowania działań jednostki w
 zakresie dostępności.
-1.  Proces zarządzania dostępnością cyfrową
-Obejmuje planowanie, wdrażanie i monitorowanie działań w zakresie
-dostępności cyfrowej. Celem procesu jest zapewnienie zgodności z
-przepisami prawa oraz standardami WCAG 2.1.
-2.  Proces opracowania i aktualizacji planu działań na rzecz dostępności
-Dotyczy przygotowania, zatwierdzania i aktualizacji rocznych lub
+1.  **Proces zarządzania dostępnością cyfrową**\
+   Obejmuje planowanie, wdrażanie i monitorowanie działań w zakresie dostępności cyfrowej. Celem procesu jest zapewnienie zgodności z przepisami prawa oraz standardami WCAG 2.1.
+2.  **Proces opracowania i aktualizacji planu działań na rzecz dostępności**\
+   Dotyczy przygotowania, zatwierdzania i aktualizacji rocznych lub
 wieloletnich planów działań. Plan ten określa zadania, odpowiedzialnych
 i terminy realizacji działań naprawczych.
-3.  Proces nadzoru nad zgodnością z przepisami prawa
-Zapewnia monitorowanie realizacji obowiązków ustawowych, w tym
+3.  **Proces nadzoru nad zgodnością z przepisami prawa**\
+   Zapewnia monitorowanie realizacji obowiązków ustawowych, w tym
 publikacji oświadczeń o dostępności, raportowania i usuwania barier.
-4.  Proces zapewniania kompetencji pracowników
-Obejmuje organizację i nadzór nad szkoleniami oraz potwierdzaniem
+4.  **Proces zapewniania kompetencji pracowników**\
+   Obejmuje organizację i nadzór nad szkoleniami oraz potwierdzaniem
 kompetencji (np. mikropoświadczeniami) w zakresie dostępności cyfrowej.
-5.  Proces zakupów dostępnych technologii i usług
-Gwarantuje, że w postępowaniach zakupowych uwzględniane są wymagania
+5. **Proces zakupów dostępnych technologii i usług**\
+   Gwarantuje, że w postępowaniach zakupowych uwzględniane są wymagania
 dostępności cyfrowej zgodnie z normą EN 301 549.
-6.  Proces komunikacji i informowania o dostępności
-Zapewnia publikację informacji, raportów, komunikatów i odpowiedzi na
+6. **Proces komunikacji i informowania o dostępności**\
+   Zapewnia publikację informacji, raportów, komunikatów i odpowiedzi na
 zgłoszenia w sposób dostępny dla wszystkich użytkowników.
-7.  Proces przeglądu i doskonalenia systemu dostępności
-Obejmuje coroczną ocenę skuteczności działań, przegląd zarządczy i
+7. **Proces przeglądu i doskonalenia systemu dostępności**\
+   Obejmuje coroczną ocenę skuteczności działań, przegląd zarządczy i
 aktualizację strategii lub planu działań na rzecz dostępności cyfrowej.
 
 Kierownik organizacji jest odpowiedzialny za zapewnienie, że każdy z

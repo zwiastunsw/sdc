@@ -116,20 +116,20 @@ cyfrowych.
   publicznych.
 
 ## 10. Kluczowe procesy wspierane lub realizowane przez konsultanta ds. szkoleń
-1.  Proces planowania szkoleń i rozwoju kompetencji\
-    Analiza potrzeb szkoleniowych oraz opracowanie planu rozwoju kompetencji 
+1. **Proces planowania szkoleń i rozwoju kompetencji**\
+   Analiza potrzeb szkoleniowych oraz opracowanie planu rozwoju kompetencji 
 	w zakresie dostępności cyfrowej.
-2.  Proces realizacji szkoleń i warsztatów\
-    Organizacja i prowadzenie zajęć edukacyjnych w formie stacjonarnej, 
+2. **Proces realizacji szkoleń i warsztatów**\
+   Organizacja i prowadzenie zajęć edukacyjnych w formie stacjonarnej, 
 	online i mieszanej.
-3.  Proces opracowywania materiałów dydaktycznych\
-    Tworzenie i adaptacja treści edukacyjnych w formatach dostępnych 
+3. **Proces opracowywania materiałów dydaktycznych**\
+   Tworzenie i adaptacja treści edukacyjnych w formatach dostępnych 
 	cyfrowo.
-4.  Proces ewaluacji i raportowania wyników szkoleń\
-    Monitorowanie efektów uczenia się, analiza opinii uczestników, 
+4. **Proces ewaluacji i raportowania wyników szkoleń**\
+   Monitorowanie efektów uczenia się, analiza opinii uczestników, 
 	przygotowanie raportów.
-5.  Proces wspierania kultury uczenia się i wymiany wiedzy\
-    Promowanie dostępności cyfrowej jako stałego elementu rozwoju zawodowego 
+5. **Proces wspierania kultury uczenia się i wymiany wiedzy**\
+   Promowanie dostępności cyfrowej jako stałego elementu rozwoju zawodowego 
 	pracowników.
 
 Konsultant (Specjalista) ds. szkoleń pełni kluczową funkcję edukacyjną,

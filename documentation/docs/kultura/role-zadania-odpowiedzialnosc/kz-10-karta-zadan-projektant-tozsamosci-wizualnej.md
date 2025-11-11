@@ -111,19 +111,19 @@ potrzeby użytkowników o różnych możliwościach percepcyjnych.
 - **Szkolenie**: Kontrast, kolory i typografia w dostępnej komunikacji.
 
 ## 10. Kluczowe procesy wspierane lub realizowane przez projektanta / właściciela tożsamości wizualnej
-1.  Proces tworzenia i aktualizacji księgi identyfikacji wizualnej
-Projektowanie i utrzymywanie standardów wizualnych organizacji z
+1. **Proces tworzenia i aktualizacji księgi identyfikacji wizualnej**\
+   Projektowanie i utrzymywanie standardów wizualnych organizacji z
 uwzględnieniem zasad dostępności.
-2.  Proces projektowania materiałów i szablonów graficznych
-Tworzenie dostępnych i spójnych materiałów graficznych wykorzystywanych
+2. **Proces projektowania materiałów i szablonów graficznych**\
+   Tworzenie dostępnych i spójnych materiałów graficznych wykorzystywanych
 w komunikacji publicznej.
-3.  Proces weryfikacji dostępności wizualnej publikacji
-Analiza i ocena zgodności materiałów z zasadami dostępności i WCAG 2.1.
-4.  Proces doradztwa i szkoleń w zakresie komunikacji wizualnej
-Wspieranie pracowników i zespołów w stosowaniu zasad projektowania
+3. **Proces weryfikacji dostępności wizualnej publikacji**\
+   Analiza i ocena zgodności materiałów z zasadami dostępności i WCAG 2.1.
+4. **Proces doradztwa i szkoleń w zakresie komunikacji wizualnej**\
+   Wspieranie pracowników i zespołów w stosowaniu zasad projektowania
 dostępnego wizualnie.
-5.  Proces monitorowania wizerunku i spójności komunikacji
-Nadzór nad prawidłowym stosowaniem logo, kolorów i typografii w
+5. **Proces monitorowania wizerunku i spójności komunikacji**\
+   Nadzór nad prawidłowym stosowaniem logo, kolorów i typografii w
 materiałach cyfrowych i drukowanych.
 
 Projektant lub właściciel tożsamości wizualnej organizacji zapewnia, aby

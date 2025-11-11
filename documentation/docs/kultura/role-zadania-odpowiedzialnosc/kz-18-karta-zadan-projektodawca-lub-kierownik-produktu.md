@@ -109,20 +109,20 @@ projektowania po testowanie i utrzymanie.
 - **Szkolenie**: Audyt i testowanie dostępności produktów cyfrowych.
 
 ## 10. Kluczowe procesy wspierane lub realizowane przez projektodawcę / kierownika produktu
-1.  Proces planowania i projektowania produktów cyfrowych
-Uwzględnienie wymagań dostępności już na etapie definiowania koncepcji
+1. **Proces planowania i projektowania produktów cyfrowych**\
+    Uwzględnienie wymagań dostępności już na etapie definiowania koncepcji
 produktu i specyfikacji funkcjonalnej.
-2.  Proces wytwarzania i implementacji rozwiązań cyfrowych
-Zapewnienie, że projektowanie i rozwój produktu przebiega z
+2. **Proces wytwarzania i implementacji rozwiązań cyfrowych**\
+    Zapewnienie, że projektowanie i rozwój produktu przebiega z
 uwzględnieniem zasad dostępności WCAG 2.1 i EN 301 549.
-3.  Proces testowania i walidacji dostępności
-Organizacja testów dostępności, w tym testów z udziałem użytkowników z
+3. **Proces testowania i walidacji dostępności**\
+    Organizacja testów dostępności, w tym testów z udziałem użytkowników z
 niepełnosprawnościami.
-4.  Proces utrzymania i aktualizacji produktów cyfrowych
-Zapewnienie, że każda aktualizacja produktu utrzymuje lub poprawia jego
+4. **Proces utrzymania i aktualizacji produktów cyfrowych**\
+    Zapewnienie, że każda aktualizacja produktu utrzymuje lub poprawia jego
 poziom dostępności.
-5.  Proces edukacji zespołów projektowych
-Organizowanie szkoleń i konsultacji dotyczących wdrażania zasad
+5. **Proces edukacji zespołów projektowych**\
+    Organizowanie szkoleń i konsultacji dotyczących wdrażania zasad
 dostępności w projektach cyfrowych.
 
 Projektodawca lub kierownik produktu pełni rolę łącznika między

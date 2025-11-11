@@ -119,21 +119,22 @@ zgodnych z ustawą o dostępności cyfrowej i normami powiązanymi.
 - **Mikropoświadczenie**: Rzecznik dostępności w administracji publicznej.
 
 ## 10. Kluczowe procesy wspierane lub realizowane przez prawnika / kierownika ds. zgodności
-1.  Proces nadzoru prawnego nad realizacją obowiązków dostępności
-Prawnik monitoruje i doradza w zakresie zgodności działań jednostki z
+1. **Proces nadzoru prawnego nad realizacją obowiązków dostępności**\
+   Prawnik monitoruje i doradza w zakresie zgodności działań jednostki z
 przepisami krajowymi i unijnymi.
-2.  Proces opracowywania i aktualizacji procedur wewnętrznych
-Opracowuje i aktualizuje procedury, regulaminy oraz wytyczne dotyczące
+2. **Proces opracowywania i aktualizacji procedur wewnętrznych**\
+   Opracowuje i aktualizuje procedury, regulaminy oraz wytyczne dotyczące
 zapewniania dostępności.
-3.  Proces oceny zgodności dokumentów i umów
-Sprawdza zapisy dokumentów pod kątem zgodności z wymogami dostępności
+3. **Proces oceny zgodności dokumentów i umów**\
+   Sprawdza zapisy dokumentów pod kątem zgodności z wymogami dostępności
 oraz prawem zamówień publicznych.
-4.  Proces obsługi zgłoszeń i postępowań
-Wspiera koordynatora i kierownictwo w obsłudze zgłoszeń dotyczących
+4. **Proces obsługi zgłoszeń i postępowań**\
+   Wspiera koordynatora i kierownictwo w obsłudze zgłoszeń dotyczących
 braku dostępności i w postępowaniach nadzorczych.
-5.  Proces raportowania i komunikacji z organami nadzoru
-Przygotowuje materiały i konsultacje prawne dotyczące raportów o stanie
+5. **Proces raportowania i komunikacji z organami nadzoru**\
+   Przygotowuje materiały i konsultacje prawne dotyczące raportów o stanie
 dostępności.
+
 Prawnik lub kierownik ds. zgodności pełni kluczową rolę w zapewnieniu,
 aby wszystkie działania jednostki były zgodne z przepisami i standardami
 dotyczącymi dostępności cyfrowej, wspierając tym samym transparentność i

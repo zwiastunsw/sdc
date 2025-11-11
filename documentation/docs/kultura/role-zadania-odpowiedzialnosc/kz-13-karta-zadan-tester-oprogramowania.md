@@ -117,20 +117,20 @@ wpływających na dostępność.
   IT.
 
 ## 10. Kluczowe procesy wspierane lub realizowane przez testera oprogramowania
-1.  Proces planowania testów dostępności\
-    Przygotowanie planów i scenariuszy testowych zgodnych z wymaganiami WCAG 
+1. **Proces planowania testów dostępności**\
+   Przygotowanie planów i scenariuszy testowych zgodnych z wymaganiami WCAG 
 	2.1 i EN 301 549.
-2.  Proces testowania manualnego i automatycznego\
-    Wykonywanie testów funkcjonalnych i technicznych z użyciem narzędzi
+2. **Proces testowania manualnego i automatycznego**\
+   Wykonywanie testów funkcjonalnych i technicznych z użyciem narzędzi
 	wspierających i czytników ekranu.
-3.  Proces raportowania i dokumentowania wyników testów\
-    Tworzenie raportów zawierających błędy, ich poziomy ważności i
+3. **Proces raportowania i dokumentowania wyników testów**\
+   Tworzenie raportów zawierających błędy, ich poziomy ważności i
 	rekomendacje naprawcze.
-4.  Proces walidacji poprawek i ponownego testowania\
-    Weryfikacja skuteczności wdrożonych poprawek po stronie
+4. **Proces walidacji poprawek i ponownego testowania**\
+   Weryfikacja skuteczności wdrożonych poprawek po stronie
 	programistycznej.
-5.  Proces doskonalenia jakości i edukacji zespołu projektowego\
-    Udział w szkoleniach, warsztatach i przekazywanie wiedzy o testowaniu
+5. **Proces doskonalenia jakości i edukacji zespołu projektowego**\
+   Udział w szkoleniach, warsztatach i przekazywanie wiedzy o testowaniu
 	dostępności w zespole.
 
 Tester oprogramowania odgrywa kluczową rolę w zapewnianiu, że wszystkie

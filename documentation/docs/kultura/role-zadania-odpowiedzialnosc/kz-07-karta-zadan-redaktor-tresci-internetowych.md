@@ -85,15 +85,15 @@ redakcyjnej.
   jednostki.
 
 ## 7. Współpraca i zależności
-- **Właściciel / wydawca strony internetowej** -- w zakresie planowania
+- **Właściciel / wydawca strony internetowej** - w zakresie planowania
   publikacji i polityki redakcyjnej;
-- **Koordynator ds. dostępności** -- w zakresie weryfikacji zgodności treści
+- **Koordynator ds. dostępności** - w zakresie weryfikacji zgodności treści
   z wymaganiami dostępności;
-- **Dział IT** -- w zakresie wsparcia technicznego publikacji i
+- **Dział IT** - w zakresie wsparcia technicznego publikacji i
   rozwiązywania błędów;
-- **Dział komunikacji** -- w zakresie spójności przekazu i zgodności z
+- **Dział komunikacji** - w zakresie spójności przekazu i zgodności z
   identyfikacją wizualną;
-- **Prawnik** -- w zakresie zgodności publikowanych treści z przepisami
+- **Prawnik** - w zakresie zgodności publikowanych treści z przepisami
   prawa i ochrony danych osobowych.
 
 ## 8. Wskaźniki realizacji zadań
@@ -104,33 +104,33 @@ redakcyjnej.
 - liczba przeszkolonych redaktorów i uczestników działań doskonalących.
 
 ## 9. Zalecane szkolenia i mikropoświadczenia
-- **Szkolenie**: Redagowanie dostępnych treści internetowych -- WCAG 2.1 w
+- **Szkolenie**: Redagowanie dostępnych treści internetowych - WCAG 2.1 w
   praktyce;
 - **Mikropoświadczenie**: Redaktor treści dostępnych cyfrowo;
 - **Szkolenie**: Język prosty i komunikacja inkluzywna;
 - **Mikropoświadczenie**: Tworzenie dostępnych dokumentów i publikacji internetowych;
-- **Szkolenie**: Dostępność w systemach CMS -- WordPress, Drupal, Joomla.
+- **Szkolenie**: Dostępność w systemach CMS - WordPress, Drupal, Joomla.
 
 ## 10. Kluczowe procesy wspierane lub realizowane przez redaktora treści internetowych
 
-1. Proces publikacji treści w serwisach internetowych\
+1. **Proces publikacji treści w serwisach internetowych**\
    Redaktor przygotowuje i publikuje materiały w sposób zgodny z zasadami
 dostępności cyfrowej.
-2. Proces redakcji i korekty treści\
+2. **Proces redakcji i korekty treści**\
    Zapewnienie, że publikowane informacje są napisane językiem prostym,
 zrozumiałe i przejrzyste.
-3. Proces weryfikacji i aktualizacji publikacji\
+3. **Proces weryfikacji i aktualizacji publikacji**\
    Stała kontrola poprawności, aktualności i dostępności treści w serwisach
 internetowych.
-4. Proces współpracy redakcyjnej\
-   Współpraca z właścicielem strony, działem komunikacji i IT w zakresie
-publikacji dostępnych materiałów.\
-   5. Proces reagowania na zgłoszenia użytkowników
-Analiza i poprawa treści w odpowiedzi na zgłoszenia dotyczące błędów lub
+4. **Proces współpracy redakcyjnej**\
+   Współpraca z właścicielem strony, działem komunikacji i IT w zakresie 
+   publikacji dostępnych materiałów.
+5. **Proces reagowania na zgłoszenia użytkowników**\
+   Analiza i poprawa treści w odpowiedzi na zgłoszenia dotyczące błędów lub
 barier w dostępności.
 
 Redaktor treści internetowych odgrywa kluczową rolę w utrzymaniu
-dostępności cyfrowej serwisów -- to od jego codziennych działań zależy,
+dostępności cyfrowej serwisów - to od jego codziennych działań zależy,
 czy użytkownicy otrzymają treści zrozumiałe, czytelne i dostępne dla
 wszystkich.
 

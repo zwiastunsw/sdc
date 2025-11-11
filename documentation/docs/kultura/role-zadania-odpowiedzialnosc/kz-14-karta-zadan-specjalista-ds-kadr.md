@@ -114,20 +114,19 @@ informacji, dokumentów, narzędzi i procedur organizacyjnych.
 - **Szkolenie**: Komunikacja inkluzywna i język dostępny w HR.
 
 ## 10. Kluczowe procesy wspierane lub realizowane przez specjalistę ds. kadr
-1.  Proces rekrutacji dostępnej cyfrowo\
-    Przygotowanie i publikacja ogłoszeń oraz obsługa naboru z uwzględnieniem
+1. **Proces rekrutacji dostępnej cyfrowo**\
+   Przygotowanie i publikacja ogłoszeń oraz obsługa naboru z uwzględnieniem
 	zasad dostępności i równego traktowania.
-2.  Proces wdrożenia i adaptacji pracownika\
-    Zapewnienie dostępnych materiałów informacyjnych i szkoleń wstępnych.
-3.  Proces rozwoju kompetencji i szkoleń\
-    Planowanie i koordynacja szkoleń w zakresie dostępności cyfrowej i
+2. **Proces wdrożenia i adaptacji pracownika**\
+   Zapewnienie dostępnych materiałów informacyjnych i szkoleń wstępnych.
+3 **Proces rozwoju kompetencji i szkoleń**\
+   Planowanie i koordynacja szkoleń w zakresie dostępności cyfrowej i
 	komunikacji inkluzywnej.
-4.  Proces zapewniania racjonalnych usprawnień\
-    Współpraca w zakresie dostosowania narzędzi i środowiska pracy do
+4. **Proces zapewniania racjonalnych usprawnień**\
+   Współpraca w zakresie dostosowania narzędzi i środowiska pracy do
 	potrzeb pracowników.
-5.  Proces raportowania i monitorowania działań HR w zakresie
-    dostępności\
-    Tworzenie raportów i analiz dotyczących realizacji polityki dostępności
+5. **Proces raportowania i monitorowania działań HR w zakresie dostępności**\
+   Tworzenie raportów i analiz dotyczących realizacji polityki dostępności
 	w obszarze kadr.
 
 Specjalista ds. kadr odgrywa kluczową rolę w tworzeniu środowiska pracy

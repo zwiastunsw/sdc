@@ -108,21 +108,20 @@ Specjalista ds. polityki współpracuje z:
 - **Szkolenie**: WCAG 2.1 i EN 301 549 w praktyce administracji publicznej.
 
 ## 10. Kluczowe procesy wspierane lub realizowane przez specjalistę ds. polityki
-1.  Proces planowania polityki dostępności cyfrowej\
-    Specjalista współtworzy polityki i strategie zapewniające zgodność
+1. **Proces planowania polityki dostępności cyfrowej**\
+   Specjalista współtworzy polityki i strategie zapewniające zgodność
     działań jednostki z zasadami dostępności cyfrowej.
-2.  Proces opracowania i aktualizacji planu działań na rzecz dostępności\
-    Uczestniczy w planowaniu działań i określaniu celów strategicznych w
+2. **Proces opracowania i aktualizacji planu działań na rzecz dostępności**\
+   Uczestniczy w planowaniu działań i określaniu celów strategicznych w
     zakresie dostępności.
-3.  Proces nadzoru nad zgodnością dokumentów strategicznych z wymogami
-    dostępności\
-    Dokonuje przeglądu i aktualizacji polityk, regulaminów i procedur
+3. **Proces nadzoru nad zgodnością dokumentów strategicznych z wymogami dostępności**\
+   Dokonuje przeglądu i aktualizacji polityk, regulaminów i procedur
     wewnętrznych.
-4.  Proces monitorowania i raportowania\
-    Wspiera przygotowanie raportów o stanie dostępności i ich publikację w
+4. **Proces monitorowania i raportowania**\
+   Wspiera przygotowanie raportów o stanie dostępności i ich publikację w
     sposób dostępny.
-5.  Proces edukacji i podnoszenia świadomości\
-    Współorganizuje działania szkoleniowe i komunikacyjne w zakresie
+5. **Proces edukacji i podnoszenia świadomości**\
+   Współorganizuje działania szkoleniowe i komunikacyjne w zakresie
     dostępności cyfrowej.
 
 Specjalista ds. polityki odgrywa rolę integratora i doradcy -- zapewnia

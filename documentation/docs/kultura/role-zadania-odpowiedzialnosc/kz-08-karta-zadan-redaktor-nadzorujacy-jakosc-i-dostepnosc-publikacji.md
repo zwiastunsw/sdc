@@ -113,20 +113,20 @@ treści i standardów publikacji;
   publicznej.
 
 ## 10. Kluczowe procesy wspierane lub realizowane przez redaktora nadzorującego
-1.  Proces kontroli jakości publikacji\
-    Weryfikacja treści pod kątem zgodności z polityką informacyjną, językiem
+1. **Proces kontroli jakości publikacji**\
+   Weryfikacja treści pod kątem zgodności z polityką informacyjną, językiem
 	prostym i zasadami dostępności.
-2.  Proces korekty i adiustacji treści\
-    Redagowanie i poprawianie tekstów przygotowanych przez redaktorów, przed
+2. **Proces korekty i adiustacji treści**\
+   Redagowanie i poprawianie tekstów przygotowanych przez redaktorów, przed
 	ich publikacją.
-3.  Proces audytu redakcyjnego\
-    Regularne przeglądy treści opublikowanych w serwisach internetowych pod
+3. **Proces audytu redakcyjnego**\
+   Regularne przeglądy treści opublikowanych w serwisach internetowych pod
 	kątem jakości i dostępności.
-4.  Proces szkoleniowy i mentoringowy\
-    Wspieranie redaktorów w rozwijaniu kompetencji w zakresie języka
+4. **Proces szkoleniowy i mentoringowy**\
+   Wspieranie redaktorów w rozwijaniu kompetencji w zakresie języka
 	prostego i dostępności cyfrowej.
-5.  Proces doskonalenia polityki informacyjnej\
-    Współtworzenie wytycznych redakcyjnych i standardów językowych w
+5. **Proces doskonalenia polityki informacyjnej**\
+   Współtworzenie wytycznych redakcyjnych i standardów językowych w
 	jednostce.
 
 Redaktor nadzorujący jakość i dostępność publikacji pełni kluczową rolę

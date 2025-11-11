@@ -1,7 +1,7 @@
 ---
 id: kz-17-karta-zadan-kierownik-dostepnosc_cyfrowa
 title: Karta zadań – Osoba sprawująca funkcje kierownicze lub samodzielne
-sidebar_label: Projektodawca lub właściciel produktu
+sidebar_label: Osoba sprawująca funkcje kierownicze lub samodzielne
 sidebar_position: 17
 description: Określa cel roli osoby sprawującej funkcje kierownicze lub samodzielne w systemie zarządzania dostępnością cyfrową, zakres zadań, odpowiedzialności 
 keywords: [polityka dostępności, dostępność cyfrowa, kultura organizacyjna, zarządzanie, role organizacyjne]
@@ -115,18 +115,18 @@ praktyką organizacyjną.
 - **Szkolenie**: Komunikacja i motywowanie zespołów w obszarze dostępności.
 
 ## 10. Kluczowe procesy wspierane lub realizowane przez osobę kierującą zespołem
-1.  Proces planowania działań zespołu z uwzględnieniem dostępności\
+1. **Proces planowania działań zespołu z uwzględnieniem dostępności**\
     Uwzględnianie aspektów dostępności cyfrowej w planach pracy i projektach
 	realizowanych przez zespół.
-2.  Proces nadzoru nad realizacją zadań\
+2. **Proces nadzoru nad realizacją zadań**\
     Monitorowanie zgodności tworzonych materiałów, dokumentów i publikacji z
 	zasadami dostępności.
-3.  Proces wsparcia pracowników w rozwoju kompetencji
+3. **Proces wsparcia pracowników w rozwoju kompetencji**\
     Umożliwianie udziału w szkoleniach i przekazywanie wiedzy o dobrych
 	praktykach dostępności.
-4.  Proces reagowania na bariery i incydenty dostępności\
+4. **Proces reagowania na bariery i incydenty dostępności**\
     Analiza zgłoszeń i inicjowanie działań naprawczych w zespole.
-5.  Proces raportowania i doskonalenia działań\
+5. **Proces raportowania i doskonalenia działań**\
     Współpraca z koordynatorem ds. dostępności przy opracowywaniu raportów i
 	planów doskonalenia.
 

@@ -114,20 +114,20 @@ cyfrowej;
   administracji publicznej.
 
 ## 10. Kluczowe procesy koordynowane przez specjalistę ds. dostępności
-1.  Proces planowania i aktualizacji działań w zakresie dostępności
-Koordynator opracowuje plan działań na rzecz dostępności i monitoruje
+1.  **Proces planowania i aktualizacji działań w zakresie dostępności**\
+   Koordynator opracowuje plan działań na rzecz dostępności i monitoruje
 jego realizację.
-2.  Proces monitorowania i raportowania dostępności
-Zapewnia bieżące zbieranie danych o stanie dostępności oraz przygotowuje
+2.  **Proces monitorowania i raportowania dostępności**\
+   Zapewnia bieżące zbieranie danych o stanie dostępności oraz przygotowuje
 raporty dla kierownictwa i organów nadzoru.
-3.  Proces szkoleniowy i budowania kompetencji
-Organizuje i koordynuje szkolenia w zakresie dostępności cyfrowej dla
+3.  **Proces szkoleniowy i budowania kompetencji**\
+   Organizuje i koordynuje szkolenia w zakresie dostępności cyfrowej dla
 pracowników jednostki.
-4.  Proces zarządzania zgłoszeniami i usprawnieniami
-Odpowiada za przyjmowanie zgłoszeń o braku dostępności i koordynuje ich
+4.  **Proces zarządzania zgłoszeniami i usprawnieniami**\
+   Odpowiada za przyjmowanie zgłoszeń o braku dostępności i koordynuje ich
 obsługę oraz działania naprawcze.
-5.  Proces współpracy międzydziałowej w zakresie dostępności
-Zapewnia przepływ informacji, wsparcie merytoryczne i integrację działań
+5.  **Proces współpracy międzydziałowej w zakresie dostępności**\
+   Zapewnia przepływ informacji, wsparcie merytoryczne i integrację działań
 pomiędzy działami jednostki.
 
 

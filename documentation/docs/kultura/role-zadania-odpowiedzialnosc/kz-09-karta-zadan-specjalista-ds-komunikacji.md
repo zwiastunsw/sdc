@@ -115,19 +115,19 @@ dostępności cyfrowej, języka prostego i komunikacji inkluzywnej.
   zasadami dostępności.
 
 ## 10. Kluczowe procesy wspierane lub realizowane przez specjalistę ds. komunikacji
-1.  Proces planowania komunikacji cyfrowej\
-    Opracowywanie strategii komunikacji z uwzględnieniem zasad dostępności i
+1. **Proces planowania komunikacji cyfrowej**\
+   Opracowywanie strategii komunikacji z uwzględnieniem zasad dostępności i
 	języka prostego.
-2.  Proces tworzenia i publikacji komunikatów\
-    Tworzenie i dystrybucja treści w kanałach cyfrowych zgodnie ze
+2. **Proces tworzenia i publikacji komunikatów**\
+   Tworzenie i dystrybucja treści w kanałach cyfrowych zgodnie ze
 	standardami dostępności.
-3.  Proces monitorowania skuteczności komunikacji\
-    Analiza odbioru komunikatów, raportowanie i rekomendowanie usprawnień.
-4.  Proces zapewniania dostępności wizualnej i audiowizualnej
-    Weryfikacja materiałów graficznych, wideo i multimedialnych pod kątem
+3. **Proces monitorowania skuteczności komunikacji**\
+   Analiza odbioru komunikatów, raportowanie i rekomendowanie usprawnień.
+4. **Proces zapewniania dostępności wizualnej i audiowizualnej**\
+   Weryfikacja materiałów graficznych, wideo i multimedialnych pod kątem
 	dostępności.
-5.  Proces edukacji i wsparcia komunikacyjnego\
-    Szkolenie i wspieranie pracowników w zakresie języka prostego i
+5. **Proces edukacji i wsparcia komunikacyjnego**\
+   Szkolenie i wspieranie pracowników w zakresie języka prostego i
 	dostępnej komunikacji.
 
 Specjalista ds. komunikacji pełni kluczową rolę w kształtowaniu

@@ -59,11 +59,13 @@ Dzięki temu podmiot publiczny może skutecznie planować, monitorować i raport
 | Prawnik lub kierownik ds. zgodności | **C** | **I** | **C** | **C** | **I** | **C** |
 | Kierownik ds. zakupów (zamówień publicznych) | **I** | **I** | **I** | **R** | **I** | **I** |
 | Właściciel / wydawca strony internetowej | **I** | **R** | **C** | **I** | **I** | **I** |
-| Redaktor treści internetowych / Specjalista ds. treści | **I** | **R** | **C** | **I** | **I** | **I** |
+| Redaktor treści internetowych | **I** | **R** | **C** | **I** | **I** | **I** |
 | Redaktor nadzorujący jakość i dostępność publikacji | **I** | **A** | **C** | **I** | **I** | **I** |
 | Specjalista ds. komunikacji | **C** | **R** | **C** | **I** | **I** | **I** |
 | Projektant / właściciel tożsamości wizualnej organizacji | **C** | **C** | **I** | **I** | **I** | **I** |
+| Projektodawca lub właściciel produktu (systemu, usługi cyfrowej) | **R** | **C** | **A** | **C** | **C** | **R** |
 | Konsultant ds. technologii informacyjno-komunikacyjnych (TIK) | **C** | **C** | **R** | **C** | **I** | **C** |
+| Kierownik działu IT | **C** | **I** | **R** | **C** | **C** | **R** |
 | Programista | **I** | **C** | **R** | **I** | **I** | **I** |
 | Tester oprogramowania | **I** | **C** | **R** | **I** | **I** | **I** |
 | Specjalista ds. kadr (HR) | **C** | **I** | **I** | **I** | **R** | **C** |

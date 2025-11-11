@@ -116,19 +116,19 @@ interfejsów, aplikacji i systemów informatycznych.
   developerskiej.
 
 ##  10. Kluczowe procesy wspierane lub realizowane przez programistę
-1.  Proces tworzenia i implementacji dostępnych komponentów
-Projektowanie i wdrażanie komponentów front‑endowych zgodnych z zasadami
+1. **Proces tworzenia i implementacji dostępnych komponentów**\
+   Projektowanie i wdrażanie komponentów front‑endowych zgodnych z zasadami
 dostępności i semantyki.
-2.  Proces testowania i walidacji dostępności kodu
-Weryfikacja kodu źródłowego i interfejsów użytkownika przy użyciu
+2. **Proces testowania i walidacji dostępności kodu**\
+   Weryfikacja kodu źródłowego i interfejsów użytkownika przy użyciu
 narzędzi automatycznych i testów manualnych.
-3.  Proces utrzymania i rozwoju systemów informatycznych
-Modernizacja kodu i komponentów z uwzględnieniem zmian w standardach
+3. **Proces utrzymania i rozwoju systemów informatycznych**\
+   Modernizacja kodu i komponentów z uwzględnieniem zmian w standardach
 WCAG i EN 301 549.
-4.  Proces przeglądów kodu (code review)
-Weryfikacja zgodności i jakości kodu w kontekście dostępności cyfrowej.
-5.  Proces doradztwa i edukacji technicznej w zespole projektowym
-Dzielenie się wiedzą i wspieranie zespołów w stosowaniu zasad dostępnego
+4. **Proces przeglądów kodu**\
+   Weryfikacja zgodności i jakości kodu w kontekście dostępności cyfrowej.
+5. **Proces doradztwa i edukacji technicznej w zespole projektowym**\
+   Dzielenie się wiedzą i wspieranie zespołów w stosowaniu zasad dostępnego
 programowania.
 
 Programista pełni kluczową rolę w zapewnianiu technicznej dostępności

@@ -123,20 +123,20 @@ możliwościach korzystania z technologii.
   publicznych.
 
 ## 10. Kluczowe procesy wspierane lub realizowane przez konsultanta ds. TIK
-1.  Proces planowania i wdrażania dostępnych technologii
-Doradztwo w zakresie wyboru, zakupu i wdrażania systemów IT zgodnych z
+1. **Proces planowania i wdrażania dostępnych technologii**\
+   Doradztwo w zakresie wyboru, zakupu i wdrażania systemów IT zgodnych z
 zasadami dostępności.
-2.  Proces audytowania i oceny dostępności technologicznej
-Przeprowadzanie przeglądów, testów i audytów systemów w celu zapewnienia
+2. **Proces audytowania i oceny dostępności technologicznej**\
+   Przeprowadzanie przeglądów, testów i audytów systemów w celu zapewnienia
 zgodności z WCAG i EN 301 549.
-3.  Proces wsparcia technicznego dla użytkowników i zespołów
-Doradztwo i pomoc w rozwiązywaniu problemów technicznych dotyczących
+3. **Proces wsparcia technicznego dla użytkowników i zespołów**\
+   Doradztwo i pomoc w rozwiązywaniu problemów technicznych dotyczących
 dostępności.
-4.  Proces edukacji technologicznej w organizacji
-Szkolenie i doradztwo dla pracowników w zakresie stosowania i obsługi
+4. **Proces edukacji technologicznej w organizacji**\
+   Szkolenie i doradztwo dla pracowników w zakresie stosowania i obsługi
 technologii dostępnych cyfrowo.
-5.  Proces rozwoju i modernizacji infrastruktury IT
-Udział w projektach rozwoju systemów i usług cyfrowych z uwzględnieniem
+5. **Proces rozwoju i modernizacji infrastruktury IT**\
+   Udział w projektach rozwoju systemów i usług cyfrowych z uwzględnieniem
 zasad dostępności.
 
 Konsultant ds. technologii informacyjno‑komunikacyjnych (TIK) pełni

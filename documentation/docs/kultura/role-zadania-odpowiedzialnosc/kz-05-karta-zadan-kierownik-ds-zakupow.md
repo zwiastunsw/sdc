@@ -117,21 +117,20 @@ wykonawców.
   dostępności cyfrowej.
 
 ## 10. Kluczowe procesy wspierane lub realizowane przez kierownika ds. zakupów
-1.  Proces przygotowania i prowadzenia postępowań o udzielenie
-    zamówienia publicznego
-Zapewnienie, że wymagania dostępności są integralną częścią każdego
+1. **Proces przygotowania i prowadzenia postępowań o udzielenie zamówienia publicznego**\
+   Zapewnienie, że wymagania dostępności są integralną częścią każdego
 postępowania o udzielenie zamówienia.
-2.  Proces tworzenia i weryfikacji dokumentacji przetargowej
-Opracowywanie dokumentacji z uwzględnieniem kryteriów dostępności i
+2. **Proces tworzenia i weryfikacji dokumentacji przetargowej**\
+   Opracowywanie dokumentacji z uwzględnieniem kryteriów dostępności i
 współpraca z koordynatorem oraz prawnikiem.
-3.  Proces weryfikacji ofert i wykonania umów
-Kontrola ofert oraz realizacji umów pod kątem spełnienia wymagań
+3. **Proces weryfikacji ofert i wykonania umów**\
+   Kontrola ofert oraz realizacji umów pod kątem spełnienia wymagań
 dostępności cyfrowej.
-4.  Proces raportowania i archiwizacji dokumentacji zamówień
-Zbieranie i archiwizowanie informacji o spełnieniu kryteriów dostępności
+4. **Proces raportowania i archiwizacji dokumentacji zamówień**\
+   Zbieranie i archiwizowanie informacji o spełnieniu kryteriów dostępności
 w postępowaniach.
-5.  Proces doskonalenia kompetencji zakupowych
-Udział w szkoleniach i wdrażanie dobrych praktyk w zakresie dostępnych
+5. **Proces doskonalenia kompetencji zakupowych**\
+   Udział w szkoleniach i wdrażanie dobrych praktyk w zakresie dostępnych
 zamówień publicznych.
 
 Kierownik ds. zakupów odgrywa strategiczną rolę w zapewnianiu
