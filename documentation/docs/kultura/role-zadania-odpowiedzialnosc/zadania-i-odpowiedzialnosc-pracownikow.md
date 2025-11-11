@@ -94,8 +94,8 @@ Odpowiedzialność za dostępność wymaga zmiany podejścia i kultury organizac
 
 - Ministerstwo Cyfryzacji – materiały metodyczne (2020–2025).  
 - [W3C Web Accessibility Initiative (WAI): Accessibility Roles and Responsibilities Mapping (ARRM)](https://www.w3.org/WAI/planning/arrm/).  
-- [PL ETSI EN 301 549 V3.2.1 – Wymagania dotyczące dostępności produktów i usług ICT](https://sklep.pkn.pl/pn-etsi-en-301-549-v3-2-1-2021-09p.html).  
-- [W3C Web Accessibility Initiative (WAI): Planning and Managing Web Accessibility](https://www.w3.org/WAI/planning-and-managing/](https://lepszyweb.pl/blog2/ramy-strategii-dostepnosci-webaim)
+- [PL ETSI EN 301 549 V3.2.1 – Wymagania dotyczące dostępności produktów i usług ICT](https://sklep.pkn.pl/pn-etsi-en-301-549-v3-2-1-2021-09p.html)  
+- [W3C Web Accessibility Initiative (WAI): Planning and Managing Web Accessibility](https://www.w3.org/WAI/planning-and-managing/)
 
 ---
 
