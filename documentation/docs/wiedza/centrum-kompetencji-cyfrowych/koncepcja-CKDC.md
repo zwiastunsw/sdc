@@ -148,7 +148,7 @@ Finansowanie działalności Centrum może pochodzić z:
 - Dyrektywa (UE) 2019/882 – Europejski Akt o Dostępności,  
 - Ustawa o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych,  
 - Ustawa o zapewnianiu dostępności osobom ze szczególnymi potrzebami,  
-- Strategia Cyfrowej Transformacji Państwa 2030.  
+- [Strategia Cyfryzacji Polski do 2035 roku](https://www.gov.pl/web/cyfryzacja/strategia-cyfryzacji-polski-do-2035-roku).  
 
 ---
 
