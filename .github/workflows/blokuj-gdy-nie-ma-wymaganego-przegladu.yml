@@ -16,7 +16,7 @@ on:
 
 jobs:
   require-one-review:
-    name: Check for required reviews
+    name: require-one-review
     runs-on: ubuntu-latest
     permissions:
       pull-requests: read
@@ -26,25 +26,26 @@ jobs:
       - name: Check required reviews
         id: check
         uses: actions/github-script@v8
+        env:
+          ALLOWED_REVIEWERS: ${{ vars.ALLOWED_REVIEWERS || secrets.ALLOWED_REVIEWERS }}
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
+            const reviewers = process.env.ALLOWED_REVIEWERS
+              ? process.env.ALLOWED_REVIEWERS.split(",").map(r => r.trim()).filter(Boolean)
+              : [];
             const pr = context.payload.pull_request;
             const prAuthor = pr.user.login;
 
-            // ✅ Dependabot PRs are automatically approved (no secret access)
-            if (prAuthor === "dependabot[bot]" || prAuthor.toLowerCase().startsWith("dependabot")) {
-              core.notice("🤖 Dependabot PR — skipping review requirement ✅");
+            if (!reviewers.length) {
+              core.notice("⚠️ No reviewers defined in vars or secrets — skipping check.");
               core.setOutput("status", "approved");
               return;
             }
 
-            // Now safe to load reviewers from secret
-            const reviewersRaw = process.env.ALLOWED_REVIEWERS || "";
-            const reviewers = reviewersRaw.split(",").map(r => r.trim()).filter(Boolean);
-
-            if (!reviewers.length) {
-              core.notice("⚠️ No reviewers defined in ALLOWED_REVIEWERS secret — skipping check.");
+            // Skip Dependabot PRs (auto-approved)
+            if (prAuthor === "dependabot[bot]") {
+              core.notice("🤖 Dependabot PR – skipping review requirement ✅");
               core.setOutput("status", "approved");
               return;
             }
@@ -56,15 +57,14 @@ jobs:
               pull_number: pr.number,
             });
 
-            // Get the latest review state per reviewer
+            // Get latest review state per user
             const latest = {};
             for (const r of reviews) {
               latest[r.user.login] = r.state;
             }
 
-            // Count approved reviewers from allowed list
+            // Collect approved reviewers who are allowed
             const approvers = reviewers.filter(u => latest[u] === "APPROVED");
-
             const requiredApprovals = 2;
             const approvalCount = approvers.length;
 
@@ -77,10 +77,7 @@ jobs:
               core.setOutput("status", "pending");
             }
 
-        env:
-          ALLOWED_REVIEWERS: ${{ secrets.ALLOWED_REVIEWERS }}
-
       - name: Mark neutral status if waiting for approvals
         if: steps.check.outputs.status == 'pending'
-        run: echo "⏸️ Waiting for more reviews — check remains pending."
+        run: echo "⏸️ Waiting for additional required reviews."
         continue-on-error: true
