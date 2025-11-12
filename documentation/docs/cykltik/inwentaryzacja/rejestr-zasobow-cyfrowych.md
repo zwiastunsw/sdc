@@ -7,7 +7,7 @@ keywords: [dostępność cyfrowa, inwentaryzacja, archiwizacja]
 tags: [dostępność cyfrowa, inwentaryzacja, archiwizacja]
 opracowanie: Cezary Tomczyk
 data_zgloszenia: 19 październik 2025 r.
-ostatnia_aktualizacja: 19 październik  2025 r.
+ostatnia_aktualizacja: 12 listopada  2025 r.
 wersja_robocza: true
 ---
 
