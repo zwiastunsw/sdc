@@ -17,7 +17,7 @@ mmmmmmmmmmmmm
 - drugi podpunkt
 - trzecie
 
-## Kolejny śródtytuł
+## Ładniejszy tytuł
 1. Pierwszy punkt
 2. Drugi punkt 
 
