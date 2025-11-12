@@ -91,12 +91,7 @@ Rejestr powinien być prowadzony w sposób umożliwiający identyfikację właś
 
 ## 7. Załączniki
 
-### Załącznik 1. Projekty mikropoświadczeń
-
-- [Projekt mikropoświadczenia: Osoba prowadząca inwentaryzację zasobów cyfrowych](PL-ACC-030-osoba-prowadzaca-inwentaryzacje-zasobow)
-- [Projekt mikropoświadczenia: PL-ACC-031-koordynator-inwentaryzacji](PL-ACC-031-koordynator-inwentaryzacji.md)
-
-### Załącznik 2. Przykłady zasobów cyfrowych
+### Załącznik 1. Przykłady zasobów cyfrowych
 
 - **Strony internetowe**
   - Serwis główny urzędu (np. www.miasto.gov.pl)
@@ -122,7 +117,7 @@ Rejestr powinien być prowadzony w sposób umożliwiający identyfikację właś
 ---
 
 
-### Załącznik 3. Wzór 1 rejestru zasobów cyfrowych
+### Załącznik 2. Wzór 1 rejestru zasobów cyfrowych
 
 | ID | Nazwa zasobu | Typ zasobu | Lokalizacja (URL) | Właściciel / opiekun | Status dostępności | Zgodność z EN 301 549 | Monitoring | Data aktualizacji | Technologia / CMS | Uwagi |
 |----|----------------|-------------|--------------------|-----------------------|---------------------|-----------------------|-------------|-------------------|-------------------|--------|
@@ -130,7 +125,7 @@ Rejestr powinien być prowadzony w sposób umożliwiający identyfikację właś
 
 ---
 
-### Załącznik 4. Wzór 2 rejestru zasobów cyfrowych
+### Załącznik 3. Wzór 2 rejestru zasobów cyfrowych
 
 | ID zasobu | Nazwa zasobu                  | Typ zasobu     | URL / Lokalizacja                 | Właściciel / Opiekun | Status dostępności | Zgodność z EN 301 549 | Monitoring aktywny | Ostatni wynik skanowania | Data ostatniej aktualizacji | CMS / Technologia | Uwagi / Plan działania |
 |-----------|-------------------------------|----------------|----------------------------------|----------------------|---------------------|------------------------|---------------------|---------------------------|-----------------------------|-------------------|------------------------|
