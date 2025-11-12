@@ -7,8 +7,8 @@ description: Określa zasady raportowania i wskaźniki monitorowania dostępnoś
 keywords: [polityka dostępności, dostępność cyfrowa, kultura organizacyjna, zarządzanie, role organizacyjne]
 tags: [polityka dostępności, dostępność cyfrowa, kultura organizacyjna, zarządzanie, role organizacyjne]
 opracowanie: Stefan Wajda 
-data_zgloszenia: 7 listoapada lipca 2025 r.
-ostatnia_aktualizacja: 7 listoapada lipca 2025 r.
+data_zgloszenia: 7 listopada 2025 r.
+ostatnia_aktualizacja: 12 listopada 2025 r.
 wersja_robocza: true
 ---
 
@@ -16,7 +16,7 @@ wersja_robocza: true
 Urząd Miejski w Nowoczesnym Mieście Cyfrowym\
 Opracował: Zespół ds. dostępności cyfrowej\
 Data: listopad 2025\
-Wersja: 1.0\
+Wersja: 1.0
 
 Opis alternatywny logo: Logo Urzędu Miejskiego w Nowoczesnym Mieście Cyfrowym - znak
 graficzny jednostki użyty w celach demonstracyjnych.

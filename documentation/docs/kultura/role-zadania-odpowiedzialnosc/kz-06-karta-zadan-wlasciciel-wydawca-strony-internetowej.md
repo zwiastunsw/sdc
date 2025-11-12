@@ -7,8 +7,8 @@ description: Określa cel roli wydawcy strony internetowej w systemie zarządzan
 keywords: [polityka dostępności, dostępność cyfrowa, kultura organizacyjna, zarządzanie, role organizacyjne]
 tags: [polityka dostępności, dostępność cyfrowa, kultura organizacyjna, zarządzanie, role organizacyjne]
 opracowanie: Stefan Wajda 
-data_zgloszenia: 7 listoapada lipca 2025 r.
-ostatnia_aktualizacja: 11 listoapada lipca 2025 r.
+data_zgloszenia: 7 listopada 2025 r.
+ostatnia_aktualizacja: 12 listopada 2025 r.
 wersja_robocza: true
 ---
 
