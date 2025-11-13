@@ -2,13 +2,20 @@
 id: zapewnianie-wsparcia-wniosek
 title: Formularz wniosku o dostosowanie / racjonalne usprawnienie cyfrowe
 description: Przykład struktury i treści wniosku o dostosowanie / racjonalne usprawnienie cyfrowe
-sidebar_label: Wzór wniosku (1)
-sidebar_position: 6 
-keywords: [WCAG 2.1 AA, dostepność cyfrowa, dostosowania, racjonalne usprawnienia, procedura]
-tags: [WCAG 2.1 AA, dostepność cyfrowa, dostosowania, racjonalne usprawnienia, procedura]
+sidebar_label: Wzór wniosku
+sidebar_position: 3 
+keywords: [
+WCAG 2.1 AA, 
+dostepnosc cyfrowa
+]
+tags: [
+WCAG 2.1 AA, 
+dostepnosc cyfrowa
+]
 data_zgloszenia: 3 listopada 2025 r.
-ostatnia_aktualizacja: 14 listopada 2025 r.
+ostatnia_aktualizacja: 3 listopada 2025 r.
 opracowanie: Stefan Wajda
+wspolpraca: ChatGPT
 wersja_robocza: true
 ---
 
@@ -59,7 +66,7 @@ Podpis wnioskodawcy: ....................................................
 Data: ....................................................
 
 
-## 6. Część do wypełnienia przez dział kadr / Pełnomocnika ds. dostępności
+## 6. Część do wypełnienia przez dział HR / Pełnomocnika ds. dostępności
 
 | Pozycja | Opis |
 |----------|------|
@@ -81,10 +88,10 @@ Data: ....................................................
 | Opis wdrożonego rozwiązania | ................................................................................................................................................................................................................................................ |
 | Ocena skuteczności (opinia pracownika) | ................................................................................................................................................................................................................................................ |
 | Podpis pracownika | .................................................... |
-| Podpis przedstawiciela Działu kadr / IT | .................................................... |
+| Podpis przedstawiciela HR / IT | .................................................... |
 
 
 **Uwagi końcowe:**  
-Wniosek należy przekazać do działu kadr lub pełnomocnika ds. dostępności (osobiście, mailowo lub przez dedykowany system zgłoszeń).  
+Wniosek należy przekazać do działu HR lub pełnomocnika ds. dostępności (osobiście, mailowo lub przez dedykowany system zgłoszeń).  
 Czas rozpatrzenia wniosku – do **30 dni roboczych**.
 

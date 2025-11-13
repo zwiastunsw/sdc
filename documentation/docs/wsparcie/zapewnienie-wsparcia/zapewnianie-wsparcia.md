@@ -3,12 +3,19 @@ id: zapewnianie-wsparcia
 title: Procedura zapewniania pracownikom dostosowań i racjonalnych usprawnień cyfrowych
 description: Projekt zalecenia Stworzenie procedury zapewniania pracownikom dostosowań i racjonalnych usprawnień cyfrowych
 sidebar_label: Procedura zapewniania wsparcia
-sidebar_position: 0 
-keywords: [WCAG 2.1 AA, dostepnosc cyfrowa]
-tags: [WCAG 2.1 AA, dostepnosc cyfrowa]
+sidebar_position: 1 
+keywords: [
+WCAG 2.1 AA, 
+dostepnosc cyfrowa
+]
+tags: [
+WCAG 2.1 AA, 
+dostepnosc cyfrowa
+]
 data_zgloszenia: 3 listopada 2025 r.
 ostatnia_aktualizacja: 3 listopada 2025 r.
 opracowanie: Stefan Wajda
+wspolpraca: ChatGPT
 wersja_robocza: true
 ---
 
@@ -23,19 +30,19 @@ Organizacja ustala i wdraża proces wnioskowania i zapewniania pracownikom dosto
    
    - **cel**: zapewnienie równych szans i możliwości korzystania z technologii i zasobów cyfrowych przez wszystkich pracowników, w tym osoby z niepełnosprawnościami;
    - **zakres**: wszystkie systemy IT, oprogramowanie, aplikacje, treści intranetowe, szkoleniowe i komunikacyjne;
-   - **odpowiedzialność**: wskazanie działu lub osoby (np. Dział kadr, BHP, IT, Działu Różnorodności i Włączenia), odpowiedzialnej za obsługę wniosków i wdrażanie dostosowań.
+   - **odpowiedzialność**: wskazanie działu lub osoby (np. HR, BHP, IT, Działu Różnorodności i Włączenia), odpowiedzialnej za obsługę wniosków i wdrażanie dostosowań.
 
 2. **Proces składania wniosków o dostosowania**\
    Organizacja powinna zapewnić jasny i poufny mechanizm wnioskowania o dostosowania cyfrowe, który może obejmować:
    
-   a) **Formularz wniosku (elektroniczny i papierowy), zawierający:**
+   a) **Formularz wniosku (elektroniczny lub papierowy), zawierający:**
       - dane pracownika (lub możliwość anonimowego zgłoszenia wstępnego);
-	  - opis trudności lub barier (np. „czytnik ekranu nie działa poprawnie w systemie obsługi kadr”);
+	  - opis trudności lub barier (np. „czytnik ekranu nie działa poprawnie w systemie HR”);
 	  - propozycję lub oczekiwany typ usprawnienia (np. powiększenie czcionki, zmiana kontrastu, alternatywny format pliku, dodatkowe oprogramowanie wspomagające).
 	  
    b) **Kanały kontaktu**:
-      - dział kadr lub dział BHP,
-	  - pełnomocnik ds. dostępności,
+      - HR lub dział BHP,
+	  - Pełnomocnik ds. dostępności,
 	  - dedykowana skrzynka mailowa (np. dostosowania@firma.pl),
 	  - system ticketowy IT (dla zgłoszeń technicznych).
 
@@ -67,9 +74,9 @@ Organizacja ustala i wdraża proces wnioskowania i zapewniania pracownikom dosto
    - szkolenia dla kadry kierowniczej i działu IT z zakresu dostępności.
 
 6. **Przykładowe dobre praktyki**
-   - Wdrożenie zasady „projektowania dla wszystkich” w projektach IT – dostępność od fazy projektowania.
+   - Wdrożenie zasady „design for all” w projektach IT – dostępność od fazy projektowania.
    - Używanie standardów WCAG 2.1 AA przy tworzeniu i zakupie oprogramowania.
-   - Stworzenie wewnętrznego zespołu ds. dostępności cyfrowej (Dział kadr + IT + komunikacja).
+   - Stworzenie wewnętrznego zespołu ds. dostępności cyfrowej (HR + IT + komunikacja).
    - Szkolenia dla wszystkich pracowników z używania dostępnych narzędzi i tworzenia dostępnych dokumentów (np. PowerPoint, PDF, treści intranetowych).
 
 
@@ -151,17 +158,6 @@ Organizacja ustala i wdraża proces wnioskowania i zapewniania pracownikom dosto
    - Tworzenie formalnych procedur wnioskowania o dostosowania w organizacjach publicznych i prywatnych.
    - Wdrażanie zasady „Design for All” / „Accessibility by Design” w projektowaniu systemów IT i treści cyfrowych.
    - Monitorowanie skuteczności usprawnień i szkolenia pracowników z zakresu dostępności cyfrowej.
-5. **Publikacje zwarte**
-   - [CIOP–PIB, Osoba z niepełnosprawnością wzrokową w pracy. Poradnik dla pracodawców](https://m.ciop.pl/CIOPPortalWAR/file/97895/niepelnosprawnosc-wzrokowa-poradnik-dla-pracodawcy.pdf)
-   - [CIOP–PIB, Osoba z niepełnosprawnością słuchową w pracy. Poradnik dla pracodawców](https://m.ciop.pl/CIOPPortalWAR/file/97893/niepelnosprawnosc-sluchowa-poradnik-dla-pracodawcy.pdf)
-   - [CIOP–PIB, Osoba z niepełnosprawnością ruchową w pracy. Poradnik dla pracodawców](https://m.ciop.pl/CIOPPortalWAR/file/97894/niepelnosprawnosc-ruchowa-poradnik-dla-pracodawcy.pdf)
-   - [CIOP–PIB, Osoba z niepełnosprawnością intelektualną w pracy. Poradnik dla pracodawców](https://www.ciop.pl/CIOPPortalWAR/file/88310/Osoba_z_niepelnosprawnoscia_intelektualna_w_pracy-Poradnik_dla_pracodawcow.pdf)
-   - [CIOP–PIB, Projektowanie obiektów, pomieszczeń oraz przystosowanie stanoiwisk pracy dla osób niepełnosprawnych o specyficznych potrzebach - ramowe wytyczne](https://www.pfron.org.pl/o-funduszu/projekty/projekty-ue/program-operacyjny-kap/zakonczone-projekty/ramowe-wytyczne-w-zakr/efekty-projektu/#Publikacja)
-   - [CIOP–PIB, Przystosowanie obiektów, pomieszczeń oraz stanowisk pracy dla osób niepełnosprawnych o specyficznych potrzebach - dobre praktyki](https://www.pfron.org.pl/o-funduszu/projekty/projekty-ue/program-operacyjny-kap/zakonczone-projekty/ramowe-wytyczne-w-zakr/efekty-projektu/#Publikacja)
-   - [CIOP–PIB, Lista kontrolna do oceny ergonomicznej stanowiska pracy osób z różnymi rodzajami niepełnosprawności](https://www.pfron.org.pl/o-funduszu/projekty/projekty-ue/program-operacyjny-kap/zakonczone-projekty/ramowe-wytyczne-w-zakr/efekty-projektu/#Lista)
-   - [Fundacja Aktywizacja, Postaw na pracę. Dostępne miejsca pracy](https://aktywizacja.org.pl/wiedza/publikacje/broszura-dostepne-miejsca-pracy/)
-   - [Fundacja Aktywizacja, Poradnik dla pracodawców, o tym jak tworzyć dostępne miejsce pracy](https://aktywizacja.org.pl/wp-content/uploads/2024/06/Fundacja-Aktywizacja_Poradnik-dla-pracodawcow-o-tym-jak-tworzyc-dostepne-miejsce-pracy.pdf)
-   - [Fundacja Aktywizacja, Osoba z niepełnosprawnością w Twojej firmie – Niezbędnik pracodawcy](https://aktywizacja.org.pl/wiedza/publikacje/osoba-z-niepelnosprawnoscia-w-twojej-firmie-niezbednik-pracodawcy/)   
 
 ## Źródła w formacie APA
 
