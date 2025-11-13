@@ -44,7 +44,7 @@ Sieć Dostępności Cyfrowej dostrzega potrzebę utworzenia **stałego, krajoweg
 Sieć Dostępności Cyfrowej rekomenduje, aby Minister Cyfryzacji:
 
 1. **Powołał Centrum Kompetencji Dostępności Cyfrowej (CKDC)** – jednostkę merytoryczną odpowiedzialną za rozwój i utrzymanie kompetencji w zakresie dostępności cyfrowej w administracji publicznej.  
-2. Umieścił CKDC w strukturze Ministerstwa Cyfryzacji lub w jednostce podległej (np. NASK, COI, Centrum Rozwoju Kompetencji Cyfrowych).  
+2. Umieścił CKDC w strukturze Ministerstwa Cyfryzacji w Centrum Rozwoju Kompetencji Cyfrowych lub w jednostce podległej Ministerstwu (np. NASK, COI, Centrum Rozwoju Kompetencji Cyfrowych).  
 3. Zapewnił Centrum odpowiednie zasoby organizacyjne i finansowe, umożliwiające realizację jego kluczowych zadań.  
 
 ---
