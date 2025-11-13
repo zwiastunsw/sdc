@@ -2,18 +2,12 @@
 id: zapewnianie-wsparcia-wniosek
 title: Formularz wniosku o dostosowanie / racjonalne usprawnienie cyfrowe
 description: Przykład struktury i treści wniosku o dostosowanie / racjonalne usprawnienie cyfrowe
-sidebar_label: Wzór wniosku
-sidebar_position: 3 
-keywords: [
-WCAG 2.1 AA, 
-dostepnosc cyfrowa
-]
-tags: [
-WCAG 2.1 AA, 
-dostepnosc cyfrowa
-]
+sidebar_label: Wzór wniosku (1)
+sidebar_position: 6 
+keywords: [WCAG 2.1 AA, dostepność cyfrowa, dostosowania, racjonalne usprawnienia, procedura]
+tags: [WCAG 2.1 AA, dostepność cyfrowa, dostosowania, racjonalne usprawnienia, procedura]
 data_zgloszenia: 3 listopada 2025 r.
-ostatnia_aktualizacja: 3 listopada 2025 r.
+ostatnia_aktualizacja: 14 listopada 2025 r.
 opracowanie: Stefan Wajda
 wersja_robocza: true
 ---

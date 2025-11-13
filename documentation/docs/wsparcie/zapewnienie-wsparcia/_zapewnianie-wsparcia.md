@@ -3,15 +3,9 @@ id: zapewnianie-wsparcia
 title: Procedura zapewniania pracownikom dostosowań i racjonalnych usprawnień cyfrowych
 description: Projekt zalecenia Stworzenie procedury zapewniania pracownikom dostosowań i racjonalnych usprawnień cyfrowych
 sidebar_label: Procedura zapewniania wsparcia
-sidebar_position: 1 
-keywords: [
-WCAG 2.1 AA, 
-dostepnosc cyfrowa
-]
-tags: [
-WCAG 2.1 AA, 
-dostepnosc cyfrowa
-]
+sidebar_position: 0 
+keywords: [WCAG 2.1 AA, dostepnosc cyfrowa]
+tags: [WCAG 2.1 AA, dostepnosc cyfrowa]
 data_zgloszenia: 3 listopada 2025 r.
 ostatnia_aktualizacja: 3 listopada 2025 r.
 opracowanie: Stefan Wajda
