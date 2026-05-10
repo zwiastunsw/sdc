@@ -1,7 +1,7 @@
 ---
 id: wzor-informacji-o-dostepie-alternatywnym
 title: Wzór informacji o dostępie alternatywnym do zasobu archiwalnego lub historycznego
-description: Materiał operacyjny wspierający przygotowanie informacji dla użytkowników o sposobie uzyskania dostępu alternatywnego do zasobów cyfrowych.
+description: Wzory komunikatów informujących użytkownika o statusie treści archiwalnej albo historycznej.
 sidebar_label: Wzór informacji o dostępie alternatywnym
 sidebar_position: 19
 keywords: [cykl życia TIK,archiwizacja,zasoby cyfrowe,wycofywanie treści,migracja danych,informacja publiczna,dostępność cyfrowa]

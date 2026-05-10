@@ -1,7 +1,7 @@
 ---
 id: scenariusze-praktyczne.md
 title: Scenariusze praktyczne
-description: Jak stosować modele i procedury dotyczące archiwizacji, migracji i wycofywania zasobów cyfrowych w typowych sytuacjach operacyjnych.
+description: Przykładowe scenariusze stosowania procedury archiwizacji i wycofywania zasobów cyfrowych.
 sidebar_label: Scenariusze praktyczne
 sidebar_position: 20
 keywords: [cykl życia TIK,archiwizacja,zasoby cyfrowe,wycofywanie treści,migracja danych,informacja publiczna,dostępność cyfrowa]
