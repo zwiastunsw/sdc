@@ -57,14 +57,12 @@ Nie wszystkie punkty muszą mieć zastosowanie w każdym przypadku.
 
 ## Informacje podstawowe
 
-| Pole | Informacja |
-|---|---|
-| Nazwa zasobu | |
-| Rodzaj zasobu | |
-| Lokalizacja / system | |
-| Osoba odpowiedzialna | |
-| Data rozpoczęcia archiwizacji | |
-| Planowana data zakończenia | |
+1. **Nazwa zasobu**:
+2. **Rodzaj zasobu**:
+3. **Lokalizacja / system**:
+4. **Osoba odpowiedzialna**:
+5. **Data rozpoczęcia archiwizacji**:
+6. **Planowana data zakończenia**:
 
 ---
 
@@ -106,11 +104,9 @@ Nie wszystkie punkty muszą mieć zastosowanie w każdym przypadku.
 
 ## Potwierdzenie zakończenia działań
 
-| Pole | Informacja |
-|---|---|
-| Data zakończenia procesu | |
-| Osoba potwierdzająca zakończenie | |
-| Uwagi końcowe | |
+1. **Data zakończenia procesu**:
+2. **Osoba potwierdzająca zakończenie**:
+3. **Uwagi końcowe**:
 
 ---
 

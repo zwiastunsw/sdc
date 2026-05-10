@@ -46,24 +46,20 @@ Formularz może być wykorzystywany między innymi podczas:
 
 ### 1. Informacje podstawowe
 
-| Pole | Informacja |
-|---|---|
-| Numer decyzji / identyfikator | |
-| Data sporządzenia | |
-| Osoba sporządzająca | |
-| Komórka organizacyjna | |
+1. **Numer decyzji / identyfikator**:
+2. **Data sporządzenia**:
+3. **Osoba sporządzająca**:
+4. **Komórka organizacyjna**:
 
 ---
 
 ### 2. Identyfikacja zasobu
 
-| Pole | Informacja |
-|---|---|
-| Nazwa zasobu | |
-| Rodzaj zasobu | |
-| Lokalizacja / system | |
-| Właściciel zasobu | |
-| Status przed archiwizacją | |
+1. **Nazwa zasobu**:
+2. **Rodzaj zasobu**:
+3. **Lokalizacja / system**:
+4. **Właściciel zasobu**:
+5. **Status przed archiwizacją**:
 
 ---
 
@@ -147,11 +143,9 @@ Opis przyczyn archiwizacji, w szczególności:
 
 ### 8. Potwierdzenie realizacji
 
-| Pole | Informacja |
-|---|---|
-| Data zakończenia działań | |
-| Osoba potwierdzająca realizację | |
-| Uwagi końcowe | |
+1. **Data zakończenia działań**:
+2. **Osoba potwierdzająca realizację**:
+3. **Uwagi końcowe**:
 
 ---
 

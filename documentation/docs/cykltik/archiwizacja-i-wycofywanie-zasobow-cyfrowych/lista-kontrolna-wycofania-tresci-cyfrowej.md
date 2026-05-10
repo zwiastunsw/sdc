@@ -58,14 +58,12 @@ Nie wszystkie pytania muszą mieć zastosowanie w każdym przypadku.
 
 ## Informacje podstawowe
 
-| Pole | Informacja |
-|---|---|
-| Nazwa lub opis treści | |
-| Rodzaj zasobu | |
-| Lokalizacja / adres | |
-| Osoba odpowiedzialna | |
-| Data rozpoczęcia procesu | |
-| Planowana data wycofania | |
+1. **Nazwa lub opis treści**:
+2. **Rodzaj zasobu**:
+3. **Lokalizacja / adres**:
+4. **Osoba odpowiedzialna**:
+5. **Data rozpoczęcia procesu**:
+6. **Planowana data wycofania**:
 
 ---
 
@@ -109,11 +107,9 @@ Nie wszystkie pytania muszą mieć zastosowanie w każdym przypadku.
 
 ## Potwierdzenie zakończenia działań
 
-| Pole | Informacja |
-|---|---|
-| Data zakończenia procesu | |
-| Osoba potwierdzająca zakończenie | |
-| Uwagi końcowe | |
+1. **Data zakończenia procesu**:
+2. **Osoba potwierdzająca zakończenie**:
+3. **Uwagi końcowe**:
 
 ---
 

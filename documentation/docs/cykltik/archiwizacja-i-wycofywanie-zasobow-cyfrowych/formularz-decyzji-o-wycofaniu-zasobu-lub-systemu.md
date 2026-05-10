@@ -47,24 +47,20 @@ Formularz może być wykorzystywany między innymi podczas:
 
 ### 1. Informacje podstawowe
 
-| Pole | Informacja |
-|---|---|
-| Numer decyzji / identyfikator | |
-| Data sporządzenia | |
-| Osoba sporządzająca | |
-| Komórka organizacyjna | |
+1. **Numer decyzji / identyfikator**:
+2. **Data sporządzenia**:
+3. **Osoba sporządzająca**:
+4. **Komórka organizacyjna**:
 
 ---
 
 ### 2. Identyfikacja zasobu lub systemu
 
-| Pole | Informacja |
-|---|---|
-| Nazwa zasobu / systemu | |
-| Rodzaj zasobu | |
-| Lokalizacja / system | |
-| Właściciel biznesowy | |
-| Status przed wycofaniem | |
+1. **Nazwa zasobu / systemu**:
+2. **Rodzaj zasobu**:
+3. **Lokalizacja / system**:
+4. **Właściciel biznesowy**:
+5. **Status przed wycofaniem**:
 
 ---
 
@@ -154,12 +150,10 @@ Opis przyczyn wycofania, w szczególności:
 
 ### 8. Potwierdzenie realizacji
 
-| Pole | Informacja |
-|---|---|
-| Data zakończenia działań | |
-| Data wyłączenia systemu / usługi | |
-| Osoba potwierdzająca realizację | |
-| Uwagi końcowe | |
+1. **Data zakończenia działań**:
+2. **Data wyłączenia systemu / usługi**:
+3. **Osoba potwierdzająca realizację**:
+4. **Uwagi końcowe**:
 
 ---
 

@@ -59,14 +59,12 @@ Nie wszystkie pytania muszą mieć zastosowanie w każdym przypadku.
 
 ## Informacje podstawowe
 
-| Pole | Informacja |
-|---|---|
-| Nazwa systemu lub usługi | |
-| Właściciel biznesowy | |
-| Administrator / zespół techniczny | |
-| Zakres procesu | |
-| Data rozpoczęcia procesu | |
-| Planowana data wyłączenia | |
+1. **Nazwa systemu lub usługi**:
+2. **Właściciel biznesowy**:
+3. **Administrator / zespół techniczny**:
+4. **Zakres procesu**:
+5. **Data rozpoczęcia procesu**:
+6. **Planowana data wyłączenia**:
 
 ---
 
@@ -116,12 +114,10 @@ Nie wszystkie pytania muszą mieć zastosowanie w każdym przypadku.
 
 ## Potwierdzenie zakończenia działań
 
-| Pole | Informacja |
-|---|---|
-| Data zakończenia procesu | |
-| Data wyłączenia systemu | |
-| Osoba potwierdzająca zakończenie | |
-| Uwagi końcowe | |
+1. **Data zakończenia procesu**:
+2. **Data wyłączenia systemu**:
+3. **Osoba potwierdzająca zakończenie**:
+4. **Uwagi końcowe**:
 
 ---
 
