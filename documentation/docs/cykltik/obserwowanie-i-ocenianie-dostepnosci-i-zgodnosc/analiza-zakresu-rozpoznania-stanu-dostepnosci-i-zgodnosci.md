@@ -16,7 +16,7 @@ wersja_robocza: true
 
 Dokument określa zasady przeprowadzania analizy zakresu rozpoznania stanu dostępności i zgodności rozwiązania cyfrowego. Analiza służy ustaleniu aktualnego zakresu wiedzy organizacji, w tym informacji brakujących, nieaktualnych lub wymagających weryfikacji.
 
-Analiza wspiera planowanie dalszych ocen na podstawie wiedzy zgromadzonej w rejestrze stanu dostępności i zgodności.
+Analiza ma charakter cykliczny i wspiera zarządzanie ryzykiem dostępności, umożliwiając ustalenie priorytetów dalszego oceniania oraz planowe utrzymywanie aktualnej wiedzy o stanie rozwiązania na podstawie danych zgromadzonych w rejestrze.
 
 ## 1. Rola analizy zakresu rozpoznania
 
