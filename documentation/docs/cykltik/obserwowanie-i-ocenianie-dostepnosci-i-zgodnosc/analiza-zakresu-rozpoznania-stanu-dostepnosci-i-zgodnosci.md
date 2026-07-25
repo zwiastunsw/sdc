@@ -30,7 +30,7 @@ Analiza zakresu rozpoznania służy ustaleniu:
 - jakie części rozwiązania i sposoby korzystania z niego zostały rozpoznane;
 - jakie obiekty tworzyły badaną próbę;
 - które informacje pozostają aktualne;
-- czego jeszcze nie oceniono;
+- czego jeszcze nie oceniono lub oceniono w niewystarczającym zakresie;
 - które informacje wymagają aktualizacji, uzupełnienia albo weryfikacji.
 
 Wyniki analizy stanowią podstawę do ustalania potrzeb dalszego oceniania.
