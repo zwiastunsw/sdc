@@ -14,7 +14,7 @@ wersja_robocza: true
 
 ## Cel dokumentu
 
-Dokument określa zasady analizowania zakresu rozpoznania stanu dostępności i zgodności rozwiązania cyfrowego w celu ustalenia, co już wiadomo o jego stanie, jakich informacji brakuje oraz które informacje wymagają aktualizacji lub weryfikacji.
+Dokument określa zasady przeprowadzania analizy zakresu rozpoznania stanu dostępności i zgodności rozwiązania cyfrowego. Analiza służy ustaleniu aktualnego zakresu wiedzy organizacji, w tym informacji brakujących, nieaktualnych lub wymagających weryfikacji.
 
 Analiza wspiera planowanie dalszych ocen na podstawie wiedzy zgromadzonej w rejestrze stanu dostępności i zgodności.
 
