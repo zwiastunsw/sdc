@@ -26,7 +26,7 @@ Posiadanie informacji o stwierdzonych problemach lub wynikach ocen nie oznacza, 
 
 Analiza zakresu rozpoznania służy ustaleniu:
 
-- jakie wymagania zostały objęte oceną;
+- jakie wymagania zostały objęte oceną oraz w jakim zakresie;
 - jakie części rozwiązania i sposoby korzystania z niego zostały rozpoznane;
 - jakie obiekty tworzyły badaną próbę;
 - które informacje pozostają aktualne;
