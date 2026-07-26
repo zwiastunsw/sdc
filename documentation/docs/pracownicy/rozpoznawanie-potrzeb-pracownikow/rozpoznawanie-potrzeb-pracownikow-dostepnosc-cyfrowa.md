@@ -181,7 +181,9 @@ Systemowe podejście do rozpoznawania i uwzględniania potrzeb pracowników pozw
 - budować środowisko pracy sprzyjające włączeniu,
 - zwiększać skuteczność organizacji,
 - wykorzystywać doświadczenia pracowników jako źródło doskonalenia procesów i narzędzi.
+Bariery cyfrowe mogą prowadzić nie tylko do obniżenia efektywności, ale również do uzależnienia pracownika od pomocy innych osób, naruszenia poufności przetwarzanych informacji, zwiększenia obciążenia pracą, podwyższenia ryzyka błędu oraz nierównego dostępu do szkoleń, awansu i rozwoju zawodowego.
 
+Koszt bariery może pozostawać niewidoczny dla organizacji, ponieważ bywa przenoszony na pracownika, jego współpracowników albo przełożonych. Dlatego brak formalnego zgłoszenia nie powinien być automatycznie interpretowany jako brak problemów.
 ---
 
 ## 5. Podstawy prawne
