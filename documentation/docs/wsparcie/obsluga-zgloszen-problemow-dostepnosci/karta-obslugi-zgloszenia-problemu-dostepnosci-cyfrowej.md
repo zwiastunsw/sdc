@@ -1,7 +1,7 @@
 ﻿---
 id: karta-obslugi-zgloszenia-problemu-dostepnosci-cyfrowej
 title: Karta obsługi zgłoszenia problemu dostępności cyfrowej
-description: Formularz służ do dokumentowania przebiegu obsługi zgłoszeń problemów dostępności cyfrowej, wniosków o dostęp alternatywny oraz żądań zapewnienia dostępności.
+description: Formularz służy do dokumentowania przebiegu obsługi zgłoszeń problemów dostępności cyfrowej, wniosków o dostęp alternatywny oraz żądań zapewnienia dostępności.
 sidebar_label: Karta obsługi zgłoszenia
 sidebar_position: 5
 keywords: [zgłoszenia problemów,dostęp alternatywny,żądanie zapewnienia dostępności,obsługa zgłoszeń,alert dostępności]
