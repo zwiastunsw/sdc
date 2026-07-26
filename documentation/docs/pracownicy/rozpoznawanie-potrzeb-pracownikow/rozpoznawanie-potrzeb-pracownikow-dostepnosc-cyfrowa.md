@@ -144,7 +144,24 @@ Organizacja:
 - monitoruje skuteczność podejmowanych działań,
 - ocenia, czy potrzeby pracowników są uwzględniane,
 - doskonali mechanizmy pozyskiwania i analizy informacji.
+Monitorowanie obejmuje co najmniej:
 
+- liczbę i rodzaje zgłoszonych barier;
+- czas potwierdzenia przyjęcia zgłoszenia;
+- czas przekazania decyzji;
+- czas wdrożenia rozwiązania tymczasowego i docelowego;
+- odsetek spraw rozwiązanych w terminie;
+- odsetek rozwiązań uznanych przez zgłaszających za skuteczne;
+- liczbę problemów powtarzających się;
+- liczbę barier usuniętych systemowo;
+- liczbę systemów poddanych testom dostępności;
+- liczbę testów przeprowadzonych z udziałem użytkowników;
+- poziom zaufania pracowników do mechanizmu zgłaszania.
+
+Mierniki interpretuje się łącznie. Mała liczba zgłoszeń nie stanowi samodzielnie dowodu wysokiego poziomu dostępności.
+
+### Termin przeglądu
+Właściciel procesu przygotowuje co najmniej raz w roku zbiorczą ocenę jego skuteczności oraz plan działań doskonalących.
 Rozpoznawanie potrzeb pracowników jest elementem ciągłego doskonalenia organizacji.
 
 ---
