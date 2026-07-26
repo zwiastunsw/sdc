@@ -49,7 +49,7 @@ W szczególności nie wprowadza ograniczeń organizacyjnych utrudniających korz
 
 Jeżeli charakter realizowanych zadań uzasadnia takie rozwiązanie, organizacja zapewnia dostęp do wybranych technologii wspomagających ułatwiających obsługę użytkowników.
 
-Dobór takich rozwiązań powinien wynikać z analizy potrzeb użytkowników oraz charakteru świadczonych usług.
+Dobór takich rozwiązań wynika z analizy potrzeb użytkowników oraz charakteru świadczonych usług.
 
 ### 4. Przygotowanie pracowników
 
