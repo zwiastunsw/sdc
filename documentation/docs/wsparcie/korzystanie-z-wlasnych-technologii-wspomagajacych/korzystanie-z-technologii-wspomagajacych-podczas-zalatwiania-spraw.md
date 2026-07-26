@@ -47,7 +47,7 @@ W szczególności nie wprowadza ograniczeń organizacyjnych utrudniających korz
 
 ### 3. Technologie wspomagające udostępniane przez organizację
 
-Jeżeli charakter realizowanych zadań uzasadnia takie rozwiązanie, organizacja zapewnia dostęp do wybranych technologii wspomagających wspierających obsługę użytkowników.
+Jeżeli charakter realizowanych zadań uzasadnia takie rozwiązanie, organizacja zapewnia dostęp do wybranych technologii wspomagających ułatwiających obsługę użytkowników.
 
 Dobór takich rozwiązań powinien wynikać z analizy potrzeb użytkowników oraz charakteru świadczonych usług.
 
