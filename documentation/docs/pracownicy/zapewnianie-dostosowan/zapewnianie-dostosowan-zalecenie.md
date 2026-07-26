@@ -135,7 +135,7 @@ Wdrożenie formalnych zasad dostępności wzmacnia kulturę organizacyjną, wspi
 
 ---
 
-## 7. Żródła i opracowania
+## 7. Źródła i opracowania
 
 ### 7.1. Standardy i wytyczne techniczne
 - WCAG 2.1 (Web Content Accessibility Guidelines) – standard dostępności cyfrowej treści i aplikacji (AA poziom zgodności rekomendowany dla większości organizacji).
@@ -147,7 +147,7 @@ Wdrożenie formalnych zasad dostępności wzmacnia kulturę organizacyjną, wspi
    - [CIOP–PIB, Osoba z niepełnosprawnością słuchową w pracy. Poradnik dla pracodawców](https://m.ciop.pl/CIOPPortalWAR/file/97893/niepelnosprawnosc-sluchowa-poradnik-dla-pracodawcy.pdf)
    - [CIOP–PIB, Osoba z niepełnosprawnością ruchową w pracy. Poradnik dla pracodawców](https://m.ciop.pl/CIOPPortalWAR/file/97894/niepelnosprawnosc-ruchowa-poradnik-dla-pracodawcy.pdf)
    - [CIOP–PIB, Osoba z niepełnosprawnością intelektualną w pracy. Poradnik dla pracodawców](https://www.ciop.pl/CIOPPortalWAR/file/88310/Osoba_z_niepelnosprawnoscia_intelektualna_w_pracy-Poradnik_dla_pracodawcow.pdf)
-   - [CIOP–PIB, Projektowanie obiektów, pomieszczeń oraz przystosowanie stanoiwisk pracy dla osób niepełnosprawnych o specyficznych potrzebach - ramowe wytyczne](https://www.pfron.org.pl/o-funduszu/projekty/projekty-ue/program-operacyjny-kap/zakonczone-projekty/ramowe-wytyczne-w-zakr/efekty-projektu/#Publikacja)
+   - [CIOP–PIB, Projektowanie obiektów, pomieszczeń oraz przystosowanie stanowisk pracy dla osób niepełnosprawnych o specyficznych potrzebach - ramowe wytyczne](https://www.pfron.org.pl/o-funduszu/projekty/projekty-ue/program-operacyjny-kap/zakonczone-projekty/ramowe-wytyczne-w-zakr/efekty-projektu/#Publikacja)
    - [CIOP–PIB, Przystosowanie obiektów, pomieszczeń oraz stanowisk pracy dla osób niepełnosprawnych o specyficznych potrzebach - dobre praktyki](https://www.pfron.org.pl/o-funduszu/projekty/projekty-ue/program-operacyjny-kap/zakonczone-projekty/ramowe-wytyczne-w-zakr/efekty-projektu/#Publikacja)
    - [CIOP–PIB, Lista kontrolna do oceny ergonomicznej stanowiska pracy osób z różnymi rodzajami niepełnosprawności](https://www.pfron.org.pl/o-funduszu/projekty/projekty-ue/program-operacyjny-kap/zakonczone-projekty/ramowe-wytyczne-w-zakr/efekty-projektu/#Lista)
    - [Fundacja Aktywizacja, Postaw na pracę. Dostępne miejsca pracy](https://aktywizacja.org.pl/wiedza/publikacje/broszura-dostepne-miejsca-pracy/)

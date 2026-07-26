@@ -3,7 +3,7 @@ id: zamawianie-szkolen-i-wsparcia-ogolny-szablon-wymagan-wariant-a
 title: Zamawianie szkoleń i wsparcia edukacyjnego. Szablon wymagań - mała organizacja  
 sidebar_position: 2
 sidebar_label: Szablon wymagań – Wariant A 
-description: Wariant A dla małej organizacji szablonu wymagań w zamówianiach szkoleń oraz wsparcia edukacyjnego w zakresie dostępności cyfrowej
+description: Wariant A dla małej organizacji szablonu wymagań w zamówieniach szkoleń oraz wsparcia edukacyjnego w zakresie dostępności cyfrowej
 keywords: [rozwiązanie systemowe, zaopatrzenie, zamówienia publiczne, wiedza i umiejętności]
 tags: [rozwiązanie systemowe, zaopatrzenie, zamówienia publiczne, wiedza i umiejętności]
 opracowanie: Stefan Wajda

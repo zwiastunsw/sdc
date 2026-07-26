@@ -110,7 +110,7 @@ Po przeglądzie powstaje **raport, protokół lub karta przeglądu**, który:
 
 Wskazane jest, aby dokumentacja (raport) przeglądu była sporządzona w formacie :
 - dokumentu **HTML + JSON-LD (EARL)**, który załącza się do deklaracji dostępności,
-- dokumentu biurowego (np. .docx, .odt, .xlsx) dla celów achiwalnych   
+- dokumentu biurowego (np. .docx, .odt, .xlsx) dla celów archiwalnych   
 
 Po zatwierdzeniu przez osobę odpowiedzialną raport jest przekazywany do archiwizacji i przechowywany przez minimum 3 lata.
 Wzór raportu stanowi załącznik do niniejszej procedury.

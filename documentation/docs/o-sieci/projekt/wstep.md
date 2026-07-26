@@ -24,7 +24,7 @@ Naszym zadaniem jest:
 - wypracować **propozycje rozwiązań systemowych** w obszarze dostępności cyfrowej na podstawie dobrych praktyk
 - uczestniczyć w **upowszechnianiu zaleceń i rekomendacji** oraz w **stworzeniu i promocji bazy dobrych praktyk**
 
-To ogromne wyzwanie, zwłaszcza że uczestniczymy w Sieci jako **wolontariasze**. 
+To ogromne wyzwanie, zwłaszcza że uczestniczymy w Sieci jako **wolontariusze**. 
 
 ## Jak pracujemy
 
@@ -67,7 +67,7 @@ Siłą Sieci jest **doświadczenie i aktywność uczestniczek i uczestników Sie
 
 Dołącz do nas, jeśli: 
 
-- **masz doświadczenie** w praktycznym wdrażadniu dostępności cyfrowej w swojej lub we wspieranych organizacjach
+- **masz doświadczenie** w praktycznym wdrażaniu dostępności cyfrowej w swojej lub we wspieranych organizacjach
 - **chcesz wnieść swój wkład** w wypracowanie spójnego systemu wdrażania dostępności cyfrowej w podmiotach publicznych w Polsce.
 
 [Dowiedz się, jak zgłosić swój udział](nabor-do-sieci-dostepnosci-cyfrowej)

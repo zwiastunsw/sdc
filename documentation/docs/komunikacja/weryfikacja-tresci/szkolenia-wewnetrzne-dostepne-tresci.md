@@ -61,7 +61,7 @@ Wprowadzenie obowiązkowych szkoleń miało dodatkowy walor - zapewnianie jednol
   
 ## Sposób pomiaru rezultatów
 - Liczba przeszkolonych osób w odniesieniu do liczby pracowników instytucji - 100%
-- Wyniki testów wiedzy po szkoleniu - Skok jakości przygotowanych dokumetów w postaci zmniejszenia się ilości uwag weryfikatora w odniesieniu do konieczności wprowadzenia poprawek w dokumentach oraz przygotowanych tekstowych odpowiednikach treści nietekstowych o 80%.
+- Wyniki testów wiedzy po szkoleniu - Skok jakości przygotowanych dokumentów w postaci zmniejszenia się ilości uwag weryfikatora w odniesieniu do konieczności wprowadzenia poprawek w dokumentach oraz przygotowanych tekstowych odpowiednikach treści nietekstowych o 80%.
 
 ---
 
@@ -94,7 +94,7 @@ flowchart TD
     I --> J[Testowanie i ewaluacja]
     J --> K[Upowszechnienie informacji]
     K --> L[Monitorowanie rezultatów]
-    L --> MN[Kontunuacja]
+    L --> MN[Kontynuacja]
 
 ---
 

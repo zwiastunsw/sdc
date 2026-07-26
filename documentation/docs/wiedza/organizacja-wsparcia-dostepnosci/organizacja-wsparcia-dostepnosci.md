@@ -70,7 +70,7 @@ Wskazanie dwóch uzupełniających się modeli pozwala organizacjom dobrać rozw
 5. [CivicActions, *Accessibility Champions Program*](https://accessibility.civicactions.com/guide/champions-program)
 6. [Business Disability Forum, *Accessibility Champions and Sponsors*](https://businessdisabilityforum.org.uk/resource/technology-toolkit/role-of-the-a11y-champion-sponsor/)
 7. [Ted Drake, Intuit’s Accessibility Champions Program](https://medium.com/intuit-design/intuits-accessibility-champions-program-b6c0b945a476)
-8. [New Zeland Goverrment, *Digital Accessibility Community of Practice (DACoP)*](https://dns.govt.nz/standards-and-guidance/nz-government-web-standards/digital-accessibility-community-of-practice)
+8. [New Zealand Government, *Digital Accessibility Community of Practice (DACoP)*](https://dns.govt.nz/standards-and-guidance/nz-government-web-standards/digital-accessibility-community-of-practice)
 9. [Domingos de Oliveira, *Building a community of practice for digital accessibility*](https://netz-barrierefrei.de/en/cop.html)
 10. [ELUNA, *Accessibility Community of Practice*](https://el-una.org/leadership/communities-of-practice/accessibility-community-of-practice/)
 11. [Canadian Accessibility Network, *Communities of Practice (CoP)*](https://www.can-rca.ca/communities-of-practice/)

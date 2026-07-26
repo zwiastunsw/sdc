@@ -501,7 +501,7 @@ Treści audio wymagają transkrypcji. Filmy z dźwiękiem (nagrane wcześniej i 
 Te częste błędy utrudniają dostępność i użyteczność treści cyfrowych.
 
 - Transkrypcja nie jest dostępna w przypadku treści zawierających wyłącznie dźwięk.
-- Napisy rozszezone nie są uwzględniane w filmach z dźwiękiem.
+- Napisy rozszerzone nie są uwzględniane w filmach z dźwiękiem.
 - Audiodeskrypcje nie są istnieją w przypadku filmów, które zawierają istotne informacje przedstawione wyłącznie w formie wizualnej.
 - Treści audio i wideo, które uruchamiają się automatycznie, nie mogą zostać łatwo wstrzymane/zatrzymane.
 - Sterowanie odtwarzaczem multimedialnym audio i wideo nie jest możliwe lub nie można do niego uzyskać dostępu za pomocą klawiatury i [technologii wspomagającej](https://slownik.sdc.#technologie_wspomagajace).

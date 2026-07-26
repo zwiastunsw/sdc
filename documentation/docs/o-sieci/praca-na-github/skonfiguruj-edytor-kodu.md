@@ -1,7 +1,7 @@
 ---
 id: skonfiguruj-edytor-kodu
 title: Skonfiguruj edytor
-description: Wybór i konfiguracja edytora kodu z GitHub Destkop.
+description: Wybór i konfiguracja edytora kodu z GitHub Desktop.
 sidebar_label: Skonfiguruj edytor
 sidebar_position: 8
 data_zgloszenia: 18 października 2025 r.

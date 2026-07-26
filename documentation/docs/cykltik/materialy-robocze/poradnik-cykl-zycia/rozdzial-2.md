@@ -199,7 +199,7 @@ wszystkich - to podstawowa zasada dostępności uniwersalnej.
   gramatycznych. Pomaga to w odbiorze treści osobom z trudnościami
   poznawczymi oraz o niższych kompetencjach językowych. Warto wspierać
   ten proces korzystając z narzędzi, które automatycznie sprawdzają
-  poziom trudności języka - takich jak Jasnopis, Logios czy Hemmingway
+  poziom trudności języka - takich jak Jasnopis, Logios czy Hemingway
   App - umożliwiających ocenę, czy tekst jest zrozumiały dla szerokiego
   grona odbiorców.
 - **Unikanie tabel do celów układu graficznego.**\

@@ -69,7 +69,7 @@ Zapewnienie, aby zakupy technologiczne i usługowe były zgodne ze standardami d
 - Aktualizacja wewnętrznych wzorów umów i SIWZ o wymagania dostępności (PN ETSI EN 301 549, WCAG 2.1/2.2 AA).  
 - Wprowadzenie obowiązku dołączania ACR/VPAT lub równoważnych deklaracji.  
 - Włączenie kryteriów dostępności do oceny ofert.  
-- opfracowanie listy kontrolnej dla zakupów i listy kontrolnej do odbioru.   
+- opracowanie listy kontrolnej dla zakupów i listy kontrolnej do odbioru.   
 - Uruchomienie procedury retestu przy odbiorze produktów/usług.  
 - Edukowanie osób prowadzących postępowania zakupowe.
 

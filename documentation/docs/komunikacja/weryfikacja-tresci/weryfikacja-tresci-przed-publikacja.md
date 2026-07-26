@@ -51,8 +51,8 @@ Proces obejmuje wszystkie formaty materiałów publikowanych w kanałach cyfrowy
 z pomocą których można treść prawidłowo przygotować. Skróceniu tego kroku sprzyja możliwość konsultacji ze specjalistą w zakresie dostępności cyfrowej telefonicznej, osobistej.
 
 ### 5. Przegląd treści opublikowanych przed kontrolą (media społecznościowe)
-**UWAGA: specyfiką publikacji w mediach społecznościowych jest dynamika ich powstawania i publikowania (harmonigram działań) oraz - szczególnie w przypadku większych instytucji - ich liczebność.**
-Dodatkowo zdarza się, że funkcje dostepności w platformach społecznościowych często działają wadliwie i dodanie tekstów alternatywnych lub napisów do filmów 
+**UWAGA: specyfiką publikacji w mediach społecznościowych jest dynamika ich powstawania i publikowania (harmonogram działań) oraz - szczególnie w przypadku większych instytucji - ich liczebność.**
+Dodatkowo zdarza się, że funkcje dostępności w platformach społecznościowych często działają wadliwie i dodanie tekstów alternatywnych lub napisów do filmów 
 często nie jest możliwe w czasie publikacji, określonym harmonogramem działań promocyjnych i komunikacyjnych.
 - Okresowy (np. cotygodniowy) przegląd publikacji treści w kanałach społecznościowych instytucji publicznej (obsługiwanych przez dużą grupę osób) pod kątem zgodności z zasadami dostępności.
 - W przypadku braków lub konieczności wprowadzenia poprawek do publikacji – informacja zwrotna do autora publikacji z listą obszarów do uzupełnienia lub poprawienia wraz z ustaleniem terminu wprowadzenia koniecznych zmian.

@@ -13,7 +13,7 @@ wersja_robocza: true
 ## 🟠❓ Obsługa zgłoszeń problemów dostępności
 
 **Opracowanie**: Stefan Wajda\
-**Wspolpraca**: Anna Czekalska
+**Współpraca**: Anna Czekalska
 
 Zgłoszenia użytkowników stanowią ważne źródło informacji o problemach dostępności cyfrowej występujących podczas korzystania z usług, treści i technologii cyfrowych. Zalecenie pomaga organizacjom publicznym organizować proces przyjmowania, rejestrowania, analizowania i rozwiązywania zgłoszeń dotyczących dostępności cyfrowej oraz zapewniania dostępu alternatywnego w przypadkach, gdy usunięcie bariery wymaga dłuższego czasu. Wspiera wykorzystanie informacji pochodzących od użytkowników do doskonalenia usług cyfrowych, identyfikowania problemów systemowych oraz rozwijania mechanizmów zapewniania dostępności cyfrowej.
 
@@ -158,7 +158,7 @@ Projekt dotyczy dostępności cyfrowej internetowych kanałów komunikacji wykor
 **Opracowanie**: Mateusz Ciborowski
 
 **Zawiera**:
-- Zalecenie: **Zapewnienie dostępnosci cyfrowej komunikacji internetowej z klientami z różnorodnymi potzrebami.**
+- Zalecenie: **Zapewnienie dostępności cyfrowej komunikacji internetowej z klientami z różnorodnymi potrzebami.**
 
 **Status**: Do decyzji
 

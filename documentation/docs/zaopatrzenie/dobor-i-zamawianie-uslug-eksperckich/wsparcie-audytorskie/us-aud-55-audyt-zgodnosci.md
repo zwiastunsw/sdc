@@ -140,8 +140,8 @@ Usługa nie obejmuje:
 - budowy systemu zarządzania dostępnością;
 - przygotowania deklaracji dostępności,
 - wykrycia i udokumentowania wszystkich problemów dostępności występujących w badanej próbie.
-U
-sługi te mogą być przedmiotem odrębnych usług audytorskich, organizacyjnych lub kompetencyjnych.
+
+Usługi te mogą być przedmiotem odrębnych usług audytorskich, organizacyjnych lub kompetencyjnych.
 
 ---
 

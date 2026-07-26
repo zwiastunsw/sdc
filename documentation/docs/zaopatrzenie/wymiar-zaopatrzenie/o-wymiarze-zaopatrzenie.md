@@ -363,7 +363,7 @@ Gdy do procesów i dokumentów dotyczących nabywania technologii i treści cyfr
 
 :::info Definicja
 
-- **Dostępne cyfrowo zaopatrznie** oznacza uwzględniające [wymogi dostępności](../../terms/wymogi-dostepnosci) procesy znajdowania, wybierania, negocjowania, transakcji zakupowych i zawierania umów, w wyniku których organizacja osiąga zdolność tworzenia dostępnego środowiska pracy oraz zapewniania swoim klientom dostępnej cyfrowo komunikacji i usług.
+- **Dostępne cyfrowo zaopatrzenie** oznacza uwzględniające [wymogi dostępności](../../terms/wymogi-dostepnosci) procesy znajdowania, wybierania, negocjowania, transakcji zakupowych i zawierania umów, w wyniku których organizacja osiąga zdolność tworzenia dostępnego środowiska pracy oraz zapewniania swoim klientom dostępnej cyfrowo komunikacji i usług.
 
 :::
 

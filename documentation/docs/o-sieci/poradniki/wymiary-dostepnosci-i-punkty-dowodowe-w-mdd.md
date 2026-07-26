@@ -23,7 +23,7 @@ Transkrypcja wystąpienia podczas IV spotkania Sieci dostępności cyfrowej. Wym
 - istnieją szablony dostępnych dokumentów firmowych (Microsoft Word, Microsoft PowerPoint itp.).
 - istnieją udokumentowane procedury konwersji HTML lub PDF, które zapobiegają utracie cech dostępności.
 - procesy, procedury i wymagania dotyczące tworzenia dostępnej komunikacji są udokumentowane i dostępne dla pracowników.
-- istnieją dostępne narzędzia ułatwiające współpracę (np. e-spotkania, webinaria, konferencje, czat, system e-leaningowy).
+- istnieją dostępne narzędzia ułatwiające współpracę (np. e-spotkania, webinaria, konferencje, czat, system e-learningowy).
 
 Dostępna komunikacja bezpośrednia
 
