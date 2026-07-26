@@ -29,7 +29,7 @@ W szczególności zapewnia:
 - odpowiednią przestrzeń umożliwiającą korzystanie z urządzeń wspomagających,
 - możliwość swobodnego ustawienia własnego sprzętu użytkownika,
 - odpowiednie warunki oświetleniowe i akustyczne,
-- dostęp do źródeł zasilania, jeżeli może być to niezbędne do korzystania z urządzeń wspomagających,
+- dostęp do źródeł zasilania, jeżeli jest to niezbędne do korzystania z urządzeń wspomagających,
 - rozwiązania umożliwiające zachowanie prywatności podczas korzystania z technologii wspomagających.
 
 ### 2. Korzystanie z własnych technologii wspomagających
