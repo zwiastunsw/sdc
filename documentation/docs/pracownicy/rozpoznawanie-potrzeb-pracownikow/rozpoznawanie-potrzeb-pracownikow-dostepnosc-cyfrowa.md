@@ -64,7 +64,7 @@ Organizacja zapewnia co najmniej dwa dostępne kanały zgłaszania potrzeb, w ty
 Organizacja wyjaśnia różnicę między zgłoszeniem anonimowym a poufnym oraz informuje, jaki zakres informacji jest niezbędny do rozpatrzenia sprawy.
 
 Zgłoszenie potrzeby, bariery albo problemu z dostępnością nie może powodować negatywnych konsekwencji w zatrudnieniu, ocenie pracy, dostępie do szkoleń, awansie ani podziale obowiązków.
-Szczególną uwagę poświęca się potrzebom osób z niepełnosprawnościami.
+Mechanizmy zgłaszania są projektowane z uwzględnieniem różnorodnych sposobów komunikowania się i korzystania z technologii, w szczególności potrzeb osób z niepełnosprawnościami oraz osób korzystających z technologii asystujących.
 
 ---
 
