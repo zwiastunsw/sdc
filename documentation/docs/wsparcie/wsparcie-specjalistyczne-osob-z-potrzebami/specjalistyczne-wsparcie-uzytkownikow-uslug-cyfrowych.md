@@ -13,6 +13,10 @@ wersja_robocza: true
 ---
 
 
+## Cel zalecenia
+
+Celem specjalistycznego wsparcia jest umożliwienie skutecznego korzystania z usług cyfrowych osobom, które – pomimo zapewnienia dostępności cyfrowej usług – nadal napotykają indywidualne trudności wynikające z ich potrzeb, sposobu korzystania z technologii lub specyfiki danej sprawy. Wsparcie to ma charakter uzupełniający i nie zastępuje obowiązku zapewnienia dostępności cyfrowej ani usuwania barier w usługach cyfrowych.
+
 ## Zalecenie
 
 Organizacja wdraża system specjalistycznego wsparcia użytkowników usług cyfrowych umożliwiający udzielanie indywidualnej pomocy, wsparcia technicznego oraz racjonalnych usprawnień osobom napotykającym trudności w korzystaniu z udostępnianych usług, treści i technologii cyfrowych.
