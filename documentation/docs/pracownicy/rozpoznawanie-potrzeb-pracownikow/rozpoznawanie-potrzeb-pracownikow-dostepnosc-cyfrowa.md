@@ -15,7 +15,9 @@ wersja_robocza: true
 
 ## 1. Cel zalecenia
 
-Celem zalecenia jest zapewnienie, że organizacja systemowo rozpoznaje potrzeby pracowników i współpracowników w zakresie dostępności cyfrowej oraz wykorzystuje tę wiedzę do tworzenia dostępnego, równego i włączającego środowiska pracy.
+Celem zalecenia jest zapewnienie, że organizacja systemowo rozpoznaje, analizuje i uwzględnia potrzeby pracowników i współpracowników w zakresie dostępności cyfrowej, usuwa zidentyfikowane bariery oraz zapobiega ich powstawaniu. Działania te mają umożliwiać wszystkim osobom samodzielne, bezpieczne i skuteczne wykonywanie zadań z wykorzystaniem narzędzi, systemów, dokumentów i usług cyfrowych.
+
+System obejmuje zarówno działania na rzecz dostępności rozwiązań używanych przez wszystkich pracowników, jak i zapewnianie indywidualnych racjonalnych usprawnień, odpowiednich do potrzeb konkretnej osoby.
 
 ---
 
