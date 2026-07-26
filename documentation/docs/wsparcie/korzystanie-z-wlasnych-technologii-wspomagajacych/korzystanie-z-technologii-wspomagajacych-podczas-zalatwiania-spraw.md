@@ -1,7 +1,7 @@
 ---
 id: korzystanie-z-technologii-wspomagajacych-podczas-zalatwiania-spraw
 title: Korzystanie z technologii wspomagających podczas załatwiania spraw
-description: Zapewnienie możliwości korzystania z własnych technologii wspomagających podczas załatwiania spraw 
+description: Zapewnienie możliwości korzystania z technologii wspomagających podczas osobistego załatwiania spraw
 sidebar_label: Zalecenie
 sidebar_position: 0
 opracowanie: Stefan Wajda
