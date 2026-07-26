@@ -53,7 +53,7 @@ Dobór takich rozwiązań wynika z analizy potrzeb użytkowników oraz charakter
 
 ### 4. Przygotowanie pracowników
 
-Pracownicy obsługujący użytkowników posiadają podstawową wiedzę dotyczącą zasad współpracy z osobami korzystającymi z technologii wspomagających.
+Pracownicy obsługujący użytkowników mają podstawową wiedzę o zasadach współpracy z osobami korzystającymi z technologii wspomagających.
 
 Wsparcie pracownika polega przede wszystkim na umożliwieniu użytkownikowi samodzielnego korzystania z własnych rozwiązań oraz udzieleniu pomocy na wyraźną prośbę użytkownika.
 
