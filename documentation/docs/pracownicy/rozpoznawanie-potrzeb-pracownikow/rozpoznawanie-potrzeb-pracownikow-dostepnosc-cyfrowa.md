@@ -40,7 +40,17 @@ Organizacja zapewnia stałe mechanizmy pozyskiwania informacji o doświadczeniac
 - współpracę z osobami z doświadczeniem niepełnosprawności.
 
 Pozyskiwanie informacji ma charakter ciągły i nie ogranicza się do jednorazowych działań.
+Informacje o potrzebach są pozyskiwane co najmniej:
+- przed rozpoczęciem współpracy w zakresie niezbędnym do przygotowania dostępnego stanowiska pracy;
+podczas onboardingu;
+- w każdym czasie na wniosek pracownika lub współpracownika;
+- po wdrożeniu albo istotnej aktualizacji systemu;
+- podczas okresowej oceny warunków pracy;
+- w związku ze zmianą stanowiska, zakresu obowiązków albo organizacji pracy;
+- poprzez okresowe, nie rzadziej niż raz w roku, badanie doświadczeń pracowników;
+- na podstawie analizy zgłoszeń do helpdesku, skarg, incydentów i problemów powtarzających się.
 
+Zgłoszenie potrzeby nie wymaga posiadania orzeczenia o niepełnosprawności, jeżeli charakter rozwiązania i obowiązujące przepisy nie uzasadniają konieczności jego przedstawienia.
 ---
 
 ### 3.2. Zapewnienie dostępności i bezpieczeństwa mechanizmów zgłaszania
