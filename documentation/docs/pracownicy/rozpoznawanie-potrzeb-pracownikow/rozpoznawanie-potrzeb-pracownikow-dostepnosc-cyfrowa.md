@@ -6,7 +6,7 @@ sidebar_position: 0
 sidebar_label: Zalecenie
 keywords: [dostępność cyfrowa, personel, potrzeby pracowników, włączenie]
 tags:  [dostępność cyfrowa, personel, potrzeby pracowników, włączenie]
-opracowanie: Marta Bućko
+opracowanie: Marta Bućko, Stefan Wajda, Tomasz Wojakowski
 wspolpraca: Stefan Wajda
 data_zgloszenia: 30 kwietnia 2026 r.
 ostatnia_aktualizacja: 30 kwietnia 2026 r.
