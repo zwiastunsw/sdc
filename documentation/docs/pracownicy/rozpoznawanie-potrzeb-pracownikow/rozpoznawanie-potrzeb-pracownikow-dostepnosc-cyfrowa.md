@@ -76,7 +76,7 @@ Organizacja analizuje pozyskane informacje w celu:
 - określenia wpływu barier na wykonywanie pracy.
 
 Analiza obejmuje zarówno aspekty techniczne, jak i organizacyjne.
-
+Analiza potrzeby i wybór rozwiązania odbywają się przy udziale osoby, której dotyczy zgłoszenie. Organizacja nie zakłada, że określony rodzaj niepełnosprawności automatycznie oznacza potrzebę zastosowania konkretnego rozwiązania.
 ---
 
 ### 3.4. Powiązanie z działaniami organizacyjnymi
