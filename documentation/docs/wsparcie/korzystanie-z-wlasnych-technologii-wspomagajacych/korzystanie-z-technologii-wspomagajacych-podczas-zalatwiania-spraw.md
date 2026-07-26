@@ -16,7 +16,7 @@ Celem zalecenia jest zapewnienie osobom korzystającym z technologii wspomagają
 
 ## Zalecenie
 
-Organizacja tworzy warunki umożliwiające osobom ze szczególnymi potrzebami korzystanie z technologii wspomagających podczas załatwiania spraw w siedzibie organizacji, w tym z technologii należących do użytkownika oraz technologii udostępnianych przez organizację.
+Organizacja tworzy warunki umożliwiające korzystanie z technologii wspomagających podczas załatwiania spraw w siedzibie organizacji, w tym z technologii należących do użytkownika oraz technologii udostępnianych przez organizację.
 
 ## Rekomendacje
 
