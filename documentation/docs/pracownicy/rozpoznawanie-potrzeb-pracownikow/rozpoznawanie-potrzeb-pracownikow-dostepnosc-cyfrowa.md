@@ -99,7 +99,22 @@ Procedura postępowania obejmuje:
 9. potwierdzenie przez pracownika, czy rozwiązanie jest skuteczne;
 10. zamknięcie sprawy albo skierowanie jej do ponownej analizy.
 Potrzeby pracowników stanowią jedno z kluczowych źródeł informacji w procesie zarządzania dostępnością cyfrową.
+### Terminy
+Organizacja określa w procedurze terminy potwierdzenia zgłoszenia, rozpoczęcia analizy, przekazania decyzji i wdrożenia rozwiązania. Termin jest dostosowany do wpływu bariery na wykonywanie obowiązków. Jeżeli termin docelowej naprawy nie może zostać dotrzymany, osoba zgłaszająca otrzymuje informację o przyczynach, nowym terminie oraz rozwiązaniu tymczasowym.
 
+### Rozwiązanie tymczasowe
+Jeżeli nie jest możliwe niezwłoczne usunięcie bariery, organizacja zapewnia rozwiązanie tymczasowe, które umożliwia wykonanie zadania w możliwie samodzielny, bezpieczny i równoważny sposób. Rozwiązanie tymczasowe nie może bez uzasadnienia:
+
+obniżać zakresu odpowiedzialności lub możliwości rozwoju pracownika;
+prowadzić do trwałego wykonywania zadań za pracownika przez inną osobę;
+ujawniać osobom trzecim informacji poufnych;
+powodować istotnego zwiększenia obciążenia pracą;
+zastępować bezterminowo usunięcia bariery.
+
+Dla rozwiązania tymczasowego określa się termin przeglądu i plan wdrożenia rozwiązania docelowego.
+
+### Odmowa zapewnienia dostępności
+Odmowa zastosowania zgłoszonego rozwiązania wymaga pisemnego uzasadnienia, wskazania kryteriów, na podstawie których podjęto decyzję, oraz przedstawienia rozwiązania alternatywnego. Pracownik otrzymuje informację o możliwości ponownego rozpatrzenia sprawy lub jej eskalacji do wskazanej osoby albo jednostki organizacyjnej.
 ---
 
 ### 3.5. Integracja z procesami zarządzania personelem
