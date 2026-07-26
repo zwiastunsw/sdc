@@ -1,276 +1,171 @@
 ---
 id: jak-wybrac-usluge-wsparcia-kompetencyjnego
 title: Jak wybrać usługę wsparcia kompetencyjnego – przewodnik decyzyjny
-description: Przewodnik pomagający dobrać usługę wsparcia kompetencyjnego odpowiednią do zadań, potrzeb oraz zdolności, które organizacja chce zbudować lub rozwinąć.
+description: Przewodnik pomagający dobrać usługę wsparcia kompetencyjnego odpowiednią do przedsięwzięcia organizacji, roli potrzebnego wsparcia oraz oczekiwanych rezultatów.
 sidebar_label: Jak wybrać usługę wsparcia kompetencyjnego
-sidebar_position: 4
-keywords: [kompetencje, dostępność cyfrowa, wsparcie kompetencyjne, rozwój kompetencji, zdolności organizacyjne]
-tags: [kompetencje, dostępność cyfrowa, wsparcie kompetencyjne, rozwój kompetencji, zdolności organizacyjne]
+sidebar_position: 3
+keywords: [kompetencje, dostępność cyfrowa, wsparcie kompetencyjne, szkolenia, rozwój kompetencji, kwalifikacje]
+tags: [kompetencje, dostępność cyfrowa, wsparcie kompetencyjne, szkolenia, rozwój kompetencji, kwalifikacje]
 opracowanie: Stefan Wajda
 data_zgloszenia: 31 maja 2026 r.
-ostatnia_aktualizacja: 13 lipca 2026 r.
+ostatnia_aktualizacja: 19 lipca 2026 r.
 wersja_robocza: true
 ---
 
-
 ## Cel załącznika
 
-Celem załącznika jest wsparcie podmiotów publicznych w doborze usług wsparcia kompetencyjnego odpowiednich do potrzeb organizacji oraz zdolności, które chce ona zbudować lub rozwinąć.
+Celem załącznika jest pomoc organizacjom w wyborze usługi wsparcia kompetencyjnego najlepiej odpowiadającej ich rzeczywistym potrzebom.
 
-Przewodnik pomaga określić, jaka usługa będzie najbardziej użyteczna w danej sytuacji oraz jakich rezultatów warto oczekiwać.
-
----
-
-## Zanim wybierzesz usługę
-
-Przed wyborem usługi warto określić:
-
-- jakie zadania związane z zapewnianiem dostępności cyfrowej organizacja musi wykonywać,
-- które z tych zadań chce wykonywać samodzielnie,
-- przy wykonywaniu których zadań zamierza korzystać ze wsparcia zewnętrznego,
-- jakie zdolności organizacyjne musi w związku z tym posiadać lub rozwinąć.
-
-Organizacja nie musi rozwijać zdolności do samodzielnego wykonywania wszystkich zadań związanych z dostępnością cyfrową. Powinna jednak posiadać zdolności potrzebne do świadomego wykonywania własnych zadań, zamawiania i nadzorowania usług zewnętrznych oraz wykorzystywania ich rezultatów.
-
-Dopiero na tej podstawie warto odpowiedzieć na pytanie:
-
-> **Jaką zdolność organizacji chcemy zbudować lub rozwinąć?**
-
-Nie należy rozpoczynać planowania od wyboru formy działania, takiej jak szkolenie, warsztat lub konsultacja.
-
-Najpierw należy określić zadania organizacji, potrzebne zdolności oraz oczekiwane rezultaty.
+Przewodnik pomaga spojrzeć na działania edukacyjne nie jako na cel sam w sobie, lecz jako na sposób przygotowania ludzi do wykonywania rzeczywistych zadań oraz budowania trwałych kompetencji organizacji. Pokazuje, jak rozpoznać rzeczywistą potrzebę, dobrać odpowiednią usługę i określić rezultaty, których organizacja oczekuje od wsparcia.
 
 ---
 
-## Krok 1. Jaki problem chcesz rozwiązać?
+## Dlaczego wybór właściwej usługi jest ważny?
 
-### Organizacja nie rozumie znaczenia dostępności
+Organizacje bardzo często rozpoczynają poszukiwanie wsparcia od decyzji o przeprowadzeniu szkolenia.
 
-Typowe objawy:
+Szkolenie może być właściwym rozwiązaniem, ale nie każda potrzeba związana z kompetencjami organizacji wymaga wyłącznie przekazania wiedzy uczestnikom.
 
-- dostępność jest postrzegana jako dodatkowy obowiązek,
-- kierownictwo nie rozumie swojej roli,
-- pracownicy nie wiedzą, dlaczego wymagania są istotne,
-- pojawia się opór wobec zmian.
+Jeżeli organizacja chce trwale zapewniać dostępność cyfrową, potrzebuje nie tylko przygotowanych pracowników, ale również warunków umożliwiających im prawidłowe wykonywanie zadań. Potrzebne są między innymi wewnętrzne standardy, instrukcje, szablony, metody kontroli, materiały wspierające pracowników, zasady udzielania pomocy oraz osoby przygotowane do rozwijania kompetencji kolejnych pracowników.
 
-#### Zalecana usługa
+Dlatego pierwszy pomysł na usługę warto potraktować jako punkt wyjścia do rozpoznania rzeczywistej potrzeby organizacji.
 
-**Budowanie świadomości dostępności**
+W wielu przypadkach wsparcie kompetencyjne może równocześnie przygotowywać ludzi do wykonywania określonych zadań oraz prowadzić do stworzenia rozwiązań, które pozostaną w organizacji i będą wspierały jej dalszy rozwój.
 
-#### Typowe rezultaty
-
-- lepsze rozumienie znaczenia dostępności cyfrowej,
-- lepsze rozumienie obowiązków organizacji,
-- lepsze rozumienie ról i odpowiedzialności,
-- określenie problemów wymagających rozwiązania,
-- przygotowanie organizacji do planowania i wdrażania zmian.
+Dobrze dobrana usługa pozwala więc nie tylko rozwinąć kwalifikacje uczestników, ale również zwiększyć zdolność organizacji do samodzielnego i trwałego zapewniania dostępności cyfrowej.
 
 ---
 
-### Pracownicy nie potrafią wykonywać określonych zadań
+## Co powinno decydować o wyborze usługi?
 
-Typowe objawy:
+Wybór usługi powinien wynikać przede wszystkim z odpowiedzi na trzy pytania:
 
-- dokumenty zawierają powtarzalne błędy,
-- publikowane treści są niedostępne,
-- pracownicy nie wiedzą, jak stosować wymagania dostępności,
-- problemy powracają mimo przeprowadzonych szkoleń.
+1. **Jaką kompetencję organizacja chce zbudować lub rozwinąć?**
+2. **Jakie rzeczywiste zadanie organizacji może zostać wykonane przy wsparciu ekspertów?**
+3. **Jakich rezultatów organizacja oczekuje po zakończeniu przedsięwzięcia?**
 
-#### Zalecana usługa
-
-**Budowanie zdolności do tworzenia dostępnych dokumentów i treści**
-
-#### Typowe rezultaty
-
-- przygotowanie pracowników do prawidłowego wykonywania zadań,
-- instrukcje, listy kontrolne, wzory lub inne materiały wspierające,
-- zasady sprawdzania dostępności przed publikacją,
-- przygotowanie osób wspierających innych pracowników,
-- zdolność do wdrażania nowych pracowników do wykonywania zadań.
+Odpowiedzi na te pytania pozwalają zweryfikować pierwszy pomysł na usługę oraz dobrać takie wsparcie, które najlepiej odpowiada rzeczywistym potrzebom organizacji.
 
 ---
 
-### Organizacja chce rozwijać zdolność do oceniania stanu dostępności i zgodności
+# Jak wybrać usługę?
 
-Typowe objawy:
+## Krok 1. Określ kompetencję, którą organizacja chce zbudować lub rozwinąć
 
-- każda ocena zlecana jest podmiotowi zewnętrznemu,
-- organizacja nie potrafi wykonywać potrzebnych testów,
-- ma trudności z oceną wyników badań i materiałów dowodowych,
-- nie potrafi wykorzystać wyników ocen przy odbiorze zamawianych rozwiązań,
-- nie wie, kiedy potrzebne jest wsparcie zewnętrznego specjalisty.
+Najpierw odpowiedz na pytanie, co organizacja powinna potrafić wykonywać samodzielnie po zakończeniu przedsięwzięcia.
 
-#### Zalecana usługa
+Nie chodzi wyłącznie o kwalifikacje pojedynczych pracowników, ale również o zdolność organizacji do przygotowywania kolejnych pracowników, utrzymywania wypracowanych rozwiązań oraz rozwijania ich w przyszłości.
 
-**Budowanie zdolności do oceniania stanu dostępności i zgodności**
+Przykładowo:
 
-#### Typowe rezultaty
-
-- określenie zadań wykonywanych samodzielnie i zlecanych na zewnątrz,
-- przygotowanie pracowników do wykonywania odpowiednich testów,
-- scenariusze testów i procedury ocen,
-- zdolność do oceny kompletności i wiarygodności materiałów dowodowych,
-- zdolność do rozumienia i wykorzystywania wyników ocen zewnętrznych,
-- zdolność do wykorzystania wyników ocen przy odbiorze rozwiązań cyfrowych,
-- określenie sytuacji wymagających wsparcia zewnętrznego specjalisty.
+- jeżeli organizacja chce samodzielnie przygotowywać kolejnych pracowników do tworzenia dostępnych dokumentów, warto rozważyć **tworzenie programów szkoleń wewnętrznych i przygotowanie kadry trenerskiej**;
+- jeżeli chce systematycznie przygotowywać nowych pracowników do wykonywania obowiązków zgodnie z zasadami dostępności, warto rozważyć **tworzenie dostępnościowego onboardingu**;
+- jeżeli chce zapewnić pracownikom bieżące wsparcie podczas wykonywania zadań, warto rozważyć **tworzenie pierwszej linii wsparcia**.
 
 ---
 
-### Organizacja wdraża nowe zasady działania
+## Krok 2. Określ zadanie, które może zostać wykonane podczas realizacji usługi
 
-Typowe objawy:
+Zastanów się, czy uczestnicy powinni jedynie zdobyć wiedzę, czy również wykonać rzeczywiste zadanie potrzebne organizacji.
 
-- przygotowano politykę lub procedurę,
-- opracowano standardy,
-- wyznaczono role,
-- ale nowe rozwiązania nie są stosowane w praktyce.
+Eksperci mogą przekazać wiedzę, prowadzić warsztaty, konsultować pracę uczestników oraz oceniać rezultaty ich działań. Dzięki temu uczestnicy zdobywają doświadczenie podczas wykonywania zadań, które organizacja i tak musi zrealizować.
 
-#### Zalecana usługa
+Przykładowo podczas przedsięwzięcia można:
 
-**Wsparcie wdrażania nowych sposobów działania**
-
-#### Typowe rezultaty
-
-- przygotowanie pracowników do stosowania nowych zasad,
-- procedury, instrukcje, listy kontrolne lub inne środki wspierające ich stosowanie,
-- określenie ról i odpowiedzialności,
-- plan wdrożenia nowych sposobów działania,
-- sposób monitorowania stosowania nowych zasad,
-- plan dalszego utrwalania i doskonalenia nowych praktyk.
+- opracować wewnętrzne standardy dostępności;
+- przygotować szablony podstawowych dokumentów;
+- opracować wzorce treści internetowych;
+- stworzyć metody kontroli dostępności;
+- przygotować materiały szkoleniowe;
+- uporządkować zasoby wiedzy wykorzystywane przez pracowników.
 
 ---
 
-### Organizacja chce rozwijać własny system kompetencji
+## Krok 3. Określ oczekiwane rezultaty
 
-Typowe objawy:
+Na końcu odpowiedz na pytanie, jakie rezultaty organizacja chce osiągnąć dzięki realizacji przedsięwzięcia.
 
-- każda potrzeba wymaga zamawiania kolejnych szkoleń,
-- brak materiałów dla nowych pracowników,
-- brak osób wspierających innych pracowników,
-- wiedza jest skupiona w pojedynczych osobach,
-- brak systematycznego sposobu rozwijania i utrzymywania kompetencji.
+Rezultatem mogą być jednocześnie:
 
-#### Zalecana usługa
+- osoby przygotowane do wykonywania określonych zadań;
+- doświadczenie zdobyte podczas ich wykonywania;
+- wewnętrzne standardy;
+- szablony i wzorce;
+- programy i materiały szkoleniowe;
+- metody kontroli;
+- Biblioteczka dostępności;
+- pierwsza linia wsparcia;
+- inne rozwiązania wspierające pracowników.
 
-**Budowanie systemu rozwoju kompetencji**
-
-#### Typowe rezultaty
-
-- określenie kompetencji potrzebnych do wykonywania poszczególnych zadań,
-- programy wdrażania nowych pracowników,
-- przygotowanie trenerów lub osób wspierających innych pracowników,
-- materiały szkoleniowe i bazy wiedzy,
-- ścieżki rozwoju kompetencji,
-- społeczności praktyków lub inne formy wymiany wiedzy,
-- sposób monitorowania i aktualizowania potrzeb kompetencyjnych.
+Im pełniej rezultat odpowiada rzeczywistym potrzebom organizacji, tym większą wartość przynosi zamawiana usługa.
 
 ---
 
-## Krok 2. Czy potrzebujesz wykonania zadania czy zbudowania zdolności organizacji?
+# Typowe sytuacje
 
-### Potrzebujemy wykonania określonego zadania
-
-Przykłady:
-
-- przeprowadzenie audytu,
-- wykonanie oceny zgodności,
-- przygotowanie ekspertyzy,
-- opracowanie dokumentacji.
-
-W takim przypadku należy rozważyć usługę badania, oceniania, doradczą lub inną usługę specjalistyczną.
-
-Organizacja powinna jednak posiadać zdolność do prawidłowego zamówienia usługi, nadzorowania jej realizacji, oceny otrzymanych rezultatów i wykorzystania ich w dalszym działaniu.
-
----
-
-### Potrzebujemy zbudowania lub rozwinięcia zdolności organizacji
-
-Przykłady:
-
-- tworzenie dostępnych dokumentów i treści,
-- wykonywanie określonych testów dostępności,
-- ocenianie materiałów dowodowych,
-- wdrażanie nowych pracowników,
-- stosowanie przyjętych procedur i standardów,
-- zamawianie i wykorzystywanie specjalistycznych usług zewnętrznych.
-
-W takim przypadku należy rozważyć usługę wsparcia kompetencyjnego.
+| Jeżeli organizacja potrzebuje... | Rozważ przede wszystkim... |
+|----------------------------------|----------------------------|
+| rozpocząć tworzenie dostępnych dokumentów i treści oraz przygotować osoby, które będą rozwijały ten obszar w organizacji | **Podstawy tworzenia dostępnych dokumentów i treści** |
+| przygotowywać kolejnych pracowników do wykonywania powtarzalnych zadań | **Tworzenie programu szkoleń wewnętrznych i przygotowanie kadry trenerskiej** |
+| przygotowywać nowych pracowników do wykonywania obowiązków zgodnie z zasadami dostępności | **Tworzenie programu wdrażania nowych pracowników w zakresie dostępności cyfrowej** |
+| przełożyć wymagania dostępności na zasady obowiązujące w organizacji | **Tworzenie wewnętrznych standardów dostępności** |
+| ułatwić tworzenie powtarzalnych dokumentów | **Tworzenie szablonów podstawowych dokumentów** |
+| ujednolicić sposób publikowania treści internetowych | **Tworzenie wzorców treści internetowych** |
+| kontrolować dostępność dokumentów przed publikacją | **Tworzenie zasad i metod kontroli dostępności dokumentów** |
+| kontrolować dostępność treści internetowych przed publikacją | **Tworzenie zasad i metod kontroli dostępności treści internetowych** |
+| zapewnić pracownikom łatwy dostęp do wiedzy i materiałów | **Tworzenie Biblioteczki dostępności** |
+| zapewnić bieżące wsparcie podczas wykonywania zadań | **Tworzenie pierwszej linii wsparcia** |
+| zbudować podstawy systemu przygotowywania i wspierania pracowników | **Zbudowanie podstaw systemu wsparcia kompetencyjnego** |
+| przygotować wspólne rozwiązania dla wielu jednostek | **Tworzenie wspólnego wsparcia kompetencyjnego dla jednostek podległych** |
+| prowadzić własnymi siłami planowe oceny stanu dostępności i zgodności | **Przygotowanie zespołu do prowadzenia planowych ocen oraz opracowanie organizacyjnych zasad ich wykonywania** |
+| przygotować wybrane osoby do wykonywania specjalistycznych zadań | **Specjalistyczne szkolenie dotyczące danego zadania** |
 
 ---
 
-## Krok 3. Czy chcesz rozwinąć kompetencje osób czy zdolność organizacji?
+# Przykładowe błędy
 
-### Rozwijanie kompetencji osób
+## Traktowanie szkolenia jako celu
 
-Przykłady:
+Nieodpowiedni wybór polega na zamawianiu szkolenia wyłącznie po to, aby przekazać uczestnikom wiedzę.
 
-- szkolenie specjalistyczne,
-- szkolenie stanowiskowe,
-- warsztat praktyczny,
-- mentoring,
-- opieka ekspercka.
-
-Takie działania mogą być potrzebnym elementem usługi, ale ich rezultaty dotyczą przede wszystkim osób uczestniczących w tych działaniach.
+Znacznie lepszym rozwiązaniem jest określenie, jakie zadania uczestnicy mają wykonywać po zakończeniu przedsięwzięcia oraz jakie kompetencje organizacji powinny zostać dzięki temu zbudowane.
 
 ---
 
-### Rozwijanie zdolności organizacji
+## Zastępowanie zmian organizacyjnych szkoleniem
 
-Przykłady:
+Szkolenie nie zastąpi standardów, procedur, szablonów, metod kontroli ani wsparcia przełożonych.
 
-- przygotowanie pracowników do wykonywania określonych zadań,
-- opracowanie procedur i standardów,
-- przygotowanie instrukcji, list kontrolnych i innych materiałów wspierających,
-- przygotowanie trenerów lub osób wspierających innych pracowników,
-- organizacja systemu wsparcia,
-- określenie sposobu monitorowania stosowania nowych zasad.
-
-Rozwijanie zdolności organizacji łączy rozwój kompetencji osób z tworzeniem warunków, zasad i środków umożliwiających trwałe wykorzystywanie tych kompetencji.
+Jeżeli problem wynika z braku takich rozwiązań, warto wykorzystać wsparcie kompetencyjne do ich wspólnego opracowania.
 
 ---
 
-## Typowe błędne decyzje
+## Zamawianie kolejnych szkoleń zamiast budowania własnej zdolności
 
-### Problem: Dokumenty są niedostępne
+Jeżeli organizacja stale szkoli kolejne grupy pracowników z tego samego zakresu, warto rozważyć przygotowanie własnych trenerów, materiałów i programów szkoleniowych.
 
-Błędna decyzja:
-
-- szkolenie wszystkich pracowników.
-
-Lepsza decyzja:
-
-- budowanie zdolności organizacji do tworzenia dostępnych dokumentów i treści, obejmujące rozwój potrzebnych umiejętności oraz przygotowanie zasad i środków wspierających prawidłowe wykonywanie zadań.
+Dzięki temu organizacja stanie się mniej zależna od zewnętrznych usług.
 
 ---
 
-### Problem: Organizacja nie zna stanu dostępności
+## Ograniczanie rezultatów do liczby przeszkolonych osób
 
-Błędna decyzja:
+Liczba uczestników lub godzin szkolenia nie świadczy o wartości przedsięwzięcia.
 
-- cykliczne zamawianie ocen zewnętrznych bez rozwijania zdolności do wykorzystywania ich wyników.
-
-Lepsza decyzja:
-
-- budowanie zdolności do obserwowania i oceniania stanu dostępności i zgodności, obejmujące wykonywanie odpowiednich zadań samodzielnie oraz świadome korzystanie ze wsparcia zewnętrznego.
+Znacznie ważniejsze jest to, czy organizacja po zakończeniu usługi potrafi skuteczniej wykonywać swoje zadania.
 
 ---
 
-### Problem: Przyjęto nowe procedury
+## Pozostawienie uczestników bez wsparcia po zakończeniu szkolenia
 
-Błędna decyzja:
+Pracownicy potrzebują możliwości korzystania z przygotowanych standardów, instrukcji, wzorców i materiałów oraz uzyskania pomocy w przypadku problemów.
 
-- jednorazowe szkolenie.
-
-Lepsza decyzja:
-
-- wsparcie wdrażania nowych sposobów działania, obejmujące przygotowanie pracowników, środków wspierających oraz sposobu monitorowania stosowania nowych zasad.
+Brak takich rozwiązań powoduje, że zdobyte kwalifikacje są wykorzystywane tylko częściowo.
 
 ---
 
-## Najważniejsza zasada
+# Najważniejsza zasada
 
-Usługi wsparcia kompetencyjnego powinny być dobierane do zadań organizacji oraz zdolności, które organizacja chce zbudować lub rozwinąć.
+Usługę wsparcia kompetencyjnego należy dobierać przede wszystkim do **kompetencji, które organizacja chce zbudować**, oraz **rezultatów, które chce osiągnąć**, a nie wyłącznie do tematu planowanego szkolenia.
 
-Budowanie zdolności organizacyjnych nie oznacza dążenia do samodzielnego wykonywania wszystkich zadań. Organizacja powinna posiadać zdolności potrzebne do wykonywania własnych zadań oraz świadomego zamawiania, nadzorowania i wykorzystywania usług zewnętrznych.
-
-Szkolenia, warsztaty, mentoring i konsultacje są narzędziami służącymi osiąganiu oczekiwanych rezultatów, a nie głównym celem usług wsparcia kompetencyjnego.
+Dobrze zaprojektowane przedsięwzięcie przygotowuje ludzi do wykonywania rzeczywistych zadań, a jednocześnie pozostawia organizację lepiej przygotowaną do samodzielnego i trwałego zapewniania dostępności cyfrowej.
