@@ -86,7 +86,18 @@ Organizacja wykorzystuje wyniki analizy do:
 - dostosowywania narzędzi i systemów,
 - organizacji pracy i procesów,
 - planowania działań rozwojowych i wsparcia dla pracowników.
+Procedura postępowania obejmuje:
 
+1. potwierdzenie przyjęcia zgłoszenia;
+2. wstępną ocenę jego pilności;
+3. kontakt z osobą zgłaszającą, jeżeli potrzebne jest doprecyzowanie potrzeby;
+4. wskazanie osoby odpowiedzialnej za sprawę;
+5. wybór rozwiązania docelowego i – jeżeli jest potrzebne – rozwiązania tymczasowego;
+6. określenie terminu realizacji;
+7. przekazanie uzasadnionej decyzji;
+8. wdrożenie i przetestowanie rozwiązania;
+9. potwierdzenie przez pracownika, czy rozwiązanie jest skuteczne;
+10. zamknięcie sprawy albo skierowanie jej do ponownej analizy.
 Potrzeby pracowników stanowią jedno z kluczowych źródeł informacji w procesie zarządzania dostępnością cyfrową.
 
 ---
