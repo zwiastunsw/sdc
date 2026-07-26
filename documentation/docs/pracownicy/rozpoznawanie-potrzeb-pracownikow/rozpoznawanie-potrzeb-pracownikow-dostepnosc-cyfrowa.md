@@ -133,7 +133,9 @@ Organizacja:
 - informuje pracowników o wynikach analiz,
 - komunikuje podjęte działania i ich efekty,
 - buduje zaufanie poprzez widoczne reagowanie na zgłaszane potrzeby.
+Wyniki analiz zbiorczych i informacje o działaniach są przekazywane w sposób dostępny i zanonimizowany, który nie pozwala na identyfikację osób zgłaszających potrzeby.
 
+Osoba zgłaszająca otrzymuje indywidualną informację o przebiegu i wyniku swojej sprawy. Pozostali pracownicy otrzymują okresową informację o najważniejszych zidentyfikowanych barierach, działaniach systemowych i osiągniętych rezultatach.
 ---
 
 ### 3.7. Monitorowanie i doskonalenie
