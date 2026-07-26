@@ -163,7 +163,27 @@ Mierniki interpretuje się łącznie. Mała liczba zgłoszeń nie stanowi samodz
 ### Termin przeglądu
 Właściciel procesu przygotowuje co najmniej raz w roku zbiorczą ocenę jego skuteczności oraz plan działań doskonalących.
 Rozpoznawanie potrzeb pracowników jest elementem ciągłego doskonalenia organizacji.
+###3.8. Role i odpowiedzialność
 
+Organizacja określa co najmniej:
+
+- właściciela procesu;
+- jednostkę przyjmującą zgłoszenia;
+- rolę koordynatora dostępności;
+- odpowiedzialność przełożonych;
+- odpowiedzialność HR i IT;
+- odpowiedzialność właścicieli systemów;
+- udział inspektora ochrony danych;
+- zasady angażowania zamówień publicznych i obsługi prawnej;
+- organ lub osobę rozpatrującą sprawy eskalowane.
+
+Każde zgłoszenie ma przypisaną osobę odpowiedzialną za jego prowadzenie.
+
+## 3.9. Udział osób z niepełnosprawnościami
+
+Osoby z niepełnosprawnościami oraz osoby korzystające z technologii asystujących uczestniczą – za ich zgodą i na równych zasadach – w projektowaniu mechanizmów zgłaszania, ustalaniu priorytetów, testowaniu rozwiązań i ocenie skuteczności działań.
+
+Udział pracownika w konsultacjach nie może być traktowany jako bezpłatne zastępowanie specjalistycznych audytów ani powodować dodatkowego, nieuzasadnionego obciążenia pracą.
 ---
 
 ## 4. Uzasadnienie
