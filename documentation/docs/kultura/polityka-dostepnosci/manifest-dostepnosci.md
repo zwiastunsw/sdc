@@ -85,7 +85,7 @@ Proponowany podział struktury preambuły:
     realnym doświadczeniem osób, które korzystają z naszych usług i
     przestrzeni.
 
-W preambule należy uwzględnić poniżesz aspekty:
+W preambule należy uwzględnić poniższe aspekty:
 
 - **aspekty etyczne**\
   traktowanie wszystkich ludzi z szacunkiem i równością,
@@ -100,7 +100,7 @@ W preambule należy uwzględnić poniżesz aspekty:
 - **aspekty technologiczne i ekonomiczne**\
   dostępność jako element innowacji i oszczędności,
 - **aspekty osobiste**\
-  odkreślenie wpływu dostępności na życie codzienne jednostek.
+  określenie wpływu dostępności na życie codzienne jednostek.
 
 ## Podstawa prawna {#podstawa-prawna}
 

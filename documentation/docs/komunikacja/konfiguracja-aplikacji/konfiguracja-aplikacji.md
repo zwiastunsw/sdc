@@ -21,7 +21,7 @@ Komunikacja
 Instytucja publiczna (np. urząd centralny, muzeum, biblioteka)
 
 ## Powód realizacji dobrej praktyki
-Jedną z przeszkód w skutecznym wprowadzaniu dostepności cyfrowej w instytucji publicznej jest wielość obowiązków pracowników. Konieczność dbania o dostępność cyfrową zwiększa tę listę. Przygotowanie szablonów wykorzystywanych dokumentów oraz skonfigurowania ustawień aplikacji z pakietu MS Office (aplikacji biurowych) i innych wykorzystywanych do komunikacji tak, żeby od razu miały odpowiednie cechy zmniejsza ilość zadań, które trzeba wypełniać. To sprzyja wprowadzaniu dostępności cyfrowej w organizacji.
+Jedną z przeszkód w skutecznym wprowadzaniu dostępności cyfrowej w instytucji publicznej jest wielość obowiązków pracowników. Konieczność dbania o dostępność cyfrową zwiększa tę listę. Przygotowanie szablonów wykorzystywanych dokumentów oraz skonfigurowania ustawień aplikacji z pakietu MS Office (aplikacji biurowych) i innych wykorzystywanych do komunikacji tak, żeby od razu miały odpowiednie cechy zmniejsza ilość zadań, które trzeba wypełniać. To sprzyja wprowadzaniu dostępności cyfrowej w organizacji.
 
 ---
 

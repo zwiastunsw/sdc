@@ -49,7 +49,7 @@ wersja_robocza: true
 - [ ] Napisy - najlepiej w oddzielnym pliku .srt - zawierającym kody czasowe, synchronizujące napis z dźwiękiem.
 - [ ] Pojedynczy wers napisu zawiera ok. 40 znaków.
 - [ ] Pojedyncze wejście składa się z maks. dwóch wersów, wyświetlanych nie krócej niż 3 sekundy.
-- [ ] Dźwięki tła lub obrazy, które mają znaczenie dla kontektu wypowiedzi, zapisane są w nawiasie i oddzielnym wersie.
+- [ ] Dźwięki tła lub obrazy, które mają znaczenie dla kontekstu wypowiedzi, zapisane są w nawiasie i oddzielnym wersie.
 - [ ] Oznaczenie WERSALIKAMI osoby wypowiadającej słowa.
 - [ ] Napisy dobrze się czyta, czyli np. nazwy własnych są w jednej linii, w jednym wejściu (ang. caption).
 - [ ] Każdy wiersz zakończony jest znakiem przestankowym.
@@ -58,7 +58,7 @@ wersja_robocza: true
 - [ ] Player multimedialny jest dostępny z klawiatury i dla czytników ekranu.
 - [ ] Brak automatycznego odtwarzania lub możliwość jego wyłączenia.
 - [ ] Materiały nie zawierają migających elementów (bezpieczne dla osób z epilepsją).
-- UWAGA: Bardziej korzystne jest przygotowanie napisów w postaci "zamkniętej" - oddzielnego pliku np. .srt - jednak, gdy nie ma takiej możliwości, krterium realizuja także napisy "otwarte" - zintegrowane w obrazem wideo. 
+- UWAGA: Bardziej korzystne jest przygotowanie napisów w postaci "zamkniętej" - oddzielnego pliku np. .srt - jednak, gdy nie ma takiej możliwości, kryterium realizuja także napisy "otwarte" - zintegrowane w obrazem wideo. 
 
 ---
 

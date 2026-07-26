@@ -55,7 +55,7 @@ Podręcznik został wykonany, jego użyteczność przetestowana, treść złożo
 
 - Liczba pobrań lub otwarć podręcznika z/w intranecie.
 - Wzrost poprawności przygotowanych materiałów wg zasad dostępności cyfrowej, np. do edycji wykorzystywane są funkcje edytora treści (wcześniej np. listy były często wykonywane ręcznie); wszystkie dokumenty tworzone są z wykorzystaniem bezszeryfowych czcionek, itp.
-- UWAGA: działania na rzecz zwiększenia kompetencji pracowników Muzeum w zakresie dostępnosci cyfrowej prowadzone są równolegle w wielu obszarach i z wykorzystaniem różnorodnych narzędzi, nie sposób określić konkretnej liczbowej czy procentowej zmiany jakości związanej wyłącznie z Podręcznikiem.
+- UWAGA: działania na rzecz zwiększenia kompetencji pracowników Muzeum w zakresie dostępności cyfrowej prowadzone są równolegle w wielu obszarach i z wykorzystaniem różnorodnych narzędzi, nie sposób określić konkretnej liczbowej czy procentowej zmiany jakości związanej wyłącznie z Podręcznikiem.
 
 ---
 

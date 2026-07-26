@@ -74,7 +74,7 @@ Modelowanie dojrzałości dostępności znacznie różni się od testowania zgod
 
 Testowanie zgodności dostarcza informacji o poziomie dostępności konkretnego produktu w danym momencie. Wyniki testu zgodności dają obraz konkretnej wersji produktu lub jego komponentu w momencie testowania i oceny.
 
-Modelowanie dojrzałości dostarcza informacji o zdolności organizacji do tworzenia w perspektywie długoterminowejdostępnych produktów. Wyniki oceny modelowania dojrzałości dają całościowy obraz inicjatyw organizacji w zakresie dostępności, pokazując, gdzie organizacja dobrze realizuje funkcje dostępności i gdzie może wprowadzić ulepszenia w celu usunięcia barier.
+Modelowanie dojrzałości dostarcza informacji o zdolności organizacji do tworzenia w perspektywie długoterminowej dostępnych produktów. Wyniki oceny modelowania dojrzałości dają całościowy obraz inicjatyw organizacji w zakresie dostępności, pokazując, gdzie organizacja dobrze realizuje funkcje dostępności i gdzie może wprowadzić ulepszenia w celu usunięcia barier.
 
 
 ### 1.1.1 Jak korzystać z modelu dojrzałości dostępności
@@ -402,7 +402,7 @@ Poziom **optymalny** osiąga się, gdy dowody wskazują, że:
 
 ##### 2.5.2.2.6 Szkolenia z zakresu tworzenia TIK
 
-- Szkolenia z zakresu tworzenia i testowania TIK, wspierające punkty dowodowe tego wymiaru, aby budować i utrzymywać odpowiedne umiejętności oparte na rolach
+- Szkolenia z zakresu tworzenia i testowania TIK, wspierające punkty dowodowe tego wymiaru, aby budować i utrzymywać odpowiednie umiejętności oparte na rolach
 
 ##### 2.5.2.2.7 Cele i wskaźniki wymiarów
 
@@ -553,7 +553,7 @@ Poziom **optymalny** osiąga się, gdy dowody wskazują, że:
 - Strategia rozwoju obejmuje dostępność cyfrową.
 - Dostępność cyfrowa uwzględniona w podstawowych wartościach.
 - Dostępność cyfrowa uwzględniona w kodeksie postępowania.
-- Sskupienie się na dostępności cyfrowej w [społecznościach praktyków]../../terms/spolecznosci_praktykow)
+- Skupienie się na dostępności cyfrowej w [społecznościach praktyków]../../terms/spolecznosci_praktykow)
 - Włączenie kryteriów dostępności cyfrowej do ocen efektywności pracowników/urzędników
 - Skuteczność programu dostępności cyfrowej jest monitorowana i ulepszana.
 - Badaniach satysfakcji pracowników obejmują dane dotyczące dostępności i niepełnosprawności
@@ -682,7 +682,7 @@ Poziom **optymalizacji** osiąga się, gdy dowody wskazują, że:
 
 - Pełne i spójne wykorzystanie procesów dostępności, kryteriów, zapisów w umowach i podejmowania decyzji w celu pozyskiwania i utrzymywania dostępnych produktów i usług przez cały cykl życia zaopatrzenia.
 - Procesy zakupowe są regularnie przeglądane i udoskonalane w razie potrzeby.
-- Wymagane jest szkolenie w zakresie wiedzy i umiejętności dotyczących zzaopatrzenia w zakresie dostępności, odpowiednich do stanowiska każdej osoby, a poprawa sytuacji jest mierzona i monitorowana.
+- Wymagane jest szkolenie w zakresie wiedzy i umiejętności dotyczących zaopatrzenia w zakresie dostępności, odpowiednich do stanowiska każdej osoby, a poprawa sytuacji jest mierzona i monitorowana.
 
 #### 2.5.6.2 Punkty dowodowe
 
@@ -705,7 +705,7 @@ Poziom **optymalizacji** osiąga się, gdy dowody wskazują, że:
 - Udokumentowana metodologia oceny dostępności.
 - Metodologia oceniania (punktacji) zgłoszeń.
 
-##### 2.5.6.2.4 Wymogi dotyczące zapiwów w umowach
+##### 2.5.6.2.4 Wymogi dotyczące zapisów w umowach
 
 - Wymóg dostarczenia przez dostawcę dowodów przeprowadzonych automatycznych i ręcznych testów dostępności.
 - Kryteria dostępności w cyklu tworzenia, integracji i rozwoju (dla usług deweloperskich).
@@ -1058,7 +1058,7 @@ Wszystkie role w całej konkretnej jednostce biznesowej
 - Mary Jo Mueller (IBM)
 - Brian O'Day (Intel)
 - Susana Pallero (Invited Expert)
-- Ralp de Rooij (Community Group Member)
+- Ralph de Rooij (Community Group Member)
 - Janina Sajka (Invited Expert)
 - Lori Samuels (NBC Universal)
 - Stacey Swinehart Ganderson (Invited Expert)

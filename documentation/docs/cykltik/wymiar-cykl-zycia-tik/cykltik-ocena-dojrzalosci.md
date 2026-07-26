@@ -91,7 +91,7 @@ Opis wymiaru Cykl życia TIK w Modelu dojrzałości dostępności odnosi się g�
 
 ### Szkolenia z zakresu tworzenia TIK
 
-- Prowadzone są szkolenia z zakresu tworzenia i testowania TIK, wspierające punkty dowodowe tego wymiaru, aby budować i utrzymywać odpowiedne umiejętności oparte na rolach.
+- Prowadzone są szkolenia z zakresu tworzenia i testowania TIK, wspierające punkty dowodowe tego wymiaru, aby budować i utrzymywać odpowiednie umiejętności oparte na rolach.
 
 ### Cele i wskaźniki wymiarów
 

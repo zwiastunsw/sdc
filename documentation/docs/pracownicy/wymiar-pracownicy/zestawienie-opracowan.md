@@ -28,7 +28,7 @@ Budowanie kompetencji organizacji w zakresie dostępności cyfrowej wymaga pozys
 ## 🟠❓ Dostępność w zakresach czynności
 
 **Opracowanie**: Mateusz Ciborowski\
-**Wspolpraca:** Anna Bizub-Jechna
+**Współpraca:** Anna Bizub-Jechna
 
 Skuteczne zapewnianie dostępności cyfrowej wymaga przypisania odpowiedzialności za realizację poszczególnych działań konkretnym rolom i stanowiskom pracy. Zalecenie wraz z załącznikiem pomaga organizacjom publicznym uwzględniać obowiązki związane z dostępnością cyfrową w zakresach czynności pracowników oraz kierowników odpowiedzialnych za realizację procesów, usług, publikację informacji i wykorzystywanie technologii cyfrowych. Wspiera tworzenie spójnego systemu odpowiedzialności, w którym wymagania dostępności są integralną częścią wykonywanych obowiązków i zarządzania pracą.
 

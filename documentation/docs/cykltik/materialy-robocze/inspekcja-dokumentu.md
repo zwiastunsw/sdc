@@ -31,7 +31,7 @@ Koordynator dostępności cyfrowej w organizacji powinien:
 
 ## Szkolenia
 
-1. Wszyscy pracownicy odpowiedzialni za tworzenie dokumentów powinni przejść szkolenie z zasad prawidłowego formatowania tekstu, aby zapewnić ich dostępność. Takie szkolnie powinien przechodzić każdy nowy pracownik.
+1. Wszyscy pracownicy odpowiedzialni za tworzenie dokumentów powinni przejść szkolenie z zasad prawidłowego formatowania tekstu, aby zapewnić ich dostępność. Takie szkolenie powinien przechodzić każdy nowy pracownik.
 2. Kadra zarządzająca zostanie dodatkowo przeszkolona w zakresie weryfikacji dokumentów pod kątem cyfrowej dostępności.
 3. Szkolenia powinny być zwięzłe i zawierać wyłącznie kluczowe informacje.
 

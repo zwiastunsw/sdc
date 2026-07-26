@@ -33,7 +33,7 @@ Zauważono w Muzeum, gdy instytucja jasno informuje o dostępnych udogodnieniach
 - Stworzenie budżetu.
 - Przystąpienie do realizacji planu (w tym koordynowanie pracy zespołu wykonawczego).
 - **Cel** – Zapewnienie systematycznej i skutecznej komunikacji w zakresie dostępności cyfrowej poprzez opracowanie kalendarza publikacji i jego realizacji.
-- **Grupa docelowa** – Autorzy treści, redaktorzy, weryfikatorzy, twórcy działań związanych z dostępnoscią (wydarzenia, dostosowania architektoniczne, zamówienia itp.), nowi pracownicy instytucji.
+- **Grupa docelowa** – Autorzy treści, redaktorzy, weryfikatorzy, twórcy działań związanych z dostępnością (wydarzenia, dostosowania architektoniczne, zamówienia itp.), nowi pracownicy instytucji.
 
 ## Proces realizacji
 1. **Analiza potrzeb informacyjnych** – identyfikacja kluczowych obszarów dostępności cyfrowej.
@@ -45,20 +45,20 @@ Zauważono w Muzeum, gdy instytucja jasno informuje o dostępnych udogodnieniach
 ## Narzędzia i kanały komunikacji (dopasowane do grupy docelowej)
 
 - **Komunikacja wewnętrzna** – intranet, newsletter wewnętrzny, szkolenia oraz konsultacje ze specjalistą ds. dostępności dla zespołu ![(w ramach System obowiązkowych szkoleń z zakresu tworzenia treści dostępnych cyfrowo dla autorów i weryfikatorów publikacji)](https://github.com/Siec-Dostepnosci-Cyfrowej/sdc/pull/33/changes#diff-f5cfa4118110997a13aabf9dcb55b59ed506ec311ab4ab16cfc06faf4630093c)
-- **Komunikacja zewnętrzna** - strona główna Muzeum, newsletter, media społęcznościowe, materiały drukowane
+- **Komunikacja zewnętrzna** - strona główna Muzeum, newsletter, media społecznościowe, materiały drukowane
 
 ---
 
 ## Zasoby / koszty
 - Pracownicy instytucji - koordynator_ka działań i zespół wykonawczy (specjaliści ds. dostępności, pracownicy_czki działów: promocji i marketingu, edukacji itp.)
-- Wykonawcy usług zewnętrznych (grafik, filmowiec/realizotor audio i wideo, tłumacz_ka PJM) - w ramach posiadanego budżetu
+- Wykonawcy usług zewnętrznych (grafik, filmowiec/realizator audio i wideo, tłumacz_ka PJM) - w ramach posiadanego budżetu
 - Materiały informacyjne (tekst, zdjęcia, filmy) - przygotowywane wewnętrznie i na zamówienie
 - Czas pracy członków zespołu wykonawczego z koordynatorem procesu
 
 ---
 
 ## Opis osiągniętych rezultatów
-- Wzrost liczby i zasięgu dotarcia publikacji dotyczących dostepności w instytucji
+- Wzrost liczby i zasięgu dotarcia publikacji dotyczących dostępności w instytucji
 - Zmniejszenie liczby zgłoszeń dotyczących niedostępności
 - Spójna polityka komunikacyjna w zakresie dostępności w skali całej instytucji
 

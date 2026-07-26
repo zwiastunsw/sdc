@@ -35,7 +35,7 @@ Rekomenduje się, aby przygotowanie nowych pracowników do wypełniania obowiąz
 1. Omówienie odpowiedzialności służbowej za dostępność cyfrową wszystkich wytwarzanych przez pracownika dokumentów elektronicznych.
 2. Omówienie znaczenia dostępności dokumentów elektronicznych dla osób ze szczególnymi potrzebami. Pokazanie, jak osoby z różnymi niepełnosprawnościami korzystają z dokumentów elektronicznych.
 3. Zapoznanie pracownika z regulacją wewnętrzną (instrukcją, regulaminem), w której określono zasady formowania dokumentów.
-4. Praktyczne przestawienie podstawowych technik nadawania dokumentowi niezbędnych cech dostępności:
+4. Praktyczne przedstawienie podstawowych technik nadawania dokumentowi niezbędnych cech dostępności:
     - struktury oznaczonej nagłówkami,
     - poprawnych ustawień językowych,
     - opisowego tytułu dokumentu w jego właściwościach,

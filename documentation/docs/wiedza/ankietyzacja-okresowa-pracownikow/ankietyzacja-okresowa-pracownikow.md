@@ -1,7 +1,7 @@
 ---
 id: rozpoznawanie-potrzeb-pracownikow-dostepnosc-cyfrowa
 title: Systemowe rozpoznawanie i uwzględnianie potrzeb pracowników w zakresie dostępności cyfrowej
-desceription: Organizacja systemowo rozpoznaje potrzeby pracowników w zakresie dostępności cyfrowej
+description: Organizacja systemowo rozpoznaje potrzeby pracowników w zakresie dostępności cyfrowej
 sidebar_position: 0
 sidebar_label: Zalecenie
 keywords: [dostępność cyfrowa, personel, potrzeby pracowników, włączenie]

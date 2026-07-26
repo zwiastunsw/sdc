@@ -61,6 +61,6 @@ Minimalizuje ryzyko prawne. Spełnianie wymogów ustawowych ogranicza możliwoś
 
 ## Źródła i opracowania
 
-- [Wytyczne dotyczące realizacji ustwy o dostępności cyfrowej](https://www.gov.pl/web/cyfryzacja/dostepnosc-cyfrowa), Ministerstwo Cyfryzacji
+- [Wytyczne dotyczące realizacji ustawy o dostępności cyfrowej](https://www.gov.pl/web/cyfryzacja/dostepnosc-cyfrowa), Ministerstwo Cyfryzacji
 - [Web Accessibility Directive – Guidance and Implementation Reports](https://digital-strategy.ec.europa.eu/en/library/study-implementation-web-accessibility-directive-monitoring-reporting-and-evaluation), Komisja Europejska
 - [Web Content Accessibility Guidelines](https://www.w3.org/TR/WCAG21/) (WCAG) 2.1, W3C
