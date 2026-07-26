@@ -24,7 +24,9 @@ System obejmuje zarówno działania na rzecz dostępności rozwiązań używanyc
 ## 2. Zalecenie
 
 Organizacja wdraża system rozpoznawania, analizy i uwzględniania potrzeb pracowników i współpracowników w zakresie dostępności cyfrowej, w celu zapewnienia dostępnego i włączającego środowiska pracy oraz eliminowania barier w korzystaniu z narzędzi i usług cyfrowych.
+Organizacja wyznacza właściciela procesu oraz określa role i odpowiedzialność komórek uczestniczących w przyjmowaniu zgłoszeń, analizie potrzeb, podejmowaniu decyzji, wdrażaniu rozwiązań, finansowaniu działań i ocenie ich skuteczności.
 
+Informacja o sposobie zgłaszania potrzeb, osobach odpowiedzialnych, terminach i zasadach rozpatrywania zgłoszeń jest dostępna dla wszystkich pracowników i współpracowników.
 ---
 
 ## 3. Rekomendacje
