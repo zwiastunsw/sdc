@@ -4,8 +4,8 @@ title: Angażowanie osób z niepełnosprawnościami w działania związane z dos
 description: Organizacja aktywnie angażuje osoby z niepełnosprawnościami w działania związane z planowaniem, oceną i doskonaleniem dostępności cyfrowej.
 sidebar_label: Zalecenie
 sidebar_position: 0
-keywords: [osoby z niepełnosprawnościami, zatrudnianie, dostępność cyfrowa, kompetencje,konsultacje, testowanie, ERG]
-tags: [osoby z niepełnosprawnościami, zatrudnianie, dostępność cyfrowa, kompetencje,konsultacje, testowanie, ERG]
+keywords: [osoby z niepełnosprawnościami,zatrudnianie,dostępność cyfrowa,kompetencje,konsultacje,testowanie,ERG]
+tags: [osoby z niepełnosprawnościami,zatrudnianie,dostępność cyfrowa,kompetencje,konsultacje,testowanie,ERG]
 opracowanie: Stefan Wajda
 data_zgloszenia: 20 marca 2026 r.
 ostatnia_aktualizacja: 20 czerwca 2026 r.
