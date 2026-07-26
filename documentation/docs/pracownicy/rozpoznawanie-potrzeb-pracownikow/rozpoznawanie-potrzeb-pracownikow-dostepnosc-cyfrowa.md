@@ -59,7 +59,11 @@ Organizacja:
 - zapewnia dostępność narzędzi służących do zgłaszania potrzeb i problemów,
 - umożliwia anonimowe lub poufne zgłaszanie,
 - tworzy warunki sprzyjające ujawnianiu potrzeb bez obawy o negatywne konsekwencje.
+Organizacja zapewnia co najmniej dwa dostępne kanały zgłaszania potrzeb, w tym kanał niewymagający korzystania z narzędzia, którego dotyczy bariera. Zgłoszenie może zostać przekazane za pomocą dostępnego formularza, poczty elektronicznej, telefonicznie, osobiście albo przy wsparciu wskazanej osoby.
 
+Organizacja wyjaśnia różnicę między zgłoszeniem anonimowym a poufnym oraz informuje, jaki zakres informacji jest niezbędny do rozpatrzenia sprawy.
+
+Zgłoszenie potrzeby, bariery albo problemu z dostępnością nie może powodować negatywnych konsekwencji w zatrudnieniu, ocenie pracy, dostępie do szkoleń, awansie ani podziale obowiązków.
 Szczególną uwagę poświęca się potrzebom osób z niepełnosprawnościami.
 
 ---
