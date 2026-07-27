@@ -2,13 +2,13 @@
 id: obsluga-zgloszen-problemow-dostepnosci-cyfrowej-i-dostep-alternatywny
 title: Obsługa zgłoszeń, żądań i skarg dotyczących dostępności cyfrowej oraz zapewniania dostępu alternatywnego
 description: Organizacja zapewnia obsługę zgłoszeń problemów dostępności cyfrowej oraz dostęp alternatywny w sytuacjach, gdy usunięcie bariery nie jest możliwe niezwłocznie.
-sidebar_label: Obsługa zgłoszeń, żądań i skarg
+sidebar_label: Zalecenie
 sidebar_position: 0
 keywords: [zgłoszenia problemów,dostęp alternatywny,żądanie zapewnienia dostępności,obsługa zgłoszeń,alert dostępności]
 tags: [zgłoszenia problemów,dostęp alternatywny,żądanie zapewnienia dostępności,obsługa zgłoszeń,alert dostępności]
 opracowanie: Anna Czekalska, Stefan Wajda
 data_zgloszenia: 25 listopada 2025 r.
-ostatnia_aktualizacja: 20 czerwca 2026 r.
+ostatnia_aktualizacja: 28 lipca 2026 r.
 wersja_robocza: true
 ---
 
@@ -116,14 +116,6 @@ Powtarzające się zgłoszenia dotyczące tego samego problemu są traktowane ja
 
 ---
 
-## Podstawa prawna
-
-- Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych.
-- Ustawa z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami.
-- Dyrektywa Parlamentu Europejskiego i Rady (UE) 2016/2102 w sprawie dostępności stron internetowych i aplikacji mobilnych organów sektora publicznego.
-
----
-
 ## Uzasadnienie
 
 Pomimo stosowania standardów dostępności oraz prowadzenia działań związanych z oceną i poprawą dostępności cyfrowej, użytkownicy mogą nadal napotykać bariery utrudniające korzystanie z treści, usług lub systemów cyfrowych.
@@ -136,7 +128,20 @@ Obsługa zgłoszeń nie powinna być traktowana wyłącznie jako realizacja obow
 
 ---
 
+## Podstawa prawna
+
+- Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych.
+- Ustawa z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami.
+- Dyrektywa Parlamentu Europejskiego i Rady (UE) 2016/2102 w sprawie dostępności stron internetowych i aplikacji mobilnych organów sektora publicznego.
+
+---
+
 ## Powiązane dokumenty
 
-- [Przetwarzanie i obsługa problemów z dostępnością cyfrową](https://siec-dostepnosci-cyfrowej.github.io/sdc/docs/cykltik/przetwarzanie-zgloszen/przetwarzanie-zgloszen-problemow-z-dostepnoscia)
-- [Procedura oceny dostępności](https://siec-dostepnosci-cyfrowej.github.io/sdc/docs/category/procedura-oceny-dost%C4%99pno%C5%9Bci)
+
+- [Procedura obsługi zgłoszeń i skarg dotyczących dostępności cyfrowej oraz zapewniania dostępu alternatywnego](./procedura-obslugi-zgłoszen-i-skarg-dotyczacych-dostepnosci-cyfrowej)
+- [Karta zgłoszenia problemu dostępności cyfrowej](karta-zgloszenia-problemu-dostepnosci-cyfrowej)
+- [Karta obsługi zgłoszenia problemu dostępności cyfrowej](karta-obslugi-zgloszenia-problemu-dostepnosci-cyfrowej)
+- [Schemat procesu obsługi zgłoszeń problemów dostępności cyfrowej i skarg](schemat-procesu-obslugi-zgloszen-i-skarg)
+- [Przetwarzanie i obsługa problemów z dostępnością cyfrową](../../cykltik/przetwarzanie-zgloszen/przetwarzanie-zgloszen-problemow-z-dostepnoscia)
+
