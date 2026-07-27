@@ -8,23 +8,25 @@ keywords: [usługi cyfrowe,e-usługi,wsparcie użytkowników,obsługa spraw cyfr
 tags: [usługi cyfrowe,e-usługi,wsparcie użytkowników,obsługa spraw cyfrowych,procesy cyfrowe]
 opracowanie: Stefan Wajda
 data_zgloszenia: 20 czerwca 2026 r.
-ostatnia_aktualizacja: 20 czerwca 2026 r.
+ostatnia_aktualizacja: 27 lipca 2026 r.
 wersja_robocza: true
 ---
 
-# Wsparcie użytkowników podczas realizacji złożonych spraw cyfrowych
-
-## Cel zalecenia
+## 1. Cel zalecenia
 
 Celem zalecenia jest zapewnienie użytkownikom możliwości skutecznego korzystania z usług cyfrowych wymagających realizacji wieloetapowych procesów, w szczególności w sytuacjach, gdy złożoność procedury, zastosowanych rozwiązań technicznych lub indywidualne potrzeby użytkownika utrudniają samodzielne wykonanie zadania.
 
-## Zalecenie
+---
+
+## 2. Zalecenie
 
 Organizacja zapewnia użytkownikom wsparcie podczas realizacji złożonych spraw wymagających korzystania z usług cyfrowych oraz wdraża rozwiązania ułatwiające pokonywanie barier występujących na poszczególnych etapach realizacji procesu.
 
-## Rekomendacje
+---
 
-### 1. Identyfikowanie procesów wymagających wsparcia
+## 3. Rekomendacje
+
+### 3.1. Identyfikowanie procesów wymagających wsparcia
 
 Organizacja identyfikuje usługi i procesy cyfrowe, które mogą sprawiać użytkownikom szczególne trudności.
 
@@ -38,7 +40,9 @@ W szczególności mogą to być procesy obejmujące:
 - konieczność załączania dokumentów,
 - podejmowanie decyzji wymagających znajomości procedur administracyjnych.
 
-### 2. Informowanie o sposobach uzyskania pomocy
+---
+
+### 3.2. Informowanie o sposobach uzyskania pomocy
 
 Przy usługach wymagających realizacji złożonych procesów organizacja publikuje informacje o dostępnych formach wsparcia.
 
@@ -49,7 +53,9 @@ Informacje powinny obejmować w szczególności:
 - zakres oferowanego wsparcia,
 - godziny dostępności pomocy.
 
-### 3. Wsparcie podczas realizacji procesu
+---
+
+### 3.3. Wsparcie podczas realizacji procesu
 
 Organizacja zapewnia możliwość uzyskania pomocy na poszczególnych etapach realizacji sprawy.
 
@@ -61,7 +67,9 @@ Wsparcie może obejmować:
 - wsparcie techniczne,
 - wskazywanie alternatywnych sposobów załatwienia sprawy.
 
-### 4. Materiały wspierające użytkowników
+---
+
+### 3.4. Materiały wspierające użytkowników
 
 Organizacja przygotowuje materiały ułatwiające korzystanie z usług cyfrowych.
 
@@ -73,7 +81,9 @@ Materiały mogą obejmować:
 - materiały w tekście łatwym do czytania i zrozumienia,
 - przykłady poprawnego wykonania poszczególnych czynności.
 
-### 5. Uwzględnianie potrzeb użytkowników o zróżnicowanych potrzebach
+---
+
+### 3.5. Uwzględnianie potrzeb użytkowników o zróżnicowanych potrzebach
 
 Organizacja uwzględnia potrzeby użytkowników korzystających z technologii wspomagających oraz użytkowników wymagających dodatkowego wsparcia podczas realizacji spraw cyfrowych.
 
@@ -86,7 +96,9 @@ W szczególności analizuje problemy występujące podczas:
 - obsługi komunikatów błędów,
 - przesyłania załączników.
 
-### 6. Wykorzystywanie doświadczeń użytkowników
+---
+
+### 3.6. Wykorzystywanie doświadczeń użytkowników
 
 Organizacja analizuje informacje pochodzące od użytkowników dotyczące trudności napotykanych podczas realizacji spraw cyfrowych.
 
@@ -97,7 +109,9 @@ Wyniki analiz są wykorzystywane do:
 - przygotowywania materiałów pomocniczych,
 - planowania działań naprawczych.
 
-### 7. Powiązanie z innymi procesami
+---
+
+### 3.7. Powiązanie z innymi procesami
 
 Wsparcie użytkowników podczas realizacji spraw cyfrowych powinno być powiązane z:
 
@@ -107,16 +121,23 @@ Wsparcie użytkowników podczas realizacji spraw cyfrowych powinno być powiąza
 - pozyskiwaniem opinii użytkowników,
 - projektowaniem i doskonaleniem usług cyfrowych.
 
-## Podstawa prawna
+---
 
-- Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych.
-- Ustawa z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami.
-- Konwencja ONZ o prawach osób z niepełnosprawnościami.
-
-## Uzasadnienie
+## 4. Uzasadnienie
 
 Dostępność cyfrowa nie zależy wyłącznie od zgodności technicznej usług z wymaganiami dostępności. W praktyce wiele trudności pojawia się podczas realizacji złożonych procesów obejmujących wiele kroków, systemów lub decyzji podejmowanych przez użytkownika.
 
 Zapewnienie wsparcia podczas realizacji takich spraw zwiększa skuteczność korzystania z usług cyfrowych, ogranicza ryzyko wykluczenia użytkowników oraz pozwala identyfikować problemy wymagające zmian organizacyjnych lub technicznych.
 
 Działania wspierające użytkowników stanowią uzupełnienie działań związanych z projektowaniem dostępnych usług cyfrowych i przyczyniają się do zwiększenia ich rzeczywistej użyteczności.
+
+---
+
+## 5. Podstawa prawna
+
+- Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych.
+- Ustawa z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami.
+- Konwencja ONZ o prawach osób z niepełnosprawnościami.
+
+---
+

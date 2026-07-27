@@ -8,22 +8,25 @@ keywords: [wsparcie, obsługa osób z niepełnosprawnością]
 tags: [wsparcie, obsługa osób z niepełnosprawnością]
 opracowanie: Stefan Wajda
 data_zgloszenia: 20 marca 2026 r.
-ostatnia_aktualizacja: 20 czerwca 2026 r.
+ostatnia_aktualizacja: 27 lipca 2026 r.
 wersja_robocza: true
 ---
 
-
-## Cel zalecenia
+## 1. Cel zalecenia
 
 Celem specjalistycznego wsparcia jest umożliwienie skutecznego korzystania z usług cyfrowych osobom, które – pomimo zapewnienia dostępności cyfrowej usług – nadal napotykają indywidualne trudności wynikające z ich potrzeb, sposobu korzystania z technologii lub specyfiki danej sprawy. Wsparcie to ma charakter uzupełniający i nie zastępuje obowiązku zapewnienia dostępności cyfrowej ani usuwania barier w usługach cyfrowych.
 
-## Zalecenie
+---
+
+## 2. Zalecenie
 
 Organizacja wdraża system specjalistycznego wsparcia użytkowników usług cyfrowych umożliwiający udzielanie indywidualnej pomocy, wsparcia technicznego oraz racjonalnych usprawnień osobom napotykającym trudności w korzystaniu z udostępnianych usług, treści i technologii cyfrowych.
 
-## Rekomendacje
+---
 
-### 1. Organizacja systemu wsparcia
+## 3. Rekomendacje
+
+### 3.1. Organizacja systemu wsparcia
 
 Organizacja określa sposób realizacji specjalistycznego wsparcia adekwatny do:
 
@@ -35,7 +38,9 @@ Organizacja określa sposób realizacji specjalistycznego wsparcia adekwatny do:
 
 Organizacja wyznacza osoby odpowiedzialne za koordynowanie lub realizację wsparcia oraz określa zasady współpracy pomiędzy komórkami organizacyjnymi uczestniczącymi w rozwiązywaniu problemów użytkowników.
 
-### 2. Indywidualna pomoc użytkownikom
+---
+
+### 3.2. Indywidualna pomoc użytkownikom
 
 System wsparcia powinien umożliwiać rozpoznawanie indywidualnych potrzeb użytkowników oraz dobór sposobu pomocy odpowiedniego do charakteru napotykanych trudności.
 
@@ -46,7 +51,9 @@ Wsparcie może obejmować między innymi:
 - wskazywanie dostępnych sposobów załatwienia sprawy,
 - pomoc w korzystaniu z funkcji dostępności udostępnianych przez organizację.
 
-### 3. Wsparcie techniczne
+---
+
+### 3.3. Wsparcie techniczne
 
 Organizacja zapewnia możliwość uzyskania pomocy technicznej w przypadku problemów związanych z korzystaniem z usług cyfrowych.
 
@@ -57,19 +64,25 @@ Wsparcie techniczne może obejmować w szczególności:
 - wsparcie użytkowników korzystających z technologii wspomagających,
 - identyfikowanie problemów wynikających z niezgodności pomiędzy usługą cyfrową a technologią wspomagającą.
 
-### 4. Racjonalne usprawnienia
+---
+
+### 3.4. Racjonalne usprawnienia
 
 W przypadku gdy standardowy sposób korzystania z usługi okazuje się niewystarczający, organizacja rozpatruje możliwość zastosowania racjonalnych usprawnień umożliwiających użytkownikowi skuteczne skorzystanie z usługi.
 
 Organizacja określa sposób zgłaszania, rozpatrywania i realizacji wniosków wymagających indywidualnego podejścia.
 
-### 5. Powiązanie z dostępem alternatywnym
+---
+
+### 3.5. Powiązanie z dostępem alternatywnym
 
 System specjalistycznego wsparcia powinien współdziałać z procesem obsługi zgłoszeń problemów dostępności cyfrowej oraz zapewniania dostępu alternatywnego.
 
 Jeżeli usunięcie bariery nie jest możliwe w odpowiednim czasie, organizacja zapewnia użytkownikowi pomoc umożliwiającą uzyskanie informacji lub załatwienie sprawy inną dostępną drogą.
 
-### 6. Kompetencje osób realizujących wsparcie
+---
+
+### 3.6. Kompetencje osób realizujących wsparcie
 
 Osoby realizujące specjalistyczne wsparcie powinny posiadać kompetencje adekwatne do zakresu realizowanych zadań, obejmujące w szczególności:
 
@@ -79,7 +92,9 @@ Osoby realizujące specjalistyczne wsparcie powinny posiadać kompetencje adekwa
 - umiejętność współpracy z komórkami odpowiedzialnymi za usługi cyfrowe,
 - znajomość zasad ochrony danych osobowych i bezpieczeństwa informacji.
 
-### 7. Doskonalenie usług cyfrowych
+---
+
+### 3.7. Doskonalenie usług cyfrowych
 
 Organizacja dokumentuje przypadki wymagające specjalistycznego wsparcia oraz analizuje ich przyczyny.
 
@@ -90,3 +105,5 @@ Wyniki analiz są wykorzystywane do:
 - doskonalenia usług cyfrowych,
 - doskonalenia procedur organizacyjnych,
 - ograniczania potrzeby udzielania wsparcia w przyszłości.
+
+---

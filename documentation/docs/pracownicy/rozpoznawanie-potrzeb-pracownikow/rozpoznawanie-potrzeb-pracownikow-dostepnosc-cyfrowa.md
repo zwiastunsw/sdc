@@ -26,6 +26,7 @@ Organizacja wdraża system rozpoznawania, analizy i uwzględniania potrzeb praco
 Organizacja wyznacza właściciela procesu oraz określa role i odpowiedzialność komórek uczestniczących w przyjmowaniu zgłoszeń, analizie potrzeb, podejmowaniu decyzji, wdrażaniu rozwiązań, finansowaniu działań i ocenie ich skuteczności.
 
 Informacja o sposobie zgłaszania potrzeb, osobach odpowiedzialnych, terminach i zasadach rozpatrywania zgłoszeń jest dostępna dla wszystkich pracowników i współpracowników.
+
 ---
 
 ## 3. Rekomendacje
@@ -40,6 +41,7 @@ Organizacja zapewnia stałe mechanizmy pozyskiwania informacji o doświadczeniac
 
 Pozyskiwanie informacji ma charakter ciągły i nie ogranicza się do jednorazowych działań.
 Informacje o potrzebach są pozyskiwane co najmniej:
+
 - przed rozpoczęciem współpracy w zakresie niezbędnym do przygotowania dostępnego stanowiska pracy;
 podczas onboardingu;
 - w każdym czasie na wniosek pracownika lub współpracownika;
@@ -50,14 +52,17 @@ podczas onboardingu;
 - na podstawie analizy zgłoszeń do helpdesku, skarg, incydentów i problemów powtarzających się.
 
 Zgłoszenie potrzeby nie wymaga posiadania orzeczenia o niepełnosprawności, jeżeli charakter rozwiązania i obowiązujące przepisy nie uzasadniają konieczności jego przedstawienia.
+
 ---
 
 ### 3.2. Zapewnienie dostępności i bezpieczeństwa mechanizmów zgłaszania
 
 Organizacja:
+
 - zapewnia dostępność narzędzi służących do zgłaszania potrzeb i problemów,
 - umożliwia anonimowe lub poufne zgłaszanie,
 - tworzy warunki sprzyjające ujawnianiu potrzeb bez obawy o negatywne konsekwencje.
+
 Organizacja zapewnia co najmniej dwa dostępne kanały zgłaszania potrzeb, w tym kanał niewymagający korzystania z narzędzia, którego dotyczy bariera. Zgłoszenie może zostać przekazane za pomocą dostępnego formularza, poczty elektronicznej, telefonicznie, osobiście albo przy wsparciu wskazanej osoby.
 
 Organizacja wyjaśnia różnicę między zgłoszeniem anonimowym a poufnym oraz informuje, jaki zakres informacji jest niezbędny do rozpatrzenia sprawy.
@@ -75,7 +80,9 @@ Organizacja analizuje pozyskane informacje w celu:
 - określenia wpływu barier na wykonywanie pracy.
 
 Analiza obejmuje zarówno aspekty techniczne, jak i organizacyjne.
+
 Analiza potrzeby i wybór rozwiązania odbywają się przy udziale osoby, której dotyczy zgłoszenie. Organizacja nie zakłada, że określony rodzaj niepełnosprawności automatycznie oznacza potrzebę zastosowania konkretnego rozwiązania.
+
 ---
 
 ### 3.4. Powiązanie z działaniami organizacyjnymi
@@ -85,6 +92,7 @@ Organizacja wykorzystuje wyniki analizy do:
 - dostosowywania narzędzi i systemów,
 - organizacji pracy i procesów,
 - planowania działań rozwojowych i wsparcia dla pracowników.
+
 Procedura postępowania obejmuje:
 
 1. potwierdzenie przyjęcia zgłoszenia;
@@ -97,11 +105,13 @@ Procedura postępowania obejmuje:
 8. wdrożenie i przetestowanie rozwiązania;
 9. potwierdzenie przez pracownika, czy rozwiązanie jest skuteczne;
 10. zamknięcie sprawy albo skierowanie jej do ponownej analizy.
+
 Potrzeby pracowników stanowią jedno z kluczowych źródeł informacji w procesie zarządzania dostępnością cyfrową.
-### Terminy
+
+### 3.5. Terminy
 Organizacja określa w procedurze terminy potwierdzenia zgłoszenia, rozpoczęcia analizy, przekazania decyzji i wdrożenia rozwiązania. Termin jest dostosowany do wpływu bariery na wykonywanie obowiązków. Jeżeli termin docelowej naprawy nie może zostać dotrzymany, osoba zgłaszająca otrzymuje informację o przyczynach, nowym terminie oraz rozwiązaniu tymczasowym.
 
-### Rozwiązanie tymczasowe
+### 3.6. Rozwiązanie tymczasowe
 Jeżeli nie jest możliwe niezwłoczne usunięcie bariery, organizacja zapewnia rozwiązanie tymczasowe, które umożliwia wykonanie zadania w możliwie samodzielny, bezpieczny i równoważny sposób. Rozwiązanie tymczasowe nie może bez uzasadnienia:
 
 obniżać zakresu odpowiedzialności lub możliwości rozwoju pracownika;
@@ -112,11 +122,11 @@ zastępować bezterminowo usunięcia bariery.
 
 Dla rozwiązania tymczasowego określa się termin przeglądu i plan wdrożenia rozwiązania docelowego.
 
-### Odmowa zapewnienia dostępności
+### 3.7. Odmowa zapewnienia dostępności
 Odmowa zastosowania zgłoszonego rozwiązania wymaga pisemnego uzasadnienia, wskazania kryteriów, na podstawie których podjęto decyzję, oraz przedstawienia rozwiązania alternatywnego. Pracownik otrzymuje informację o możliwości ponownego rozpatrzenia sprawy lub jej eskalacji do wskazanej osoby albo jednostki organizacyjnej.
 ---
 
-### 3.5. Integracja z procesami zarządzania personelem
+### 3.8. Integracja z procesami zarządzania personelem
 
 Rozpoznawanie i uwzględnianie potrzeb pracowników jest powiązane z:
 - procesem wdrażania nowych pracowników (onboarding),
@@ -126,7 +136,7 @@ Rozpoznawanie i uwzględnianie potrzeb pracowników jest powiązane z:
 
 ---
 
-### 3.6. Informowanie o działaniach i budowanie zaufania
+### 3.9. Informowanie o działaniach i budowanie zaufania
 
 Organizacja:
 - informuje pracowników o wynikach analiz,
@@ -137,7 +147,7 @@ Wyniki analiz zbiorczych i informacje o działaniach są przekazywane w sposób 
 Osoba zgłaszająca otrzymuje indywidualną informację o przebiegu i wyniku swojej sprawy. Pozostali pracownicy otrzymują okresową informację o najważniejszych zidentyfikowanych barierach, działaniach systemowych i osiągniętych rezultatach.
 ---
 
-### 3.7. Monitorowanie i doskonalenie
+### 3.10. Monitorowanie i doskonalenie
 
 Organizacja:
 - monitoruje skuteczność podejmowanych działań,
@@ -159,10 +169,13 @@ Monitorowanie obejmuje co najmniej:
 
 Mierniki interpretuje się łącznie. Mała liczba zgłoszeń nie stanowi samodzielnie dowodu wysokiego poziomu dostępności.
 
-### Termin przeglądu
+#### Termin przeglądu
+
 Właściciel procesu przygotowuje co najmniej raz w roku zbiorczą ocenę jego skuteczności oraz plan działań doskonalących.
+
 Rozpoznawanie potrzeb pracowników jest elementem ciągłego doskonalenia organizacji.
-###3.8. Role i odpowiedzialność
+
+### 3.11. Role i odpowiedzialność
 
 Organizacja określa co najmniej:
 
@@ -178,11 +191,14 @@ Organizacja określa co najmniej:
 
 Każde zgłoszenie ma przypisaną osobę odpowiedzialną za jego prowadzenie.
 
-## 3.9. Udział osób z niepełnosprawnościami
+---
+
+## 3.12. Udział osób z niepełnosprawnościami
 
 Osoby z niepełnosprawnościami oraz osoby korzystające z technologii asystujących uczestniczą – za ich zgodą i na równych zasadach – w projektowaniu mechanizmów zgłaszania, ustalaniu priorytetów, testowaniu rozwiązań i ocenie skuteczności działań.
 
 Udział pracownika w konsultacjach nie może być traktowany jako bezpłatne zastępowanie specjalistycznych audytów ani powodować dodatkowego, nieuzasadnionego obciążenia pracą.
+
 ---
 
 ## 4. Uzasadnienie
@@ -192,6 +208,7 @@ Dostępność cyfrowa w środowisku pracy nie jest wyłącznie rezultatem zgodno
 Doświadczenia pracowników, w tym osób z niepełnosprawnościami, stanowią unikalne i niezbędne źródło wiedzy o funkcjonowaniu organizacji w praktyce. Bez ich systemowego uwzględnienia organizacja nie jest w stanie w pełni rozpoznać barier ani skutecznie na nie reagować.
 
 Brak mechanizmów rozpoznawania potrzeb prowadzi do:
+
 - utrzymywania się barier w środowisku pracy,
 - obniżenia efektywności pracowników,
 - wykluczenia części osób z pełnego uczestnictwa w pracy.
@@ -200,9 +217,11 @@ Systemowe podejście do rozpoznawania i uwzględniania potrzeb pracowników pozw
 - budować środowisko pracy sprzyjające włączeniu,
 - zwiększać skuteczność organizacji,
 - wykorzystywać doświadczenia pracowników jako źródło doskonalenia procesów i narzędzi.
+
 Bariery cyfrowe mogą prowadzić nie tylko do obniżenia efektywności, ale również do uzależnienia pracownika od pomocy innych osób, naruszenia poufności przetwarzanych informacji, zwiększenia obciążenia pracą, podwyższenia ryzyka błędu oraz nierównego dostępu do szkoleń, awansu i rozwoju zawodowego.
 
 Koszt bariery może pozostawać niewidoczny dla organizacji, ponieważ bywa przenoszony na pracownika, jego współpracowników albo przełożonych. Dlatego brak formalnego zgłoszenia nie powinien być automatycznie interpretowany jako brak problemów.
+
 ---
 
 ## 5. Podstawy prawne
@@ -211,12 +230,5 @@ Koszt bariery może pozostawać niewidoczny dla organizacji, ponieważ bywa prze
 - Ustawa z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami  
 - PN-EN 301 549 – Wymagania dostępności dla produktów i usług ICT  
 - WCAG 2.1 (AA)
-
----
-
-## 6. Źródła
-
-- W3C Accessibility Maturity Model (W3C AMM)  
-
 
 ---
