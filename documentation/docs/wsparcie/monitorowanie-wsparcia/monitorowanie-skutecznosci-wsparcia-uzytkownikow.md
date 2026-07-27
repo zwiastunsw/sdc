@@ -12,19 +12,21 @@ ostatnia_aktualizacja: 20 czerwca 2026 r.
 wersja_robocza: true
 ---
 
-# Monitorowanie skuteczności wsparcia użytkowników
-
-## Cel zalecenia
+## 1. Cel zalecenia
 
 Celem zalecenia jest zapewnienie organizacji informacji umożliwiających ocenę skuteczności działań wspierających użytkowników oraz identyfikowanie obszarów wymagających doskonalenia.
 
-## Zalecenie
+---
+
+## 2. Zalecenie
 
 Organizacja monitoruje funkcjonowanie procesów wsparcia użytkowników oraz wykorzystuje wyniki monitorowania do doskonalenia sposobów udzielania pomocy, usuwania barier i rozwijania usług cyfrowych.
 
-## Rekomendacje
+---
 
-### 1. Zakres monitorowania
+## 3. Rekomendacje
+
+### 3.1. Zakres monitorowania
 
 Monitorowanie powinno obejmować w szczególności:
 
@@ -35,7 +37,9 @@ Monitorowanie powinno obejmować w szczególności:
 - korzystanie z technologii wspomagających,
 - działania informacyjne dotyczące dostępności.
 
-### 2. Źródła informacji
+---
+
+### 3.2. Źródła informacji
 
 Organizacja wykorzystuje różnorodne źródła informacji dotyczące skuteczności wsparcia, w szczególności:
 
@@ -47,7 +51,9 @@ Organizacja wykorzystuje różnorodne źródła informacji dotyczące skuteczno�
 - informacje przekazywane przez organizacje społeczne,
 - dane pochodzące z systemów obsługi zgłoszeń.
 
-### 3. Przykładowe obszary oceny
+---
+
+### 3.3. Przykładowe obszary oceny
 
 Organizacja może analizować między innymi:
 
@@ -61,7 +67,9 @@ Organizacja może analizować między innymi:
 
 Wybór wskaźników powinien być dostosowany do charakteru działalności organizacji.
 
-### 4. Identyfikowanie problemów systemowych
+---
+
+### 3.4. Identyfikowanie problemów systemowych
 
 Organizacja analizuje zgromadzone informacje w celu identyfikowania:
 
@@ -72,7 +80,9 @@ Organizacja analizuje zgromadzone informacje w celu identyfikowania:
 
 Powtarzające się zgłoszenia dotyczące tego samego problemu powinny być traktowane jako sygnał wymagający działań systemowych.
 
-### 5. Wykorzystywanie wyników monitorowania
+---
+
+### 3.5. Wykorzystywanie wyników monitorowania
 
 Wyniki monitorowania są wykorzystywane podczas:
 
@@ -83,7 +93,9 @@ Wyniki monitorowania są wykorzystywane podczas:
 - planowania działań związanych z dostępnością cyfrową,
 - oceny skuteczności wcześniej wdrożonych rozwiązań.
 
-### 6. Raportowanie i przeglądy
+---
+
+### 3.6. Raportowanie i przeglądy
 
 Organizacja okresowo dokonuje przeglądu informacji dotyczących skuteczności wsparcia użytkowników.
 
@@ -94,7 +106,9 @@ Przeglądy mogą być realizowane:
 - podczas oceny realizacji planów działań,
 - podczas aktualizacji polityki dostępności.
 
-### 7. Powiązanie z innymi procesami
+---
+
+### 3.7. Powiązanie z innymi procesami
 
 Monitorowanie skuteczności wsparcia powinno być powiązane z:
 
@@ -104,15 +118,21 @@ Monitorowanie skuteczności wsparcia powinno być powiązane z:
 - zarządzaniem problemami dostępności,
 - planowaniem działań doskonalących.
 
-## Podstawa prawna
+---
 
-- Ustawa z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami.
-- Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych.
-
-## Uzasadnienie
+## 4.Uzasadnienie
 
 Zapewnienie użytkownikom wsparcia nie gwarantuje jeszcze, że pomoc jest skuteczna, dostępna w odpowiednim czasie oraz odpowiada rzeczywistym potrzebom użytkowników.
 
 Monitorowanie skuteczności działań wspierających pozwala organizacji oceniać funkcjonowanie przyjętych rozwiązań, identyfikować bariery utrudniające korzystanie z usług oraz podejmować działania prowadzące do ciągłego doskonalenia organizacji.
 
 Wyniki monitorowania stanowią ważne źródło informacji o doświadczeniach użytkowników i mogą być wykorzystywane zarówno do poprawy jakości wsparcia, jak i do ograniczania liczby problemów wymagających interwencji w przyszłości.
+
+---
+
+## 5. Podstawa prawna
+
+- Ustawa z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami.
+- Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych.
+
+---
