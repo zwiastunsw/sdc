@@ -56,19 +56,6 @@ Jeżeli posiadana wiedza jest niewystarczająca lub wymaga aktualizacji, uzupeł
 
 ---
 
-<!--
-### Wykorzystanie wiedzy o stanie dostępności i zgodności
-
-Podstawą przeglądu deklaracji jest aktualna i udokumentowana wiedza o stanie dostępności i zgodności rozwiązania, utrzymywana zgodnie z zasadami obserwowania i oceniania tego stanu.
-
-Organizacja wykorzystuje istniejącą wiedzę, w szczególności informacje utrzymywane w rejestrze stanu dostępności i zgodności, oraz ustala, czy jest ona aktualna i wystarczająca do zweryfikowania deklaracji.
-
-Jeżeli organizacja rozpoczyna systematyczne rozpoznawanie stanu rozwiązania, przeprowadza ocenę planową co najmniej w profilu wstępnym albo wykorzystuje odpowiednią wiedzę otrzymaną wraz z rozwiązaniem. W kolejnych okresach planowo rozszerza wiedzę, aż obejmie ona wszystkie mające zastosowanie obowiązkowe wymagania dostępności i reprezentatywny zakres rozwiązania, a następnie utrzymuje jej aktualność i może ją pogłębiać.
-
-Jeżeli wiedza jest niewystarczająca lub wymaga zweryfikowania, organizacja zapewnia przeprowadzenie potrzebnej oceny zgodnie z zasadami obserwowania i oceniania stanu dostępności i zgodności.
--->
-
-
 ### Reagowanie na zmiany rozwiązania
 
 Organizacja zapewnia uzyskiwanie informacji o zmianach strony internetowej lub aplikacji mobilnej mogących mieć wpływ na dostępność cyfrową.
@@ -152,23 +139,3 @@ Dzięki temu deklaracja dostępności może przez cały okres publikacji pozosta
 - [Zasady dokumentowania podstaw deklaracji dostępności](zasady-dokumentowania-podstaw-deklaracji-dostepnosci)
 - [Podział zadań i odpowiedzialności w procesie przeglądu i aktualizacji deklaracji](role-i-odpowiedzialnosci-w-procesie-przegladu-i-aktualizacji-deklaracji)
 
-
-<!-- Pełniejsza wersja uzasadnienia 
-
-# Uzasadnienie
-
-Deklaracja dostępności nie jest wyłącznie dokumentem potwierdzającym wykonanie obowiązku formalnego. Jest informacją publiczną o dostępności cyfrowej strony internetowej lub aplikacji mobilnej, kierowaną do użytkowników. Jej podstawową wartością jest wiarygodność: użytkownik powinien otrzymać aktualną informację o stanie dostępności, znanych problemach i sposobach ich obejścia, sposobie zgłaszania trudności oraz możliwości uzyskania wsparcia.
-
-Obowiązek przeglądu i aktualizacji deklaracji dostępności służy zapewnieniu tej wiarygodności. Art. 11 ustawy o dostępności cyfrowej zobowiązuje podmioty publiczne do dokonania przeglądu i aktualizacji deklaracji do dnia 31 marca każdego roku oraz niezwłocznie w każdym przypadku, gdy strona internetowa lub aplikacja mobilna podlega zmianom mogącym mieć wpływ na jej dostępność cyfrową. Intencją tego obowiązku nie jest samo wykonanie czynności aktualizacji dokumentu, lecz zapewnienie, aby opublikowana deklaracja pozostawała zgodna z aktualnym stanem wiedzy organizacji.
-
-W praktyce deklaracja bywa traktowana jako dokument obsługiwany okresowo, najczęściej przed terminem corocznego przeglądu. Takie podejście nie wystarcza do pełnej realizacji obowiązku ustawowego. Strona internetowa lub aplikacja mobilna może podlegać zmianom w dowolnym momencie, a każda zmiana mogąca mieć wpływ na dostępność cyfrową wymaga rozpoznania, oceny i ustalenia, czy treść deklaracji nadal pozostaje aktualna.
-
-Dlatego przegląd i aktualizacja deklaracji powinny być powiązane ze stałym obserwowaniem i ocenianiem stanu dostępności i zgodności. Organizacja powinna utrzymywać wiedzę o tym stanie co najmniej w zakresie określonym w minimalnym profilu oceny, a następnie systematycznie ją poszerzać, aktualizować i weryfikować na podstawie informacji uzyskiwanych w procesach zapewniania dostępności cyfrowej.
-
-Rejestr stanu dostępności i zgodności jest środkiem umożliwiającym dokumentowanie i przetwarzanie tej wiedzy. Nie tworzy odrębnego obowiązku prawnego ani nie zastępuje procesu obserwowania i oceniania stanu. Pozwala natomiast powiązać informacje o stanie rozwiązania, materiały dowodowe, ustalenia, decyzje i działania, a następnie wykorzystać je podczas przeglądu i aktualizacji deklaracji.
-
-Takie podejście zmienia praktykę pracy z deklaracją. Organizacja nie ustala stanu dostępności dopiero dlatego, że zbliża się termin corocznego przeglądu. Przeciwnie: przegląda i aktualizuje deklarację na podstawie aktualnej, udokumentowanej i stale rozwijanej wiedzy o stanie dostępności i zgodności strony internetowej lub aplikacji mobilnej.
-
-Dzięki temu deklaracja dostępności może przez cały okres publikacji realizować swój cel: być aktualnym i wiarygodnym źródłem informacji publicznej dla użytkowników.
-
--->
