@@ -78,7 +78,7 @@ często nie jest możliwe w czasie publikacji, określonym harmonogramem działa
 
 ## Przykładowy workflow (diagram)
 
-![Przykładowy przepływ pracy](/komunikacja/weryfikacja-tresci/weryfikacja-tresci.svg)
+![Przykładowy przepływ pracy](/komunikacja/dobre-praktyki/weryfikacja-tresci/weryfikacja-tresci.svg)
 
 
 ---
