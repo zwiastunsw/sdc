@@ -4,8 +4,8 @@ title: Przegląd i aktualizacja deklaracji dostępności cyfrowej
 sidebar_label: Zalecenie
 sidebar_position: 0
 description: Organizacja utrzymuje wiarygodność deklaracji dostępności przez jej przegląd i aktualizację na podstawie aktualnej i udokumentowanej wiedzy o stanie dostępności i zgodności strony internetowej lub aplikacji mobilnej.
-keywords: [cykl życia TIK, dostępność cyfrowa, deklaracja dostępności, przegląd deklaracji, aktualizacja deklaracji]
-tags: [cykl życia TIK, dostępność cyfrowa, deklaracja dostępności, przegląd deklaracji, aktualizacja deklaracji]
+keywords: [cykl życia TIK,dostępność cyfrowa,deklaracja dostępności,przegląd deklaracji,aktualizacja deklaracji]
+tags: [cykl życia TIK,dostępność cyfrowa,deklaracja dostępności,przegląd deklaracji,aktualizacja deklaracji]
 opracowanie: Stefan Wajda
 wspolpraca: Tomasz Szymczak, Damian Żłobicki
 data_zgloszenia: 4 listopada 2025 r.
