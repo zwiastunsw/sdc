@@ -21,18 +21,18 @@ Nagłówki nadają treściom strukturę, tytułują i wskazują części dokumen
 
 Nagłówki zaczynają się od poziomu 1 i schodzą do poziomu 6. Każdy nagłówek podrzędny jest podtematem poprzedniego nagłówka nadrzędnego. Poziom 2 nagłówka oznacza podtemat części oznaczonej nagłówkiem poziomu 1. Poziom 3 nagłówka tytułuje podtemat części oznaczonej nagłówkiem poziomu 2. I tak dalej.
 
-![Poziomy nagłówków](../img/naglowki-poziomy.svg)
+![Poziomy nagłówków](../../img/naglowki-poziomy.svg)
 
 Poziomy nagłówków wskazują hierarchię treści. Hierarchia ta pozwala użytkownikom zrozumieć zarys i strukturę treści.
 
-![Nagłówki na stronie internetowej](../img/naglowki-strona.svg)
+![Nagłówki na stronie internetowej](../../img/naglowki-strona.svg)
 
 
 Na stronie internetowej Nagłówek 1 tytułuje treść główną i jest zwykle taki sam jak tytuł strony. Dwa nagłówki poziomu 2 rozpoczynają podtematy nagłówka poziomu 1. Trzy nagłówki poziomu 3 rozpoczynają podtematy poprzedzających je nagłówków poziomu 2. Jeden nagłówek poziomu 4 rozpoczyna podtemat poprzedniego nagłówka 3.
 
 Ponadto, na stronach internetowych Nagłówki poziomu 2 stosowane są do oznaczenia pobocznych części strony.
 
-![Nagłówki w dokumencie](../img/naglowki-dokument.svg]
+![Nagłówki w dokumencie](../../img/naglowki-dokument.svg]
 
 W dokumentach jest nieco inaczej. Nagłówki tytułują części dokumentu. Na ilustracji dwa nagłówki poziomu 1 tytułują główne części dokumentu, na przykład rozdziały. Cztery nagłówki poziomu 2 rozpoczynają podtematy (podrozdziały) w częściach oznaczonych nagłówkami poziomu 1. Cztery nagłówki poziomu 3 rozpoczynają podtematy w podrozdziałach oznaczonych poprzedzającymi je nagłówkami poziomu 2. Jeden nagłówek poziomu 4 rozpoczyna podtemat w części oznaczonej poprzedzającym go nagłówkiem poziomu 3.
 
@@ -235,7 +235,7 @@ Do przekazywania informacji należy używać zwykłego tekstu, a nie obrazów pr
 
 Jeśli konieczny jest obraz z tekstem, cały tekst będący częścią obrazu musi zostać powielony jako tekst alternatywny, za pomocą [narzędzi formatowania aplikacji](https://slownik.sdc.#narzedzia_formatowania_w_aplikacjach) lub poprzez umieszczenie widocznego tekstu obok obrazu na stronie.
 
-![Znak z logo Washington State University z napisem „Zarezerwowane miejsce parkingowe tylko dla kobiet z pumami”](../img/reserved-parking.jpg)
+![Znak z logo Washington State University z napisem „Zarezerwowane miejsce parkingowe tylko dla kobiet z pumami”](../../img/reserved-parking.jpg)
 
 **Przykład:** Tekst alternatywny dla obrazka powyżej mógłby brzmieć: „Znak z logo Washington State University z napisem „Reserved parking cougars only” (miejsce parkingowe zarezerwowane tylko dla kobiet w wieku dojrzałym).
 
@@ -244,7 +244,7 @@ Jeśli konieczny jest obraz z tekstem, cały tekst będący częścią obrazu mu
 Obrazy dekoracyjne to takie, które nie przekazują istotnych treści, służą jedynie do celów układu lub estetyki albo nie pełnią żadnej funkcji (np. nie są łączami). Obrazy dekoracyjne muszą być implementowane w sposób umożliwiający ich zignorowanie przez technologie wspomagające. Poprawi to komfort korzystania z nich osobom korzystającym z technologii wspomagających.
 
 **Przykład**: Separator utworzony przy użyciu wielu obrazów kropek.  
-![kropka](../img/kropka.svg) ![kropka](../img/kropka.svg) ![kropka](../img/kropka.svg) ![kropka](../img/kropka.svg) ![kropka](../img/kropka.svg) ![kropka](../img/kropka.svg) ![kropka](../img/kropka.svg) ![kropka](../img/kropka.svg) ![kropka](../img/kropka.svg)
+![kropka](../../img/kropka.svg) ![kropka](../../img/kropka.svg) ![kropka](../../img/kropka.svg) ![kropka](../../img/kropka.svg) ![kropka](../../img/kropka.svg) ![kropka](../../img/kropka.svg) ![kropka](../../img/kropka.svg) ![kropka](../../img/kropka.svg) ![kropka](../../img/kropka.svg)
 
 Gdyby każdy z obrazów zawierał słowo „kropka” jako tekst alternatywny, technologia wspomagająca uznałaby je za ważne i napisała: „Grafika kropka. Grafika kropka. Grafika kropka. Grafika kropka. Grafika kropka. Grafika kropka. Grafika kropka”. To prowadzi do kiepskiego doświadczenia.
 
@@ -358,7 +358,7 @@ Stosuj się do tych najlepszych praktyk, aby zwiększyć dostępność i użytec
             Nazwisko: \_**\_**\_**\_**\____    Brakuje nazwiska
     - Połącz kolorowy tekst z symbolem/ikoną (np. Wymagane\* , $ - Pieniądze).
     - W przypadku wykresów, diagramów i tabel połącz pola kolorów z tekstem i wartościami danych.  
-            ![Kolorowy wykres kołowy przedstawiający kolor niebieski przy 64%, czerwony przy 25% i pomarańczowy przy 11%.](../img/kolorowy-wykres.png)
+            ![Kolorowy wykres kołowy przedstawiający kolor niebieski przy 64%, czerwony przy 25% i pomarańczowy przy 11%.](../../img/kolorowy-wykres.png)
 
 ### Sprawdzanie dostępności
 
@@ -412,7 +412,7 @@ Odradza się korzystanie z tabel układu. Tabele układu nie służą do porówn
 
 #### Przykładowa tabela układu
 
-| ![Batman](../img/Batman.jpg)<br/><br/>Batman | ![Superman](../img/Superman.jpg)<br/><br/>Superman | ![Wonder Woman](../img/wonder-women.jpg)<br/><br/>Wonder Woman |
+| ![Batman](../../img/Batman.jpg)<br/><br/>Batman | ![Superman](../../img/Superman.jpg)<br/><br/>Superman | ![Wonder Woman](../../img/wonder-women.jpg)<br/><br/>Wonder Woman |
 | --- | --- | --- |
 | 10:00 | 8:00 rano | 9:00 rano |
 | 10 sposobów na wykorzystanie ciemności na swoją korzyść | Okulary: Najlepszy design | Poligraf 101: Łapanie prawdy na lasso |
@@ -470,7 +470,7 @@ Treści audio wymagają transkrypcji. Filmy z dźwiękiem (nagrane wcześniej i 
   - Łącze do przykładowego zapisu podcastu: [Trudny rok dla pszenicy jarej z podcastem dr. Mike’a Pumphreya (przewiń w dół, aby uzyskać dostęp do zapisu)](https://smallgrains.wsu.edu/wsu-wheat-beat-episode-119/)
 - **Napisy rozszerzone:** Zsynchronizowane, dosłowne i i czasowe wyświetlanie tekstu z mówioną treścią dźwiękową filmu. Wersje tekstowe dźwięków innych niż mowa (np. dźwięk alarmu) są również opatrzone napisami, jeśli przekazują istotne informacje.  
     <br/>_Przykład_: napisy wyświetlane na filmie.  
-    ![Zrzut ekranu odtwarzacza wideo z wyświetlonymi napisami](../img/zrzut-ekranu.png)
+    ![Zrzut ekranu odtwarzacza wideo z wyświetlonymi napisami](../../img/zrzut-ekranu.png)
 - **Audiodeskrypcja:** Mówiona ścieżka dźwiękowa/narracja, która opisuje wizualnie to, co dzieje się pomiędzy dialogami w nagranym wcześniej filmie. Jest to alternatywny opis, który pomaga osobom, które nie widzą treści wizualnej.  
     <br/>_Przykłady_:
   - [**W3C WAI** : Perspektywy dostępności sieci Web: Napisy do filmów – wersja z audiodeskrypcją](https://www.youtube.com/watch?v=4qIordU8vT8)

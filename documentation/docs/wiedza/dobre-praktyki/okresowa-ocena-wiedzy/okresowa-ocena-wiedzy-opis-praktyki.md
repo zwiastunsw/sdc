@@ -49,6 +49,6 @@ Pracownik może powtarzać testy dopóty, aż uzyska pozytywny wynik. Odpowiadaj
 
 ## Dokumentacja dobrej praktyki (załączniki)
 
-1. [Baza pytań](okresowa-ocena-wiedzy-baza-pytan.md)
-2. [Przykłady materiałów informacyjnych](okresowa-ocena-wiedzy-materialy.md)
+1. [Baza pytań](okresowa-ocena-wiedzy-baza-pytan)
+2. [Przykłady materiałów informacyjnych](okresowa-ocena-wiedzy-materialy)
 
