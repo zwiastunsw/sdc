@@ -70,17 +70,19 @@ Do ocen doraźnych nie stosuje się wymagań dotyczących profili ocen planowych
 
 ## 2. Zakres oceny
 
-Zakres oceny określa, czego organizacja zamierza się dowiedzieć oraz jakie części rozwiązania i wymagania zostaną objęte badaniem.
+Zakres oceny określa, czego organizacja zamierza się dowiedzieć oraz jakie wymagania, części rozwiązania i warunki korzystania zostaną objęte badaniem.
 
-Nie wyznacza go wyłącznie liczba wykonanych testów.
+Nie wyznacza go wyłącznie liczba wykonanych testów ani liczba ocenianych obiektów.
 
-Zakres oceny obejmuje trzy podstawowe wymiary:
+Zakres oceny obejmuje pięć podstawowych wymiarów:
 
 1. **zakres wymagań**;
 2. **zakres funkcjonalny**;
-3. **zakres badanej próby**.
+3. **zakres strukturalny**;
+4. **zakres użytkowy**;
+5. **zakres środowisk użytkowania**.
 
-Wymiary te należy rozpatrywać łącznie. Ocena może obejmować szeroki zestaw wymagań, ale bardzo wąską próbę obiektów. Może również szczegółowo obejmować określony proces użytkownika, ale tylko wymagania związane z tym procesem.
+Wymiary te należy rozpatrywać łącznie. Ocena może obejmować szeroki zestaw wymagań, ale bardzo wąską próbę obiektów. Może również szczegółowo obejmować określony proces użytkownika, ale tylko w jednym środowisku użytkowania. Z kolei ocena dużej liczby stron nie musi obejmować najczęściej wykorzystywanych funkcji ani najważniejszych procesów użytkownika.
 
 ### 2.1. Zakres wymagań
 
@@ -115,7 +117,7 @@ Zakres funkcjonalny powinien uwzględniać znaczenie poszczególnych funkcji i p
 
 Ocena pojedynczych stron lub ekranów nie zastępuje oceny procesu użytkownika, jeżeli dostępność rozwiązania zależy od możliwości wykonania całego zadania.
 
-### 2.3. Zakres badanej próby
+### 2.3. Zakres strukturalny
 
 Zakres badanej próby określa, jakie konkretne obiekty są bezpośrednio oceniane.
 
@@ -133,6 +135,38 @@ Próba może obejmować w szczególności:
 Przy doborze próby należy uwzględniać nie tylko liczbę obiektów, ale również ich zróżnicowanie i reprezentatywność.
 
 Ocena wielu podobnych obiektów wykorzystujących ten sam szablon może dostarczyć mniej nowej wiedzy niż ocena mniejszej liczby różniących się funkcji, komponentów, procesów lub rodzajów treści.
+
+### 2.4. Zakres użytkowy
+
+Zakres użytkowy określa, w jakim stopniu ocena obejmuje części rozwiązania rzeczywiście wykorzystywane przez użytkowników.
+
+Może uwzględniać w szczególności:
+
+- najczęściej odwiedzane strony lub ekrany;
+- najczęściej wykonywane procesy użytkownika;
+- usługi o największym znaczeniu dla użytkowników;
+- obiekty, których dotyczą zgłoszenia użytkowników;
+- obszary o podwyższonym ryzyku występowania problemów;
+- nowe lub istotnie zmienione funkcje rozwiązania.
+
+Uwzględnienie zakresu użytkowego pozwala skoncentrować ocenę na tych częściach rozwiązania, których dostępność ma największe znaczenie dla rzeczywistych użytkowników.
+
+### 2.5. Zakres środowisk użytkowania
+
+Zakres środowisk użytkowania określa, w jakich warunkach oceniana jest dostępność rozwiązania.
+
+Może obejmować w szczególności:
+
+- różne systemy operacyjne;
+- różne przeglądarki internetowe;
+- urządzenia mobilne i komputery;
+- różne wielkości ekranów i układy responsywne;
+- technologie wspomagające;
+- inne środowiska mające znaczenie dla korzystania z rozwiązania.
+
+Dobór środowisk użytkowania powinien uwzględniać charakter rozwiązania, sposób korzystania z niego oraz środowiska istotne dla jego użytkowników.
+
+Ocena wykonana wyłącznie w jednym środowisku nie powinna być automatycznie uogólniana na wszystkie środowiska użytkowania.
 
 ## 3. Funkcja profili ocen planowych
 

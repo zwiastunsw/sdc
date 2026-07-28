@@ -237,25 +237,11 @@ Przed rozpoczęciem automatycznej analizy organizacja powinna ustalić:
 
 Przy interpretowaniu zakresu automatycznej analizy należy uwzględniać różne rodzaje pokrycia rozwiązania.
 
-## 6.1. Pokrycie strukturalne
-
-Określa, jakie strony, ekrany, dokumenty, komponenty i inne obiekty zostały objęte analizą.
-
-## 6.2. Pokrycie funkcjonalne
-
-Określa, jakie funkcje, procesy użytkownika i stany interfejsu zostały osiągnięte podczas analizy.
-
-## 6.3. Pokrycie użytkowe
-
-Określa, jakie rzeczywiście wykorzystywane części rozwiązania zostały objęte obserwacją.
-
-## 6.4. Pokrycie środowisk użytkowania
-
-Określa, w jakich urządzeniach, systemach, przeglądarkach, konfiguracjach i innych środowiskach wykonano analizy.
-
-## 6.5. Pokrycie wymagań
-
-Określa, jakie wymagania dostępności mogą być sprawdzane za pomocą zastosowanych reguł automatycznych.
+- **Pokrycie strukturalne**: określa, jakie strony, ekrany, dokumenty, komponenty i inne obiekty zostały objęte analizą.
+- **Pokrycie funkcjonalne**: określa, jakie funkcje, procesy użytkownika i stany interfejsu zostały osiągnięte podczas analizy.
+- **Pokrycie użytkowe**: określa, jakie rzeczywiście wykorzystywane części rozwiązania zostały objęte obserwacją.
+- **Pokrycie środowisk użytkowania**: określa, w jakich urządzeniach, systemach, przeglądarkach, konfiguracjach i innych środowiskach wykonano analizy.
+- **Pokrycie wymagań**: określa, jakie wymagania dostępności mogą być sprawdzane za pomocą zastosowanych reguł automatycznych.
 
 Duży zakres automatycznego skanowania nie oznacza dużego zakresu oceny zgodności.
 
