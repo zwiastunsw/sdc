@@ -4,23 +4,14 @@ title: Zestaw materiałów
 sidebar-position: 2
 sidebar-label: Zestaw materiałów 
 description: Przykładowe materiały o podstawach dostępności cyfrowej
-keywords: [
-        dobra praktyka,
-		ocena wiedzy,
-		wiedza,
-		pracownicy
-]
-tags: [
-        dobra praktyka,
-		ocena wiedzy,
-		wiedza,
-		pracownicy
-]
+keywords: [dobra praktyka,ocena wiedzy,wiedza,pracownicy]
+tags: [dobra praktyka,ocena wiedzy,wiedza,pracownicy]
 opracowanie: Stefan Wajda 
-data-zgloszenia: 12 czerwca 2025 r.
-data-aktualizacji:  20 września 2025 r.
+data_zgloszenia: 12 czerwca 2025
+ostatnia_aktualizacja:  20 września 2025
 wersja_robocza: true
 ---
+
 
 ## Nagłówki
 

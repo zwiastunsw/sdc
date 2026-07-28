@@ -4,21 +4,11 @@ title: Opis praktyki
 sidebar_position: 0
 sidebar_label: Opis praktyki 
 description: Ocena stanu i aktualizacja podstawowej wiedzy pracowników o dostępności cyfrowej
-keywords: [
-        dobra praktyka,
-		ocena wiedzy,
-		wiedza,
-		pracownicy
-]
-tags: [
-        dobra praktyka,
-		ocena wiedzy,
-		wiedza,
-		pracownicy
-]
+keywords: [dobra praktyka,ocena wiedzy,wiedza,pracownicy]
+tags: [dobra praktyka,ocena wiedzy,wiedza,pracownicy]
 opracowanie: Stefan Wajda 
-data-zgloszenia: 12 czerwca 2025
-data-aktualizacji:  20 września 2025
+data_zgloszenia: 12 czerwca 2025
+ostatnia_aktualizacja:  20 września 2025
 wersja_robocza: true
 ---
 

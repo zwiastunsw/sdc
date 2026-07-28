@@ -4,25 +4,13 @@ title: Baza pytań
 sidebar_position: 1
 sidebar_label: Baza pytań 
 description: Baza pytań do okresowej oceny wiedzy i umiejętności pracowników
-keywords: [
-        dobra praktyka,
-		ocena wiedzy,
-		wiedza,
-		pracownicy
-]
-tags: [
-        dobra praktyka,
-		ocena wiedzy,
-		wiedza,
-		pracownicy
-]
+keywords: [dobra praktyka,ocena wiedzy,wiedza,pracownicy]
+tags: [dobra praktyka,ocena wiedzy,wiedza,pracownicy]
 opracowanie: Stefan Wajda 
-data-zgloszenia: 12 czerwca 2025 r.
-data-aktualizacji:  20 września 2025 r.
+data_zgloszenia: 12 czerwca 2025
+ostatnia_aktualizacja:  20 września 2025
 wersja_robocza: true
 ---
-
-# Baza pytań
 
 ## Czym jest dostępność cyfrowa?
 
