@@ -9,6 +9,7 @@ data_zgloszenia: 6 października 2025 r.
 ostatnia_aktualizacja: 6 października 2025 r
 opracowanie: Dawid Górny
 wersja_robocza: true
+draft: true
 ---
 
 

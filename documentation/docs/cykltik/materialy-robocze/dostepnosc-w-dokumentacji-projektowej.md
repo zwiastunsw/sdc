@@ -7,8 +7,8 @@ keywords: [WCAG 2.1 AA, dostepnosc cyfrowa, projektowanie,dokumentacja projektow
 tags: [WCAG 2.1 AA, dostepnosc cyfrowa, projektowanie,dokumentacja projektowa,projektowanie]
 data_zgloszenia: 15 września 2025 r.
 ostatnia_aktualizacja: 26 września 2025 r.
-
 wersja_robocza: true
+draft: true
 ---
 
 ## 1. Specyfikacja projektu

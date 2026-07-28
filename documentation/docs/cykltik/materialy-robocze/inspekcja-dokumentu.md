@@ -10,6 +10,7 @@ opracowanie: Krzysztof Głaz
 data_zgloszenia: 17 września 2025 rok
 data_aktualizacji: 26 września 2025 rok
 wersja_robocza: true
+draft: true
 ---
 
 ## Cel
