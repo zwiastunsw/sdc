@@ -8,12 +8,12 @@ keywords: [narzędzia automatyczne,automatyczne testowanie,automatyczna analiza,
 tags: [narzędzia automatyczne,automatyczna analiza,monitorowanie dostępności,ocenianie dostępności,rejestr stanu dostepności i zgodności,]
 opracowanie: Stefan Wajda
 data_zgloszenia: 13 lipca 2026 r.
-ostatnia_aktualizacja: 13 lipca 2026 r.
+ostatnia_aktualizacja: 29 lipca 2026 r.
 wersja_robocza: true
 
 ---
 
-# 1. Cel dokumentu
+## 1. Cel dokumentu
 
 Dokument określa zasady wykorzystywania narzędzi automatycznych do wykrywania problemów i zmian stanu rozwiązań cyfrowych, wspierania ich oceniania oraz dostarczania informacji potrzebnych do podejmowania, realizowania i weryfikowania decyzji służących zapewnianiu i doskonaleniu dostępności.
 
@@ -32,9 +32,9 @@ Narzędzia automatyczne nie zastępują testów manualnych i funkcjonalnych, oce
 
 ---
 
-# 2. Zasady wykorzystywania narzędzi automatycznych
+##  2. Zasady wykorzystywania narzędzi automatycznych
 
-## 2.1. Ukierunkowanie na poprawę dostępności
+### 2.1. Ukierunkowanie na poprawę dostępności
 
 Automatyczne analizy wykonuje się w celu dostarczenia informacji potrzebnych do zapewniania i doskonalenia dostępności rozwiązania.
 
@@ -49,7 +49,7 @@ Wyniki powinny, na tyle, na ile pozwala zastosowana metoda, umożliwiać ustalen
 
 Raportowanie problemów, utrzymywanie informacji o stanie rozwiązania oraz prowadzenie rejestrów służą podejmowaniu i realizowaniu decyzji, a nie stanowią samodzielnego celu.
 
-## 2.2. Pierwszeństwo automatycznego sprawdzania
+### 2.2. Pierwszeństwo automatycznego sprawdzania
 
 Problemy możliwe do wiarygodnego i efektywnego wykrycia automatycznego powinny być identyfikowane za pomocą narzędzi automatycznych, zamiast angażowania pracy eksperckiej do ich ręcznego wyszukiwania.
 
@@ -64,7 +64,7 @@ Wyniki automatycznej analizy mogą służyć do:
 - określenia zakresu dalszych badań;
 - efektywnego wykorzystania pracy osób wykonujących testy manualne i funkcjonalne.
 
-## 2.3. Uzupełnianie metod oceniania
+### 2.3. Uzupełnianie metod oceniania
 
 Automatyczne analizy obejmują wyłącznie problemy możliwe do rozpoznania za pomocą zastosowanych reguł.
 
@@ -80,7 +80,7 @@ Automatycznych analiz nie stosuje się jako zamiennika:
 
 Automatyczne analizowanie oraz inne metody oceniania powinny wzajemnie się uzupełniać.
 
-## 2.4. Wykorzystywanie wyników do działania
+### 2.4. Wykorzystywanie wyników do działania
 
 Wartość automatycznej analizy zależy nie tylko od liczby i trafności wykrywanych problemów, lecz także od możliwości wykorzystania wyników do podejmowania decyzji i realizowania działań.
 
@@ -95,7 +95,7 @@ Wyniki powinny być przedstawiane i porządkowane w sposób umożliwiający ich 
 
 ---
 
-# 3. Rola automatyzacji w obserwowaniu i ocenianiu stanu dostępności
+## 3. Rola automatyzacji w obserwowaniu i ocenianiu stanu dostępności
 
 Narzędzia automatyczne są jednym ze źródeł informacji wykorzystywanych w procesie:
 
@@ -123,9 +123,9 @@ W zależności od rodzaju wyniku i zastosowanej metody potrzebne może być jego
 
 ---
 
-# 4. Sposoby wykorzystywania narzędzi automatycznych
+## 4. Sposoby wykorzystywania narzędzi automatycznych
 
-## 4.1. Automatyczne sprawdzanie
+### 4.1. Automatyczne sprawdzanie
 
 Automatyczne sprawdzanie polega na jednorazowym lub doraźnym wykonaniu analizy określonej strony, ekranu, dokumentu, komponentu lub innego obiektu.
 
@@ -137,7 +137,7 @@ Może służyć w szczególności do:
 - sprawdzenia zmienionego obiektu;
 - sprawdzenia poprawności wykonanej naprawy.
 
-## 4.2. Automatyczne skanowanie
+### 4.2. Automatyczne skanowanie
 
 Automatyczne skanowanie polega na analizowaniu większego zbioru obiektów.
 
@@ -150,7 +150,7 @@ Może służyć w szczególności do:
 - wyboru obiektów wymagających dalszej oceny;
 - rozpoznawania stanu dużych rozwiązań cyfrowych.
 
-## 4.3. Automatyczne monitorowanie
+### 4.3. Automatyczne monitorowanie
 
 Automatyczne monitorowanie polega na powtarzaniu analiz rozwiązania oraz utrzymywaniu i porównywaniu wyników w czasie.
 
@@ -168,9 +168,9 @@ Granice między automatycznym sprawdzaniem, skanowaniem i monitorowaniem nie zaw
 
 ---
 
-# 5. Sposoby automatycznego monitorowania
+## 5. Sposoby automatycznego monitorowania
 
-## 5.1. Monitorowanie przez automatyczne skanowanie
+### 5.1. Monitorowanie przez automatyczne skanowanie
 
 System monitorujący może samodzielnie odwiedzać i analizować obiekty rozwiązania cyfrowego.
 
@@ -191,7 +191,7 @@ System może nie obejmować między innymi:
 - kolejnych etapów procesów użytkownika;
 - treści dostępnych dopiero po wykonaniu określonych interakcji.
 
-## 5.2. Monitorowanie podczas rzeczywistego korzystania
+### 5.2. Monitorowanie podczas rzeczywistego korzystania
 
 Niektóre systemy wykonują automatyczne analizy podczas rzeczywistych odwiedzin i interakcji użytkowników z rozwiązaniem.
 
@@ -206,7 +206,7 @@ Ten sposób monitorowania może dostarczać informacji o problemach występując
 
 Zakres obserwacji zależy jednak od sposobu korzystania z rozwiązania. Obiekty rzadko odwiedzane lub nieodwiedzane mogą pozostać poza analizą.
 
-## 5.3. Łączenie sposobów monitorowania
+### 5.3. Łączenie sposobów monitorowania
 
 Organizacja może łączyć różne sposoby automatycznego monitorowania.
 
@@ -224,7 +224,7 @@ Oba sposoby monitorowania mogą być uzupełniane przez:
 
 ---
 
-# 6. Ustalanie zakresu automatycznych analiz
+## 6. Ustalanie zakresu automatycznych analiz
 
 Przed rozpoczęciem automatycznej analizy organizacja powinna ustalić:
 
@@ -249,33 +249,22 @@ Informacja, że narzędzie przeanalizowało wszystkie lub większość stron roz
 
 ---
 
-# 7. Interpretowanie i porządkowanie wyników
+## 7. Interpretowanie i porządkowanie wyników
 
-## 7.1. Analizowanie wyników
+### 7.1. Analizowanie wyników
 
 Wyniki automatycznych analiz powinny być interpretowane odpowiednio do sposobu działania narzędzia, rodzaju zastosowanej reguły oraz celu analizy.
 
 Organizacja powinna rozróżniać:
 
-### Problem potwierdzony
-
-Wynik dostarcza wystarczających podstaw do stwierdzenia występowania problemu.
-
-### Potencjalny problem wymagający weryfikacji
-
-Narzędzie wykryło cechę wskazującą na możliwość występowania problemu, ale jego potwierdzenie wymaga oceny człowieka.
-
-### Informację wspierającą ocenę
-
-Wynik nie przesądza o występowaniu problemu, ale dostarcza informacji przydatnej podczas wykonywania scenariusza testu lub innej analizy.
-
-### Wynik błędny lub nieprzydatny
-
-Wynik jest fałszywym alarmem, wynika z ograniczeń narzędzia albo nie ma znaczenia dla celu prowadzonej analizy.
+- **problem potwierdzony**: wynik dostarcza wystarczających podstaw do stwierdzenia występowania problemu.
+- **potencjalny problem wymagający weryfikacji**: narzędzie wykryło cechę wskazującą na możliwość występowania problemu, ale jego potwierdzenie wymaga oceny człowieka.
+- **Informację wspierającą ocenę**: wynik nie przesądza o występowaniu problemu, ale dostarcza informacji przydatnej podczas wykonywania scenariusza testu lub innej analizy.
+- **Wynik błędny lub nieprzydatny**: wynik jest fałszywym alarmem, wynika z ograniczeń narzędzia albo nie ma znaczenia dla celu prowadzonej analizy.
 
 Klasyfikacje i nazwy wyników stosowane przez konkretne narzędzia mogą różnić się od klasyfikacji przyjętej przez organizację.
 
-## 7.2. Agregowanie wyników
+### 7.2. Agregowanie wyników
 
 Organizacja nie powinna automatycznie traktować każdego komunikatu narzędzia jako odrębnej obserwacji lub niezgodności.
 
@@ -296,7 +285,7 @@ Dlatego wyniki powinny być przekształcane w informacje umożliwiające podjęc
 
 ---
 
-# 8. Wykorzystywanie wyników do oceniania i aktualizowania wiedzy
+## 8. Wykorzystywanie wyników do oceniania i aktualizowania wiedzy
 
 Wyniki automatycznych analiz mogą wspierać ocenianie stanu dostępności i zgodności.
 
@@ -335,7 +324,7 @@ Pełne raporty i zbiory wyników mogą być przechowywane jako materiały dowodo
 
 ---
 
-# 9. Wykorzystywanie wyników do podejmowania decyzji i działań
+## 9. Wykorzystywanie wyników do podejmowania decyzji i działań
 
 Wyniki automatycznych analiz powinny dostarczać podstaw do podejmowania decyzji służących zapewnianiu i doskonaleniu dostępności rozwiązania.
 
@@ -369,7 +358,7 @@ Wyniki powinny być przedstawiane i utrzymywane w sposób umożliwiający ich wy
 
 ---
 
-# 10. Weryfikowanie skuteczności działań
+## 10. Weryfikowanie skuteczności działań
 
 Narzędzia automatyczne mogą wspierać sprawdzanie skuteczności wykonanych działań.
 
@@ -395,9 +384,9 @@ Wyniki weryfikacji powinny być wykorzystywane do:
 
 ---
 
-# 11. Utrzymywanie, wymiana i integrowanie informacji
+## 11. Utrzymywanie, wymiana i integrowanie informacji
 
-## 11.1. Systemy monitorujące jako źródło informacji
+### 11.1. Systemy monitorujące jako źródło informacji
 
 Systemy automatycznego monitorowania mogą:
 
@@ -427,15 +416,13 @@ Wiedza o stanie rozwiązania może pochodzić również z:
 
 Organizacja powinna ustalić, w jaki sposób informacje pochodzące z systemów monitorujących są łączone z informacjami z innych źródeł i wykorzystywane w procesie podejmowania decyzji.
 
-## 11.2. Raportowanie, eksportowanie i integrowanie danych
+### 11.2. Raportowanie, eksportowanie i integrowanie danych
 
 Narzędzia mogą udostępniać wyniki na różne sposoby.
 
-**Raportowanie** polega na przedstawianiu wyników w postaci przeznaczonej przede wszystkim do odczytania przez człowieka.
-
-**Eksportowanie danych** polega na udostępnianiu wyników w ustrukturyzowanej postaci umożliwiającej ich dalsze przetwarzanie.
-
-**Integracja systemów** umożliwia automatyczne przekazywanie, importowanie lub synchronizowanie informacji.
+- **Raportowanie** polega na przedstawianiu wyników w postaci przeznaczonej przede wszystkim do odczytania przez człowieka.
+- **Eksportowanie danych** polega na udostępnianiu wyników w ustrukturyzowanej postaci umożliwiającej ich dalsze przetwarzanie.
+- **Integracja systemów** umożliwia automatyczne przekazywanie, importowanie lub synchronizowanie informacji.
 
 Możliwość wymiany danych pozwala wykorzystywać wyniki analiz poza systemem, który je wygenerował.
 
@@ -458,7 +445,7 @@ Przy wymianie danych należy, na tyle, na ile jest to możliwe, zachowywać info
 - kontekst i środowisko analizy;
 - powiązanie wyniku z wcześniejszymi informacjami o stanie rozwiązania.
 
-## 11.3. Wykorzystywanie wskaźników i trendów
+### 11.3. Wykorzystywanie wskaźników i trendów
 
 Systemy monitorujące mogą generować:
 
@@ -484,7 +471,7 @@ Na porównywalność wyników mogą wpływać zmiany:
 
 ---
 
-# 12. Dobór i rozwijanie sposobu wykorzystania narzędzi
+## 12. Dobór i rozwijanie sposobu wykorzystania narzędzi
 
 Organizacja powinna dobierać narzędzia i sposoby ich wykorzystywania odpowiednio do decyzji i działań, które chce wspierać za pomocą automatyzacji.
 
@@ -541,7 +528,7 @@ Niezależnie od zastosowanego rozwiązania technicznego celem jest stworzenie me
 
 ---
 
-# 13. Ograniczenia i najczęstsze błędy
+## 13. Ograniczenia i najczęstsze błędy
 
 Automatyczne analizy mają ograniczony zakres i wymagają świadomego wykorzystywania.
 

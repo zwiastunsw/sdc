@@ -8,16 +8,18 @@ keywords: [dostępność cyfrowa, stan dostępności, stan zgodności, rejestr d
 tags: [dostępność cyfrowa, stan dostępności, stan zgodności, rejestr dostępności, obserwacja, ocena zgodności, materiały dowodowe, zakres rozpoznania]
 opracowanie: Stefan Wajda
 data_zgloszenia: 12 lipca 2026 r.
-ostatnia_aktualizacja: 12 lipca 2026 r.
+ostatnia_aktualizacja: 29 lipca 2026 r.
 wersja_robocza: true
 ---
 
 
-## Cel dokumentu
+## 1. Cel dokumentu
 
 Dokument określa zasady organizowania, aktualizowania, utrzymywania i wykorzystywania wiedzy o stanie dostępności i zgodności rozwiązania cyfrowego w rejestrze stanu dostępności i zgodności, w tym zakres dokumentowanych informacji, relacje między nimi oraz zasady zachowania aktualności i historii wiedzy.
 
-## 1. Rola rejestru
+---
+
+## 2. Rola rejestru
 
 Rejestr stanu dostępności i zgodności jest uporządkowanym zasobem wiedzy o stanie dostępności i zgodności konkretnego rozwiązania cyfrowego.
 
@@ -34,14 +36,16 @@ Rejestr nie jest raportem z pojedynczej oceny ani zbiorem kolejnych niezależnyc
 
 Jest rozwijanym zasobem wiedzy aktualizowanym przez cały okres użytkowania rozwiązania cyfrowego.
 
-## 2. Dwa podstawowe rodzaje wiedzy
+---
+
+## 3. Dwa podstawowe rodzaje wiedzy
 
 Rejestr powinien umożliwiać ustalenie:
 
 1. **co wiadomo o stanie dostępności i zgodności rozwiązania;**
 2. **jaki jest zakres rozpoznania tego stanu.**
 
-### 2.1. Wiedza o stanie
+### 3.1. Wiedza o stanie
 
 Wiedza o stanie opisuje stwierdzony stan rozwiązania i należących do niego obiektów.
 
@@ -55,7 +59,7 @@ Pozwala ustalić w szczególności:
 - jaki wpływ na użytkowników został rozpoznany;
 - które informacje stanowią podstawę opisu obecnego stanu.
 
-### 2.2. Zakres rozpoznania stanu
+### 3.2. Zakres rozpoznania stanu
 
 Zakres rozpoznania pozwala ustalić, jakiej części rozwiązania i mających zastosowanie wymagań dotyczy posiadana wiedza.
 
@@ -71,7 +75,9 @@ Rozróżnienie wiedzy o stanie i zakresu jego rozpoznania zapobiega utożsamiani
 
 Szczegółowe zasady analizowania zakresu rozpoznania określa załącznik „Analiza zakresu rozpoznania stanu dostępności i zgodności”.
 
-## 3. Model informacji rejestru
+---
+
+## 4. Model informacji rejestru
 
 Rejestr prowadzi się dla konkretnego rozwiązania cyfrowego, na przykład strony internetowej, serwisu internetowego, aplikacji mobilnej, systemu teleinformatycznego albo usługi publicznej realizowanej drogą elektroniczną.
 
@@ -95,7 +101,9 @@ Informacje te nie powinny być sprowadzane do jednej tabeli wyników testów alb
 
 Rejestr powinien umożliwiać odrębne dokumentowanie poszczególnych informacji oraz zachowanie relacji między nimi.
 
-## 4. Rozwiązanie cyfrowe i jego obiekty
+---
+
+## 5. Rozwiązanie cyfrowe i jego obiekty
 
 Rejestr powinien umożliwiać identyfikację rozwiązania cyfrowego, którego dotyczy.
 
@@ -122,7 +130,9 @@ Obiektami mogą być w szczególności:
 
 Sposób identyfikacji obiektów powinien umożliwiać jednoznaczne ustalenie przedmiotu obserwacji i ocen oraz zachowanie powiązań między informacjami dotyczącymi tego samego obiektu.
 
-## 5. Obserwacje
+---
+
+## 6. Obserwacje
 
 Podstawową jednostką wiedzy o stanie dokumentowanej w rejestrze jest obserwacja.
 
@@ -151,7 +161,9 @@ Obserwacja może być powiązana w szczególności z:
 
 Zasady wyodrębniania obserwacji i przekształcania wyników w wiedzę określa załącznik „Przetwarzanie wyników obserwowania i oceniania stanu dostępności i zgodności”.
 
-## 6. Źródła informacji i materiały dowodowe
+---
+
+## 7. Źródła informacji i materiały dowodowe
 
 Rejestr powinien umożliwiać ustalenie źródła każdej obserwacji oraz jej powiązanie z materiałami dowodowymi stanowiącymi podstawę dokonanego ustalenia.
 
@@ -160,7 +172,7 @@ Jedna obserwacja może być powiązana z wieloma materiałami dowodowymi, a jede
 Rejestr nie musi bezpośrednio przechowywać materiałów dowodowych. Powinien umożliwiać ich jednoznaczną identyfikację i odnalezienie.
 
 
-## 7. Oceny zgodności i wpływu
+## 8. Oceny zgodności i wpływu
 
 Rejestr powinien umożliwiać odrębne dokumentowanie stwierdzonego stanu oraz powiązanych z nim ocen zgodności i wpływu na użytkowników.
 
@@ -170,7 +182,9 @@ Dla oceny wpływu dokumentuje się co najmniej wynik i datę oceny oraz jej powi
 
 Szczegółowe zasady dokonywania ocen zgodności i wpływu określa załącznik „Przetwarzanie wyników obserwowania i oceniania stanu dostępności i zgodności”.
 
-## 8. Dokumentowanie ocen i ich zakresu
+---
+
+## 9. Dokumentowanie ocen i ich zakresu
 
 Rejestr powinien umożliwiać ustalenie, podczas jakiej oceny uzyskano określone informacje.
 
@@ -190,7 +204,9 @@ W przypadku oceny planowej dokumentuje się również zastosowany profil.
 
 Informacje o zakresie oceny powinny umożliwiać prawidłową interpretację jej wyników oraz ustalenie, jaki zakres wiedzy uzyskano, potwierdzono, zaktualizowano albo zweryfikowano.
 
-## 9. Aktualność wiedzy
+---
+
+## 10. Aktualność wiedzy
 
 Rejestr powinien umożliwiać ustalenie, które informacje mogą stanowić podstawę opisu obecnego stanu rozwiązania.
 
@@ -198,7 +214,7 @@ Informacje o stanie oznacza się jako aktualne, wymagające weryfikacji albo nie
 
 Aktualność informacji ustala się z uwzględnieniem zmian rozwiązania i nowych informacji o jego stanie. Sam upływ czasu nie powoduje automatycznie utraty aktualności informacji.
 
-## 10. Zachowanie historii wiedzy
+## 11. Zachowanie historii wiedzy
 
 Rejestr powinien umożliwiać odtworzenie zmian wiedzy o stanie rozwiązania w czasie.
 
@@ -208,8 +224,9 @@ Rejestr powinien umożliwiać ustalenie, jaki stan i na jakiej podstawie stwierd
 
 Korekta błędnego wpisu nie powinna usuwać informacji potrzebnych do ustalenia, kto, kiedy i dlaczego dokonał zmiany.
 
+---
 
-## 11. Powiązanie informacji
+## 12. Powiązanie informacji
 
 Wartość rejestru wynika nie tylko z gromadzenia poszczególnych informacji, ale przede wszystkim z zachowania relacji między nimi.
 
@@ -231,13 +248,17 @@ Rejestr powinien jednak umożliwiać zachowanie relacji potrzebnych do ustalenia
 
 Informacje o stanie mogą być powiązane z informacjami dokumentowanymi w innych rejestrach i zasobach informacji SZDC.
 
-## 12. Wykorzystywanie informacji i raportowanie
+---
+
+## 13. Wykorzystywanie informacji i raportowanie
 
 Informacje zgromadzone w rejestrze są wykorzystywane w procesach systemu zapewniania dostępności cyfrowej, w szczególności do analizowania stanu i zakresu jego rozpoznania, planowania ocen, podejmowania decyzji i działań oraz weryfikowania ich skuteczności.
 
 Na podstawie informacji zgromadzonych w rejestrze można przygotowywać raporty i zestawienia odpowiednie do celu ich wykorzystania.
 
 Raport jest prezentacją wiedzy zgromadzonej w rejestrze. Nie zastępuje rejestru, a jego utworzenie nie zamyka procesu rozwijania i aktualizowania wiedzy o stanie.
+
+---
 
 ## 14. Forma prowadzenia rejestru
 
@@ -247,7 +268,9 @@ Narzędzie powinno umożliwiać dokumentowanie wymaganych informacji, zachowanie
 
 Wybór narzędzia powinien być dostosowany do wielkości i złożoności rozwiązania, zakresu dokumentowanych informacji oraz potrzeb organizacji.
 
-## 16. Odpowiedzialność i jakość danych
+---
+
+## 15. Odpowiedzialność i jakość danych
 
 Organizacja określa odpowiedzialność za prowadzenie rejestru, dokumentowanie i aktualizowanie informacji, weryfikowanie jakości danych oraz zapewnienie ich integralności i zachowania historii zmian.
 
@@ -255,11 +278,12 @@ Uprawnienia do tworzenia, uzupełniania, korygowania i zatwierdzania informacji 
 
 Organizacja zapewnia jednoznaczność, aktualność i odpowiedni zakres informacji oraz możliwość ustalenia ich przedmiotu, źródła, podstawy i historii zmian.
 
+---
 
 
 <!--
 
-## 14. Minimalny zakres informacji w rejestrze
+## 16. Minimalny zakres informacji w rejestrze
 
 Rejestr powinien umożliwiać dokumentowanie co najmniej następujących informacji:
 

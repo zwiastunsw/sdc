@@ -19,8 +19,6 @@ Ten materiał ma charakter roboczy, służy jedynie wyjaśnieniu, dlaczego propo
 :::
 
 
-## Uzasadnienie rezygnacji z kontynuowania prac nad projektem zalecenia
-
 Projekt zalecenia „Okresowa ocena stanu zgodności rozwiązań cyfrowych i aktualizacja deklaracji dostępności” powstał podczas prac nad przebudową wcześniejszego zalecenia dotyczącego przeglądu i aktualizacji deklaracji dostępności.
 
 Prace te ujawniły problem bardziej podstawowy. Wiarygodne przeglądanie i aktualizowanie deklaracji dostępności wymaga posiadania przez organizację aktualnej i udokumentowanej wiedzy o stanie dostępności i zgodności strony internetowej lub aplikacji mobilnej. Brakowało jednak zalecenia określającego, w jaki sposób organizacja powinna systematycznie uzyskiwać, aktualizować i rozwijać taką wiedzę.

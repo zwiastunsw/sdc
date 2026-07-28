@@ -9,17 +9,19 @@ tags: [dostępność cyfrowa, stan dostępności, stan zgodności, zakres rozpoz
 opracowanie: Stefan Wajda
 wspolpraca: Cezary Tomczyk, Paulina Wysakowska
 data_zgloszenia: 12 lipca 2026 r.
-ostatnia_aktualizacja: 28 lipca 2026 r.
+ostatnia_aktualizacja: 29 lipca 2026 r.
 wersja_robocza: true
 ---
 
-## Cel dokumentu
+## 1. Cel dokumentu
 
 Dokument określa zasady przeprowadzania analizy zakresu rozpoznania stanu dostępności i zgodności rozwiązania cyfrowego. Analiza służy ustaleniu aktualnego zakresu wiedzy organizacji, w tym informacji brakujących, nieaktualnych lub wymagających weryfikacji.
 
 Analiza ma charakter cykliczny i wspiera zarządzanie ryzykiem dostępności, umożliwiając ustalenie priorytetów dalszego oceniania oraz planowe utrzymywanie aktualnej wiedzy o stanie rozwiązania na podstawie danych zgromadzonych w rejestrze.
 
-## 1. Rola analizy zakresu rozpoznania
+---
+
+## 2. Rola analizy zakresu rozpoznania
 
 Wiedza o stanie dostępności i zgodności rozwiązania jest budowana stopniowo na podstawie obserwacji, ocen oraz informacji gromadzonych w całym okresie jego użytkowania. 
 
@@ -40,7 +42,9 @@ Analiza pełni również istotną rolę w zarządzaniu ryzykiem dostępności, u
 
 Wyniki analizy stanowią podstawę do ustalania potrzeb dalszego oceniania, w tym wyboru wymagań, części rozwiązania i obiektów, które powinny zostać objęte kolejnymi ocenami planowymi w celu planowego zwiększania i utrzymywania aktualnej wiedzy o stanie rozwiązania.
 
-## 2. Analizowanie zakresu rozpoznania
+---
+
+## 3. Analizowanie zakresu rozpoznania
 
 Organizacja analizuje zakres rozpoznania stanu dostępności i zgodności w pięciu wzajemnie uzupełniających się wymiarach:
 
@@ -54,8 +58,7 @@ Wymiary te należy rozpatrywać łącznie. Szeroki zakres ocenionych wymagań ni
 
 Celem analizy jest ustalenie, które obszary rozwiązania są już rozpoznane w stopniu wystarczającym do podejmowania decyzji, a które wymagają wykonania kolejnych ocen lub aktualizacji posiadanej wiedzy.
 
-
-### 2.1. Zakres wymagań
+### 3.1. Zakres wymagań
 
 Organizacja ustala:
 
@@ -66,19 +69,19 @@ Organizacja ustala:
 
 Wykonanie scenariusza testu nie oznacza automatycznie pełnego rozpoznania zgodności z wymaganiem. To samo wymaganie może wymagać oceny w różnych częściach rozwiązania, procesach użytkownika, komponentach lub rodzajach treści.
 
-### 2.2. Zakres funkcjonalny
+### 3.2. Zakres funkcjonalny
 
 Organizacja ustala, jakie części rozwiązania oraz sposoby korzystania z niego zostały objęte ocenami oraz które z nich są rozpoznane w wystarczającym zakresie, rozpoznane częściowo, nieobjęte oceną albo wymagają aktualizacji lub weryfikacji wiedzy.
 
 Szczególną uwagę należy zwracać na kluczowe procesy użytkownika. Ocena poszczególnych stron, ekranów lub elementów nie oznacza rozpoznania dostępności całego procesu.
 
-### 2.3. Zakres strukturalny
+### 3.3. Zakres strukturalny
 
 Organizacja ustala, jakie obiekty zostały objęte ocenami i w jakim zakresie reprezentują zróżnicowane i istotne części rozwiązania.
 
 Celem analizy nie jest ustalenie odsetka ocenionych obiektów, lecz wskazanie, jakie części rozwiązania są reprezentowane w dotychczasowych ocenach i jakie obiekty powinny zostać objęte dalszym ocenianiem.
 
-### 2.4. Zakres użytkowy
+### 3.4. Zakres użytkowy
 
 Organizacja ustala, czy dotychczasowe oceny obejmują te części rozwiązania, które mają największe znaczenie dla jego rzeczywistych użytkowników.
 
@@ -93,7 +96,7 @@ Analizie podlega w szczególności, czy ocenami objęto:
 
 Brak wiedzy o dostępności kluczowych dla użytkowników części rozwiązania może być istotniejszy niż brak wiedzy o wielu rzadko wykorzystywanych obiektach.
 
-### 2.5. Zakres środowisk użytkowania
+### 3.5. Zakres środowisk użytkowania
 
 Organizacja ustala, w jakich środowiskach użytkowania została oceniona dostępność rozwiązania oraz czy zakres ten jest wystarczający do podejmowania decyzji.
 
@@ -108,15 +111,17 @@ Analizie podlega w szczególności, czy oceny obejmują:
 
 Jeżeli dotychczasowe oceny zostały wykonane wyłącznie w ograniczonym zakresie środowisk użytkowania, organizacja powinna uwzględnić potrzebę ich rozszerzenia podczas planowania kolejnych ocen.
 
+---
 
-## 3. Ocena aktualności wiedzy
+## 4. Ocena aktualności wiedzy
 
 Przy określaniu zakresu rozpoznania uwzględnia się aktualność posiadanych informacji.
 
 Informacje nieaktualne albo wymagające weryfikacji nie powinny być traktowane na równi z aktualną wiedzą. Samo przeprowadzenie oceny w przeszłości nie oznacza, że objęty nią zakres pozostaje rozpoznany w chwili przeprowadzania analizy.
 
+---
 
-## 4. Identyfikowanie luk w wiedzy
+## 5. Identyfikowanie luk w wiedzy
 
 Luka w wiedzy występuje wtedy, gdy organizacja nie posiada aktualnych i wystarczających informacji potrzebnych do wiarygodnego ustalenia stanu dostępności lub zgodności w określonym zakresie.
 
@@ -130,7 +135,9 @@ Luka może wynikać w szczególności z:
 
 Brak stwierdzonych problemów nie oznacza braku luk w wiedzy. Luki wynikają z zakresu, aktualności i wystarczalności posiadanych informacji, a nie z liczby stwierdzonych niezgodności.
 
-## 5. Ustalanie potrzeb dalszego oceniania
+---
+
+## 6. Ustalanie potrzeb dalszego oceniania
 
 Zidentyfikowanie luki w wiedzy nie oznacza automatycznie konieczności natychmiastowego przeprowadzenia oceny.
 
@@ -147,7 +154,11 @@ Wyniki analizy wykorzystuje się do ustalania celu i zakresu kolejnych ocen plan
 
 Celem nie jest usunięcie wszystkich luk podczas jednej oceny, lecz planowe zwiększanie i utrzymywanie zakresu aktualnej wiedzy o stanie rozwiązania.
 
-## 6. Wynik analizy
+---
+
+---
+
+## 7. Wynik analizy
 
 Wynik analizy powinien umożliwiać ustalenie:
 
@@ -160,8 +171,9 @@ Wynik może być przedstawiony w formie odpowiedniej do wielkości i złożonoś
 
 Analiza nie musi prowadzić do utworzenia odrębnego dokumentu, jeżeli jej wynik może zostać ustalony i wykorzystany bezpośrednio na podstawie informacji zgromadzonych w rejestrze.
 
+---
 
-## 7. Proste zestawienie wyników analizy
+## 8. Proste zestawienie wyników analizy
 
 Wyniki analizy można przedstawić w prostym zestawieniu pokazującym, które części rozwiązania i wymagania zostały rozpoznane oraz gdzie występują potrzeby dalszego oceniania.
 

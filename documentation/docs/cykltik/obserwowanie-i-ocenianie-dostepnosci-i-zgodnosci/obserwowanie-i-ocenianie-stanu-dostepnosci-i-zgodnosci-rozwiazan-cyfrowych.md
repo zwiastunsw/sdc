@@ -8,7 +8,7 @@ keywords: [dostępność cyfrowa,ocena dostępności,ocena zgodności,obserwowan
 tags: [dostępność cyfrowa,ocena dostępności,ocena zgodności,obserwowanie stanu,testowanie dostępności,rejestr stanu dostępności i zgodności,]
 opracowanie: Stefan Wajda
 data_zgloszenia: 29 kwietnia 2026 r.
-ostatnia_aktualizacja: 12 lipca 2026 r.
+ostatnia_aktualizacja: 29 lipca 2026 r.
 wersja_robocza: true
 ---
 
@@ -17,12 +17,15 @@ wersja_robocza: true
 
 Wspieranie skutecznego zapewniania dostępności cyfrowej przez systematyczne uzyskiwanie, aktualizowanie i wykorzystywanie wiedzy o stanie dostępności i zgodności rozwiązań cyfrowych.
 
+---
+
 ## Zalecenie
 
 Organizacja systematycznie obserwuje i ocenia stan dostępności i zgodności rozwiązań cyfrowych w całym okresie ich użytkowania.
 
 Informacje uzyskiwane podczas bieżącej działalności oraz ocen planowych i doraźnych organizacja przetwarza, dokumentuje i wykorzystuje do podejmowania decyzji i działań służących zapewnianiu dostępności cyfrowej, aktualizowania wiedzy o stanie rozwiązań oraz planowania dalszych ocen.
 
+---
 
 ## Rekomendacje
 
@@ -86,12 +89,7 @@ Organizacja określa role i odpowiedzialności związane z obserwowaniem i oceni
 
 Sposób podziału odpowiedzialności dostosowuje do swojej wielkości i struktury, liczby i złożoności rozwiązań cyfrowych oraz przyjętego sposobu organizacji systemu zapewniania dostępności cyfrowej.
 
-## Standardy i podstawy prawne
-
-- [Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000848)
-- [Wytyczne dla dostępności treści internetowych (WCAG) 2.1](https://www.w3.org/Translations/WCAG21-pl/)
-- [PN ETSI EN 301 549 v. 3.1.2 Wymagania dotyczące dostępności produktów i usług ICT](https://sklep.pkn.pl/pn-etsi-en-301-549-v3-2-1-2021-09p.html)
-- [W3C Accessibility Guidelines Evaluation Methodology (WCAG-EM) 2.0](https://www.w3.org/TR/wcag-em-2/)
+---
 
 ## Uzasadnienie
 
@@ -111,6 +109,16 @@ Na tej podstawie organizacja może planować kolejne oceny odpowiednio do rzeczy
 
 Obserwowanie i ocenianie stanu nie jest zatem celem samym w sobie. Zapewnia organizacji wiedzę potrzebną do podejmowania uzasadnionych decyzji, skutecznego reagowania na problemy oraz planowego utrzymywania i doskonalenia dostępności cyfrowej.
 
+---
+
+## Standardy i podstawy prawne
+
+- [Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000848)
+- [Wytyczne dla dostępności treści internetowych (WCAG) 2.1](https://www.w3.org/Translations/WCAG21-pl/)
+- [PN ETSI EN 301 549 v. 3.1.2 Wymagania dotyczące dostępności produktów i usług ICT](https://sklep.pkn.pl/pn-etsi-en-301-549-v3-2-1-2021-09p.html)
+- [W3C Accessibility Guidelines Evaluation Methodology (WCAG-EM) 2.0](https://www.w3.org/TR/wcag-em-2/)
+
+---
 
 ## Powiązane dokumenty
 
