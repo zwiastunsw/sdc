@@ -153,6 +153,7 @@ Organizacja:
 - monitoruje skuteczność podejmowanych działań,
 - ocenia, czy potrzeby pracowników są uwzględniane,
 - doskonali mechanizmy pozyskiwania i analizy informacji.
+
 Monitorowanie obejmuje co najmniej:
 
 - liczbę i rodzaje zgłoszonych barier;
