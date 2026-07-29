@@ -16,7 +16,7 @@ wersja_robocza: true
 
 Celem zalecenia jest zapewnienie użytkownikom skutecznych mechanizmów zgłaszania problemów związanych z dostępnością cyfrową oraz uzyskiwania pomocy w sytuacjach, gdy napotykają bariery uniemożliwiające lub utrudniające korzystanie z treści, usług lub technologii cyfrowych udostępnianych przez organizację.
 
-Zalecenie obejmuje zarówno obsługę zgłoszeń dotyczących problemów dostępności cyfrowej, jak i zapewnianie dostępu alternatywnego w przypadkach, gdy usunięcie bariery nie jest możliwe niezwłocznie.
+Zalecenie obejmuje zarówno obsługę zgłoszeń dotyczących problemów dostępności cyfrowej, jak i zapewnianie dostępu alternatywnego w przypadkach, gdy usunięcie bariery nie jest możliwe niezwłocznie. 
 
 ## Zalecenie
 
