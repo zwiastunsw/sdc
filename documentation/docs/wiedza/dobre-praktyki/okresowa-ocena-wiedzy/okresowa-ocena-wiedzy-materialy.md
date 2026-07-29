@@ -32,16 +32,16 @@ Na stronie internetowej Nagłówek 1 tytułuje treść główną i jest zwykle t
 
 Ponadto, na stronach internetowych Nagłówki poziomu 2 stosowane są do oznaczenia pobocznych części strony.
 
-![Nagłówki w dokumencie](../../img/naglowki-dokument.svg]
+![Nagłówki w dokumencie](../../img/naglowki-dokument.svg)
 
 W dokumentach jest nieco inaczej. Nagłówki tytułują części dokumentu. Na ilustracji dwa nagłówki poziomu 1 tytułują główne części dokumentu, na przykład rozdziały. Cztery nagłówki poziomu 2 rozpoczynają podtematy (podrozdziały) w częściach oznaczonych nagłówkami poziomu 1. Cztery nagłówki poziomu 3 rozpoczynają podtematy w podrozdziałach oznaczonych poprzedzającymi je nagłówkami poziomu 2. Jeden nagłówek poziomu 4 rozpoczyna podtemat w części oznaczonej poprzedzającym go nagłówkiem poziomu 3.
 
-Aby nagłówki były dostępne w [treściach i technologiach cyfrowych](https://slownik.sdc.#tresci_technologie_cyfrowe), muszą być **odpowiednio sformatowane**, to znaczy:
+Aby nagłówki były dostępne w [treściach i technologiach cyfrowych](#tresci-cyfrowe-i-technologia), muszą być **odpowiednio sformatowane**, to znaczy:
 
 - **muszą być oznakowane jako nagłówki** – w dokumentach elektronicznych do oznakowania stosuje się odpowiednie style nagłówków, a na stronach internetowych specjalne znaczniki HTML (od H1 do H6),
 - **muszą odróżniać się wyglądem od tekstu podstawowego** – o wyglądzie nagłówków decydują cechy stylu nadane nagłówkom poszczególnych poziomów, np. wielkość, krój, kolor czcionki.
 
-Programy i [technologie wspomagające](https://slownik.sdc.#technologie_wspomagajace) na podstawie oznaczenia mogą odpowiednio wyświetlić sformatowane nagłówki, aby czytający widzieli strukturę treści. Ponadto technologie wspomagające umożliwiają użytkownikom przeglądanie nagłówków, aby orientowali się w treści i mogli bezpośrednio nawigować do każdej części treści oznaczonej nagłówkiem.
+Programy i [technologie wspomagające](#technologia-wspomagajaca) na podstawie oznaczenia mogą odpowiednio wyświetlić sformatowane nagłówki, aby czytający widzieli strukturę treści. Ponadto technologie wspomagające umożliwiają użytkownikom przeglądanie nagłówków, aby orientowali się w treści i mogli bezpośrednio nawigować do każdej części treści oznaczonej nagłówkiem.
 
 ### Typowe błędy
 
@@ -57,7 +57,7 @@ Te częste błędy utrudniają dostępność i użyteczność treści cyfrowych.
 
 Stosuj się do tych najlepszych praktyk, aby zwiększyć dostępność i użyteczność nagłówków w swoich treściach cyfrowych.
 
-- Używaj [narzędzi formatowania w aplikacjach](https://slownik.sdc.#narzedzia_formatowania_w_aplikacjach), a na stronie internetowej znaczników HTML, aby poprawnie sformatować nagłówki
+- Używaj [narzędzi formatowania w aplikacjach](#narzedzia-formatowania-w-aplikacjach), a na stronie internetowej znaczników HTML, aby poprawnie sformatować nagłówki
 - Na stronie internetowej użyj tylko jednego nagłówka poziomu H1 dla treści głównej. W dokumentach biurowym używaj nagłówka poziomu 1 dla każdej głównej części, np. rozdziałów.
 - **Stosuj hierarchiczną sekwencję nagłówków**. Nagłówki stanowią zarys treści. Pozwalają użytkownikom nawigować do poszukiwanych informacji poprzez skanowanie strony internetowej lub dokumentu cyfrowego albo pomagają przeglądać listę nagłówków za pomocą technologii wspomagającej i nawigować do nich.
 - **Nie pomijaj poziomów nagłówków**. Gdy formatujesz tytuł części podrzędnej, zawsze używaj nagłówka o jeden poziom niższego niż tytuł części nadrzędnej.
@@ -86,7 +86,7 @@ Stosowanie łączy upraszcza i skraca dokumenty, a jednocześnie umożliwia prze
 - Tekst łącza powinien **opisywać zrozumiale** **cel łącza**.
 - Tekst łącza powinien być zwięzły.
 
-Łącza powinny zapewniać szybkie i jasne zrozumienie [celu łącza](https://wsu.edu/digital-accessibility/get-started/glossary/link-destination/). Użytkownicy przeglądają treść w poszukiwaniu łączy niezależnie od tego, czy korzystają z [technologii wspomagających](https://wsu.edu/digital-accessibility/get-started/glossary/assistive-technology/), czy nie. Podanie łącza opisującego jego cel pozwala na zrozumienie łącza poza kontekstem, w oparciu o otaczający go tekst. Jest to szczególnie przydatne dla osób korzystających z technologii wspomagających do przeglądania listy łączy pobranych z treści strony lub poruszających się po niej za pomocą łączy.
+Łącza powinny zapewniać szybkie i jasne zrozumienie [celu łącza](#cel-lacza). Użytkownicy przeglądają treść w poszukiwaniu łączy niezależnie od tego, czy korzystają z [technologii wspomagających](#technologia-wspomagajaca), czy nie. Podanie łącza opisującego jego cel pozwala na zrozumienie łącza poza kontekstem, w oparciu o otaczający go tekst. Jest to szczególnie przydatne dla osób korzystających z technologii wspomagających do przeglądania listy łączy pobranych z treści strony lub poruszających się po niej za pomocą łączy.
 
 Długie łącza tekstowe, łącza rozciągające się na wiele wierszy, łącza niejednoznaczne i niektóre adresy URL (adresy internetowe) utrudniają użytkownikom szybką i łatwą ocenę łączy w treści. Udostępnianie zwięzłych, treściwych, opisowych i łatwo rozpoznawalnych łączy pozwala użytkownikom szybko zrozumieć ich cel i podjąć decyzję o ich wyborze.
 
@@ -102,7 +102,7 @@ Długie łącza tekstowe, łącza rozciągające się na wiele wierszy, łącza 
 
 Te częste błędy utrudniają dostępność i użyteczność treści cyfrowych.
 
-- Tekst łącza nie opisuje [celu łącza](https://wsu.edu/digital-accessibility/get-started/glossary/link-destination/).
+- Tekst łącza nie opisuje [celu łącza](#cel-lacza).
 - Łącza z takim samym tekstem kierują do różnych miejsc.
 - Łącza z różnymi tekstami kierują do jednego miejsca.
 - Obrazy w łączach graficznych nie mają tekstu alternatywnego lub zawierają tekst alternatywny opisujący obraz.
@@ -147,7 +147,7 @@ Użyj tej listy kontrolnej jako przewodnika, aby upewnić się, że Twoje łącz
 
 - Każde łącze wyraźnie odróżnia się od otaczającej go treści
 - Każde aktywne oraz wskazywane lub wybrane łącze na stronie internetowej lub w aplikacji mobilnej ma widoczny wskaźnik aktywności lub fokusu
-- Tekst łącza jest zwięzły, treściwy i opisuje [cel łącza](https://wsu.edu/digital-accessibility/get-started/glossary/link-destination/).
+- Tekst łącza jest zwięzły, treściwy i opisuje [cel łącza](#cel-lacza).
 - Łącza do tego samego miejsca mają taki sam tekst.
 - Łącza do różnych miejsc docelowych mają odróżniający je tekst łączy.
 - Tekst alternatywny obrazu w łączu przedstawia cel łącza, a nie opis obrazu.
@@ -159,7 +159,7 @@ Użyj tej listy kontrolnej jako przewodnika, aby upewnić się, że Twoje łącz
 
 ### Znaczenie list
 
-Osoba z dysfunkcją wzroku nie dostrzegą sygnałów wizualnych, które pomagają osobie widzącej zrozumieć, że zestaw elementów wyświetlanych w treści cyfrowej należy traktować jako grupę. Gdy osoba korzystająca z [technologii wspomagającej](https://wsu.edu/digital-accessibility/get-started/glossary/assistive-technology/), takiej jak czytnik ekranu, natrafi na listę dostępną w treści cyfrowej, pierwszą rzeczą, którą rozpozna, będzie liczba elementów na liście. Pomaga jej to zorientować się, że wchodzi na listę i jak długa ona jest.
+Osoba z dysfunkcją wzroku nie dostrzegą sygnałów wizualnych, które pomagają osobie widzącej zrozumieć, że zestaw elementów wyświetlanych w treści cyfrowej należy traktować jako grupę. Gdy osoba korzystająca z [technologii wspomagającej](#technologia-wspomagajaca), takiej jak czytnik ekranu, natrafi na listę dostępną w treści cyfrowej, pierwszą rzeczą, którą rozpozna, będzie liczba elementów na liście. Pomaga jej to zorientować się, że wchodzi na listę i jak długa ona jest.
 
 Jeśli lista jest nieprawidłowo sformatowana, może być trudno zrozumieć, dlaczego w środku dokumentu znajduje się losowy ciąg słów, taki jak „jabłko, pomarańcza, banan”.
 
@@ -187,8 +187,8 @@ Te częste błędy utrudniają dostępność i użyteczność treści cyfrowych.
 
 Stosuj się do tych najlepszych praktyk, aby zwiększyć dostępność i użyteczność treści cyfrowych.
 
-- Użyj [narzędzi formatowania aplikacji](https://slownik.sdc.#narzedzia_formatowania_w_aplikacjach), aby utworzyć listy uporządkowane lub nieuporządkowane albo zastosować znaczniki HTML.
-- Prawidłowo zagnieżdżaj listy, aby [technologia wspomagająca](https://wsu.edu/digital-accessibility/get-started/glossary/assistive-technology/) mogła identyfikować podlisty.
+- Użyj [narzędzi formatowania aplikacji](#narzedzia-formatowania-w-aplikacjach), aby utworzyć listy uporządkowane lub nieuporządkowane albo zastosować znaczniki HTML.
+- Prawidłowo zagnieżdżaj listy, aby [technologia wspomagająca](#technologia-wspomagajaca) mogła identyfikować podlisty.
 
 #### Przykład
 
@@ -203,7 +203,7 @@ Stosuj się do tych najlepszych praktyk, aby zwiększyć dostępność i użytec
 
 Użyj tej listy kontrolnej jako przewodnika, aby upewnić się, że Twoje listy mają dostępny format.
 
-- Listy korzystają [z narzędzi formatowania aplikacji](https://slownik.sdc.#narzedzia_formatowania_w_aplikacjach) lub znaczników HTML.
+- Listy korzystają [z narzędzi formatowania aplikacji](#narzedzia-formatowania-w-aplikacjach) lub znaczników HTML.
 - Listy są poprawnie zagnieżdżone.
 - List nie tworzy się ręcznie.
 
@@ -217,13 +217,13 @@ Obrazy mogą dodać treści wizualnej atrakcyjności, pomóc użytkownikom w ori
 
 Aby poprawić dostępność obrazów, stosuje się tekst zastępczy, zwany tekstem alternatywnym (tekst „alt”), który w sensowny sposób przekazuje treść lub funkcję obrazu. Tekst alternatywny ma kilka zalet, w tym:
 
-- [Technologia wspomagająca](https://wsu.edu/digital-accessibility/get-started/glossary/assistive-technology/) potrafi odczytywać tekst alternatywny zamiast obrazów, co ułatwia życie osobom z dysfunkcją wzroku lub funkcji poznawczych.
+- [Technologia wspomagająca](#technologia-wspomagajaca) potrafi odczytywać tekst alternatywny zamiast obrazów, co ułatwia życie osobom z dysfunkcją wzroku lub funkcji poznawczych.
 - Przeglądarki internetowe i inne aplikacje mogą wyświetlać tekst alternatywny, jeśli obrazy się nie ładują.
 - Wyszukiwarki używają tekstu alternatywnego podczas indeksowania stron internetowych.
 
 Tekst alternatywny można podać na dwa sposoby:
 
-1. Korzystając z [narzędzi formatowania aplikacji](https://slownik.sdc.#narzedzia_formatowania_w_aplikacjach) (np. alternatywnego pola tekstowego lub znacznika alt HTML) lub
+1. Korzystając z [narzędzi formatowania aplikacji](#narzedzia-formatowania-w-aplikacjach) (np. alternatywnego pola tekstowego lub znacznika alt HTML) lub
 2. Poprzez umieszczenie widocznego tekstu w pobliżu obrazu (np. podpisu).
 
 ### Obrazy z tekstem
@@ -233,7 +233,7 @@ Do przekazywania informacji należy używać zwykłego tekstu, a nie obrazów pr
 - prezentacja tekstu jest istotna dla przekazywanych informacji, a
 - prezentacji nie można odtworzyć za pomocą zastosowanej technologii (np. logo lub znaku drogowego).
 
-Jeśli konieczny jest obraz z tekstem, cały tekst będący częścią obrazu musi zostać powielony jako tekst alternatywny, za pomocą [narzędzi formatowania aplikacji](https://slownik.sdc.#narzedzia_formatowania_w_aplikacjach) lub poprzez umieszczenie widocznego tekstu obok obrazu na stronie.
+Jeśli konieczny jest obraz z tekstem, cały tekst będący częścią obrazu musi zostać powielony jako tekst alternatywny, za pomocą [narzędzi formatowania aplikacji](#narzedzia-formatowania-w-aplikacjach) lub poprzez umieszczenie widocznego tekstu obok obrazu na stronie.
 
 ![Znak z logo Washington State University z napisem „Zarezerwowane miejsce parkingowe tylko dla kobiet z pumami”](../../img/reserved-parking.jpg)
 
@@ -250,11 +250,11 @@ Gdyby każdy z obrazów zawierał słowo „kropka” jako tekst alternatywny, t
 
 ### Podlinkowane obrazy
 
-W przypadku obrazów podlinkowanych wymagany jest tekst alternatywny, który powinien opisywać działanie łącza, [miejsce docelowe](https://slownik.sdc.#miejsce_docelowe_linku) lub funkcję, a nie zawartość obrazu.
+W przypadku obrazów podlinkowanych wymagany jest tekst alternatywny, który powinien wskazywać [cel łącza](#cel-lacza) lub funkcję, a nie zawartość obrazu.
 
 Jeśli jedyną zawartością łącza jest obraz bez tekstu alternatywnego, technologia wspomagająca może odczytać nazwę pliku obrazu lub adres URL, co nie pomoże użytkownikom zrozumieć działania, miejsca docelowego ani funkcji łącza.
 
-Tekst alternatywny na podlinkowanych obrazach można umieścić za pomocą [narzędzi formatowania aplikacji](https://slownik.sdc.#narzedzia_formatowania_w_aplikacjach) lub jako widoczny tekst obok podlinkowanego obrazka.
+Tekst alternatywny na podlinkowanych obrazach można umieścić za pomocą [narzędzi formatowania aplikacji](#narzedzia-formatowania-w-aplikacjach) lub jako widoczny tekst obok podlinkowanego obrazka.
 
 ### Złożone obrazy
 
@@ -263,7 +263,7 @@ Złożone obrazy, takie jak ulotki, wykresy, grafy, diagramy i mapy, mają na ce
 - Szczegółowy opis i/lub tabela danych obok obrazu na tej samej stronie.
 - Łącze do osobnej strony ze szczegółowymi informacjami o obrazie. Łącze może znajdować się obok obrazu lub sam obraz może być podlinkowany.
 
-Podczas korzystania z tych opcji w przypadku złożonych obrazów, tekst alternatywny jest nadal konieczny. Powinien on opisywać obraz w sposób ogólny lub, jeśli obraz jest podlinkowany, [miejsce docelowe linku](https://slownik.sdc.#miejsce_docelowe_linku).
+Podczas korzystania z tych opcji w przypadku złożonych obrazów, tekst alternatywny jest nadal konieczny. Powinien on opisywać obraz w sposób ogólny lub, jeśli obraz jest podlinkowany, [cel łącza](#cel-lacza).
 
 ### Obrazy z ruchem
 
@@ -291,7 +291,7 @@ Stosuj się do tych najlepszych praktyk, aby zwiększyć dostępność i użytec
 - Duplikuj cały znaczący tekst będący częścią obrazka jako tekst alternatywny.
 - Opisz szczegółowo złożone obrazy.
 - Użyj widocznego tekstu, takiego jak podpis, w przypadku informacji przeznaczonych dla wszystkich, np. informacji o prawach autorskich do obrazu lub jego autorstwie.
-- Nie rozpoczynaj tekstu alternatywnego frazami takimi jak „obraz”, „zdjęcie” lub „grafika”, ponieważ [technologia wspomagająca](https://slownik.sdc.#technologie_wspomagajace) automatycznie sygnalizuje obecność obrazów.
+- Nie rozpoczynaj tekstu alternatywnego frazami takimi jak „obraz”, „zdjęcie” lub „grafika”, ponieważ [technologia wspomagająca](#technologia-wspomagajaca) automatycznie sygnalizuje obecność obrazów.
 - Udostępnij możliwość wstrzymania obrazów z automatycznym odtwarzaniem ruchu.
 
 ### Sprawdzanie dostępności
@@ -299,7 +299,7 @@ Stosuj się do tych najlepszych praktyk, aby zwiększyć dostępność i użytec
 Użyj tej listy kontrolnej jako przewodnika, aby upewnić się, że Twoje obrazy są w dostępnym formacie.
 
 - Treść lub funkcja obrazu opisana jest tekstem alternatywnym.
-- Obrazy dekoracyjne są stosowane w sposób, który umożliwia ich zignorowanie przez [technologie wspomagające](https://slownik.sdc.#technologie_wspomagajace).
+- Obrazy dekoracyjne są stosowane w sposób, który umożliwia ich zignorowanie przez [technologie wspomagające](#technologia-wspomagajaca).
 - Złożone obrazy opisano szczegółowo.
 - Tekst będący częścią obrazu jest powielany jako tekst alternatywny.
 - Ruchome obrazy mogą zostać zatrzymane przez widza.
@@ -367,13 +367,13 @@ Użyj tej listy kontrolnej jako przewodnika, aby upewnić się, że kolory i kon
 - Kolor nie jest jedynym narzędziem służącym do przekazywania informacji.
 - Kolor używany do przekazywania znaczenia, ostrzegania użytkownika lub podkreślania czegoś jest łączony z inną wskazówką wizualną (np. tekstem, symbolem, pogrubieniem itp.).
 - Wystarczający jest kontrast kolorów między tekstem na pierwszym planie, tekstem powiązanym i kolorami tła.
-- Tekst umieszczony na obrazach jest łatwy do odróżnienia i odczytania wizualnie oraz za pomocą [technologii wspomagającej](https://slownik.sdc.#technologie_wspomagajace).
+- Tekst umieszczony na obrazach jest łatwy do odróżnienia i odczytania wizualnie oraz za pomocą [technologii wspomagającej](#technologia-wspomagajaca).
 
 ## Tabele
 
 ### Znaczenie tabel
 
-Dostępne tabele służą do porównywania informacji lub danych, a nie do ich układu. Użycie tabeli do przechowywania danych, oznaczenie jej nagłówków oraz dodanie podsumowania lub opisu tabeli poprawia zarówno dostępność, jak i użyteczność dla wszystkich. Jest to szczególnie ważne dla osób korzystających z [technologii wspomagających][technologii wspomagającej](https://slownik.sdc.#technologie_wspomagajace) w celu uzyskania dostępu do informacji zawartych w tabeli.
+Dostępne tabele służą do porównywania informacji lub danych, a nie do ich układu. Użycie tabeli do przechowywania danych, oznaczenie jej nagłówków oraz dodanie podsumowania lub opisu tabeli poprawia zarówno dostępność, jak i użyteczność dla wszystkich. Jest to szczególnie ważne dla osób korzystających z [technologii wspomagających](#technologia-wspomagajaca) w celu uzyskania dostępu do informacji zawartych w tabeli.
 
 Tabele można podzielić na dwie kategorie: tabele danych i tabele układu.
 
@@ -398,7 +398,7 @@ Przykład: Technologie wspomagające odczytałyby tę tabelę danych dla wiersza
 
 Proste tabele mogą mieć maksymalnie jeden wiersz nagłówka i jedną kolumnę nagłówków wierszy. Nie mają scalonych ani podzielonych komórek. Korzystając z technologii wspomagających w prostych tabelach, łatwiej jest zrozumieć relacje między informacjami i poruszać się po tabeli.
 
-Większość [narzędzi do formatowania aplikacji](https://slownik.sdc.#narzedzia_formatowania_w_aplikacjach) potrafi poprawnie oznaczyć jedynie proste tabele. Podczas konwersji z jednego formatu cyfrowego na inny, proste tabele powodują mniej problemów z dostępnością i skracają czas ich naprawiania.
+Większość [narzędzi do formatowania aplikacji](#narzedzia-formatowania-w-aplikacjach) potrafi poprawnie oznaczyć jedynie proste tabele. Podczas konwersji z jednego formatu cyfrowego na inny, proste tabele powodują mniej problemów z dostępnością i skracają czas ich naprawiania.
 
 #### Złożone tabele danych
 
@@ -434,7 +434,7 @@ Tego typu sytuacje często utrudniają dostępność i użyteczność treści za
 Stosuj się do tych najlepszych praktyk, aby zwiększyć dostępność i użyteczność tabel.
 
 - Użyj tabel do porównywania danych.
-- Utwórz odpowiednie nagłówki tabeli (wiersze i/lub kolumny) za pomocą [narzędzi formatowania aplikacji](https://slownik.sdc.#narzedzia_formatowania_w_aplikacjach) lub znaczników HTML.
+- Utwórz odpowiednie nagłówki tabeli (wiersze i/lub kolumny) za pomocą [narzędzi formatowania aplikacji](#narzedzia-formatowania-w-aplikacjach) lub znaczników HTML.
 - Używaj prostych tabel (maksymalnie jeden wiersz nagłówka i jedna kolumna nagłówków wierszy) zamiast złożonych tabel (wiele wierszy nagłówka i kolumn nagłówków, obejmujących połączone i podzielone komórki).
 - Zamiast pustych komórek nagłówka użyj wartości „0”, „brak wartości”, „nie dotyczy”, „puste” lub innego odpowiedniego tekstu, aby uniknąć pomyłek.
 - Opisując tożsamość lub cel tabeli, użyj unikalnego podpisu tabeli (HTML) lub tytułu/opisu (dokument cyfrowy).
@@ -495,7 +495,7 @@ Te częste błędy utrudniają dostępność i użyteczność treści cyfrowych.
 - Napisy rozszerzone nie są uwzględniane w filmach z dźwiękiem.
 - Audiodeskrypcje nie są istnieją w przypadku filmów, które zawierają istotne informacje przedstawione wyłącznie w formie wizualnej.
 - Treści audio i wideo, które uruchamiają się automatycznie, nie mogą zostać łatwo wstrzymane/zatrzymane.
-- Sterowanie odtwarzaczem multimedialnym audio i wideo nie jest możliwe lub nie można do niego uzyskać dostępu za pomocą klawiatury i [technologii wspomagającej](https://slownik.sdc.#technologie_wspomagajace).
+- Sterowanie odtwarzaczem multimedialnym audio i wideo nie jest możliwe lub nie można do niego uzyskać dostępu za pomocą klawiatury i [technologii wspomagającej](#technologia-wspomagajaca).
 
 ### Najlepsze praktyki
 
@@ -511,7 +511,7 @@ Stosuj się do tych najlepszych praktyk, aby zwiększyć dostępność i użytec
 - Transkrypcje należy udostępnić wraz z treścią zawierającą wyłącznie dźwięk.
 - Warto rozważyć dołączenie transkrypcji jako źródła uzupełniającego, wraz z filmami z napisami rozszerzonymi.
 
-#### Napisy
+#### Napisy rozszerzone
 
 - Napisy rozszerzone są zapewniane zarówno w przypadku nagrań wideo, jak i transmisji na żywo z dźwiękiem.
 - Zidentyfikowano zmiany mówców.
@@ -528,7 +528,7 @@ Stosuj się do tych najlepszych praktyk, aby zwiększyć dostępność i użytec
 
 #### Odtwarzacz multimedialny
 
-- Sterowanie odtwarzaczem wideo lub audio musi być możliwe za pomocą klawiatury i [technologii wspomagającej](https://slownik.sdc.#technologie_wspomagajace).
+- Sterowanie odtwarzaczem wideo lub audio musi być możliwe za pomocą klawiatury i [technologii wspomagającej](#technologia-wspomagajaca).
 - Unikaj automatycznego uruchamiania treści multimedialnych, ponieważ może to zakłócać zdolność słyszenia użytkowników korzystających z technologii wspomagających. Jeśli jednak odtwarzanie ma się odbywać automatycznie, musi być możliwe jego łatwe wstrzymanie lub zatrzymanie.
 
 #### Język migowy
@@ -545,41 +545,41 @@ Użyj tej listy kontrolnej jako przewodnika, aby upewnić się, że Twoje materi
 - Zmiany mówców są widoczne w napisach rozszerzonych i transkrypcjach.
 - Opisy tekstowe lub dźwiękowe (audiodeskrypcję) służą do przedstawienia treści wizualnych w nagranych wcześniej filmach, które nie są opisane/wspierane dźwiękiem.
 - Można wstrzymać odtwarzanie automatycznie uruchamianej treści audio lub wideo.
-- Sterowanie odtwarzaczem multimedialnym audio i wideo jest możliwe za pomocą klawiatury i [technologii wspomagającej](https://slownik.sdc.#technologie_wspomagajace).
+- Sterowanie odtwarzaczem multimedialnym audio i wideo jest możliwe za pomocą klawiatury i [technologii wspomagającej](#technologia-wspomagajaca).
 
 ## Słowniczek
 
-### A11y
+### A11y {#a11y}
 
 A11y to [numeronim](https://en.wikipedia.org/wiki/Numeronym) słowa „accessibility”. „11” reprezentuje 11 znaków pominiętych między „a” i „y” słowa „accessibility”. Chociaż słowo to wygląda na wymawiane jako „Ally”, wymawia się je jako „accessibility”.
 
 Dodatkowe informacje na temat [A11y można znaleźć na stronie The A11y Project](https://www.a11yproject.com/posts/a11y-and-other-numeronyms/) .
 
-### Cel łącza
+### Cel łącza {#cel-lacza}
 
 Miejsce docelowe linku to adres URL lub adres internetowy, pod którym znajduje się powiązany tekst lub obraz.
 
-### Dokument elektroniczny
+### Dokument elektroniczny {#dokument-elektroniczny}
 
 Dokument elektroniczny to dowolna treść multimedialna w jej elektronicznej formie cyfrowej, obejmująca między innymi wiadomość e-mail, stronę internetową, plik PDF, dokument programu Word, dokument programu Excel i prezentację.
 
-### Narzędzia formatowania w aplikacjach
+### Narzędzia formatowania w aplikacjach {#narzedzia-formatowania-w-aplikacjach}
 
 Narzędzia formatowania w aplikacjach pomagają nadać strukturę nagłówkom, listom, linkom i tabelom. Aplikacje to programy komputerowe takie jak Word, Writer, PowerPoint, Canvas, a także edytory tekstu w Drupalu, Joomla, WordPressie i innych programach do tworzenia treści internetowych.
 
-### Sekwencja hierarchiczna
+### Sekwencja hierarchiczna {#sekwencja-hierarchiczna}
 
 Sekwencja hierarchiczna odnosi się do tematu najważniejszego lub głównego i układa go w hierarchię od tematu najmniej ważnego lub podtematów.
 
 Informacje dodatkowe: Projekt A11y: [Co oznacza słowo hierarchiczny?](https://www.a11yproject.com/posts/how-to-accessible-heading-structure/#what-does-hierarchical-mean%3F)
 
-### Technologia wspomagająca
+### Technologia wspomagająca {#technologia-wspomagajaca} 
 
 Technologia wspomagająca oznacza każde narzędzie, urządzenie, sprzęt lub system używany do utrzymania lub zwiększenia zdolności funkcjonalnych osób z niepełnosprawnościami.
 
 Technologia wspomagająca są np. specjalne klawiatury, przełączniki, koty (trackball), urządzenie wskazujące, urządzenie śledzące ruchy gałek ocznych i głowy, systemy mocowania, system pozycjonowania, wózek inwalidzki, odświeżalny wyświetlacz brajlowski, aparaty słuchowe, lupy, oprogramowanie do rozpoznawania mowy i czytnik ekranu.
 
-### Treści cyfrowe i technologia
+### Treści cyfrowe i technologia {#tresci-cyfrowe-i-technologia}
 
 Treścią cyfrową jest każda treść w formacie elektronicznym.
 
