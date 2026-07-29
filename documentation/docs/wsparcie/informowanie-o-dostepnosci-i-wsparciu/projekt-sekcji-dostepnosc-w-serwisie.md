@@ -1,6 +1,6 @@
 ---
 id: projekt-sekcji-dostepnosc-w-serwisie
-title: Modelowy projekt sekcji „Dostępność” w serwisie internetowym organizacji
+title: Projekt sekcji „Dostępność” w serwisie internetowym organizacji
 description: Cele, organizacja informacji, struktura sekcji Dostępność w serwisie internetowym organizacji.
 sidebar_label: Projekt sekcji „Dostępność”
 sidebar_position: 1
@@ -28,13 +28,13 @@ Sekcja nie zastępuje deklaracji dostępności ani informacji wymaganych przepis
 
 ---
 
-# Strona główna sekcji „Dostępność”
+### Strona główna sekcji „Dostępność”
 
 Strona główna sekcji powinna zawierać krótkie wprowadzenie oraz odsyłacze do poszczególnych obszarów tematycznych.
 
 Przykładowy układ:
 
-## Dostępność
+### Dostępność
 
 W tym miejscu znajdziesz informacje dotyczące dostępności naszej organizacji, sposobów uzyskania wsparcia oraz zgłaszania problemów związanych z dostępnością.
 
@@ -51,9 +51,9 @@ W tym miejscu znajdziesz informacje dotyczące dostępności naszej organizacji,
 
 ---
 
-# Proponowana struktura sekcji
+## Proponowana struktura sekcji
 
-## 1. Kontakt i wsparcie
+###  1. Kontakt i wsparcie
 
 Strona zawierająca informacje dotyczące:
 
@@ -71,7 +71,7 @@ Przykładowe pytania użytkowników:
 
 ---
 
-## 2. Zgłaszanie problemów z dostępnością
+###  2. Zgłaszanie problemów z dostępnością
 
 Strona zawierająca informacje o:
 
@@ -89,7 +89,7 @@ Przykładowe pytania użytkowników:
 
 ---
 
-## 3. Dostępność cyfrowa
+### 3. Dostępność cyfrowa
 
 Strona zawierająca:
 
@@ -107,7 +107,7 @@ Przykładowe pytania użytkowników:
 
 ---
 
-## 4. Dostępność architektoniczna
+### 4. Dostępność architektoniczna
 
 Strona zawierająca:
 
@@ -127,7 +127,7 @@ Przykładowe pytania użytkowników:
 
 ---
 
-## 5. Dostępność komunikacyjna
+### 5. Dostępność komunikacyjna
 
 Strona zawierająca informacje o:
 
@@ -139,7 +139,7 @@ Strona zawierająca informacje o:
 
 ---
 
-## 6. Wydarzenia dostępne dla wszystkich
+### 6. Wydarzenia dostępne dla wszystkich
 
 Strona zawierająca informacje o:
 
@@ -158,7 +158,7 @@ Przykładowe pytania użytkowników:
 
 ---
 
-## 7. Korzystanie z technologii wspomagających
+### 7. Korzystanie z technologii wspomagających
 
 Strona zawierająca informacje o:
 
@@ -169,7 +169,7 @@ Strona zawierająca informacje o:
 
 ---
 
-## 8. Informacje łatwe do czytania i zrozumienia
+### 8. Informacje łatwe do czytania i zrozumienia
 
 Strona zawierająca:
 
@@ -179,7 +179,7 @@ Strona zawierająca:
 
 ---
 
-## 9. Informacje w polskim języku migowym
+### 9. Informacje w polskim języku migowym
 
 Strona zawierająca:
 
@@ -189,32 +189,32 @@ Strona zawierająca:
 
 ---
 
-# Powiązanie z innymi częściami serwisu
+## Powiązanie z innymi częściami serwisu
 
 Informacje dotyczące dostępności powinny być dostępne również poza sekcją „Dostępność”.
 
 Rekomenduje się umieszczenie:
 
-## Na stronie kontaktowej
+### Na stronie kontaktowej
 
 - danych koordynatora dostępności,
 - odsyłacza do sekcji „Dostępność”,
 - informacji o dostępności architektonicznej,
 - informacji o sposobach zgłaszania problemów.
 
-## Na stronach wydarzeń
+### Na stronach wydarzeń
 
 - informacji o dostępności wydarzenia,
 - informacji o sposobie zgłaszania szczególnych potrzeb.
 
-## Na stronach usług
+### Na stronach usług
 
 - informacji o dostępnych formach wsparcia,
 - informacji o alternatywnych sposobach załatwienia sprawy.
 
 ---
 
-# Zasady projektowania sekcji
+## Zasady projektowania sekcji
 
 Sekcja „Dostępność” powinna:
 
