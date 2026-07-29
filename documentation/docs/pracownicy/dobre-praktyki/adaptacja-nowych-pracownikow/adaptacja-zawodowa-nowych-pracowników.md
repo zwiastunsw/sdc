@@ -4,23 +4,13 @@ title: Adaptacja zawodowa nowych pracowników
 sidebar_position: 3
 sidebar_label: Opis praktyki. UMWM
 description: Przygotowanie nowych pracowników do obowiązków związanych z zapewnianiem dostępności
-keywords: [
-        wiedza i umiejętności,
-		pracownicy,
-		adaptacja pracowników,
-		wprowadzanie do pracy,
-]
-tags: [
-        wiedza i umiejętności,
-		pracownicy,
-		adaptacja pracowników,
-		wprowadzanie do pracy,
-]
+keywords: [wiedza i umiejętności,pracownicy,adaptacja pracowników,wprowadzanie do pracy,]
+tags: [wiedza i umiejętności,pracownicy,adaptacja pracowników,wprowadzanie do pracy,]
 podmiot_realizujacy: Urząd Marszałkowski Województwa Mazowieckiego w Warszawie
 zglaszajacy: Magdalena Marczakiewicz
 opracowanie: Stefan Wajda
 data_zgloszenia: 25 czerwca 2025 r.
-data_aktualizacji:  18 sierpnia 2025
+ostatnia_aktualizacja:  18 sierpnia 2025
 status: utrwalona # projekt, wdrażana, utrwalona
 wersja_robocza: true
 ---
