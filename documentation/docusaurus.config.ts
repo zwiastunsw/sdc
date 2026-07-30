@@ -1,10 +1,23 @@
 import 'dotenv/config';
+
 import type * as Preset from '@docusaurus/preset-classic';
-import type { Config } from '@docusaurus/types';
-import { themes as prismThemes } from 'prism-react-renderer';
-// 1. Import the remark plugin
+import type {Config} from '@docusaurus/types';
+
+import {themes as prismThemes} from 'prism-react-renderer';
 import remarkMermaidStatic from '@barrierenlos/docusaurus-prerender-mermaid/remark';
-import path from 'path'; // ← wymagane do pluginu aliasów
+import {getRemarkPlugin} from 'docusaurus-plugin-glossary';
+
+import path from 'path';
+
+const glossaryOptions = {
+  glossaryPath: 'slownik/slownik.json',
+  routePath: '/sdc/slownik',
+  expandAcronymsOnFirstUse: true,
+};
+
+const glossaryRemarkPlugin = getRemarkPlugin(glossaryOptions, {
+  siteDir: __dirname,
+});
 
 // ==============================
 //  KONFIGURACJA GŁÓWNA SIECI
@@ -14,114 +27,129 @@ const config: Config = {
     title: 'Sieć Dostępności Cyfrowej',
     tagline: 'Dostępność to Twoje prawo!',
     favicon: 'img/favicon.ico',
+    url: 'https://siec-dostepnosci-cyfrowej.github.io',
+    baseUrl: process.env.BASE_URL || '/sdc/',
+    organizationName: 'Siec-Dostepnosci-Cyfrowej',
+    projectName: 'sdc',
+	trailingSlash: false,
     staticDirectories: ['static'],
+
+    onBrokenLinks: 'throw',
+    onBrokenMarkdownLinks: 'warn',
 
     future: {
         v4: false,
     },
 
+    i18n: { defaultLocale: 'pl', locales: ['pl'] },
 
-
-
-    url: 'https://siec-dostepnosci-cyfrowej.github.io',
-    baseUrl: process.env.BASE_URL || '/sdc/',
-
-    organizationName: 'Sieć Dostępności Cyfrowej',
-    projectName: 'sdc/',
-
-    onBrokenLinks: 'throw',
-
-    i18n: {
-        defaultLocale: 'pl',
-        locales: ['pl'],
-    },
 	
-	 themeConfig: {
-    // ...
-    // The plugin reads this config automatically!
-    mermaid: {
-      theme: { light: 'neutral', dark: 'dark' },
-      options: {
-        fontFamily: 'Arial, sans-serif',
-      },
-    },
-  },
-
     // =====================================
     //  PLUGINS
     // =====================================
-    plugins: [
-        [
-            '@grnet/docusaurus-terminology',
-            {
-                termsDir: './docs/terms',
-                docsDir: './docs/',
-                glossaryFilepath: './docs/glossary.md',
-            },
-        ],
 
-        // --- DODANY PLUGIN ALIASÓW @ ---
-        path.resolve(__dirname, 'plugins/alias-plugin'),
-		
-       [
-      '@barrierenlos/docusaurus-prerender-mermaid',
-      {
-        // Plugin options...
-        contentPaths: ['docs'], // Dirs to scan
-        outputDir: 'img/diagrams', // Where to write SVGs
-        outputFormat: 'svg', // 'svg' or 'png'
-        // concurrency: 4, // How many to render at once. Defaults to CPU count
-        mmdcArgs: ['-b', 'transparent', '--puppeteerConfigFile', './puppeteer.config.json'],
-        // other options...
-      },
-    ],		
-		
-    ],
+
+
+plugins: [
+  path.resolve(__dirname, 'plugins/alias-plugin'),
+
+  [
+    '@barrierenlos/docusaurus-prerender-mermaid',
+    {
+      contentPaths: ['docs'],
+      outputDir: 'img/diagrams',
+      outputFormat: 'svg',
+      mmdcArgs: [
+        '-b',
+        'transparent',
+        '--puppeteerConfigFile',
+        './puppeteer.config.json',
+      ],
+    },
+  ],
+
+  ['docusaurus-plugin-glossary', glossaryOptions],
+],
+
+
+
 
     // =====================================
     //  PRESETS
     // =====================================
-    presets: [
-        [
-            'classic',
-            {
-                docs: {
-                    sidebarPath: './sidebars.ts',
-                    editUrl:
-                        'https://github.com/Siec-Dostepnosci-Cyfrowej/sdc/edit/main/documentation/',
-					 beforeDefaultRemarkPlugins: [remarkMermaidStatic],	
-                },
-                blog: {
-                    showReadingTime: true,
-                    feedOptions: {
-                        type: ['rss', 'atom'],
-                        xslt: true,
-                    },
-                    editUrl:
-                        'https://github.com/Siec-Dostepnosci-Cyfrowej/sdc/edit/main/documentation/',
-                    onInlineTags: 'warn',
-                    onInlineAuthors: 'warn',
-                    onUntruncatedBlogPosts: 'warn',
-                },
-                theme: {
-                    customCss: './src/css/custom.css',
-                },
-            } satisfies Preset.Options,
-        ],
-    ],
+
+
+presets: [
+  [
+    '@docusaurus/preset-classic',
+    {
+      docs: {
+        sidebarPath: './sidebars.ts',
+        editUrl:
+          'https://github.com/Siec-Dostepnosci-Cyfrowej/sdc/edit/main/documentation/',
+
+        beforeDefaultRemarkPlugins: [remarkMermaidStatic],
+
+        remarkPlugins: [glossaryRemarkPlugin],
+      },
+
+      pages: {
+        remarkPlugins: [glossaryRemarkPlugin],
+      },
+
+      blog: {
+        showReadingTime: true,
+
+        feedOptions: {
+          type: ['rss', 'atom'],
+          xslt: true,
+        },
+
+        editUrl:
+          'https://github.com/Siec-Dostepnosci-Cyfrowej/sdc/edit/main/documentation/',
+
+        onInlineTags: 'warn',
+        onInlineAuthors: 'warn',
+        onUntruncatedBlogPosts: 'warn',
+
+        blogTitle: 'Spotkania Sieci Dostępności Cyfrowej',
+        blogDescription:
+          'Informacje o spotkaniach Sieci Dostępności Cyfrowej',
+
+        remarkPlugins: [glossaryRemarkPlugin],
+      },
+
+      theme: {
+        customCss: './src/css/custom.css',
+      },
+    } satisfies Preset.Options,
+  ],
+],
+
+
+
 
     // =====================================
     //  UI: NAVBAR, FOOTER, THEMES, PRISM
     // =====================================
-
     themeConfig: {
         image: 'img/docusaurus-social-card.jpg',
         colorMode: { respectPrefersColorScheme: false },
+		
+		mermaid: {
+		  theme: {
+		    light: 'neutral',
+		    dark: 'dark',
+	      },
+         options: {
+           fontFamily: 'Arial, sans-serif',
+         },
+       },		
 
         navbar: {
             title: 'Sieć Dostępności Cyfrowej',
             logo: {
-                alt: 'Sieć Dostępności Cyfrowej',
+                alt: 'Logo',
                 src: 'img/logo.svg',
             },
             items: [
@@ -137,13 +165,13 @@ const config: Config = {
                     label: 'Wymiary',
                     position: 'left',
                     items: [
-                        { label: 'Komunikacja', to: 'docs/komunikacja/wymiar-komunikacja/o-wymiarze-komunikacja' },
-                        { label: 'Cykl życia TIK', to: 'docs/cykltik/wymiar-cykl-zycia-tik/o-wymiarze-cykl-zycia-tik' },
-                        { label: 'Wiedza i umiejętności', to: 'docs/wiedza/wymiar-wiedza-i-umiejetnosci/o-wymiarze-wiedza-i-umiejetnosci' },
-                        { label: 'Zarządzanie i kultura', to: 'docs/kultura/wymiar-zarzadzanie-i-kultura/o-wymiarze-zarzadzanie-i-kultura' },
-                        { label: 'Pracownicy', to: 'docs/pracownicy/wymiar-pracownicy/o-wymiarze-pracownicy' },
-                        { label: 'Zaopatrzenie', to: 'docs/zaopatrzenie/wymiar-zaopatrzenie/o-wymiarze-zaopatrzenie' },
-                        { label: 'Wsparcie', to: 'docs/wsparcie/wymiar-wsparcie/o-wymiarze-wsparcie' },
+                        { label: 'Komunikacja', to: '/docs/komunikacja/wymiar-komunikacja/o-wymiarze-komunikacja' },
+                        { label: 'Cykl życia TIK', to: '/docs/cykltik/wymiar-cykl-zycia-tik/o-wymiarze-cykl-zycia-tik' },
+                        { label: 'Wiedza i umiejętności', to: '/docs/wiedza/wymiar-wiedza-i-umiejetnosci/o-wymiarze-wiedza-i-umiejetnosci' },
+                        { label: 'Zarządzanie i kultura', to: '/docs/kultura/wymiar-zarzadzanie-i-kultura/o-wymiarze-zarzadzanie-i-kultura' },
+                        { label: 'Pracownicy', to: '/docs/pracownicy/wymiar-pracownicy/o-wymiarze-pracownicy' },
+                        { label: 'Zaopatrzenie', to: '/docs/zaopatrzenie/wymiar-zaopatrzenie/o-wymiarze-zaopatrzenie' },
+                        { label: 'Wsparcie', to: '/docs/wsparcie/wymiar-wsparcie/o-wymiarze-wsparcie' },
                     ],
                 },
 				
@@ -152,20 +180,21 @@ const config: Config = {
                     label: 'Generatory',
                     position: 'left',
                     items: [
-                        { label: 'Generator zaleceń', to: 'generator-zalecen' },
-                        { label: 'Generator opisów praktyk', to: 'generator-dobrej-praktyki' },
-                        { label: 'Word na Markdown', to: 'generator-docx-markdown' },
+                        { label: 'Generator zaleceń', to: '/generator-zalecen' },
+                        { label: 'Generator opisów praktyk', to: '/generator-dobrej-praktyki' },
+                        { label: 'Word na Markdown', to: '/generator-docx-markdown' },
 
                     ],
                 },				
-				
-
+                { to: '/slownik', label: 'Słownik', position: 'left' },				
                 { to: '/blog', label: 'Blog', position: 'left' },
                 {
                     href: 'https://github.com/Siec-Dostepnosci-Cyfrowej/sdc',
-                    label: 'GitHub',
-                    position: 'left',
+					position: 'right',
                     icon: 'github',
+					className: 'header-github-link',
+					'aria-label': 'Repozytorium Sieci Dostępności Cyfrowej w serwisie GitHub',					
+				
                 },
             ],
         },
@@ -214,6 +243,7 @@ const config: Config = {
         prism: {
             theme: prismThemes.github,
             darkTheme: prismThemes.dracula,
+            additionalLanguages: ['bash', 'json', 'tsx', 'typescript'],			
         },
     } satisfies Preset.ThemeConfig,
 };
