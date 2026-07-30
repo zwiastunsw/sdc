@@ -8,7 +8,7 @@ keywords: [zgłoszenia problemów,dostęp alternatywny,żądanie zapewnienia dos
 tags: [zgłoszenia problemów,dostęp alternatywny,żądanie zapewnienia dostępności,obsługa zgłoszeń,alert dostępności]
 opracowanie: Anna Czekalska, Stefan Wajda
 data_zgloszenia: 25 listopada 2025 r.
-ostatnia_aktualizacja: 28 lipca 2026 r.
+ostatnia_aktualizacja: 30 lipca 2026 r.
 wersja_robocza: true
 ---
 
@@ -17,10 +17,17 @@ wersja_robocza: true
 Celem zalecenia jest zapewnienie użytkownikom skutecznych mechanizmów zgłaszania problemów związanych z dostępnością cyfrową oraz uzyskiwania pomocy w sytuacjach, gdy napotykają bariery uniemożliwiające lub utrudniające korzystanie z treści, usług lub technologii cyfrowych udostępnianych przez organizację.
 
 Zalecenie obejmuje zarówno obsługę zgłoszeń dotyczących problemów dostępności cyfrowej, jak i zapewnianie dostępu alternatywnego w przypadkach, gdy usunięcie bariery nie jest możliwe niezwłocznie. 
+Organizacja powinna mieć na uwadze przede wszystkim usunięcie przyczyny bariery. Dostęp alternatywny jest rozwiązaniem uzupełniającym stosowanym do czasu usunięcia problemu lub w sytuacjach przewidzianych przepisami.
 
 ## Zalecenie
+W praktyce do organizacji mogą wpływać różnego rodzaju informacje dotyczące dostępności. Na potrzeby niniejszego zalecenia rozróżnia się:
+- zgłoszenie problemu z dostępnością – każdą informację o napotkanej barierze,
+- żądanie zapewnienia dostępności cyfrowej – formalne żądanie składane na podstawie ustawy o dostępności cyfrowej,
+- skargę – środek przysługujący użytkownikowi zgodnie z przepisami po zakończeniu procedury dotyczącej żądania.
 
-Organizacja wdraża procedurę obsługi zgłoszeń problemów dostępności cyfrowej, zapewniania dostępu alternatywnego oraz rozpatrywania skarg związanych z dostępnością, określającą sposób przyjmowania, rejestrowania, rozpatrywania i monitorowania spraw. Procedura zapewnia użytkownikom możliwość skutecznego zgłaszania problemów oraz uzyskiwania informacji o sposobie ich rozwiązania.
+Organizacja nie powinna oczekiwać od użytkownika znajomości tych pojęć. To organizacja kwalifikuje sprawę i informuje użytkownika o dalszym trybie postępowania.
+
+Organizacja wdraża procedurę obsługi zgłoszeń problemów dostępności cyfrowej, żądania zapewnienia dostępności cyfrowej, zapewniania dostępu alternatywnego oraz rozpatrywania skarg związanych z dostępnością, określającą sposób przyjmowania, rejestrowania, rozpatrywania i monitorowania spraw. Procedura zapewnia użytkownikom możliwość skutecznego zgłaszania problemów oraz uzyskiwania informacji o sposobie ich rozwiązania.
 
 ---
 
@@ -32,11 +39,11 @@ Organizacja zapewnia użytkownikom możliwość zgłaszania problemów dotycząc
 
 Przykładowe kanały mogą obejmować:
 
-- formularz internetowy,
+- dostępny cyfrowo formularz internetowy,
 - pocztę elektroniczną,
 - kontakt telefoniczny,
 - kontakt osobisty,
-- formularz „Zgłoś problem z dostępnością” dostępny z poziomu serwisu internetowego lub aplikacji.
+- dostępny cyfrowo formularz „Zgłoś problem z dostępnością” dostępny z poziomu serwisu internetowego lub aplikacji.
 
 Informacje o sposobach zgłaszania problemów powinny być łatwo odnajdywalne i publikowane w szczególności w deklaracji dostępności oraz sekcji poświęconej dostępności.
 
