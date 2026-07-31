@@ -12,7 +12,7 @@ ostatnia_aktualizacja: 15 kwietnia 2025 r.
 
 :::info O tym dokumencie
 
-Transkrypcja wystąpienia podczas IV spotkania Sieci dostępności cyfrowej. Wymiary dostępności i  [punkty dowodowe](../../terms/punkt-dowodowy) 
+Transkrypcja wystąpienia podczas IV spotkania Sieci dostępności cyfrowej. Wymiary dostępności i  Punkty dowodowe 
 
 :::
 

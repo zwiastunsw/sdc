@@ -38,7 +38,7 @@ Raz w miesiącu organizujemy **spotkania całej Sieci**, na których:
 
 ### Praca w grupach roboczych
 
-Utworzyliśmy 6 grup roboczych, złożonych z osób, które skupiają się na wybranych [**wymiarach dostępności cyfrowej**](../../terms/wymiar-dostepnosci):
+Utworzyliśmy 6 grup roboczych, złożonych z osób, które skupiają się na wybranych **wymiarach dostępności cyfrowej**:
 
 - wymiarze [**Komunikacja**](../../komunikacja/wymiar-komunikacja/o-wymiarze-komunikacja)
 - wymiarze [**Cykl życia TIK**](../../cykltik/wymiar-cykl-zycia-tik/o-wymiarze-cykl-zycia-tik)
