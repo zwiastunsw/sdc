@@ -102,7 +102,7 @@
     },
     {
       "term": "dostępność cyfrowa",
-      "definition": "ang. _accessibility_, właściwość rozwiązań wykorzystujących technologie informacyjno-komunikacyjne polegająca na możliwości korzystania z nich przez możliwie najszerszy krąg użytkowników, w tym osoby z niepełnosprawnościami, bez potrzeby stosowania szczególnych adaptacji lub przy wykorzystaniu technologii wspomagających.",
+      "definition": "Właściwość rozwiązań wykorzystujących technologie informacyjno-komunikacyjne polegająca na możliwości korzystania z nich przez możliwie najszerszy krąg użytkowników, w tym osoby z niepełnosprawnościami, bez potrzeby stosowania szczególnych adaptacji lub przy wykorzystaniu technologii wspomagających. Ang. _accessibility_, ",
       "relatedTerms": [ "wymiar dostępności", "dostępność" ]
     },
     {
@@ -127,7 +127,7 @@
     },
     {
       "term": "ekstranet",
-      "definition": "niepubliczna sieć telekomunikacyjną, do której dostęp może być uzyskiwany z punktów dostępu usytuowanych w więcej niż jednej strukturze organizacyjnej lub organizacji"
+      "definition": "Niepubliczna sieć telekomunikacyjną, do której dostęp może być uzyskiwany z punktów dostępu usytuowanych w więcej niż jednej strukturze organizacyjnej lub organizacji"
     },
     {
       "term": "element aplikacji mobilnej",
@@ -155,20 +155,20 @@
     },
     {
       "term": "fokus klawiatury",
-      "definition": "zaznaczenie - skupienie uwagi systemu na wybranym elemencie na stronie internetowej lub aplikacji za pomocą klawisza tabulacji TAB lub w przypadku aplikacji mobilnej za pomocą dotyku, odwzorowane za pomocą wskaźnika wizualnego np. w postaci ramki wokół elementu."
+      "definition": "Zaznaczenie - skupienie uwagi systemu na wybranym elemencie na stronie internetowej lub aplikacji za pomocą klawisza tabulacji TAB lub w przypadku aplikacji mobilnej za pomocą dotyku, odwzorowane za pomocą wskaźnika wizualnego np. w postaci ramki wokół elementu."
     },
     {
       "term": "funkcjonalność",
-      "definition": "właściwość strony internetowej lub aplikacji mobilnej umożliwiającą użytkownikowi skorzystanie ze wszystkich oferowanych przez nie funkcji",
+      "definition": "Właściwość strony internetowej lub aplikacji mobilnej umożliwiającą użytkownikowi skorzystanie ze wszystkich oferowanych przez nie funkcji",
       "relatedTerms": [ "dostępność cyfrowa", "WCAG", "zasady dostępności" ]
     },
     {
       "term": "Grupa Zasobów Pracowniczych",
-      "definition": "Grupa Zasobów Pracowniczych. Dobrowolny zespół pracowników wewnątrz firmy, którzy łączą się na podstawie wspólnych cech, doświadczeń lub celów. Grupy te wspierają kulturę różnorodności i pomagają w rozwoju organizacji."
+      "definition": "Dobrowolny zespół pracowników wewnątrz firmy, którzy łączą się na podstawie wspólnych cech, doświadczeń lub celów. Grupy te wspierają kulturę różnorodności i pomagają w rozwoju organizacji. Ang. _Employee Resource Group_ (ERG)."
     },
     {
       "term": "intranet",
-      "definition": "niepubliczna sieć telekomunikacyjna, do której dostęp może być uzyskiwany z punktów dostępu usytuowanych w jednej strukturze organizacyjnej lub organizacji"
+      "definition": "Niepubliczna sieć telekomunikacyjna, do której dostęp może być uzyskiwany z punktów dostępu usytuowanych w jednej strukturze organizacyjnej lub organizacji"
     },
     {
       "term": "JRWA",
@@ -239,7 +239,7 @@
     },
     {
       "term": "multimedia ",
-      "definition": "dźwięk, wideo, prezentowane również w sposób interaktywny, lub połączenie tych form przekazu"
+      "definition": "Dźwięk, wideo, prezentowane również w sposób interaktywny, lub połączenie tych form przekazu"
     },
 
 
@@ -309,7 +309,7 @@
     },
     {
       "term": "ponowna kwalifikacja",
-      "definition": ">Powrót do oceny materiału po uzyskaniu nowych informacji, nowej wersji materiału albo dodatkowych wyjaśnień.",
+      "definition": "Powrót do oceny materiału po uzyskaniu nowych informacji, nowej wersji materiału albo dodatkowych wyjaśnień.",
       "relatedTerms": [ "organizacja", "publikacja", "decyzja publikacyjna" ]
     },
     {
@@ -402,7 +402,7 @@
     {
       "term": "SZDC",
       "abbreviation": "system zapewniania dostępności cyfrowej",
-      "definition": ""
+      "definition": "Zorganizowany sposób działania organizacji, obejmujący role, odpowiedzialności, decyzje, procesy, zasoby oraz mechanizmy monitorowania i doskonalenia, dzięki któremu organizacja nabywa i rozwija zdolność do skutecznego zapewniania, utrzymywania i doskonalenia dostępności cyfrowej swoich rozwiązań i usług."
     },
     {
       "term": "technologia informacyjno-komunikacyjna",
@@ -464,12 +464,12 @@
     },
     {
       "term": "wymiar dostępności",
-      "definition": "aspekt, na podstawie którego organizacja mierzy swoją dojrzałość w zakresie dostępności",
+      "definition": "Aspekt, na podstawie którego organizacja mierzy swoją dojrzałość w zakresie dostępności",
       "relatedTerms": [ "dojrzałość" ]
     },
     {
       "term": "wymogi dostępności",
-      "definition": "dokładne i możliwe do przetestowania i weryfikacji  opisy każdej cechy rozwiązania (produktu) cyfrowego, które ma zostać zamówione. Inaczej: wymagania dostępności.",
+      "definition": "Dokładne i możliwe do przetestowania i weryfikacji  opisy każdej cechy rozwiązania (produktu) cyfrowego, które ma zostać zamówione. Inaczej: wymagania dostępności.",
       "relatedTerms": [ "WCAG", "EN 301 549" ]
     },
     {
