@@ -129,5 +129,7 @@ Raport nie zastępuje deklaracji zgodności, raportów z testów ani dokumentacj
 ## 6. Powiązane dokumenty
 
 - Definiowanie i ocena wymagań dostępności cyfrowej w ofertach.
-- Odbiór rozwiązań cyfrowych.
 - Specyfikacja raportu stopnia zgodności rozwiązania z wymaganiami dostępności cyfrowej.
+- [Szablon wymagań wobec ofert na usługi wsparcia eksperckiego w zakresie dostępności cyfrowej](https://siec-dostepnosci-cyfrowej.github.io/sdc/docs/zaopatrzenie/dobor-i-zamawianie-uslug-eksperckich/szablon-wymagan-wobec-ofert-na-uslugi-eksperckie)
+- [Wymagania dostępności cyfrowej w ofertach](https://siec-dostepnosci-cyfrowej.github.io/sdc/docs/category/wymagania-dost%C4%99pno%C5%9Bci-cyfrowej-w-ofertach)
+- Odbiór rozwiązań cyfrowych.
