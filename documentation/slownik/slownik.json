@@ -44,7 +44,6 @@
       "definition": "Rozstrzygnięcie podejmowane na podstawie informacji utrzymywanych przez SZDC. Decyzje prowadzą do działań wpływających na stan dostępności i zgodności lub na rozwój systemu zapewniania dostępności cyfrowej.",
       "relatedTerms": [ "decyzja publikacyjna", "dostępność cyfrowa" ]
     },
-
     {
       "term": "decyzja publikacyjna",
       "definition": "Udokumentowane rozstrzygnięcie określające sposób postępowania z materiałem przeznaczonym do publikacji, w szczególności publikację, odmowę publikacji, działania uzupełniające albo zastosowanie wyłączenia.",
@@ -70,7 +69,6 @@
       "definition": "Zdolność organizacji do efektywnego i skutecznego działania osiągana poprzez rozwój procesów, struktur i kultury organizacyjnej. Oznacza, że organizacja jest w stanie konsekwentnie osiągać cele, adaptować się do zmian i ciągle doskonalić swoje funkcjonowanie.",
       "relatedTerms": [ "dojrzałość", "model dojrzałości dostępności" ]
     },
-
     {
       "term": "dokument elektroniczny",
       "definition": "Plik do pobrania, który może być przeglądany, drukowany lub wypełniany przez użytkowników w trybie off-line lub on-line.",
@@ -81,20 +79,16 @@
       "definition": "Sposób zapewnienia użytkownikowi dostępu do informacji albo usługi w formie innej niż pierwotna, jeżeli pełne dostosowanie zasobu nie jest możliwe, byłoby nieproporcjonalne albo wynika to z potrzeb użytkownika.",
       "relatedTerms": [ "dostępność", "dostępność cyfrowa" ]
     },
-
     {
       "term": "dostęp do informacji",
       "definition": "Możliwość rzeczywistego zapoznania się z treścią informacji niezależnie od sposobu odbioru, technologii wspomagających albo formy publikacji materiału.",
       "relatedTerms": [ "dostępność cyfrowa" ]
     },
-
     {
       "term": "dostępne uzupełnienie",
       "definition": "Dodatkowa treść publikowana razem z materiałem w celu zapewnienia użytkownikowi dostępu do informacji zawartych w materiale niedostępnym albo częściowo dostępnym.",
       "relatedTerms": [ "dostępność cyfrowa", "publikacja", "decyzja publikacyjna" ]
     },
-
-
     {
       "term": "dostępność",
       "definition": "Zakres, w jakim produkty, systemy, usługi, środowiska i obiekty mogą być używane przez ludzi z populacji o najszerszym zakresie cech i możliwości, aby osiągnąć określony cel w określonym kontekście użytkowania (ISO TC 159). Właściwość środowiska (przestrzeni fizycznej, rzeczywistości cyfrowej, systemów informacyjno-komunikacyjnych, produktów, usług), która pozwala osobom z trudnościami funkcjonalnymi (fizycznymi, poznawczymi) na korzystanie z niego na zasadzie równości z innymi.",
@@ -137,7 +131,6 @@
       "term": "element strony internetowej",
       "definition": "Tekst, grafika, wykres, mapa, multimedia, animacje, pliki oraz narzędzia do interaktywnego przesyłania danych."
     },
-
     {
       "term": "ERG",
       "abbreviation": "Employee Resource Group",
@@ -209,7 +202,6 @@
       "definition": "Materiał, który nie spełnia wymagań dostępności cyfrowej albo którego użytkownik nie może skutecznie wykorzystać przy użyciu technologii wspomagających lub alternatywnych sposobów odbioru.",
       "relatedTerms": [ "dostępność cyfrowa", "publikacja", "decyzja publikacyjna" ]
     },
-
     {
       "term": "materiał pochodzący od innego podmiotu",
       "definition": "Materiał przekazany do publikacji przez podmiot inny niż podmiot publiczny prowadzący serwis internetowy, aplikację mobilną albo Biuletyn Informacji Publicznej.",
@@ -241,8 +233,6 @@
       "term": "multimedia ",
       "definition": "Dźwięk, wideo, prezentowane również w sposób interaktywny, lub połączenie tych form przekazu"
     },
-
-
     {
       "term": "nabywca",
       "definition": "Osoba (fizyczna lub prawna), która nabywa (kupuje) dobra materialne lub usługi od sprzedawcy. Obejmuje nie tylko osobę podpisującą umowę, ale także decydentów, osoby wpływowe, właścicieli produktów i inne osoby bezpośrednio odpowiedzialne za wprowadzanie technologii do organizacji. Często używane zamiennie z „kupujący”.",
@@ -275,7 +265,6 @@
       "definition": "Rozstrzygnięcie polegające na nieopublikowaniu materiału z powodu braku podstaw publikacji, istotnych braków formalnych, problemów dostępności albo innych uzasadnionych przyczyn.",
       "relatedTerms": [ "dostępność cyfrowa", "publikacja", "decyzja publikacyjna" ]
     },
-
     {
       "term": "organizacja",
       "definition": "Grupa ludzi, instytucja lub państwo, które działają razem, by osiągnąć wspólne cele, posiadając ustaloną strukturę. Zobacz także: podmiot publiczny",
@@ -340,7 +329,6 @@
       "definition": "Okoliczności, które mogą uzasadniać zastosowanie wyłączenia przewidzianego w przepisach dotyczących dostępności cyfrowej.",
       "relatedTerms": [ "organizacja", "publikacja", "decyzja publikacyjna" ]
     },
-
     {
       "term": "publikacja warunkowa",
       "definition": "Publikacja materiału mimo występowania ograniczeń dostępności, po przeprowadzeniu oceny sytuacji, udokumentowaniu decyzji oraz zastosowaniu działań uzupełniających.",
@@ -374,6 +362,11 @@
     {
       "term": "rejestr",
       "definition": "Centralnie utrzymywany zbiór powiązanych informacji wykorzystywany przez SZDC. Rejestr jest stale aktualizowany i stanowi podstawowe źródło informacji wykorzystywane przez procesy, raporty oraz publikacje."
+    },
+    {
+      "term": "rozwiązanie cyfrowe",
+      "definition": "Produkt, usługa, system, dokument, komponent lub inny przedmiot wykorzystujący technologie cyfrowe, dla którego organizacja określa wymagania dostępności, prowadzi ocenę stanu dostępności i zgodności oraz podejmuje decyzje dotyczące jego nabywania, odbioru, utrzymania lub rozwoju.",
+      "relatedTerms": [ "dostępność cyfrowa", "stan dostępności i zgodności", "ocena dostępności", "raport stopnia zgodności", "dokumentacja dostępności rozwiązania" ]
     },
     {
       "term": "rozwiązanie systemowe",
@@ -438,7 +431,6 @@
       "definition": "Sprawdzenie, czy materiał zawiera wszystkie pliki, informacje i dane potrzebne do oceny oraz publikacji.",
       "relatedTerms": [ "weryfikacja dostępności", "publikacja", "decyzja publikacyjna" ]
     },
-
     {
       "term": "weryfikacja dostępności",
       "definition": "Ocena materiału przeprowadzana przed publikacją w zakresie adekwatnym do rodzaju materiału, ryzyka wystąpienia barier oraz sposobu publikacji.",
@@ -511,10 +503,3 @@
     }
   ]
 }
-
-
-
-
-	
-
-
