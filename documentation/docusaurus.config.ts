@@ -48,8 +48,6 @@ const config: Config = {
     //  PLUGINS
     // =====================================
 
-
-
     plugins: [
         path.resolve(__dirname, 'plugins/alias-plugin'),
 
