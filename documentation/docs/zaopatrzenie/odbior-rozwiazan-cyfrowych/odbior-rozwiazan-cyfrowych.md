@@ -39,7 +39,7 @@ Wykonawca odpowiada za:
 
 ### 3.2. Warunki rozpoczęcia odbioru
 
-Warunkiem rozpoczęcia odbioru jest przekazanie dokumentacji dostępności rozwiązania, obejmującej informacje wymagane niniejszym zaleceniem oraz dokumentami zamówienia.
+Warunkiem rozpoczęcia odbioru jest przekazanie dokumentacji dostępności rozwiązania, obejmującej informacje wymagane tym zaleceniem oraz dokumentami zamówienia.
 
 Dokumentacja obejmuje w szczególności raport stopnia zgodności oraz materiały dowodowe.
 
