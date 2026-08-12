@@ -1,7 +1,7 @@
 ---
 id: procedura-naprawy-bledow
 title: Procedura naprawy wykrytych i zgłoszonych problemów
-description: Podmiot publiczny jest prawnie zobowiązany do zapewnienia dostępności cyfrowej na stronie internetowej i aplikacji mobilnej. Zgłoszone lub wykryte błędy powi...
+description: Podmiot publiczny jest prawnie zobowiązany do zapewnienia dostępności cyfrowej na stronie internetowej i aplikacji mobilnej.
 sidebar_label: Procedura naprawy wykrytych i zgłoszonych problemów
 sidebar_position: 1
 keywords: [cykl życia TIK, błędy, naprawa błędów, ocenianie zgodności]
