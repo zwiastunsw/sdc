@@ -88,7 +88,7 @@ Ich celem jest doprowadzenie do sytuacji, w której dostępność cyfrowa nie je
 
 Usługi wsparcia kompetencyjnego pomagają organizacji **budować i rozwijać własną zdolność do samodzielnego wykonywania zadań związanych z zapewnianiem dostępności cyfrowej**.
 
-Zdolność ta nie sprowadza się do wiedzy i umiejętności pracowników. Obejmuje również wypracowane przez organizację sposoby działania oraz rozwiązania wspierające ich stosowanie, takie jak standardy, instrukcje, szablony, wzorce, narzędzia kontroli, zasoby wiedzy i formy wewnętrznego wsparcia. Kwalifikacje pracowników i zespołów są jednym z elementów tej zdolności i powinny być rozwijane odpowiednio do wykonywanych przez nich zadań i pełnionych ról.
+Organizacja posiada taką zdolność, jeżeli potrafi wykonywać określone zadania w sposób skuteczny, powtarzalny i zgodny z wymaganiami dostępności. Wymaga to odpowiednich sposobów działania, środków wspierających ich stosowanie – takich jak standardy, instrukcje, szablony, wzorce, narzędzia kontroli, zasoby wiedzy i formy wewnętrznego wsparcia – oraz pracowników i zespołów posiadających kwalifikacje potrzebne do wykonywania powierzonych im zadań.
 
 Usługi te mogą dlatego obejmować zarówno pomoc w tworzeniu i wdrażaniu organizacyjnych sposobów wykonywania określonych zadań, jak i rozwijanie kwalifikacji pracowników, przygotowywanie osób pełniących role specjalistyczne oraz organizowanie wewnętrznego wsparcia kompetencyjnego. Ich celem jest umożliwienie organizacji trwałego i powtarzalnego wykonywania zadań zgodnie z wymaganiami dostępności, a nie samo przekazanie wiedzy lub przeprowadzenie szkolenia.
 
