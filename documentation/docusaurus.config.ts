@@ -15,7 +15,7 @@ const _require = createRequire(__filename);
 const remarkGlossaryFirstOccurrence = _require('./src/remark/glossary-first-occurrence.cjs');
 const glossaryOptions = {
     glossaryPath: 'slownik/slownik.json',
-    routePath: '/sdc/slownik',
+    routePath: './slownik',
     siteDir: __dirname,
     expandAcronymsOnFirstUse: true,
     linkOnlyFirstOccurrence: true,   // ← tylko pierwsze wystąpienie na plik
