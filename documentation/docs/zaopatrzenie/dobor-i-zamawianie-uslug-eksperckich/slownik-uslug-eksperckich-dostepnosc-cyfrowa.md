@@ -39,7 +39,7 @@ Każde hasło opisuje jedną usługę ekspercką i przedstawia jej cel, typowe z
 
 Jedno przedsięwzięcie może wymagać wykorzystania kilku usług, należących do jednej lub różnych rodzin. Usługi mogą być zatem wykorzystywane samodzielnie albo łączone w ramach jednego przedsięwzięcia odpowiednio do jego potrzeb.
 
-W doborze właściwych usług pomagają przewodniki decyzyjne oraz **Indeks potrzeb organizacji** zamieszczony w rozdziale 7.
+W doborze właściwych usług pomagają przewodniki decyzyjne oraz **Indeks sytuacji organizacji** zamieszczony w rozdziale 7.
 
 ### 1.3 Usługa w przedsięwzięciu organizacji
 
@@ -51,7 +51,11 @@ Nie korzystaj z tego dokumentu jak z katalogu, z którego wybiera się usługę.
 
 ## 2. Rodzaje usług
 
-W Słowniku wyróżniono trzy podstawowe rodziny usług eksperckich. Poprzedza je usługa **Pierwszy krok ku dostępności cyfrowej**, przeznaczona dla organizacji, która nie potrafi jeszcze określić właściwego przedsięwzięcia lub potrzebnego rodzaju wsparcia.
+Słownik obejmuje usługę **Pierwszy krok ku dostępności cyfrowej** oraz trzy podstawowe rodziny usług wsparcia eksperckiego.
+
+**Pierwszy krok ku dostępności cyfrowej** jest usługą szczególną, przeznaczoną dla organizacji, która chce podjąć działania na rzecz dostępności cyfrowej, ale nie potrafi jeszcze wystarczająco określić właściwego przedsięwzięcia, oczekiwanego rezultatu lub potrzebnej roli eksperta. Dlatego poprzedza podział usług na trzy rodziny.
+
+Pozostałe usługi należą do jednej z trzech rodzin: **wsparcia organizacyjnego, wsparcia kompetencyjnego albo wsparcia audytorskiego**.
 
 ### 2.1. Pierwszy krok ku dostępności cyfrowej
 
@@ -69,60 +73,43 @@ Usługa nie wymaga przeprowadzenia kompleksowej oceny dojrzałości organizacji 
 
 **Materiały:** krótkie podsumowanie rozpoznanej sytuacji, problemów i oczekiwanych rezultatów; rekomendowane kierunki i pierwsze działania; wskazanie działań możliwych do wykonania samodzielnie oraz — jeżeli jest potrzebne — rekomendowanego zakresu i rodzaju dalszego wsparcia eksperckiego.
 
-:::note Uwaga
+### 2.2. Trzy rodziny usług
 
-**Pierwszy krok ku dostępności cyfrowej poprzedza podział usług na trzy kategorie.** Jest przeznaczony dla organizacji, która wie, że chce lub powinna podjąć działania na rzecz dostępności cyfrowej, ale nie potrafi jeszcze określić właściwego przedsięwzięcia albo roli, jaką powinien w nim odegrać ekspert. Rezultatem usługi może być wskazanie potrzeby wsparcia organizacyjnego, kompetencyjnego lub audytorskiego, połączenia różnych rodzajów wsparcia albo stwierdzenie, że najbliższe działania organizacja może wykonać samodzielnie.
+Usługi eksperckie opisane w Słowniku należą do trzech podstawowych rodzin odpowiadających różnym funkcjom wsparcia w przedsięwzięciach organizacji:
 
-:::
+- **usługi wsparcia organizacyjnego** — pomagają organizacji włączać dostępność cyfrową do zarządzania, procesów i przedsięwzięć oraz budować zdolność do systematycznego zarządzania jej zapewnianiem;
+- **usługi wsparcia kompetencyjnego** — pomagają organizacji budować i rozwijać własną zdolność do samodzielnego wykonywania zadań związanych z zapewnianiem dostępności cyfrowej;
+- **usługi audytorskie** — wykorzystują specjalistyczne kompetencje w ocenianiu dostępności i zgodności przede wszystkim do dostarczania organizacji wiarygodnej wiedzy o stanie jej rozwiązań cyfrowych oraz wspierania działań wymagających takich kompetencji.
 
-### 2.2. Usługi wsparcia organizacyjnego
+Rodziny te rozróżnia przede wszystkim **rola eksperta i rezultat jego wsparcia**, a nie przedmiot przedsięwzięcia, metoda pracy ani forma realizacji usługi. To samo przedsięwzięcie organizacji może dlatego wymagać wykorzystania usług należących do kilku rodzin.
 
-Usługi wsparcia organizacyjnego pomagają organizacji **włączać dostępność cyfrową do systemu zarządzania, procesów i przedsięwzięć oraz budować zdolność do systematycznego zarządzania jej zapewnianiem**.
+Szczegółowe wyjaśnienie charakteru każdej rodziny oraz należące do niej usługi przedstawiono w rozdziałach 3–5.
 
-Obejmują przede wszystkim pomoc w określaniu zasad działania, odpowiedzialności i uprawnień, organizowaniu zasobów, planowaniu i nadzorowaniu działań oraz włączaniu wymagań dostępności do procesów zarządzania informacją i komunikacją, usługami publicznymi, systemami informatycznymi i zaopatrzeniem.
-
-Ich celem jest doprowadzenie do sytuacji, w której dostępność cyfrowa nie jest przedmiotem działań doraźnych lub odrębnych, lecz staje się trwałym aspektem zarządzania działalnością organizacji.
-
-
-### 2.3. Usługi wsparcia kompetencyjnego
-
-Usługi wsparcia kompetencyjnego pomagają organizacji **budować i rozwijać własną zdolność do samodzielnego wykonywania zadań związanych z zapewnianiem dostępności cyfrowej**.
-
-Organizacja posiada taką zdolność, jeżeli potrafi wykonywać określone zadania w sposób skuteczny, powtarzalny i zgodny z wymaganiami dostępności. Wymaga to odpowiednich sposobów działania, środków wspierających ich stosowanie – takich jak standardy, instrukcje, szablony, wzorce, narzędzia kontroli, zasoby wiedzy i formy wewnętrznego wsparcia – oraz pracowników i zespołów posiadających kwalifikacje potrzebne do wykonywania powierzonych im zadań.
-
-Usługi te mogą dlatego obejmować zarówno pomoc w tworzeniu i wdrażaniu organizacyjnych sposobów wykonywania określonych zadań, jak i rozwijanie kwalifikacji pracowników, przygotowywanie osób pełniących role specjalistyczne oraz organizowanie wewnętrznego wsparcia kompetencyjnego. Ich celem jest umożliwienie organizacji trwałego i powtarzalnego wykonywania zadań zgodnie z wymaganiami dostępności, a nie samo przekazanie wiedzy lub przeprowadzenie szkolenia.
-
-### 2.4. Usługi audytorskie
-
-Usługi audytorskie wykorzystują specjalistyczne kompetencje w ocenianiu stanu dostępności i zgodności rozwiązań cyfrowych. Służą przede wszystkim dostarczaniu organizacji wiarygodnej wiedzy potrzebnej do kontrolowania tego stanu, podejmowania decyzji oraz skutecznego doprowadzania rozwiązań do dostępności i zgodności, utrzymywania osiągniętego stanu i jego dalszego doskonalenia.
-
-Usługa audytorska nie musi mieć postaci kompleksowego audytu. Zależnie od potrzeb organizacji może służyć wstępnemu rozpoznaniu stanu, identyfikacji i analizie problemów, ocenie określonych obiektów, procesów lub wymagań, monitorowaniu zmian, weryfikacji rezultatów prac naprawczych albo potwierdzeniu zgodności. Zakres i metody oceny powinny być dobierane do wiedzy, jakiej organizacja rzeczywiście potrzebuje do podjęcia określonych decyzji lub działań.
-
-Kompetencje audytorskie mogą być również wykorzystywane do wspierania działań, których bezpośrednim rezultatem nie jest sama ocena stanu, w szczególności do wspierania prac naprawczych oraz **wdrażania sposobu systematycznego obserwowania, oceniania i wykorzystywania wiedzy o stanie dostępności i zgodności**.
-
-Usługi audytorskie różnią się zakresem, metodami oraz celem, jakiemu służy ocena lub wykorzystanie kompetencji audytora. Mogą być realizowane jako samodzielne przedsięwzięcia lub jako element szerszego przedsięwzięcia organizacji.
-
-### 2.5 Zależności pomiędzy rodzinami usług
+### 2.3. Zależności pomiędzy rodzinami usług
 
 Poszczególne rodziny usług nie konkurują ze sobą ani nie stanowią kolejnych poziomów zaawansowania. Odpowiadają na różne potrzeby organizacji i często są wykorzystywane łącznie.
 
-Usługi wsparcia organizacyjnego pomagają organizacji włączać dostępność do zarządzania, procesów i przedsięwzięć oraz rozwijać zdolność do zarządzania jej zapewnianiem. Usługi wsparcia kompetencyjnego pomagają budować zdolność organizacji do samodzielnego wykonywania zadań zgodnie z wymaganiami dostępności. Usługi audytorskie dostarczają wiedzy o stanie dostępności i zgodności oraz specjalistycznych kompetencji w jego ocenianiu, potrzebnych organizacji do kontrolowania stanu i podejmowania decyzji.
+Usługi wsparcia organizacyjnego pomagają tworzyć warunki zarządcze potrzebne do systematycznego zapewniania dostępności. Usługi wsparcia kompetencyjnego pomagają organizacji budować zdolność do samodzielnego wykonywania potrzebnych zadań. Usługi audytorskie dostarczają wiedzy o stanie dostępności i zgodności oraz specjalistycznych kompetencji w jego ocenianiu, potrzebnych do kontrolowania stanu i podejmowania decyzji.
 
-Dobór usług powinien wynikać z celów przedsięwzięcia oraz rzeczywistych potrzeb organizacji, a nie z przyzwyczajeń lub nazw usług funkcjonujących na rynku.
+Dobór usług powinien wynikać z celów przedsięwzięcia, roli potrzebnej od eksperta oraz rzeczywistych potrzeb organizacji, a nie z przyzwyczajeń lub nazw usług funkcjonujących na rynku.
+
+Zasady dobierania i łączenia usług w ramach przedsięwzięć organizacji przedstawiono w rozdziale 6.
 
 ---
+
 
 ## 3. Usługi wsparcia organizacyjnego
 
 ### 3.1. Jak rozumieć usługi wsparcia organizacyjnego
 
-Usługi wsparcia organizacyjnego pomagają organizacji włączyć dostępność cyfrową do systemu zarządzania, procesów i przedsięwzięć oraz zbudować zdolność do systematycznego zarządzania jej zapewnianiem.
+Usługi wsparcia organizacyjnego pomagają organizacji **włączać dostępność cyfrową do systemu zarządzania, procesów i przedsięwzięć oraz budować zdolność do systematycznego zarządzania jej zapewnianiem**.
 
-Przedmiotem tych usług jest organizacja jako całość — jej sposób zarządzania i działania, procesy, role i odpowiedzialności, zasoby oraz mechanizmy planowania, podejmowania decyzji, nadzoru i doskonalenia. Ekspert wspiera przede wszystkim kierownictwo oraz osoby odpowiedzialne za zarządzanie poszczególnymi obszarami działalności organizacji.
+Przedmiotem tych usług jest sposób działania organizacji – jej system zarządzania, procesy, role i odpowiedzialności, zasoby oraz mechanizmy planowania, podejmowania decyzji, nadzoru i doskonalenia.
+Ekspert wspiera organizację w wypracowywaniu i wdrażaniu rozwiązań pozwalających uwzględniać dostępność jako trwały aspekt jej działalności.
 
-Usługi te pomagają przejść od działań doraźnych, podejmowanych w reakcji na pojawiające się problemy, do trwałego uwzględniania dostępności w zwykłym sposobie działania organizacji. Ich rezultatem jest rozwój zdolności zarządczych umożliwiających systematyczne planowanie, organizowanie, nadzorowanie i doskonalenie działań związanych z zapewnianiem dostępności.
+Wsparcie może dotyczyć w szczególności określania zasad działania, odpowiedzialności i uprawnień, organizowania zasobów, planowania i nadzorowania działań oraz włączania wymagań dostępności do procesów zarządzania informacją i komunikacją, usługami publicznymi, rozwiązaniami informatycznymi i zaopatrzeniem.
 
-W praktyce usługi wsparcia organizacyjnego są najczęściej wykorzystywane podczas:
+Usługi te są wykorzystywane między innymi podczas:
 
 - rozpoczynania lub porządkowania systemowych działań na rzecz dostępności cyfrowej;
 - planowania rozwoju zdolności organizacji;
@@ -130,6 +117,8 @@ W praktyce usługi wsparcia organizacyjnego są najczęściej wykorzystywane pod
 - określania odpowiedzialności, uprawnień i zasad współpracy;
 - włączania dostępności do istniejących procesów i przedsięwzięć;
 - doskonalenia sposobu zarządzania zapewnianiem dostępności.
+
+Ich celem jest przejście od działań doraźnych lub prowadzonych odrębnie od zwykłej działalności organizacji do sytuacji, w której dostępność cyfrowa staje się trwałym aspektem zarządzania. Rezultatem jest rozwój zdolności zarządczych umożliwiających systematyczne planowanie, organizowanie, nadzorowanie i doskonalenie działań związanych z zapewnianiem dostępności.
 
 Ekspert nie przejmuje odpowiedzialności za zarządzanie dostępnością ani nie podejmuje decyzji w imieniu organizacji. Pomaga organizacji wypracować i wdrożyć własne rozwiązania oraz rozwinąć zdolność do samodzielnego zarządzania zapewnianiem dostępności cyfrowej.
 
@@ -213,15 +202,15 @@ Poszczególne usługi wsparcia organizacyjnego mogą być realizowane jako odrę
 
 ### 4.1. Jak rozumieć usługi wsparcia kompetencyjnego
 
-Usługi wsparcia kompetencyjnego pomagają organizacji budować i rozwijać własną zdolność do samodzielnego wykonywania zadań związanych z zapewnianiem dostępności cyfrowej.
+Usługi wsparcia kompetencyjnego pomagają organizacji **budować i rozwijać własną zdolność do samodzielnego wykonywania zadań związanych z zapewnianiem dostępności cyfrowej**.
 
-Zdolność organizacji do wykonywania tych zadań nie jest prostą sumą wiedzy i umiejętności jej pracowników. Tworzą ją również wypracowane sposoby działania oraz środki wspierające pracę, między innymi standardy, szablony, instrukcje, metody kontroli, zasoby wiedzy i formy wewnętrznego wsparcia.
+Organizacja posiada taką zdolność, jeżeli potrafi wykonywać określone zadania w sposób skuteczny, powtarzalny i zgodny z wymaganiami dostępności. Wymaga to odpowiednich sposobów działania, środków wspierających ich stosowanie — takich jak standardy, instrukcje, szablony, wzorce, narzędzia kontroli, zasoby wiedzy i formy wewnętrznego wsparcia — oraz pracowników i zespołów posiadających kwalifikacje potrzebne do wykonywania powierzonych im zadań.
 
-Usługi wsparcia kompetencyjnego pomagają organizacji wypracowywać takie rozwiązania oraz przygotowywać pracowników do ich tworzenia, stosowania, utrzymywania i doskonalenia. Ich celem nie jest przekazywanie wiedzy jako wartości samej w sobie, lecz zapewnienie organizacji trwałej zdolności do wykonywania określonych zadań zgodnie z wymaganiami dostępności.
+Usługi wsparcia kompetencyjnego mogą dlatego obejmować zarówno pomoc w tworzeniu i wdrażaniu sposobów wykonywania określonych zadań i środków wspierających ich stosowanie, jak i rozwijanie kwalifikacji pracowników, przygotowywanie osób pełniących role specjalistyczne oraz organizowanie wewnętrznego wsparcia kompetencyjnego.
 
-Usługi te są skierowane przede wszystkim do organizacji, które chcą rozwijać własne kompetencje, ograniczać zależność od wsparcia zewnętrznego oraz zapewnić trwałość wypracowanych rozwiązań.
+Ich celem nie jest przekazywanie wiedzy jako wartości samej w sobie ani samo przeprowadzenie szkolenia, lecz umożliwienie organizacji trwałego i powtarzalnego wykonywania określonych zadań zgodnie z wymaganiami dostępności. Pomagają dzięki temu ograniczać zależność od wsparcia zewnętrznego oraz zapewniać trwałość wypracowanych sposobów działania i rozwiązań.
 
-Szkolenia, warsztaty, konsultacje, mentoring, coaching oraz inne formy pracy z ekspertami nie stanowią odrębnych usług. Są metodami wykorzystywanymi podczas realizacji usług opisanych w niniejszym rozdziale.
+Szkolenia, warsztaty, konsultacje, mentoring, coaching oraz inne formy pracy z ekspertami nie stanowią odrębnych usług wsparcia kompetencyjnego. Są metodami, które mogą być wykorzystywane odpowiednio do celu usługi i rezultatów, jakie organizacja chce dzięki niej osiągnąć.
 
 ---
 
@@ -386,27 +375,28 @@ Poszczególne usługi wsparcia kompetencyjnego mogą być realizowane jako samod
 
 ### 5.1. Jak rozumieć usługi audytorskie
 
-Usługi audytorskie łączy wykorzystanie specjalistycznych kompetencji w obserwowaniu, badaniu i ocenianiu dostępności oraz zgodności rozwiązań cyfrowych. Kompetencje te mogą służyć zarówno bezpośredniemu dostarczaniu organizacji wiedzy o stanie jej rozwiązań, jak i wspieraniu działań, w których taka wiedza i umiejętność jej uzyskiwania są niezbędne.
+Usługi audytorskie łączy **wykorzystanie specjalistycznych kompetencji w obserwowaniu, badaniu i ocenianiu stanu dostępności oraz zgodności rozwiązań cyfrowych**. Służą przede wszystkim dostarczaniu organizacji wiarygodnej wiedzy potrzebnej do kontrolowania tego stanu, podejmowania decyzji oraz skutecznego doprowadzania rozwiązań do dostępności i zgodności, utrzymywania osiągniętego stanu i jego dalszego doskonalenia.
 
-Dlatego usługa audytorska nie jest synonimem audytu zgodności. Zależnie od potrzeb organizacji może polegać na wykonaniu ograniczonej oceny, testowaniu, skanowaniu, przeglądzie diagnostycznym, badaniu z użytkownikami, monitorowaniu zmian lub weryfikacji rezultatów działań. Kompetencje audytorskie mogą być również wykorzystywane podczas prac naprawczych, odbioru rozwiązania albo wdrażania organizacyjnego sposobu obserwowania, oceniania i wykorzystywania wiedzy o stanie dostępności i zgodności.
+Usługa audytorska nie jest synonimem kompleksowego audytu zgodności. Zależnie od potrzeb organizacji może służyć wstępnemu rozpoznaniu stanu, identyfikacji i analizie problemów, ocenie określonych obiektów, procesów lub wymagań, monitorowaniu zmian, weryfikacji rezultatów prac naprawczych albo potwierdzeniu zgodności. Może być realizowana między innymi poprzez testowanie, skanowanie, przegląd diagnostyczny, badanie z użytkownikami, monitoring lub inne odpowiednio dobrane metody oceny.
 
 Przedmiotem usług audytorskich mogą być między innymi:
 
-- strony internetowe,
-- aplikacje mobilne,
-- systemy informatyczne,
-- dokumenty elektroniczne,
-- procesy użytkownika,
-- usługi publiczne z komponentem cyfrowym,
-- projekty rozwiązań cyfrowych,
-- materiały dowodowe dotyczące dostępności,
-- działania podejmowane przez wykonawców,
+- strony internetowe;
+- aplikacje mobilne;
+- systemy informatyczne;
+- dokumenty elektroniczne i materiały multimedialne;
+- procesy użytkownika;
+- usługi publiczne z komponentem cyfrowym;
+- projekty rozwiązań cyfrowych;
+- materiały dowodowe dotyczące dostępności;
+- działania podejmowane przez wykonawców;
 - stan dostępności i zgodności rozwiązań cyfrowych.
 
-Usługi audytorskie różnią się celem, zakresem, metodyką oraz sposobem wykorzystania ich rezultatów. Nie każda usługa prowadzi do formalnej oceny zgodności. W zależności od potrzeb organizacji usługa może służyć rozpoznaniu problemów, wsparciu realizacji przedsięwzięcia, monitorowaniu zmian, ocenie ryzyka lub potwierdzeniu spełnienia wymagań dostępności.
+Zakres i metody oceny powinny być dobierane do wiedzy, jakiej organizacja rzeczywiście potrzebuje do podjęcia określonych decyzji lub działań. Nie każda usługa audytorska prowadzi dlatego do formalnej oceny zgodności, a uzyskanie potrzebnej wiedzy nie zawsze wymaga przeprowadzenia kompleksowego audytu.
 
-Usługi audytorskie nie polegają na usuwaniu wykrytych problemów ani na przejmowaniu odpowiedzialności za decyzje podejmowane przez organizację. Ich zadaniem jest dostarczenie rzetelnych informacji stanowiących podstawę planowania działań, podejmowania decyzji oraz oceny ich rezultatów.
+Specjalistyczne kompetencje audytorskie mogą być również wykorzystywane do wspierania przedsięwzięć, których bezpośrednim rezultatem nie jest sama ocena stanu. Dotyczy to w szczególności wspierania prac naprawczych oraz wdrażania sposobu systematycznego obserwowania, oceniania i wykorzystywania wiedzy o stanie dostępności i zgodności.
 
+Usługi audytorskie nie polegają na usuwaniu wykrytych problemów ani na przejmowaniu odpowiedzialności za decyzje podejmowane przez organizację. Ekspert dostarcza wiedzy i specjalistycznej oceny albo wykorzystuje swoje kompetencje audytorskie do wspierania działań organizacji. Organizacja pozostaje odpowiedzialna za przedsięwzięcie, podejmowane decyzje oraz sposób wykorzystania rezultatów wsparcia.
 
 ---
 
@@ -502,7 +492,7 @@ Rezultatem usługi jest bieżąca wiedza o stanie dostępności oraz informacje 
 
 Usługa polegająca na przygotowaniu organizacji do prowadzenia systematycznej obserwacji i oceny stanu dostępności oraz zgodności rozwiązań cyfrowych.
 
-Ekspert pomaga organizacji określić, jakie rozwiązania i ich elementy powinny być obserwowane i oceniane, kiedy i w jakim zakresie należy prowadzić oceny, jakie źródła wiedzy i metody oceny wykorzystywać, jak dokumentować wyniki oraz jak reagować na stwierdzony stan i jego zmiany. System powinien również określać odpowiedzialność za organizowanie ocen, gromadzenie wiedzy i podejmowanie działań wynikających z ich rezultatów.
+Ekspert pomaga organizacji określić, jakie rozwiązania i ich elementy powinny być obserwowane i oceniane, kiedy i w jakim zakresie należy prowadzić oceny, jakie źródła wiedzy i metody oceny wykorzystywać, jak dokumentować wyniki oraz jak reagować na stwierdzony stan i jego zmiany. Sposób prowadzenia kontroli powinien opierać się przede wszystkim na własnych zdolnościach organizacji do obserwowania i oceniania stanu, uzupełnianych specjalistycznym wsparciem zewnętrznym w zakresie, w którym jest ono potrzebne. System powinien również określać odpowiedzialność za organizowanie ocen, gromadzenie wiedzy i podejmowanie działań wynikających z ich rezultatów.
 
 Rezultatem usługi jest wdrożony sposób systematycznego obserwowania i oceniania stanu dostępności i zgodności, gromadzenia i wykorzystywania wiedzy o tym stanie oraz reagowania na stwierdzone problemy i zmiany.
 
@@ -747,7 +737,7 @@ Jeżeli organizacja nie potrafi jeszcze określić problemu, przedsięwzięcia, 
 | Chcemy przygotowywać nowych pracowników do wykonywania powierzanych im zadań zgodnie z wymaganiami dostępności. | **Tworzenie programu wdrażania nowych pracowników w zakresie dostępności cyfrowej** |
 | Pracownicy potrzebują miejsca lub osób, do których mogą zwracać się z bieżącymi problemami dotyczącymi dostępności. | **Tworzenie pierwszej linii wsparcia dostępności** |
 | Organizacja i jej jednostki podległe potrzebują wspólnego systemu wsparcia kompetencyjnego i współdzielenia jego zasobów. | **Wspólny system wsparcia z jednostkami podległymi** |
-| Chcemy samodzielnie prowadzić okresowe oceny stanu dostępności i zgodności naszych rozwiązań. | **Przygotowanie zespołu do okresowego oceniania stanu dostępności i zgodności**; przy budowaniu szerszego rozwiązania także **Wdrożenie systemu obserwowania i oceniania stanu dostępności i zgodności**. |
+| Chcemy przygotować własny zespół do wykonywania okresowych ocen stanu dostępności i zgodności. | **Przygotowanie zespołu do okresowego oceniania stanu dostępności i zgodności**; przy budowaniu szerszego rozwiązania także **Wdrożenie systemu obserwowania i oceniania stanu dostępności i zgodności**. |
 | Potrzebujemy w organizacji osób zdolnych do wykonywania specjalistycznych zadań związanych z dostępnością. | **Przygotowanie do wykonywania zadań specjalistycznych** |
 | Chcemy wykonać określone testy dostępności rozwiązania, jego części lub procesu użytkownika. | **Testowanie dostępności** |
 | Chcemy szybko i automatycznie wykrywać problemy możliwe do rozpoznania za pomocą narzędzi. | **Skanowanie dostępności** |
@@ -759,7 +749,7 @@ Jeżeli organizacja nie potrafi jeszcze określić problemu, przedsięwzięcia, 
 | Znamy problemy dostępności i potrzebujemy specjalistycznego wsparcia zespołu, który je usuwa. | **Wsparcie prac naprawczych** |
 | Chcemy wykrywać problemy dostępności podczas realizacji zamówienia, zamiast dopiero przy odbiorze gotowego rozwiązania. | **Nadzór audytorski nad realizacją zamówienia** |
 | Chcemy systematycznie obserwować zmiany stanu dostępności określonych rozwiązań cyfrowych. | **Monitoring dostępności** |
-| Chcemy zbudować własny sposób systematycznego obserwowania, oceniania, dokumentowania i wykorzystywania wiedzy o stanie dostępności i zgodności. | **Wdrożenie systemu obserwowania i oceniania stanu dostępności i zgodności**; zależnie od przyjętego modelu także **Przygotowanie zespołu do okresowego oceniania stanu dostępności i zgodności**. |
+| Chcemy zbudować własny sposób systematycznego obserwowania, oceniania, dokumentowania i wykorzystywania wiedzy o stanie dostępności i zgodności. | **Wdrożenie systemu obserwowania i oceniania stanu dostępności i zgodności** oraz — jeżeli organizacja nie ma jeszcze odpowiednio przygotowanego zespołu — **Przygotowanie zespołu do okresowego oceniania stanu dostępności i zgodności**.|
 | Chcemy sprawdzić, czy wcześniej rozpoznane problemy zostały skutecznie usunięte. | **Weryfikacja prac naprawczych** |
 | Potrzebujemy specjalistycznej wiedzy o dostępności przed podjęciem decyzji o odbiorze rozwiązania. | **Wsparcie audytorskie odbioru** |
 | Potrzebujemy kompleksowej i udokumentowanej oceny zgodności rozwiązania z określonymi wymaganiami dostępności. | **Audyt zgodności** |
