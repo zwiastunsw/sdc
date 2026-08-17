@@ -12,7 +12,6 @@ ostatnia_aktualizacja: 18 lipca 2026 r.
 wersja_robocza: true
 ---
 
-
 ## 1. Wprowadzenie
 
 ### 1.1 Rola słownika
@@ -97,7 +96,6 @@ Zasady dobierania i łączenia usług w ramach przedsięwzięć organizacji prze
 
 ---
 
-
 ## 3. Usługi wsparcia organizacyjnego
 
 ### 3.1. Jak rozumieć usługi wsparcia organizacyjnego
@@ -160,7 +158,6 @@ Może obejmować planowanie zasobów kadrowych, finansowych, technicznych, organ
 
 Rezultatem usługi jest zdolność organizacji do planowania, zapewniania i odpowiedniego wykorzystywania zasobów potrzebnych do realizacji zadań związanych z zapewnianiem dostępności cyfrowej.
 
-
 ---
 
 #### 3.2.5. Włączanie dostępności do zarządzania informacją i komunikacją
@@ -196,7 +193,6 @@ Rezultatem usługi jest zdolność organizacji do systematycznego definiowania i
 ---
 
 Poszczególne usługi wsparcia organizacyjnego mogą być realizowane jako odrębne przedsięwzięcia lub jako element programu rozwoju organizacji. W praktyce często są łączone z usługami wsparcia kompetencyjnego oraz usługami audytorskimi, które dostarczają wiedzy niezbędnej do planowania i oceny skuteczności wprowadzanych zmian.
-
 
 ## 4. Usługi wsparcia kompetencyjnego
 
