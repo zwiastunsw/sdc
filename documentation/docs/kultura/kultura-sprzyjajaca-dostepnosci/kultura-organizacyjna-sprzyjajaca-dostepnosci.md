@@ -8,7 +8,7 @@ keywords: [kultura organizacyjna,dostępność cyfrowa,promocja dostępności,za
 tags: [kultura organizacyjna,dostępność cyfrowa,promocja dostępności,zaangażowanie kierownictwa]
 opracowanie: Stefan Wajda, Tomasz Wojakowski
 data_zgloszenia: 20 czerwca 2026 r.
-ostatnia_aktualizacja: 12 sierpnia 2026 r.
+ostatnia_aktualizacja: 18 sierpnia 2026 r.
 wersja_robocza: true
 ---
 
@@ -125,3 +125,5 @@ W organizacjach o dojrzałej kulturze organizacyjnej sprzyjającej dostępności
 ---
 
 ## 6. Powiązane dokumenty 
+
+- [Jak budować kulturę dostępności w praktyce](jak-budowac-kulture-dostepnosci-w-praktyce.md)
