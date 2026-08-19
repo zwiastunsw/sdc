@@ -26,7 +26,7 @@ Celem dokumentacji jest zapewnienie organizacji aktualnej, wiarygodnej i komplet
 - prowadzenie rejestru stanu dostępności i zgodności rozwiązania;
 - wykazanie spełnienia obowiązków wynikających z przepisów prawa oraz postanowień umowy.
 
-Dokumentacja dostępności nie stanowi dokumentacji procesu wytworzenia rozwiązania ani dokumentacji technicznej wykonawcy. Obejmuje wyłącznie informacje niezbędne do zarządzania dostępnością rozwiązania przez organizację.
+Dokumentacja dostępności nie stanowi dokumentacji procesu wytworzenia rozwiązania ani pełnej dokumentacji technicznej wykonawcy. Obejmuje wyłącznie informacje niezbędne do oceny i zarządzania dostępnością rozwiązania przez organizację.
 
 ---
 
