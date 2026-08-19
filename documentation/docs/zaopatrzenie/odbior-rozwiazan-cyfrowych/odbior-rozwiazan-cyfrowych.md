@@ -93,9 +93,9 @@ Raport może stanowić aktualizację raportu sporządzonego dla wcześniejszego 
 
 Odbiór końcowy powinien obejmować całość rozwiązania oraz uwzględniać wyniki wszystkich wcześniejszych odbiorów częściowych i etapowych.
 
+---
 
-
-## 3.7. Wyjątkowe stosowanie audytu zgodności
+### 3.7. Wyjątkowe stosowanie audytu zgodności
 
 Audyt zgodności nie powinien stanowić standardowego elementu procedury odbiorowej. Może zostać przeprowadzony wyłącznie wtedy, gdy dokumentacja dostępności przekazana przez wykonawcę nie pozwala na dokonanie wiarygodnej oceny rozwiązania albo gdy pomiędzy stronami powstaną uzasadnione wątpliwości dotyczące spełnienia wymagań dostępności.
 
