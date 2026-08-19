@@ -85,7 +85,7 @@ Odbiór powinien obejmować również wymagania określone w dokumentacji zamów
 
 ### 3.6. Odbiory etapowe
 
-Jeżeli realizacja zamówienia przewiduje odbiory częściowe, etapowe lub odbiór kolejnych wersji rozwiązania, zasady określone w niniejszym zaleceniu stosuje się odpowiednio do każdego z tych odbiorów.
+Jeżeli realizacja zamówienia przewiduje odbiory częściowe, etapowe lub odbiór kolejnych wersji rozwiązania, zasady określone w tym zaleceniu stosuje się odpowiednio do każdego z tych odbiorów.
 
 Przed każdym odbiorem wykonawca powinien przekazać zaktualizowaną dokumentację dostępności dotyczącą zakresu objętego odbiorem.
 
