@@ -113,7 +113,7 @@ Audyt zgodności powinien być przeprowadzony przez podmiot zapewniający niezal
 
 Wyniki audytu mogą stanowić podstawę odmowy odbioru rozwiązania, odbioru warunkowego albo potwierdzenia spełnienia wymagań dostępności.
 
-Jeżeli audyt potwierdzi, że wykonawca przekazał nieprawdziwe lub nierzetelne informacje dotyczące stopnia zgodności rozwiązania albo że rozwiązanie nie spełnia wymagań dostępności określonych w zamówieniu, organizacja powinna dochodzić od wykonawcy pokrycia kosztów audytu oraz innych roszczeń wynikających z umowy lub przepisów prawa.
+Jeżeli audyt potwierdzi, że wykonawca przekazał nieprawdziwe lub nierzetelne informacje dotyczące stopnia zgodności rozwiązania albo że rozwiązanie nie spełnia wymagań dostępności określonych w zamówieniu, organizacja dochodzi od wykonawcy pokrycia kosztów audytu oraz pozostałych roszczeń na zasadach określonych w umowie. Umowa powinna przewidywać obciążenie wykonawcy kosztami audytu w takim przypadku.
 
 Przeprowadzenie audytu zgodności nie zwalnia wykonawcy z odpowiedzialności za zapewnienie spełnienia wymagań dostępności oraz wykazanie ich spełnienia
 
