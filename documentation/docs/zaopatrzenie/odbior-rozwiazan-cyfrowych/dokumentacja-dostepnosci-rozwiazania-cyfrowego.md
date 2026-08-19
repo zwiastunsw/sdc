@@ -7,7 +7,7 @@ description: Wymagania dotyczące informacji i materiałów składających się 
 keywords: [dokumentacja dostępności,ACR,VPAT,odbiór,materiały dowodowe,zarządzanie dostępnością,rejestr stanu dostępności]
 tags: [dokumentacja dostępności,ACR,VPAT,odbiór,materiały dowodowe,zarządzanie dostępnością,rejestr stanu dostępności]
 data_zgloszenia: 1 sierpnia 2026 r.
-ostatnia_aktualizacja: 1 sierpnia 2026
+ostatnia_aktualizacja: 1 sierpnia 2026 r.
 opracowanie: Stefan Wajda
 wersja_robocza: true
 ---
