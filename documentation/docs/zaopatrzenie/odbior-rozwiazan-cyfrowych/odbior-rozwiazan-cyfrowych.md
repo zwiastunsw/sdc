@@ -149,7 +149,7 @@ Dokumentacja dostępności przekazana przy odbiorze stanowi pierwszy zbiór info
 
 ## 4. Uzasadnienie
 
-## 4.1. Odpowiedzialność za wykazanie zgodności
+### 4.1. Odpowiedzialność za wykazanie zgodności
 
 Odpowiedzialność za zapewnienie spełnienia wymagań dostępności oraz wykazanie ich spełnienia spoczywa na wykonawcy. Zamawiający nie powinien przejmować odpowiedzialności za ocenę zgodności poprzez samodzielne poszukiwanie problemów dostępności.
 
