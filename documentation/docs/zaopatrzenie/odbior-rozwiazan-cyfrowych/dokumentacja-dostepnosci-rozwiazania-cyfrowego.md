@@ -155,7 +155,7 @@ Powinna umożliwiać ustalenie:
 
 ### 7. Informacje dla użytkowników i administratorów
 
-Jeżeli wymagają tego postanowienia umowy lub charakter rozwiązania, dokumentacja powinna obejmować również informacje niezbędne do korzystania z funkcji dostępności oraz utrzymywania dostępności rozwiązania.
+Dokumentacja obejmuje informacje niezbędne do korzystania z funkcji dostępności oraz utrzymywania dostępności rozwiązania. Zakres tych informacji określa norma PN-ETSI EN 301 549. Postanowienia umowy mogą go rozszerzyć, nie mogą go natomiast ograniczyć.
 
 ---
 
