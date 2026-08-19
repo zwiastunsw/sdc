@@ -6,7 +6,7 @@ sidebar_label: Dokumentacja dostępności rozwiązania
 description: Wymagania dotyczące informacji i materiałów składających się na dokumentację dostępności rozwiązania cyfrowego przekazywaną organizacji oraz utrzymywaną przez cały cykl życia rozwiązania.
 keywords: [dokumentacja dostępności,ACR,VPAT,odbiór,materiały dowodowe,zarządzanie dostępnością,rejestr stanu dostępności]
 tags: [dokumentacja dostępności,ACR,VPAT,odbiór,materiały dowodowe,zarządzanie dostępnością,rejestr stanu dostępności]
-data_zgloszenia: 1 sierpnia 2026
+data_zgloszenia: 1 sierpnia 2026 r.
 ostatnia_aktualizacja: 1 sierpnia 2026
 opracowanie: Stefan Wajda
 wersja_robocza: true
