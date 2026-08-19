@@ -20,7 +20,7 @@ Zapewnienie, że odbiór rozwiązań cyfrowych jest prowadzony na podstawie doku
 
 ## 2. Zalecenie
 
-Organizacja prowadzi odbiór rozwiazań cyfrowych na podstawie dokumentacji dostępności rozwiązania przekazanej przez wykonawcę. Dokumentacja ta obejmuje raport stopnia zgodności oraz inne informacje i materiały niezbędne do wykazania spełnienia wymagań dostępności i dalszego zarządzania dostępnością rozwiązania.
+Organizacja prowadzi odbiór rozwiązań cyfrowych na podstawie dokumentacji dostępności rozwiązania przekazanej przez wykonawcę. Dokumentacja ta obejmuje raport zgodności z dostępnością oraz inne informacje i materiały niezbędne do wykazania spełnienia wymagań dostępności i dalszego zarządzania dostępnością rozwiązania.
 
 ---
 
