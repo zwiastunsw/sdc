@@ -248,4 +248,3 @@ Po odbiorze organizacja odpowiada za utrzymywanie dokumentacji, jej aktualizowan
 Dokumentacja dostępności rozwiązania nie jest zbiorem dokumentów przekazywanych wyłącznie na potrzeby odbioru.
 
 Stanowi podstawowy zasób wiedzy organizacji o stanie dostępności rozwiązania i powinna umożliwiać prowadzenie oraz aktualizowanie rejestru stanu dostępności i zgodności przez cały okres eksploatacji rozwiązania.
-```
