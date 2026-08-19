@@ -36,7 +36,7 @@ Dokumentacja dostępności nie stanowi dokumentacji procesu wytworzenia rozwiąz
 
 Dokumentacja powinna przedstawiać informacje niezbędne do oceny, utrzymania i rozwijania dostępności rozwiązania.
 
-Nie powinna wymagać ujawniania know-how wykonawcy ani informacji stanowiących tajemnicę przedsiębiorstwa.
+Nie powinna wymagać ujawniania rozwiązań technicznych stanowiących know-how wykonawcy ani informacji objętych tajemnicą przedsiębiorstwa. Wyłączenie to nie obejmuje informacji o zakresie, metodach i wynikach przeprowadzonej oceny zgodności.
 
 ---
 
