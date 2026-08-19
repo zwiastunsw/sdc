@@ -170,7 +170,7 @@ Celem odbioru jest uzyskanie uzasadnionej pewności, że wykonawca:
 
 ---
 
-## 4.3. Raport jako narzędzie komunikacji
+### 4.3. Raport jako narzędzie komunikacji
 
 Raport stopnia zgodności stanowi podstawowy dokument komunikacji technicznej pomiędzy wykonawcą i zamawiającym.
 
