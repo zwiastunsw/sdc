@@ -157,7 +157,7 @@ Model ten odpowiada rozwiązaniom przyjętym w dyrektywie (UE) 2019/882 (Europej
 
 ---
 
-## 4.2. Cel odbioru
+### 4.2. Cel odbioru
 
 Celem odbioru nie jest wykazanie, że rozwiązanie jest całkowicie wolne od problemów dostępności.
 
