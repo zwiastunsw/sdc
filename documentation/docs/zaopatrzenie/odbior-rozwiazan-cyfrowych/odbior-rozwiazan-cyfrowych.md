@@ -6,8 +6,8 @@ sidebar_label: Zalecenie
 sidebar_position: 1
 keywords: [dokumentacja dostępności,ACR,VPAT,odbiór,materiały dowodowe,zarządzanie dostępnością]
 tags: [dokumentacja dostępności,ACR,VPAT,odbiór,materiały dowodowe,zarządzanie dostępnością]
-data_zgloszenia: 1 sierpnia 2026
-ostatnia_aktualizacja: 1 sierpnia 2026
+data_zgloszenia: 1 sierpnia 2026 r.
+ostatnia_aktualizacja: 1 sierpnia 2026 r.
 opracowanie: Stefan Wajda
 wersja_robocza: true
 ---
