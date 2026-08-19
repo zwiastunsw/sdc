@@ -182,7 +182,7 @@ Dzięki temu odbiór rozwiązania staje się oceną przedstawionej wiedzy oraz j
 
 ---
 
-## 4.4. Znaczenie odbioru
+### 4.4. Znaczenie odbioru
 
 Odbiór nie kończy procesu zapewniania dostępności.
 
