@@ -192,7 +192,7 @@ Przekazana przy odbiorze dokumentacja dostępności stanowi punkt wyjścia do pr
 
 ---
 
-# Powiązane dokumenty
+## Powiązane dokumenty
 
 - Definiowanie i ocena wymagań dostępności cyfrowej w ofertach.
 - Raportowanie zamawiającemu stopnia zgodności rozwiązania z wymaganiami dostępności cyfrowej.
