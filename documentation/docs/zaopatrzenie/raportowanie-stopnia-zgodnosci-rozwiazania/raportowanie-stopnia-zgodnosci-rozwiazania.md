@@ -40,6 +40,7 @@ Dla każdego wymagania raport zawiera:
 
 - ocenę stopnia spełnienia wymagania;
 - opis sposobu realizacji wymagania, właściwości rozwiązania mających znaczenie dla jego dostępności oraz znanych ograniczeń;
+- planowane działania dotyczące stwierdzonych niezgodności, jeżeli wymaganie nie zostało spełnione w pełni;
 - wskazanie materiałów dowodowych stanowiących podstawę oceny.
 
 ### 3.3. Charakter ocen
