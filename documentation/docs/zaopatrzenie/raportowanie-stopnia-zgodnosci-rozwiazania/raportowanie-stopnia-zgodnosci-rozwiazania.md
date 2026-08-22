@@ -124,6 +124,9 @@ Raport nie zastępuje deklaracji zgodności, raportów z testów ani dokumentacj
 
 ## 5. Podstawy prawne
 
+- Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych.
+- Ustawa z dnia 11 września 2019 r. Prawo zamówień publicznych, w szczególności art. 100 ust. 1 oraz art. 106.
+
 
 ---
 
