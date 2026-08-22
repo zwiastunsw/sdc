@@ -35,7 +35,7 @@ Raport powinien umożliwiać zamawiającemu zrozumienie rzeczywistego stopnia zg
 
 ---
 
-## Struktura i zawartość raportu
+## 2. Struktura i zawartość raportu
 
 ## 2.1. Informacje identyfikujące rozwiązanie
 
