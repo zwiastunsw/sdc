@@ -72,7 +72,7 @@ W szczególności należy wskazać, czy raport dotyczy:
 
 ---
 
-### 2.2.2. Zakres funkcjonalny
+#### 2.2.2. Zakres funkcjonalny
 
 Raport powinien opisywać funkcjonalności objęte oceną.
 
