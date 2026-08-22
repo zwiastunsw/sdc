@@ -55,7 +55,7 @@ Raport powinien jednoznacznie określać, którego rozwiązania i której jego w
 
 ---
 
-## 2.2. Zakres raportu
+### 2.2. Zakres raportu
 
 ### 2.2.1. Zakres rozwiązania
 
