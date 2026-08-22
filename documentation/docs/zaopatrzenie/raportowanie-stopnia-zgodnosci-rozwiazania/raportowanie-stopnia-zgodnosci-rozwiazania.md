@@ -3,7 +3,7 @@ id: raportowanie-stopnia-zgodnosci-rozwiazania
 title: Raportowanie zamawiającemu stopnia zgodności rozwiązania z wymaganiami dostępności cyfrowej
 description: Zalecenie dotyczące przekazywania zamawiającemu informacji o stopniu zgodności rozwiązania cyfrowego z wymaganiami dostępności oraz materiałach stanowiących podstawę tej oceny.
 sidebar_label: Zalecenie
-sidebar_position: 1 
+sidebar_position: 1
 keywords: [raport stopnia zgodności,dostępność cyfrowa,zgodność,zamówienia publiczne,odbiór rozwiązania]
 tags: [raport stopnia zgodności,dostępność cyfrowa,zgodność,zamówienia publiczne,odbiór rozwiązania]
 opracowanie: Stefan Wajda
