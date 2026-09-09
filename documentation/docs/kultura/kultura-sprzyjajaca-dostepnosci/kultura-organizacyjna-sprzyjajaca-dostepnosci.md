@@ -102,7 +102,7 @@ Pracownicy powinni być zachęcani do zgłaszania problemów, proponowania uspra
 
 ## 4. Uzasadnienie
 
-**Żadna organizacja nie będzie skutecznie i trwale zapewniać dostępności cyfrowej, jeżeli nie ukształtuje kultury organizacyjnej sprzyjającej dostępności.** Nawet najlepiej zaprojektowany system zarządzania, procedury, standardy, szkolenia czy rozwiązania techniczne nie zapewnią oczekiwanych rezultatów, jeżeli pracownicy nie będą postrzegać dostępności jako naturalnego elementu swojej pracy i wspólnego zobowiązania całej organizacji.
+Trudno o skuteczne i trwałe zapewnianie dostępności cyfrowej bez kultury organizacyjnej sprzyjającej dostępności. Nawet najlepiej zaprojektowany system zarządzania, procedury, standardy, szkolenia czy rozwiązania techniczne nie zapewnią oczekiwanych rezultatów, jeżeli pracownicy nie będą postrzegać dostępności jako naturalnego elementu swojej pracy i wspólnego zobowiązania całej organizacji.
 
 Budowanie kultury organizacyjnej jest procesem długofalowym. Nie można jej ustanowić zarządzeniem ani wdrożyć wyłącznie poprzez opracowanie procedur, przeprowadzenie szkoleń lub wyznaczenie odpowiedzialnych osób. Kultura organizacyjna rozwija się stopniowo jako rezultat sposobu, w jaki kierownictwo określa podstawowe zasady działania organizacji, wyznacza cele, organizuje pracę oraz reaguje na codzienne problemy. Pracownicy kształtują swoje postawy przede wszystkim na podstawie obserwacji decyzji, zachowań i sposobu działania osób kierujących organizacją.
 
