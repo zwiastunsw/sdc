@@ -1,7 +1,7 @@
 ---
 id: jak-budowac-kulture-dostepnosci-w-praktyce
 title: Jak budować kulturę dostępności w praktyce
-description: Przykładowe działania wspierające budowanie kultury organizacyjnej sprzyjającej dostępności cyfrowej
+description: Przykładowe działania wspierające budowanie kultury organizacyjnej sprzyjającej dostępności cyfrowej.
 sidebar_label: Jak budować kulturę
 sidebar_position: 1
 keywords: [kultura organizacyjna,dostępność cyfrowa,promocja dostępności,zaangażowanie kierownictwa]
