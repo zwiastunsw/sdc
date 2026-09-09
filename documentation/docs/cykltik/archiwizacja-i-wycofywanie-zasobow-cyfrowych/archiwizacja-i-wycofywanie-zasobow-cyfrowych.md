@@ -133,7 +133,7 @@ Regulacja ta powinna być uwzględniana, gdy zasób zawiera podpis elektroniczny
 - [Formularz decyzji](formularz-decyzji.md)
 - [Rejestr decyzji](rejestr-decyzji.md)
 - [Przykłady i scenariusze](przyklady-i-scenariusze.md)
-- [Poradnik wdrożeniowy - archiwizacja i wycofywanie zasobów cyfrowych](poradnik-wdrozeniowy-archiwizacja-i-wycofywanie-zasobow-cyfrowych.md)
+- [Archiwizacja i wycofywanie zasobów cyfrowych](poradnik-wdrozeniowy-archiwizacja-i-wycofywanie-zasobow-cyfrowych.md)
 - [Słownik pojęć](slownik-pojec.md)
 
 ---
