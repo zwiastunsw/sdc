@@ -1,7 +1,7 @@
 ---
 id: kultura-organizacyjna-sprzyjajaca-dostepnosci
 title: Kultura organizacyjna sprzyjająca dostępności cyfrowej
-description: Organizacja rozwija kulturę organizacyjną wspierającą dostępność cyfrową.
+description: Kierownictwo organizacji kształtuje kulturę organizacyjną sprzyjającą zapewnianiu dostępności cyfrowej.
 sidebar_label: Zalecenie
 sidebar_position: 0
 keywords: [kultura organizacyjna,dostępność cyfrowa,promocja dostępności,zaangażowanie kierownictwa]
