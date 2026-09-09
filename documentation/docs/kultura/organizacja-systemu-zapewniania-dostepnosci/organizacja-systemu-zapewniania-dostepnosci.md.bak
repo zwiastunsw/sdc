@@ -1,37 +1,16 @@
 ---
-id: organizacja-systemu-zapewniania-dostepnosci-cyfrowej
+id: organizacja-systemu-zapewniania-dostepnosci
 title: Organizacja systemu zapewniania dostępności cyfrowej
-description: Zalecenie dotyczące organizacji systemu zapewniania dostępności cyfrowej i komunikacyjnej usług publicznych w podmiotach publicznych.
+description: System zapewniania dostępności
 sidebar_position: 0
-sidebar_label: Organizacja systemu dostępności
-keywords:
-  [
-    dostępność cyfrowa,
-    dostępność komunikacyjna,
-    system zarządzania,
-    role i odpowiedzialność,
-    procesy organizacyjne,
-    monitoring,
-    kompetencje,
-    wsparcie kompetencyjne,
-    usługi publiczne,
-  ]
-tags:
-  [
-    dostępność cyfrowa,
-    dostępność komunikacyjna,
-    zarządzanie,
-    procesy,
-    kompetencje,
-    monitoring,
-    organizacja,
-    usługi publiczne,
-  ]
-opracowanie: Sieć Dostępności Cyfrowej
+sidebar_label: Zalecenie
+keywords: [polityka dostępności, dostępność cyfrowa, kultura organizacyjna, zarządzanie, proces zapewniania dostępności]
+tags: [polityka dostępności, dostępność cyfrowa, kultura organizacyjna, zarządzanie, proces zapewniania dostępności]
+opracowanie: Stefan Wajda 
+data_zgloszenia: 18 kwietnia 2026 r.
+ostatnia_aktualizacja: 18 maja 2026 r.
 wersja_robocza: true
 ---
-
-# Organizacja systemu zapewniania dostępności cyfrowej
 
 ## 1. Cel zalecenia
 
@@ -154,7 +133,7 @@ Wsparcie obejmuje w szczególności:
 - wspieranie działań koordynacyjnych,
 - zapewnienie ciągłości działań.
 
-Organizacja może wyznaczyć sponsora wykonawczego dostępności odpowiedzialnego za wspieranie działań związanych z dostępnością na poziomie kierowniczym.
+Organizacja może wyznaczyć sponsora wykonawczego ds. dostępności odpowiedzialnego za wspieranie działań związanych z dostępnością na poziomie kierowniczym.
 
 ---
 
@@ -356,7 +335,7 @@ Dostępność cyfrowa staje się wówczas elementem zarządzania organizacją or
 
 ## 7. Załączniki
 
-1. Model organizacji odpowiedzialności w systemie zapewniania dostępności cyfrowej
+1. [Organizacja systemu zapewniania dostępności cyfrowej]()
 2. Słownik ról i odpowiedzialności
 3. Referencyjna mapa odpowiedzialności procesowej (RACI)
 4. Opis głównych procesów zapewniania dostępności cyfrowej
