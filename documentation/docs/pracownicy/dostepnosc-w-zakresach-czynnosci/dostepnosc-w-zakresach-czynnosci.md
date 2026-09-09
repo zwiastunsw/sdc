@@ -71,4 +71,4 @@ Art. 5 Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron interneto
 
 ## 6. Załączniki
 
-- [Przykładowe wpisy do zakresu czynności dla poszczególnych pracowników lub grup pracowników](przykladowe-zapisy-w-zakresach)
+- [Przykładowe wpisy do zakresu czynności dla poszczególnych pracowników lub grup pracowników](przykladowe-zapisy-w-zakresach.md)

@@ -155,11 +155,11 @@ Zalecenie nie zmienia obowiązków wynikających z przepisów prawa ani nie zast
 
 ## Załączniki
 
-1. [Katalog sposobów zapewniania dostępu](katalog-sposobow-zapewniania-dostepu)
-2. [Wzory komunikatów o sposobie zapewnienia dostępu](wzory-komunikatow-o-sposobie-zapewnienia-dostepu)
-3. [Ewidencja przypadków niedostępności](ewidencja-przypadkow-niedostepnosci)
-4. [Karta doboru sposobu zapewnienia dostępu](karta-doboru-sposobu-zapewnienia-dostepu)
-5. [Przykłady zapewniania dostępu do informacji i usług](przyklady-zapewniania-dostepu)
-6. [Ocena nieproporcjonalnego obciążenia przy zapewnianiu dostępu](ocena-nieproporcjonalnego-obciazenia)
-7. [Karta oceny nieproporcjonalnego obciążenia](karta-oceny-nieproporcjonalnego-obciazenia)
-8. [Zatwierdzanie zastosowania nieproporcjonalnego obciążenia](zatwierdzanie-zastosowania-nieproporcjonalnego-obciazenia)
+1. [Katalog sposobów zapewniania dostępu](katalog-sposobow-zapewniania-dostepu.md)
+2. [Wzory komunikatów o sposobie zapewnienia dostępu](wzory-komunikatow-o-sposobie-zapewnienia-dostepu.md)
+3. [Ewidencja przypadków niedostępności](ewidencja-przypadkow-niedostepnosci.md)
+4. [Karta doboru sposobu zapewnienia dostępu](karta-doboru-sposobu-zapewnienia-dostepu.md)
+5. [Przykłady zapewniania dostępu do informacji i usług](przyklady-zapewniania-dostepu.md)
+6. [Ocena nieproporcjonalnego obciążenia przy zapewnianiu dostępu](ocena-nieproporcjonalnego-obciazenia.md)
+7. [Karta oceny nieproporcjonalnego obciążenia](karta-oceny-nieproporcjonalnego-obciazenia.md)
+8. [Zatwierdzanie zastosowania nieproporcjonalnego obciążenia](zatwierdzanie-zastosowania-nieproporcjonalnego-obciazenia.md)

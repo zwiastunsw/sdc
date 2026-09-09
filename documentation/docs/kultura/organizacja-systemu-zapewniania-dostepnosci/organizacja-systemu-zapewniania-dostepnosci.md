@@ -336,7 +336,7 @@ Dostępność cyfrowa staje się wówczas elementem zarządzania organizacją or
 ## 7. Załączniki
 
 1. [Organizacja systemu zapewniania dostępności cyfrowej](organizacja-systemu-zapewniania-dostepnosci.md)
-2. [Zapewnianie zasobów dla systemu dostępności cyfrowej](zapewnianie-zasobow-dla-systemu-dostepnosci-cyfrowej)
-3. [Opis głównych procesów zapewniania dostępności cyfrowej](opis-procesow-dostepnosc-cyfrowa)
-4. [Poradnik wdrożeniowy — organizacja i wdrażanie procesów zapewniania dostępności cyfrowej](poradnik-wdrozeniowy-procesy-zapewniania-dostepnosci)
-5. [Monitoring i ocena dojrzałości organizacji w zakresie zapewniania dostępności cyfrowej](monitoring-i-ocena-dojrzalosci)
+2. [Zapewnianie zasobów dla systemu dostępności cyfrowej](zapewnianie-zasobow-dla-systemu-dostepnosci-cyfrowej.md)
+3. [Opis głównych procesów zapewniania dostępności cyfrowej](opis-procesow-dostepnosc-cyfrowa.md)
+4. [Poradnik wdrożeniowy — organizacja i wdrażanie procesów zapewniania dostępności cyfrowej](poradnik-wdrozeniowy-procesy-zapewniania-dostepnosci.md)
+5. [Monitoring i ocena dojrzałości organizacji w zakresie zapewniania dostępności cyfrowej](monitoring-i-ocena-dojrzalosci.md)

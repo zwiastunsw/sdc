@@ -103,9 +103,9 @@ Zalecenie nie rekomenduje przepisywania wymagań normy EN 301 549 do dokumentacj
 
 ## 7. Załączniki
 
-1. [Szablon wymagań dostępności w zakupach rozwiązań zawierających technologie i treści cyfrowe](zasady-oceny-ofert-szablon-wymagan)
-2. [Stosowanie szablonu wymagań dostępności cyfrowej](stosowanie-szablonu-wymagan)
-3. [Katalog dowodów dostępności cyfrowej](katalog-dowodow-dostepnosci-cyfrowej)
+1. [Szablon wymagań dostępności w zakupach rozwiązań zawierających technologie i treści cyfrowe](zasady-oceny-ofert-szablon-wymagan.md)
+2. [Stosowanie szablonu wymagań dostępności cyfrowej](stosowanie-szablonu-wymagan.md)
+3. [Katalog dowodów dostępności cyfrowej](katalog-dowodow-dostepnosci-cyfrowej.md)
 4. [Szablon macierzy punktacji](zasady-oceny-ofert-macierz-punktacji.xlsx)
 
 

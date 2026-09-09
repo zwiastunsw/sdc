@@ -96,8 +96,8 @@ Polityka dostępności powinna mieć moc obowiązującą w całej organizacji, b
 
 ## 6. Załączniki
 
-- [Wskazówki do opracowania preambuły polityki dostępności](manifest-dostepnosci)
-- [Przykładowa polityka dostępności cyfrowej - opracowanie W3C](kultura-przyklad-W3C)
+- [Wskazówki do opracowania preambuły polityki dostępności](manifest-dostepnosci.md)
+- [Przykładowa polityka dostępności cyfrowej - opracowanie W3C](kultura-przyklad-W3C.md)
 
 ---
 

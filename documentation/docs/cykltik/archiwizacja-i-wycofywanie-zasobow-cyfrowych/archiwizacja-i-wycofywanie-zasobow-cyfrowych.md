@@ -121,20 +121,20 @@ Regulacja ta powinna być uwzględniana, gdy zasób zawiera podpis elektroniczny
 
 ## 7. Załączniki
 
-- [Model organizacji procesu](model-organizacji-procesu)
-- [Role i odpowiedzialności](role-i-odpowiedzialnosci)
-- [Procedura standardowa](procedura-standardowa)
-- [Procedura uproszczona](procedura-uproszczona)
-- [Zasady kwalifikacji zasobów](zasady-kwalifikacji-zasobow)
-- [Zasady postępowania z zasobami archiwalnymi](zasady-postepowania-z-zasobami-archiwalnymi)
-- [Lista kontrolna archiwizacji](lista-kontrolna-archiwizacji)
-- [Lista kontrolna wycofania treści](lista-kontrolna-wycofania-tresci)
-- [Lista kontrolna wycofania systemu](lista-kontrolna-wycofania-systemu)
-- [Formularz decyzji](formularz-decyzji)
-- [Rejestr decyzji](rejestr-decyzji)
-- [Przykłady i scenariusze](przyklady-i-scenariusze)
-- [Poradnik wdrożeniowy - archiwizacja i wycofywanie zasobów cyfrowych](poradnik-wdrozeniowy-archiwizacja-i-wycofywanie-zasobow-cyfrowych)
-- [Słownik pojęć](slownik-pojec)
+- [Model organizacji procesu](model-organizacji-procesu.md)
+- [Role i odpowiedzialności](role-i-odpowiedzialnosci.md)
+- [Procedura standardowa](procedura-standardowa.md)
+- [Procedura uproszczona](procedura-uproszczona.md)
+- [Zasady kwalifikacji zasobów](zasady-kwalifikacji-zasobow.md)
+- [Zasady postępowania z zasobami archiwalnymi](zasady-postepowania-z-zasobami-archiwalnymi.md)
+- [Lista kontrolna archiwizacji](lista-kontrolna-archiwizacji.md)
+- [Lista kontrolna wycofania treści](lista-kontrolna-wycofania-tresci.md)
+- [Lista kontrolna wycofania systemu](lista-kontrolna-wycofania-systemu.md)
+- [Formularz decyzji](formularz-decyzji.md)
+- [Rejestr decyzji](rejestr-decyzji.md)
+- [Przykłady i scenariusze](przyklady-i-scenariusze.md)
+- [Poradnik wdrożeniowy - archiwizacja i wycofywanie zasobów cyfrowych](poradnik-wdrozeniowy-archiwizacja-i-wycofywanie-zasobow-cyfrowych.md)
+- [Słownik pojęć](slownik-pojec.md)
 
 ---
 

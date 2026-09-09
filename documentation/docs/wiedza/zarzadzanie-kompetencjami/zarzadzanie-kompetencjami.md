@@ -214,13 +214,13 @@ buduje trwałą zdolność do systemowego zapewniania dostępności cyfrowej.
 
 ## 7. Załączniki
 
-- [Organizacja systemu wsparcia kompetencyjnego](organizacja-systemu-wsparcia-kompetencyjnego)
-- [Biblioteka dostępności](biblioteka-dostepnosci)
-- [Organizacja onboardingu pracowników w zakresie dostępności cyfrowej](organizacja-onboardingu)
-- [Analiza luk kwalifikacyjnych i organizacyjnych](analiza-luk-kwalifikacyjnych-i-organizacyjnych)
-- [Matryca ról, kwalifikacji i wsparcia kompetencyjnego](matryca-rol-kwalifikacji-i-wsparcia-kompetencyjnego)
-- [Wykorzystanie mikropoświadczeń w systemie wsparcia kompetencyjnego](wykorzystanie-mikroposwiadczen)
-- [Kompetencje w zakresie dostępnej komunikacji cyfrowej i publikacji treści](kompetencje-w-zakresie-komunikacji-cyfrowej-i-publikacji-tresci)
+- [Organizacja systemu wsparcia kompetencyjnego](organizacja-systemu-wsparcia-kompetencyjnego.md)
+- [Biblioteka dostępności](biblioteka-dostepnosci.md)
+- [Organizacja onboardingu pracowników w zakresie dostępności cyfrowej](organizacja-onboardingu.md)
+- [Analiza luk kwalifikacyjnych i organizacyjnych](analiza-luk-kwalifikacyjnych-i-organizacyjnych.md)
+- [Matryca ról, kwalifikacji i wsparcia kompetencyjnego](matryca-rol-kwalifikacji-i-wsparcia-kompetencyjnego.md)
+- [Wykorzystanie mikropoświadczeń w systemie wsparcia kompetencyjnego](wykorzystanie-mikroposwiadczen.md)
+- [Kompetencje w zakresie dostępnej komunikacji cyfrowej i publikacji treści](kompetencje-w-zakresie-komunikacji-cyfrowej-i-publikacji-tresci.md)
 
 ---
 
