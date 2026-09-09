@@ -130,7 +130,7 @@ Takie podejście pozwala wykorzystywać wspólne scenariusze w różnych procesa
 
 ## 6. Załączniki
 
-- [Zasady stosowania Biblioteki testów dostępności cyfrowej](zasady-stosowania-biblioteki-testow-dostepnosci-cyfrowej)
+- [Zasady stosowania Biblioteki testów dostępności cyfrowej](zasady-stosowania-biblioteki-testow-dostepnosci-cyfrowej.md)
 - [Zasady opracowywania i utrzymywania scenariuszy testów](zasady-opracowywania-i-utrzymywania-scenariuszy-testow)
 - [Profilowanie scenariuszy testów dostępności cyfrowej](profilowanie-scenariuszy-testow-dostepnosci-cyfrowej)
 - Biblioteka testów dostępności cyfrowej
