@@ -18,7 +18,7 @@ wersja_robocza: true
 
 Celem niniejszego opracowania jest przedstawienie zasad, struktury i dobrych praktyk **formowania projektów zaleceń** przez uczestników Sieci Dostępności Cyfrowej.
 
-Wypracowane przez Sieć projekty zaleceń stanowią podstawę do opracowania i wydania **zaleceń Ministra Cyfryzacji**, **Ministerstwa Cyfryzacji** lub **Wydziału Dostępności Cyfrowej** dotyczących systemowego wdrażania i zapewniania dostępności cyfrowej w podmiotach publicznych.
+Wypracowane przez Sieć projekty zaleceń stanowią podstawę do opracowania i wydania **zaleceń Ministra Cyfryzacji**, **Ministerstwa Cyfryzacji** lub **wydziału Dostępności Cyfrowej** dotyczących systemowego wdrażania i zapewniania dostępności cyfrowej w podmiotach publicznych.
 
 Dokument ma zapewnić **spójność, klarowność i porównywalność** projektów zaleceń oraz ułatwić ich opracowywanie, uzgadnianie, przyjmowanie i późniejsze stosowanie.
 
@@ -34,7 +34,8 @@ Zalecenia stanowią **podstawową formę dokumentów Sieci kierowanych do podmio
 
 Zalecenia odnoszą się do problemów organizacyjnych związanych z zarządzaniem zapewnianiem dostępności cyfrowej. Określają pożądany stan lub sposób działania organizacji i wskazują rozwiązania, które pozwalają taki stan osiągnąć lub utrzymać.
 
-Poszczególne zalecenia dotyczą wyodrębnionych zagadnień, ale powinny tworzyć **spójny zbiór rozwiązań składających się na system zarządzania zapewnianiem dostępności cyfrowej**.
+Poszczególne zalecenia dotyczą wyodrębnionych zagadnień, ale powinny tworzyć **spójny zbiór rozwiązań określających sposób systemowego zarządzania zapewnianiem dostępności cyfrowej.**
+
 
 ### 2.1. Cechy dobrego zalecenia
 
@@ -55,15 +56,16 @@ Dobre zalecenie jest:
 ### 3.1. Zalecenie
 
 :::info Definicja terminu Zalecenie
-**Zalecenie** to dokument kierowany do podmiotów publicznych, który przedstawia rozwiązanie określonego problemu organizacyjnego związanego z zarządzaniem zapewnianiem dostępności cyfrowej.
+**Zalecenie** to dokument kierowany do podmiotów publicznych, który przedstawia rozwiązanie określonego problemu związanego z organizacją zapewniania dostępności cyfrowej.
 
 Zalecenie określa pożądany stan lub sposób działania organizacji oraz wskazuje działania i rozwiązania służące jego osiągnięciu lub utrzymaniu.
+:::
 
 Zalecenia mają charakter **niewiążący**. Nie ustanawiają obowiązków prawnych, lecz wskazują rozwiązania i dobre sposoby działania, których zastosowanie wspiera skuteczne zapewnianie dostępności cyfrowej.
 
 ### 3.2. Przedmiot zaleceń
 
-Przedmiotem zaleceń są zagadnienia związane z zarządzaniem zapewnianiem dostępności cyfrowej, w szczególności dotyczące:
+Przedmiotem zaleceń są zagadnienia związane z organizacją zapewniania dostępności cyfrowej, w szczególności dotyczące:
 
 - polityk i zasad działania,
 - procesów i procedur,
@@ -121,7 +123,7 @@ Każde opublikowane zalecenie zawiera ponadto **Historię wersji**, a w przypadk
 
 ### 4.1. Cel zalecenia
 
-W tej części wskazujemy **problem organizacyjny związany z zarządzaniem zapewnianiem dostępności cyfrowej, który ma rozwiązać zalecenie**.
+W tej części wskazujemy **problem związany z organizacją zapewniania dostępności cyfrowej, który ma rozwiązać zalecenie.**.
 
 Opis celu powinien krótko określać istniejącą lukę, trudność lub nieskuteczność w sposobie działania organizacji, która uzasadnia zastosowanie zalecanego rozwiązania. Może to być na przykład brak określonego procesu, niejasny podział odpowiedzialności, niespójność działań, brak potrzebnych zdolności organizacyjnych albo niewystarczająca kontrola osiągania celów dostępności cyfrowej.
 
