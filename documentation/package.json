@@ -27,7 +27,7 @@
     "clsx": "2.1.1",
     "docusaurus-plugin-glossary": "^3.3.4",
     "dotenv": "17.4.2",
-    "jszip": "3.10.1",
+    "jszip": "3.10.2",
     "lucide-react": "1.45.0",
     "mammoth": "1.12.2",
     "prism-react-renderer": "2.4.1",
