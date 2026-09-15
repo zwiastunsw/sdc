@@ -39,7 +39,12 @@ const config: Config = {
     staticDirectories: ['static'],
 
     onBrokenLinks: 'throw',
-    onBrokenMarkdownLinks: 'warn',
+
+    markdown: {
+        hooks: {
+            onBrokenMarkdownLinks: 'warn',
+        },
+    },
 
     future: {
         v4: false,
