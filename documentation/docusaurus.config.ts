@@ -194,7 +194,7 @@ const config: Config = {
 
                     ],
                 },
-                { to: '/slownik', label: 'Słownik', position: 'left' },
+                {href: 'https://github.com/Siec-Dostepnosci-Cyfrowej/sdc/slownik', label: 'Słownik', position: 'left' },
                 { to: '/blog', label: 'Blog', position: 'left' },
                 {
                     href: 'https://github.com/Siec-Dostepnosci-Cyfrowej/sdc',
