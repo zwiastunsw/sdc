@@ -74,18 +74,19 @@ Odbiór obejmuje ocenę:
 
 ### 3.4. Zakres weryfikacji
 
-Weryfikacja prowadzona przez zamawiającego ma charakter potwierdzający.
+Organizacja zawsze przeprowadza weryfikację informacji przedstawionych przez wykonawcę. Jej zakres jest proporcjonalny do znaczenia i ryzyka rozwiązania.
 
-Może obejmować między innymi:
+Minimalny zakres weryfikacji obejmuje:
 
-- ocenę kompletności dokumentacji dostępności;
-- analizę raportu stopnia zgodności;
-- demonstrację wybranych funkcjonalności;
-- wyrywkową weryfikację wybranych informacji przedstawionych w raporcie;
-- wykonanie wybranych testów;
-- analizę wybranych materiałów dowodowych.
+- sprawdzenie kompletności i spójności dokumentacji dostępności;
+- sprawdzenie, czy oceniono wszystkie wymagania mające zastosowanie do rozwiązania;
+- weryfikację wybranych twierdzeń dotyczących spełnienia wymagań na podstawie materiałów dowodowych;
+- sprawdzenie działania kluczowych funkcji i procesów użytkownika;
+- sprawdzenie znanych niezgodności oraz ich wpływu na możliwość korzystania z rozwiązania.
 
-Zakres weryfikacji powinien być proporcjonalny do poziomu ryzyka oraz znaczenia rozwiązania.
+W przypadku rozwiązań o podwyższonym ryzyku, istotnych dla realizacji zadań publicznych albo wykorzystywanych przez dużą liczbę użytkowników zakres weryfikacji powinien być odpowiednio rozszerzony i może obejmować niezależną ocenę lub audyt dostępności.
+
+Wynik weryfikacji jest dokumentowany i stanowi jedną z podstaw decyzji o odbiorze.
 
 ---
 
