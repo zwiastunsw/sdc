@@ -5,19 +5,23 @@ import type { Config } from '@docusaurus/types';
 
 import { themes as prismThemes } from 'prism-react-renderer';
 import remarkMermaidStatic from '@barrierenlos/docusaurus-prerender-mermaid/remark';
-import { getRemarkPlugin } from 'docusaurus-plugin-glossary';
 
 import path from 'path';
+import { createRequire } from 'module';
 
+// Zamiast getRemarkPlugin z paczki — nasz plugin z linkOnlyFirstOccurrence
+// Używamy createRequire bo jiti na Windows nie obsługuje dynamic import .mjs
+const _require = createRequire(__filename);
+const remarkGlossaryFirstOccurrence = _require('./src/remark/glossary-first-occurrence.cjs');
 const glossaryOptions = {
     glossaryPath: 'slownik/slownik.json',
     routePath: '/sdc/slownik',
+    siteDir: __dirname,
     expandAcronymsOnFirstUse: true,
+    linkOnlyFirstOccurrence: true,   // ← tylko pierwsze wystąpienie na plik
 };
 
-const glossaryRemarkPlugin = getRemarkPlugin(glossaryOptions, {
-    siteDir: __dirname,
-});
+const glossaryRemarkPlugin = [remarkGlossaryFirstOccurrence, glossaryOptions] as const;
 
 // ==============================
 //  KONFIGURACJA GŁÓWNA SIECI
@@ -48,8 +52,6 @@ const config: Config = {
     //  PLUGINS
     // =====================================
 
-
-
     plugins: [
         path.resolve(__dirname, 'plugins/alias-plugin'),
 
@@ -68,7 +70,14 @@ const config: Config = {
             },
         ],
 
-        ['docusaurus-plugin-glossary', glossaryOptions],
+        // Plugin nadal potrzebny — generuje stronę /slownik i komponent GlossaryTerm
+        [
+            'docusaurus-plugin-glossary',
+            {
+                glossaryPath: 'slownik/slownik.json',
+                routePath: '/sdc/slownik',
+            },
+        ],
     ],
 
     // =====================================
@@ -180,7 +189,7 @@ const config: Config = {
 
                     ],
                 },
-                { to: '/slownik', label: 'Słownik', position: 'left' },
+                { href: 'https://siec-dostepnosci-cyfrowej.github.io/sdc/slownik', label: 'Słownik', position: 'left' },
                 { to: '/blog', label: 'Blog', position: 'left' },
                 {
                     href: 'https://github.com/Siec-Dostepnosci-Cyfrowej/sdc',
