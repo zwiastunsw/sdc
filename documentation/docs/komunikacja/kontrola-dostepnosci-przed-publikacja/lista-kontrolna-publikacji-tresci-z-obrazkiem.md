@@ -9,20 +9,20 @@ tags: [dostępność cyfrowa, grafika, obraz, opis alternatywny, lista kontrolna
 opracowanie: Bartłomiej Wilk
 wspolpraca: Stefan Wajda, Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-ostatnia_aktualizacja: 6 września 2026 r.
+ostatnia_aktualizacja: 16 września 2026 r.
 wersja_robocza: true
 ---
 
 # Lista kontrolna publikacji treści z obrazem
 
-| Punkt kontrolny | Kategoria | Odpowiedź | Dowód/uwaga |
-|---|---|---|---|
-| Czy osoba, która nie widzi obrazu, otrzymuje wszystkie informacje potrzebne do zrozumienia treści lub wykonania zadania? | krytyczne | TAK / NIE / NIE DOTYCZY | |
-| Czy sposób udostępnienia treści alternatywnej odpowiada funkcji obrazu: informacyjnej, funkcjonalnej, dekoracyjnej lub złożonej? | warunkowe | TAK / NIE / NIE DOTYCZY | |
-| Czy tekst umieszczony na grafice jest dostępny także jako rzeczywisty tekst, jeżeli zawiera istotną informację? | warunkowe | TAK / NIE / NIE DOTYCZY | |
-| Czy znaczenie informacji nie zależy wyłącznie od koloru lub położenia elementu? | krytyczne | TAK / NIE / NIE DOTYCZY | |
-| Czy kontrast tekstu i istotnych elementów graficznych pozwala je odczytać? | warunkowe | TAK / NIE / NIE DOTYCZY | |
-| Czy opis alternatywny nie powtarza zbędnie informacji dostępnych bezpośrednio obok obrazu? | jakościowe | TAK / NIE / NIE DOTYCZY | |
+| Punkt kontrolny | Zastosowanie | Skutek odpowiedzi „NIE” | Odpowiedź | Dowód/uwaga |
+|---|---|---|---|---|
+| Czy osoba, która nie widzi obrazu, otrzymuje wszystkie informacje potrzebne do zrozumienia treści lub wykonania zadania? | zawsze, jeżeli punkt odpowiada rodzajowi materiału | wymaga poprawy albo udokumentowanej decyzji o dalszym postępowaniu | TAK / NIE / NIE DOTYCZY |  |
+| Czy sposób udostępnienia treści alternatywnej odpowiada funkcji obrazu: informacyjnej, funkcjonalnej, dekoracyjnej lub złożonej? | gdy wskazany element lub funkcja występuje | jeżeli punkt dotyczy materiału — wymaga poprawy albo udokumentowanej decyzji o dalszym postępowaniu | TAK / NIE / NIE DOTYCZY |  |
+| Czy tekst umieszczony na grafice jest dostępny także jako rzeczywisty tekst, jeżeli zawiera istotną informację? | gdy wskazany element lub funkcja występuje | jeżeli punkt dotyczy materiału — wymaga poprawy albo udokumentowanej decyzji o dalszym postępowaniu | TAK / NIE / NIE DOTYCZY |  |
+| Czy znaczenie informacji nie zależy wyłącznie od koloru lub położenia elementu? | zawsze, jeżeli punkt odpowiada rodzajowi materiału | wymaga poprawy albo udokumentowanej decyzji o dalszym postępowaniu | TAK / NIE / NIE DOTYCZY |  |
+| Czy kontrast tekstu i istotnych elementów graficznych pozwala je odczytać? | gdy wskazany element lub funkcja występuje | jeżeli punkt dotyczy materiału — wymaga poprawy albo udokumentowanej decyzji o dalszym postępowaniu | TAK / NIE / NIE DOTYCZY |  |
+| Czy opis alternatywny nie powtarza zbędnie informacji dostępnych bezpośrednio obok obrazu? | zależnie od charakteru materiału | wymaga oceny wpływu na odbiór informacji lub wykonanie zadania | TAK / NIE / NIE DOTYCZY |  |
 
 ## Decyzja
 
