@@ -8,7 +8,7 @@ keywords: [procedura, treści zewnętrzne, publikacja, wyłączenia ustawowe]
 tags: [komunikacja, dostępność cyfrowa, publikacja]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 16 kwietnia 2026 r.
-ostatnia_aktualizacja: 9 września 2026 r.
+ostatnia_aktualizacja: 16 września 2026 r.
 wersja_robocza: true
 ---
 
@@ -63,10 +63,12 @@ Jeżeli materiał wymaga poprawy, w pierwszej kolejności podejmuje się działa
 
 - poprawionej wersji materiału;
 - wersji dostępnej cyfrowo;
-- wersji źródłowej lub edytowalnej;
-- elementów potrzebnych do zapewnienia dostępności odpowiednich do rodzaju materiału.
+- wersji źródłowej lub edytowalnej, jeżeli może być potrzebna do zgodnego z prawem dostosowania materiału;
+- informacji lub elementów potrzebnych do zapewnienia dostępności odpowiednich do rodzaju materiału.
 
 Informacja o brakach powinna wskazywać, czego brakuje, co wymaga poprawy oraz jakie materiały lub informacje są potrzebne.
+
+Jeżeli podmiot przekazujący odmawia przekazania wersji dostępnej cyfrowo albo nie odpowiada na prośbę o jej przekazanie, okoliczność tę dokumentuje się i uwzględnia przy wyborze dalszego sposobu postępowania. Sama odmowa, brak odpowiedzi ani ponowne przekazanie niedostępnej wersji nie stanowią samodzielnej podstawy zastosowania wyłączenia.
 
 Można zastosować wzór:
 
@@ -79,7 +81,7 @@ Można zastosować wzór:
 
 ## 5. Ocena możliwości dostosowania lub przygotowania dostępnego przedstawienia informacji
 
-Jeżeli podmiot przekazujący nie może dostarczyć odpowiedniej wersji, ocena obejmuje ustalenie:
+Jeżeli podmiot przekazujący nie może dostarczyć odpowiedniej wersji, odmawia jej przekazania albo nie odpowiada na prośbę, ocena obejmuje ustalenie:
 
 - czy podmiot publikujący może sam dostosować materiał;
 - czy możliwe jest przygotowanie dostępnej wersji;
@@ -99,6 +101,17 @@ Przy ocenie art. 3 ust. 2 pkt 5 ustawy o dostępności cyfrowej uwzględnia się
 - uprawnienie podmiotu publicznego do dokonania takiej modyfikacji.
 
 Pochodzenie materiału od innego podmiotu nie jest samoistną podstawą zastosowania wyłączenia.
+
+Ocena powinna pokazywać, jak ustalony stan faktyczny odnosi się do przesłanek art. 3 ust. 2 pkt 5. Pomocniczo można stosować następującą macierz:
+
+| Element oceny | Ustalenie | Dowód / źródło informacji | Wniosek |
+|---|---|---|---|
+| Czy treść jest w posiadaniu podmiotu publicznego? | TAK / NIE | | |
+| Czy sposób wytworzenia, sfinansowania lub nabycia treści spełnia przesłanki lit. a? | TAK / NIE / NIE DOTYCZY | | |
+| Czy zapewnienie dostępności wymaga modyfikacji, do której podmiot nie jest uprawniony, zgodnie z lit. b? | TAK / NIE / NIE DOTYCZY | | |
+| Czy istnieje konkretna podstawa zastosowania wyłączenia? | TAK / NIE | | wskazanie litery przepisu albo brak podstawy |
+
+Macierz nie zastępuje oceny prawnej konkretnego przypadku. Ma jedynie zapewnić, że zastosowanie wyłączenia wynika z konkretnej przesłanki ustawowej, a nie z samego zewnętrznego pochodzenia materiału.
 
 ## 7. Wybór dalszego sposobu postępowania
 
