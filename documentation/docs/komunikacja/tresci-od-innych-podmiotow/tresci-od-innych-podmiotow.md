@@ -10,7 +10,7 @@ typ: zalecenie
 wymiar: Komunikacja
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 16 kwietnia 2026 r.
-ostatnia_aktualizacja: 12 września 2026 r.
+ostatnia_aktualizacja: 16 września 2026 r.
 wersja_robocza: true
 ---
 
@@ -36,10 +36,13 @@ Procedura określa dodatkowe działania wynikające z faktu, że materiał przez
    - czy dostępna jest wersja źródłowa, edytowalna lub dostępna cyfrowo.
 2. **Ustalenie obowiązku publikacji.** Procedura rozdziela ustalenie obowiązku publikacji materiału od oceny obowiązku zapewnienia jego dostępności cyfrowej. Jeżeli publikacja materiału wynika z przepisów prawa albo innego wiążącego obowiązku, okoliczność ta jest uwzględniana przy wyborze sposobu dalszego postępowania z materiałem.
 3. **Pozyskanie materiału umożliwiającego dostępną publikację.** W przypadku stwierdzenia problemów z dostępnością procedura obejmuje:
-   - pozyskanie wersji źródłowej lub edytowalnej;
    - pozyskanie poprawionej albo dostępnej cyfrowo wersji materiału;
-   - uzyskanie od podmiotu przekazującego elementów niezbędnych do zapewnienia dostępności, odpowiednich do rodzaju materiału;
+   - pozyskanie wersji źródłowej lub edytowalnej, jeżeli może być potrzebna do zgodnego z prawem dostosowania materiału;
+   - uzyskanie od podmiotu przekazującego informacji lub elementów niezbędnych do zapewnienia dostępności, odpowiednich do rodzaju materiału;
+   - udokumentowanie odmowy przekazania wersji dostępnej albo braku odpowiedzi na prośbę o jej przekazanie;
    - uzupełnienie lub dostosowanie materiału przez podmiot publiczny, jeżeli jest on uprawniony do dokonania takich zmian.
+
+   Odmowa przekazania wersji dostępnej albo brak odpowiedzi podmiotu przekazującego nie stanowią samodzielnej podstawy zastosowania wyłączenia z wymagań dostępności cyfrowej.
 4. **Ocena możliwości modyfikacji.** Procedura umożliwia ustalenie, czy ograniczenie możliwości zmiany materiału wynika z rzeczywistych okoliczności prawnych lub faktycznych. Sam fakt, że materiał pochodzi od innego podmiotu, nie jest traktowany jako wystarczająca podstawa do uznania, że podmiot publiczny nie może go zmodyfikować albo zapewnić jego dostępności cyfrowej.
 5. **Ocena przesłanek wyłączenia.** Procedura zapewnia indywidualną ocenę przesłanek wyłączenia określonych w przepisach o dostępności cyfrowej. Pochodzenie materiału od innego podmiotu nie jest samoistną podstawą zastosowania wyłączenia. Ocena uwzględnia w szczególności sposób wytworzenia, sfinansowania lub nabycia materiału oraz uprawnienie podmiotu publicznego do dokonania modyfikacji niezbędnej do zapewnienia dostępności cyfrowej.
 6. **Postępowanie z materiałem wymagającym uzupełnienia lub poprawy.** Procedura określa dalszy sposób postępowania odpowiednio do ustalonego obowiązku publikacji, możliwości modyfikacji materiału oraz wyniku oceny przesłanek wyłączenia. Sposób postępowania obejmuje odpowiednio:
@@ -83,6 +86,7 @@ W zaleceniu uwzględniono poniżej wymienione przepisy:
 | 0.5 | 09.09.2026 | Aktualizacja po recenzji | Zasadnicze zawężenie przedmiotu zalecenia do dodatkowych działań wynikających z pochodzenia materiału. |
 | 0.6 | 09.09.2026 | Aktualizacja po weryfikacji | Dostosowanie struktury, języka rekomendacji, podstaw prawnych i historii wersji do zasad formowania zaleceń SDC. |
 | 0.7 | 12.09.2026 | Aktualizacja struktury | Dodanie sekcji „Cel zalecenia” na początku dokumentu i dostosowanie numeracji dalszych części. |
+| 0.8 | 16.09.2026 | Aktualizacja po dyskusji | Doprecyzowanie postępowania w przypadku odmowy przekazania wersji dostępnej lub braku odpowiedzi oraz roli wersji źródłowej i edytowalnej. |
 
 ## Załączniki
 
