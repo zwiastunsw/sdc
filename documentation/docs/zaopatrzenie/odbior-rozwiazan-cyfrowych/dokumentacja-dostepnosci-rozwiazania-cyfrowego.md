@@ -44,7 +44,11 @@ Nie powinna wymagać ujawniania rozwiązań technicznych stanowiących know-how 
 
 Dokumentacja dostępności rozwiązania jest utrzymywana przez cały cykl życia rozwiązania – od rozpoczęcia jego projektowania do zakończenia jego eksploatacji.
 
-W początkowym okresie odpowiedzialność za jej opracowanie i aktualizowanie spoczywa na wykonawcy lub dostawcy. Po odbiorze rozwiązania odpowiedzialność za jej dalsze utrzymywanie przejmuje organizacja, aktualizując ją po każdej zmianie mającej wpływ na dostępność rozwiązania lub po uzyskaniu nowych informacji o jego stanie dostępności i zgodności.
+Organizacja odpowiada za zapewnienie, że dokumentacja dostępności pozostaje aktualna przez cały okres użytkowania rozwiązania.
+
+Jeżeli zmiany w rozwiązaniu wprowadza wykonawca, dostawca lub podmiot świadczący usługę utrzymania, umowa powinna nakładać na niego obowiązek aktualizacji odpowiednich części dokumentacji oraz przekazywania informacji o wpływie zmian na dostępność.
+
+Jeżeli zmian dokonuje organizacja samodzielnie, zapewnia odpowiednią aktualizację dokumentacji we własnym zakresie.
 
 Dokumentacja powinna odzwierciedlać aktualny stan wiedzy o rozwiązaniu i stanowić podstawowe źródło informacji wykorzystywane podczas monitorowania dostępności, planowania zmian, prowadzenia ocen oraz zarządzania działaniami naprawczymi.
 
