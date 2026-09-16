@@ -184,7 +184,7 @@ Wykonawca odpowiada za spełnienie wymagań dostępności określonych w zamówi
 
 Organizacja odpowiada natomiast za określenie wymagań i warunków odbioru, ocenę przedstawionych dowodów, przeprowadzenie odpowiedniej weryfikacji oraz podjęcie decyzji o odbiorze. Weryfikacja prowadzona przez organizację nie oznacza przejęcia odpowiedzialności wykonawcy za jakość rozwiązania ani za prawdziwość przekazanych informacji.
 
-Model ten odpowiada rozwiązaniom przyjętym w dyrektywie (UE) 2019/882 (Europejskim Akcie o Dostępności), wdrożonej ustawą z dnia 26 kwietnia 2024 r. o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług przez podmioty gospodarcze, zgodnie z którymi podmiot gospodarczy odpowiada za ocenę zgodności, sporządzenie dokumentacji technicznej oraz udokumentowanie spełnienia wymagań. Przepisy te nie mają bezpośredniego zastosowania do odbioru rozwiązań cyfrowych zamawianych przez podmioty publiczne, stanowią jednak wzorzec podziału odpowiedzialności możliwy do przeniesienia do postanowień umowy.
+Podobny model, w którym dostawca wykazuje zgodność oferowanego rozwiązania z wymaganiami, występuje również w regulacjach dotyczących dostępności produktów i usług. Nie stanowi on jednak podstawy prawnej odbioru zamówienia publicznego. W przypadku rozwiązań zamawianych przez podmiot publiczny zakres odpowiedzialności stron wynika z przepisów mających zastosowanie do danego rozwiązania oraz z dokumentacji zamówienia i umowy.
 
 ---
 
