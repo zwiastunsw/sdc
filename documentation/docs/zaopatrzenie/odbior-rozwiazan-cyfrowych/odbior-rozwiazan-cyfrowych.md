@@ -180,7 +180,9 @@ Dokumentacja dostępności przekazana przy odbiorze stanowi pierwszy zbiór info
 
 ### 4.1. Odpowiedzialność za wykazanie zgodności
 
-Odpowiedzialność za zapewnienie spełnienia wymagań dostępności oraz wykazanie ich spełnienia spoczywa na wykonawcy. Zamawiający nie powinien przejmować odpowiedzialności za ocenę zgodności poprzez samodzielne poszukiwanie problemów dostępności.
+Wykonawca odpowiada za spełnienie wymagań dostępności określonych w zamówieniu oraz za przedstawienie wiarygodnych informacji i dowodów umożliwiających ocenę ich spełnienia.
+
+Organizacja odpowiada natomiast za określenie wymagań i warunków odbioru, ocenę przedstawionych dowodów, przeprowadzenie odpowiedniej weryfikacji oraz podjęcie decyzji o odbiorze. Weryfikacja prowadzona przez organizację nie oznacza przejęcia odpowiedzialności wykonawcy za jakość rozwiązania ani za prawdziwość przekazanych informacji.
 
 Model ten odpowiada rozwiązaniom przyjętym w dyrektywie (UE) 2019/882 (Europejskim Akcie o Dostępności), wdrożonej ustawą z dnia 26 kwietnia 2024 r. o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług przez podmioty gospodarcze, zgodnie z którymi podmiot gospodarczy odpowiada za ocenę zgodności, sporządzenie dokumentacji technicznej oraz udokumentowanie spełnienia wymagań. Przepisy te nie mają bezpośredniego zastosowania do odbioru rozwiązań cyfrowych zamawianych przez podmioty publiczne, stanowią jednak wzorzec podziału odpowiedzialności możliwy do przeniesienia do postanowień umowy.
 
