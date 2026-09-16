@@ -190,14 +190,9 @@ Podobny model, w którym dostawca wykazuje zgodność oferowanego rozwiązania z
 
 ### 4.2. Cel odbioru
 
-Celem odbioru nie jest wykazanie, że rozwiązanie jest całkowicie wolne od problemów dostępności.
+Celem odbioru jest uzyskanie przez organizację uzasadnionej pewności, że rozwiązanie w zakresie objętym odbiorem spełnia określone wymagania dostępności oraz że organizacja otrzymała wiarygodną i wystarczającą wiedzę pozwalającą utrzymywać dostępność rozwiązania po odbiorze.
 
-Celem odbioru jest uzyskanie uzasadnionej pewności, że wykonawca:
-
-- przeprowadził ocenę zgodności;
-- przedstawił rzetelny raport stopnia zgodności;
-- zgromadził materiały dowodowe;
-- przekazał organizacji dokumentację dostępności zawierającą wiedzę niezbędną do odbioru rozwiązania oraz dalszego zarządzania jego dostępnością przez cały okres eksploatacji.
+Dokumentacja wykonawcy, raport zgodności, materiały dowodowe i wyniki weryfikacji są środkami służącymi osiągnięciu tego celu.
 
 ---
 
