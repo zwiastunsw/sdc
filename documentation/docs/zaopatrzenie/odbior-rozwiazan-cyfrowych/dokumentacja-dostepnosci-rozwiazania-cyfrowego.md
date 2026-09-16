@@ -215,8 +215,7 @@ Poniższe materiały mogą stanowić element dokumentacji dostępności rozwiąz
 
 Dla każdego materiału należy określić jego przeznaczenie, autora, zakres informacji oraz sposób wykorzystania.
 
-- Raport stopnia zgodności rozwiązania (ACR);
-- VPAT;
+- Raport zgodności z dostępnością (ACR);
 - raport audytu dostępności;
 - raport testów eksperckich;
 - raport testów automatycznych;
