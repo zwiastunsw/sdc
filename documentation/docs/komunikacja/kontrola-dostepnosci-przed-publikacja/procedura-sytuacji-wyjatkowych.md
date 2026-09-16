@@ -9,7 +9,7 @@ tags: [dostępność cyfrowa, publikacja warunkowa, bariery dostępności, rejes
 opracowanie: Bartłomiej Wilk
 wspolpraca: Stefan Wajda, Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-ostatnia_aktualizacja: 6 września 2026 r.
+ostatnia_aktualizacja: 16 września 2026 r.
 wersja_robocza: true
 ---
 
@@ -54,6 +54,7 @@ Decyzja powinna określać:
 - osobę zatwierdzającą,
 - osobę lub komórkę odpowiedzialną za poprawę,
 - termin poprawy,
+- sposób potwierdzenia, że bariery zostały usunięte,
 - sposób zapewnienia użytkownikom dostępu do informacji do czasu poprawy, jeżeli jest wymagany lub potrzebny.
 
 ## Rejestr publikacji warunkowych
@@ -71,6 +72,7 @@ Rejestr służy monitorowaniu terminów i przyczyn publikowania materiałów prz
 | Odpowiedzialność za poprawę | Osoba lub komórka. |
 | Termin poprawy | Data graniczna. |
 | Data poprawy | Data rzeczywistego usunięcia bariery. |
+| Potwierdzenie poprawy | Sposób i wynik sprawdzenia, że wskazane bariery zostały usunięte. |
 | Działanie końcowe | Uzupełniono / zaktualizowano / zastąpiono / wycofano. |
 | Uwagi | Informacje o zmianie terminu lub dalszych działaniach. |
 
