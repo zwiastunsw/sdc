@@ -149,11 +149,17 @@ Przed podjęciem decyzji organizacja ocenia wpływ każdej niezgodności na uży
 Warunki odbioru powinny określać:
 
 - zaakceptowane niezgodności;
+- ocenę ich wpływu na użytkowników;
 - ocenę ryzyka;
 - uzasadnienie decyzji;
 - plan działań naprawczych;
+- podmiot odpowiedzialny za usunięcie każdej niezgodności;
 - terminy usunięcia niezgodności;
-- sposób potwierdzenia wykonania działań.
+- sposób zabezpieczenia wykonania działań naprawczych przewidziany w umowie;
+- konsekwencje niedotrzymania terminów;
+- sposób potwierdzenia wykonania działań;
+- osobę lub rolę odpowiedzialną za potwierdzenie usunięcia niezgodności;
+- moment i sposób zamknięcia odbioru warunkowego.
 
 ---
 
