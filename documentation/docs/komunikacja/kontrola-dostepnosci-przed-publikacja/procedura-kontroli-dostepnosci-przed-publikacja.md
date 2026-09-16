@@ -11,7 +11,7 @@ wymiar: Komunikacja
 opracowanie: Bartłomiej Wilk
 wspolpraca: Stefan Wajda, Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 30 kwietnia 2026 r.
-ostatnia_aktualizacja: 12 września 2026 r.
+ostatnia_aktualizacja: 16 września 2026 r.
 wersja_robocza: true
 ---
 
@@ -72,6 +72,7 @@ W zaleceniu uwzględniono poniżej wymienione przepisy:
 | 0.3 | 06.09.2026 | Projekt roboczy | Dostosowanie dokumentu głównego do standardowej struktury zalecenia. |
 | 0.4 | 09.09.2026 | Aktualizacja po weryfikacji | Dostosowanie struktury, języka rekomendacji, podstaw prawnych, źródeł i historii wersji do zasad formowania zaleceń SDC oraz dodanie rekomendacji dotyczącej przeglądu mechanizmu kontroli. |
 | 0.5 | 12.09.2026 | Aktualizacja struktury | Dodanie sekcji „Cel zalecenia” na początku dokumentu i dostosowanie numeracji dalszych części. |
+| 0.6 | 16.09.2026 | Aktualizacja po recenzji | Rozdzielenie w listach kontrolnych warunku zastosowania punktu od skutku odpowiedzi „NIE”, doprecyzowanie kontroli dokumentów według formatu oraz sposobu zamykania publikacji warunkowej. |
 
 ## Załączniki
 
