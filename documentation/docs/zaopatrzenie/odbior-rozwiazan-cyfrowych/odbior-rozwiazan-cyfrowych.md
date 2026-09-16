@@ -220,7 +220,7 @@ Przekazana przy odbiorze dokumentacja dostępności stanowi punkt wyjścia do pr
 
 ## Powiązane dokumenty
 
-- Definiowanie i ocena wymagań dostępności cyfrowej w ofertach.
-- Raportowanie zamawiającemu stopnia zgodności rozwiązania z wymaganiami dostępności cyfrowej.
-- Specyfikacja raportu stopnia zgodności rozwiązania z wymaganiami dostępności cyfrowej.
-- Karta decyzji o odbiorze rozwiązania z uwzględnieniem stwierdzonych niezgodności.
+- [Definiowanie i ocena wymagań dostępności cyfrowej w ofertach](../zasady-oceny-ofert/definiowanie-i-ocena-wymagan-dostepnosci-cyfrowej-w-ofertach%20.md).
+- Raportowanie zamawiającemu stopnia zgodności rozwiązania z wymaganiami dostępności cyfrowej (dokument planowany).
+- Specyfikacja raportu stopnia zgodności rozwiązania z wymaganiami dostępności cyfrowej (dokument planowany).
+- Karta decyzji o odbiorze rozwiązania z uwzględnieniem stwierdzonych niezgodności (dokument planowany).
