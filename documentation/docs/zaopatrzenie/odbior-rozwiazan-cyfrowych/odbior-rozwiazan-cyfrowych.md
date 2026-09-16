@@ -39,6 +39,16 @@ Wykonawca odpowiada za:
 
 ---
 
+### 3.2. Odpowiedzialność organizacji
+
+Organizacja odpowiada za określenie wymagań dostępności i kryteriów ich odbioru, ustalenie zakresu weryfikacji, ocenę informacji przekazanych przez wykonawcę oraz podjęcie decyzji o odbiorze rozwiązania.
+
+Organizacja nie przejmuje od wykonawcy obowiązku wykazania spełnienia wymagań, ale nie może opierać decyzji o odbiorze wyłącznie na deklaracji wykonawcy.
+
+Zakres weryfikacji organizacja ustala z uwzględnieniem znaczenia rozwiązania, skutków potencjalnych niezgodności, grup użytkowników oraz zakresu procesów realizowanych za pomocą rozwiązania.
+
+---
+
 ### 3.2. Warunki rozpoczęcia odbioru
 
 Warunkiem rozpoczęcia odbioru jest przekazanie dokumentacji dostępności rozwiązania, obejmującej informacje wymagane tym zaleceniem oraz dokumentami zamówienia.
