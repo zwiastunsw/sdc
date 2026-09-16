@@ -9,7 +9,7 @@ tags: [dostępność cyfrowa, listy kontrolne, kontrola, publikacja, metodologia
 opracowanie: Stefan Wajda
 wspolpraca: Bartłomiej Wilk
 data_zgloszenia: 9 maja 2026 r.
-ostatnia_aktualizacja: 6 września 2026 r.
+ostatnia_aktualizacja: 16 września 2026 r.
 wersja_robocza: true
 ---
 
@@ -27,11 +27,16 @@ Pytania należy formułować przede wszystkim z perspektywy możliwości odbioru
 
 Przykład: zamiast ograniczać pytanie do „Czy grafika ma opis alternatywny?”, należy sprawdzić, czy osoba, która nie widzi grafiki, otrzymuje równoważną informację w sposób właściwy dla funkcji obrazu.
 
-## 3. Kategorie punktów
+## 3. Zastosowanie punktu i skutek odpowiedzi „NIE”
 
-- **Krytyczne** – dotyczą bariery, która może uniemożliwić odbiór kluczowej informacji lub wykonanie zadania. Odpowiedź „NIE” wymaga poprawy albo świadomej, udokumentowanej decyzji o dalszym postępowaniu.
-- **Warunkowe** – stosuje się, gdy dany element lub funkcja występuje w materiale. Odpowiedź „NIE DOTYCZY” powinna wynikać z rzeczywistego braku danego elementu.
-- **Jakościowe** – wspierają czytelność i komfort korzystania. Samodzielnie nie powinny być traktowane jako automatyczny warunek publikacji, chyba że w konkretnym materiale problem wpływa na możliwość odbioru informacji lub wykonania zadania.
+Lista rozdziela dwie informacje, które nie powinny być ze sobą utożsamiane:
+
+- **zastosowanie punktu** – określa, czy dane pytanie dotyczy materiału zawsze, tylko wtedy, gdy występuje określony element lub funkcja, albo zależnie od charakteru materiału;
+- **skutek odpowiedzi „NIE”** – określa, co oznacza niespełnienie wymagania, gdy punkt ma zastosowanie.
+
+Punkt stosowany warunkowo nie jest przez to mniej istotny. Jeżeli warunek jego zastosowania jest spełniony, odpowiedź „NIE” może oznaczać barierę wymagającą poprawy przed publikacją albo udokumentowanej decyzji o dalszym postępowaniu.
+
+Wskazówki jakościowe wspierają czytelność i komfort korzystania. Jeżeli jednak w konkretnym materiale problem jakościowy wpływa na możliwość odbioru informacji lub wykonania zadania, należy potraktować go jak barierę wymagającą działania.
 
 ## 4. Zasady konstrukcji
 
@@ -45,9 +50,9 @@ Lista powinna być:
 
 ## 5. Wynik kontroli
 
-Dla każdego pytania należy przewidzieć co najmniej odpowiedzi: **TAK / NIE / NIE DOTYCZY** oraz możliwość krótkiego opisania problemu lub dowodu.
+Dla każdego pytania należy przewidzieć co najmniej odpowiedzi: **TAK / NIE / NIE DOTYCZY** oraz możliwość krótkiego opisania problemu lub dowodu. Lista powinna też wskazywać, kiedy pytanie ma zastosowanie i jaki jest skutek odpowiedzi „NIE”.
 
-Lista nie powinna automatycznie deklarować pełnej zgodności z WCAG. Jej wynik dokumentuje zakres wykonanej kontroli, a nie zastępuje pełnego badania zgodności.
+Lista nie powinna automatycznie deklarować pełnej zgodności z WCAG. Jej wynik dokumentuje zakres wykonanej kontroli, a nie zastępuje pełnego badania zgodności. Także pozytywny wynik testu automatycznego nie potwierdza samodzielnie pełnej dostępności materiału.
 
 ## 6. Decyzja
 
