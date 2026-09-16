@@ -20,7 +20,9 @@ Zapewnienie, że odbiór rozwiązania cyfrowego pozwala organizacji uzyskać uza
 
 ## 2. Zalecenie
 
-Organizacja prowadzi odbiór rozwiązań cyfrowych na podstawie dokumentacji dostępności rozwiązania przekazanej przez wykonawcę. Dokumentacja ta obejmuje raport zgodności z dostępnością oraz inne informacje i materiały niezbędne do wykazania spełnienia wymagań dostępności i dalszego zarządzania dostępnością rozwiązania.
+Organizacja odbiera rozwiązanie cyfrowe na podstawie określonych wcześniej kryteriów odbioru dostępnościowego. Wykonawca przedstawia dokumentację i materiały wykazujące spełnienie wymagań dostępności, a organizacja weryfikuje ich wiarygodność oraz zgodność rzeczywistego działania rozwiązania z wymaganiami w zakresie proporcjonalnym do ryzyka i znaczenia rozwiązania.
+
+Przekazanie dokumentacji przez wykonawcę nie zastępuje weryfikacji prowadzonej przez organizację ani nie przenosi na wykonawcę odpowiedzialności organizacji za decyzję o odbiorze.
 
 ---
 
