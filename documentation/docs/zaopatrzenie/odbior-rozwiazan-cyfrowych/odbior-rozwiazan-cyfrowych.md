@@ -108,27 +108,27 @@ Odbiór końcowy powinien obejmować całość rozwiązania oraz uwzględniać w
 
 ---
 
-### 3.7. Wyjątkowe stosowanie audytu zgodności
+### 3.7. Niezależna weryfikacja i audyt dostępności
 
-Audyt zgodności nie powinien stanowić standardowego elementu procedury odbiorowej. Może zostać przeprowadzony wyłącznie wtedy, gdy dokumentacja dostępności przekazana przez wykonawcę nie pozwala na dokonanie wiarygodnej oceny rozwiązania albo gdy pomiędzy stronami powstaną uzasadnione wątpliwości dotyczące spełnienia wymagań dostępności.
+Audyt dostępności nie musi stanowić standardowego elementu każdego odbioru. Organizacja może jednak przewidzieć jego przeprowadzenie, jeżeli jest to uzasadnione charakterem, znaczeniem albo ryzykiem rozwiązania.
 
-W szczególności audyt zgodności może być uzasadniony, gdy:
+Audyt jest w szczególności uzasadniony, gdy:
 
-- wykonawca nie przedstawi wymaganej dokumentacji;
-- przedstawiona dokumentacja jest niekompletna lub budzi uzasadnione wątpliwości;
-- weryfikacja prowadzona przez zamawiającego wskazuje na rozbieżności pomiędzy raportem stopnia zgodności a rzeczywistym działaniem rozwiązania;
-- pomiędzy stronami powstaje spór dotyczący spełnienia wymagań dostępności;
-- charakter lub znaczenie rozwiązania uzasadnia przeprowadzenie niezależnej oceny.
+- rozwiązanie realizuje kluczowe zadania lub procesy organizacji;
+- potencjalna niezgodność może uniemożliwić określonej grupie użytkowników wykonanie istotnego zadania;
+- dokumentacja wykonawcy jest niekompletna, niespójna lub budzi wątpliwości;
+- weryfikacja organizacji wskazuje na rozbieżności między dokumentacją a rzeczywistym działaniem rozwiązania;
+- strony różnią się w ocenie spełnienia wymagań dostępności.
 
-Zakres audytu powinien być dostosowany do charakteru sprawy i może obejmować całe rozwiązanie, jego reprezentatywną próbkę lub wybrane elementy, funkcjonalności albo wymagania dostępności będące przedmiotem wątpliwości.
+Zakres audytu powinien być proporcjonalny do jego celu i może obejmować całe rozwiązanie, reprezentatywną próbkę, wybrane procesy użytkownika albo określone wymagania.
 
-Audyt zgodności powinien być przeprowadzony przez podmiot zapewniający niezależność i bezstronność oceny oraz posiadający kompetencje odpowiednie do zakresu wykonywanego audytu.
+Audyt powinien być przeprowadzony przez osobę lub podmiot posiadający kompetencje odpowiednie do jego zakresu i zapewniający niezależność oceny.
 
-Wyniki audytu mogą stanowić podstawę odmowy odbioru rozwiązania, odbioru warunkowego albo potwierdzenia spełnienia wymagań dostępności.
+Wyniki audytu mogą stanowić podstawę odmowy odbioru, odbioru warunkowego albo potwierdzenia spełnienia wymagań dostępności.
 
-Jeżeli audyt potwierdzi, że wykonawca przekazał nieprawdziwe lub nierzetelne informacje dotyczące stopnia zgodności rozwiązania albo że rozwiązanie nie spełnia wymagań dostępności określonych w zamówieniu, organizacja dochodzi od wykonawcy pokrycia kosztów audytu oraz pozostałych roszczeń na zasadach określonych w umowie. Umowa powinna przewidywać obciążenie wykonawcy kosztami audytu w takim przypadku.
+Możliwość przeprowadzenia audytu oraz zasady ponoszenia jego kosztów powinny zostać określone w dokumentacji zamówienia lub umowie.
 
-Przeprowadzenie audytu zgodności nie zwalnia wykonawcy z odpowiedzialności za zapewnienie spełnienia wymagań dostępności oraz wykazanie ich spełnienia.
+Przeprowadzenie audytu nie zwalnia wykonawcy z odpowiedzialności za zapewnienie spełnienia wymagań dostępności ani za rzetelność informacji przekazanych organizacji.
 
 ---
 
