@@ -132,6 +132,14 @@ Przeprowadzenie audytu nie zwalnia wykonawcy z odpowiedzialności za zapewnienie
 
 ---
 
+### Odmowa odbioru
+
+Organizacja odmawia odbioru rozwiązania w zakresie przewidzianym umową, jeżeli stwierdzone niezgodności powodują niespełnienie wymagań określonych jako warunek odbioru, uniemożliwiają wykonanie kluczowych zadań przez użytkowników albo przekazana dokumentacja i przeprowadzona weryfikacja nie pozwalają uzyskać uzasadnionej pewności co do spełnienia wymagań dostępności.
+
+W takim przypadku organizacja wskazuje niezgodności wymagające usunięcia oraz sposób ponownego potwierdzenia spełnienia wymagań przed kolejną decyzją o odbiorze.
+
+---
+
 ### 3.8. Odbiór warunkowy
 
 Jeżeli stwierdzone niezgodności nie uniemożliwiają korzystania z rozwiązania zgodnie z jego przeznaczeniem, organizacja może zastosować odbiór warunkowy.
