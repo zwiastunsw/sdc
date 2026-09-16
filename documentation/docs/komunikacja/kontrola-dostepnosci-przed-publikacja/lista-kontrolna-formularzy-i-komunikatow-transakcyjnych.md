@@ -9,23 +9,23 @@ tags: [dostępność cyfrowa, formularze, komunikaty transakcyjne, lista kontrol
 opracowanie: Bartłomiej Wilk
 wspolpraca: Stefan Wajda, Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 23 maja 2026 r.
-ostatnia_aktualizacja: 6 września 2026 r.
+ostatnia_aktualizacja: 16 września 2026 r.
 wersja_robocza: true
 ---
 
 # Lista kontrolna formularzy i komunikatów transakcyjnych
 
-| Punkt kontrolny | Kategoria | Odpowiedź | Dowód/uwaga |
-|---|---|---|---|
-| Czy cały formularz można obsłużyć klawiaturą bez utraty funkcji lub utknięcia w elemencie interaktywnym? | krytyczne | TAK / NIE / NIE DOTYCZY | |
-| Czy każde pole ma programowo powiązaną, zrozumiałą etykietę i jasną informację o wymaganym formacie danych? | krytyczne | TAK / NIE / NIE DOTYCZY | |
-| Czy wymagane pola są oznaczone w sposób niezależny od samego koloru lub położenia? | warunkowe | TAK / NIE / NIE DOTYCZY | |
-| Czy komunikaty o błędach wskazują miejsce problemu i sposób jego poprawy? | krytyczne | TAK / NIE / NIE DOTYCZY | |
-| Czy użytkownik po błędzie zachowuje wcześniej wprowadzone dane, jeżeli ich usunięcie nie jest konieczne? | jakościowe | TAK / NIE / NIE DOTYCZY | |
-| Czy kolejność fokusu i odczytu odpowiada logicznej kolejności zadania? | krytyczne | TAK / NIE / NIE DOTYCZY | |
-| Czy zmiany stanu, potwierdzenia i komunikaty po wykonaniu akcji są dostępne także dla technologii wspomagających? | krytyczne | TAK / NIE / NIE DOTYCZY | |
-| Czy instrukcje nie polegają wyłącznie na cechach wizualnych, np. kolorze lub położeniu? | warunkowe | TAK / NIE / NIE DOTYCZY | |
-| Czy użytkownik otrzymuje jednoznaczne potwierdzenie zakończenia operacji? | jakościowe | TAK / NIE / NIE DOTYCZY | |
+| Punkt kontrolny | Zastosowanie | Skutek odpowiedzi „NIE” | Odpowiedź | Dowód/uwaga |
+|---|---|---|---|---|
+| Czy cały formularz można obsłużyć klawiaturą bez utraty funkcji lub utknięcia w elemencie interaktywnym? | zawsze, jeżeli punkt odpowiada rodzajowi materiału | wymaga poprawy albo udokumentowanej decyzji o dalszym postępowaniu | TAK / NIE / NIE DOTYCZY |  |
+| Czy każde pole ma programowo powiązaną, zrozumiałą etykietę i jasną informację o wymaganym formacie danych? | zawsze, jeżeli punkt odpowiada rodzajowi materiału | wymaga poprawy albo udokumentowanej decyzji o dalszym postępowaniu | TAK / NIE / NIE DOTYCZY |  |
+| Czy wymagane pola są oznaczone w sposób niezależny od samego koloru lub położenia? | gdy wskazany element lub funkcja występuje | jeżeli punkt dotyczy materiału — wymaga poprawy albo udokumentowanej decyzji o dalszym postępowaniu | TAK / NIE / NIE DOTYCZY |  |
+| Czy komunikaty o błędach wskazują miejsce problemu i sposób jego poprawy? | zawsze, jeżeli punkt odpowiada rodzajowi materiału | wymaga poprawy albo udokumentowanej decyzji o dalszym postępowaniu | TAK / NIE / NIE DOTYCZY |  |
+| Czy użytkownik po błędzie zachowuje wcześniej wprowadzone dane, jeżeli ich usunięcie nie jest konieczne? | zależnie od charakteru materiału | wymaga oceny wpływu na odbiór informacji lub wykonanie zadania | TAK / NIE / NIE DOTYCZY |  |
+| Czy kolejność fokusu i odczytu odpowiada logicznej kolejności zadania? | zawsze, jeżeli punkt odpowiada rodzajowi materiału | wymaga poprawy albo udokumentowanej decyzji o dalszym postępowaniu | TAK / NIE / NIE DOTYCZY |  |
+| Czy zmiany stanu, potwierdzenia i komunikaty po wykonaniu akcji są dostępne także dla technologii wspomagających? | zawsze, jeżeli punkt odpowiada rodzajowi materiału | wymaga poprawy albo udokumentowanej decyzji o dalszym postępowaniu | TAK / NIE / NIE DOTYCZY |  |
+| Czy instrukcje nie polegają wyłącznie na cechach wizualnych, np. kolorze lub położeniu? | gdy wskazany element lub funkcja występuje | jeżeli punkt dotyczy materiału — wymaga poprawy albo udokumentowanej decyzji o dalszym postępowaniu | TAK / NIE / NIE DOTYCZY |  |
+| Czy użytkownik otrzymuje jednoznaczne potwierdzenie zakończenia operacji? | zależnie od charakteru materiału | wymaga oceny wpływu na odbiór informacji lub wykonanie zadania | TAK / NIE / NIE DOTYCZY |  |
 
 ## Decyzja
 
