@@ -14,7 +14,7 @@ wersja_robocza: true
 
 ## 1. Cel zalecenia
 
-Zapewnienie, że odbiór rozwiązań cyfrowych jest prowadzony na podstawie dokumentacji dostępności rozwiązania, dostarczającej organizacji wiedzy niezbędnej do oceny spełnienia wymagań dostępności, podjęcia decyzji o odbiorze oraz dalszego zarządzania dostępnością rozwiązania.
+Zapewnienie, że odbiór rozwiązania cyfrowego pozwala organizacji uzyskać uzasadnioną pewność, że rozwiązanie spełnia wymagania dostępności określone w zamówieniu i umowie. Podstawą odbioru są dokumentacja dostępności przekazana przez wykonawcę oraz weryfikacja przeprowadzona przez organizację w zakresie odpowiednim do charakteru, znaczenia i ryzyka rozwiązania.
 
 ---
 
