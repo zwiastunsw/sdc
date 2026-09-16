@@ -142,7 +142,9 @@ W takim przypadku organizacja wskazuje niezgodności wymagające usunięcia oraz
 
 ### 3.8. Odbiór warunkowy
 
-Jeżeli stwierdzone niezgodności nie uniemożliwiają korzystania z rozwiązania zgodnie z jego przeznaczeniem, organizacja może zastosować odbiór warunkowy.
+Jeżeli dopuszczają to warunki zamówienia i umowy, organizacja może rozważyć odbiór warunkowy wyłącznie wtedy, gdy stwierdzone niezgodności nie dotyczą wymagań określonych jako niezbędne do odbioru i nie powodują, że użytkownicy z określonymi potrzebami nie mogą wykonać kluczowego zadania lub skorzystać z istotnej funkcji rozwiązania.
+
+Przed podjęciem decyzji organizacja ocenia wpływ każdej niezgodności na użytkowników, ryzyko związane z jej czasowym pozostawieniem oraz możliwość jej skutecznego usunięcia.
 
 Warunki odbioru powinny określać:
 
