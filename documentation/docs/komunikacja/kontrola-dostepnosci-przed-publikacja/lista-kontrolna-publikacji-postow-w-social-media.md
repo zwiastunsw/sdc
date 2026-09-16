@@ -9,21 +9,21 @@ tags: [dostępność cyfrowa, media społecznościowe, lista kontrolna, posty, k
 opracowanie: Bartłomiej Wilk
 wspolpraca: Stefan Wajda, Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-ostatnia_aktualizacja: 6 września 2026 r.
+ostatnia_aktualizacja: 16 września 2026 r.
 wersja_robocza: true
 ---
 
 # Lista kontrolna publikacji postów w mediach społecznościowych
 
-| Punkt kontrolny | Kategoria | Odpowiedź | Dowód/uwaga |
-|---|---|---|---|
-| Czy kluczowa informacja jest dostępna w treści posta albo w innym dostępnym cyfrowo miejscu wskazanym użytkownikowi? | krytyczne | TAK / NIE / NIE DOTYCZY | |
-| Czy osoba, która nie widzi grafiki, otrzymuje równoważną informację poprzez funkcję opisu alternatywnego lub treść posta? | warunkowe | TAK / NIE / NIE DOTYCZY | |
-| Czy wideo lub audio w poście ma wymagane treści równoważne? | warunkowe | TAK / NIE / NIE DOTYCZY | |
-| Czy materiał nie zawiera niebezpiecznego migotania? | krytyczne | TAK / NIE / NIE DOTYCZY | |
-| Czy link pozwala zrozumieć, dokąd prowadzi, na podstawie jego treści albo bezpośredniego kontekstu? | warunkowe | TAK / NIE / NIE DOTYCZY | |
-| Czy emoji i znaki specjalne nie zastępują informacji koniecznej do zrozumienia komunikatu? | jakościowe | TAK / NIE / NIE DOTYCZY | |
-| Czy układ treści jest czytelny także po odczytaniu liniowym przez technologię wspomagającą? | jakościowe | TAK / NIE / NIE DOTYCZY | |
+| Punkt kontrolny | Zastosowanie | Skutek odpowiedzi „NIE” | Odpowiedź | Dowód/uwaga |
+|---|---|---|---|---|
+| Czy kluczowa informacja jest dostępna w treści posta albo w innym dostępnym cyfrowo miejscu wskazanym użytkownikowi? | zawsze, jeżeli punkt odpowiada rodzajowi materiału | wymaga poprawy albo udokumentowanej decyzji o dalszym postępowaniu | TAK / NIE / NIE DOTYCZY |  |
+| Czy osoba, która nie widzi grafiki, otrzymuje równoważną informację poprzez funkcję opisu alternatywnego lub treść posta? | gdy wskazany element lub funkcja występuje | jeżeli punkt dotyczy materiału — wymaga poprawy albo udokumentowanej decyzji o dalszym postępowaniu | TAK / NIE / NIE DOTYCZY |  |
+| Czy wideo lub audio w poście ma wymagane treści równoważne? | gdy wskazany element lub funkcja występuje | jeżeli punkt dotyczy materiału — wymaga poprawy albo udokumentowanej decyzji o dalszym postępowaniu | TAK / NIE / NIE DOTYCZY |  |
+| Czy materiał nie zawiera niebezpiecznego migotania? | zawsze, jeżeli punkt odpowiada rodzajowi materiału | wymaga poprawy albo udokumentowanej decyzji o dalszym postępowaniu | TAK / NIE / NIE DOTYCZY |  |
+| Czy link pozwala zrozumieć, dokąd prowadzi, na podstawie jego treści albo bezpośredniego kontekstu? | gdy wskazany element lub funkcja występuje | jeżeli punkt dotyczy materiału — wymaga poprawy albo udokumentowanej decyzji o dalszym postępowaniu | TAK / NIE / NIE DOTYCZY |  |
+| Czy emoji i znaki specjalne nie zastępują informacji koniecznej do zrozumienia komunikatu? | zależnie od charakteru materiału | wymaga oceny wpływu na odbiór informacji lub wykonanie zadania | TAK / NIE / NIE DOTYCZY |  |
+| Czy układ treści jest czytelny także po odczytaniu liniowym przez technologię wspomagającą? | zależnie od charakteru materiału | wymaga oceny wpływu na odbiór informacji lub wykonanie zadania | TAK / NIE / NIE DOTYCZY |  |
 
 ## Platformy zewnętrzne
 
