@@ -32,7 +32,7 @@ Ocena dostępności produktów i usług cyfrowych wymaga pozyskiwania od dostawc
 
 **Zawiera**:
 
-1. Zalecenie: **Deklaracja dostawcy o dostepności o dostępności cyfrowej produktu lub usługi**
+1. Zalecenie: **Deklaracja dostawcy o dostępności cyfrowej produktu lub usługi**
 
 **Status**: przyjąć z uwagami:
 

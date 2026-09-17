@@ -1,7 +1,7 @@
 ---
 id: analiza-luk-kwalifikacyjnych-i-organizacyjnych
 title: Analiza luk kwalifikacyjnych i organizacyjnych
-description: Materiał wspomagający monitoring i ocenę dojrzałości organizacji w zakresie zdolości do zapewniania dostępnosci cyfrowej   
+description: Materiał wspomagający monitoring i ocenę dojrzałości organizacji w zakresie zdolności do zapewniania dostępności cyfrowej   
 sidebar_position: 4
 sidebar_label: Analiza luk
 keywords: [wiedza, umiejętności, kompetencje, kwalifikacje, pracownicy, wsparcie kompetencyjne, role, odpowiedzialności]

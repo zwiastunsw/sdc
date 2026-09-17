@@ -37,7 +37,7 @@ Celem architektury środków wspierających jest zapewnienie spójnego zestawu �
 ![Diagram 6. Skrócony opis poniżej.](/o-sieci/koncepcja-rezultatu-sieci/diag-06-architektura-srodkow-wspierajacych.png)
 
 <details>
-<summary>Opis diagramu 6. Architektura środków wspierajacych</summary>
+<summary>Opis diagramu 6. Architektura środków wspierających</summary>
 
 <strong>Cel diagramu</strong>. Diagram przedstawia klasy środków wspierających SZDC oraz ich rolę i powiązania z procesami, informacjami, decyzjami, zaleceniami i doskonaleniem systemu.
 

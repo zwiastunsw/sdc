@@ -204,7 +204,7 @@ Projekt porusza istotny problem związany ze stosowaniem wyjątku nieproporcjona
 2. Załącznik 1: Szablon oceny kosztów dostosowania
 3. Załącznik 2: Przykład wypełnionego szablonu: Napisy do filmów edukacyjnych w gminnej bibliotece publicznej.
 
-**Status**: do decyzji - odrzucić, treść wykorzystać w zaleceniu **Dostep przy braku dostępności cyfrowej**
+**Status**: do decyzji - odrzucić, treść wykorzystać w zaleceniu **Dostęp przy braku dostępności cyfrowej**
 
 **Uwaga zasadnicza**: Problem nieproporcjonalnego obciążenia nie stanowi odrębnego obszaru zarządzania dostępnością cyfrową, lecz jest jednym z możliwych przypadków postępowania z treściami, dokumentami, funkcjonalnościami i usługami niespełniającymi wymagań dostępności cyfrowej. Rekomenduje się rozwijać jako załączniki do zalecenia **Zapewnianie dostępu do treści i usług w przypadku braku dostępności cyfrowej**
 
@@ -219,11 +219,11 @@ Projekt porusza istotny problem związany ze stosowaniem wyjątku nieproporcjona
 1. Zalecenie: **Procedura uzyskiwania zgody na zastosowanie odstępstwa**
 
 
-**Status**: do decyzji - odrzucić, treść wykorzystać w zaleceniu **Dostep przy braku dostępności cyfrowej**
+**Status**: do decyzji - odrzucić, treść wykorzystać w zaleceniu **Dostęp przy braku dostępności cyfrowej**
 
 ---
 
-## 🟠❓ Dostep przy braku dostępności cyfrowej
+## 🟠❓ Dostęp przy braku dostępności cyfrowej
 
 **Opracowanie**: Stefan Wajda
 

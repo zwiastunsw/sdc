@@ -447,7 +447,7 @@ Monitoring obejmuje w szczególności:
 
 - organizację ról i odpowiedzialności,
 - skuteczność realizacji zadań,
-- kuteczność systemu wsparcia kompetencyjnego,
+- skuteczność systemu wsparcia kompetencyjnego,
 - organizacyjne uczenie się i utrwalanie doświadczeń,
 - zdolność organizacji do samodzielnego rozwiązywania problemów i rozwijania sposobów działania.
 

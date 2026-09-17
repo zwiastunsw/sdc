@@ -12,7 +12,7 @@ wersja_robocza: true
 
 ## 1. Cel załącznika
 
-Celem załącznika jest określenie minimalnych kompetencji wymaganych od osób uczestniczących w systemie komunikacji cyfrowej i publikacji treściw organizacji.
+Celem załącznika jest określenie minimalnych kompetencji wymaganych od osób uczestniczących w systemie komunikacji cyfrowej i publikacji treści w organizacji.
 
 Załącznik wspiera:
 - organizację procesów komunikacji cyfrowej,

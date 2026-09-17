@@ -190,7 +190,7 @@ Projekt opisuje dobrą praktykę okresowej oceny wiedzy i umiejętności pracown
 2. Baza pytań: Czym jest dostępność cyfrowa?
 3. Zestaw materiałów: Nagłówki, Łącza, Listy, Obrazy, Kolor i kontrast kolorów, Tabele, Audio i wideo, Słowniczek
 
-**Status**: Do decyzji. Projekt należy przpisać do wymiaru „Pracownicy” („Personel”)
+**Status**: Do decyzji. Projekt należy przypisać do wymiaru „Pracownicy” („Personel”)
 
 ---
 
@@ -223,4 +223,4 @@ Zapewnienie ciągłości kompetencji w zakresie dostępności cyfrowej wymaga uw
 **Status**: przyjąć z uwagami:
 
 - uzupełnić ostatnie zdanie Uzasadnienia wskazaniem, w jaki sposób opisana kwestia wpływa na prawidłową realizację obowiązków podmiotu publicznego w zakresie zapewniania dostępności cyfrowej.
-- przenieść do dokumentów dotyczących wymaiaru Pracownicy (np. jako załącznik zalecenia dot. wdrażania do pracy)
+- przenieść do dokumentów dotyczących wymiaru Pracownicy (np. jako załącznik zalecenia dot. wdrażania do pracy)

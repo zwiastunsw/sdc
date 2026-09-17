@@ -180,8 +180,8 @@ Projekt zalecenia wzmacnia systemowe podejście do zapewniania dostępności cyf
 
 **Status**: przyjąć: przyjąć z uwagami
 
-- należy **scalić ten element z zaleceniem dotyczącym określenia ról i odpowiedzialnosci pracowników** w zakresie zapewniania dostępności cyfrowej,
-- rozważyć pozostawienie w zestawie zalecen dotyczących wymiaru Pracownicy
+- należy **scalić ten element z zaleceniem dotyczącym określenia ról i odpowiedzialności pracowników** w zakresie zapewniania dostępności cyfrowej,
+- rozważyć pozostawienie w zestawie zaleceń dotyczących wymiaru Pracownicy
 
 ---
 
@@ -294,7 +294,7 @@ Projekt dotyczy zasad podejmowania decyzji związanych z dostępnością cyfrow�
 
 ## 🔵📝 Wsparcie i nadzór nad organizacjami zależnymi
 
-**Opracowanie**: Agelika Sosnowska, Stefan Wajda 
+**Opracowanie**: Angelika Sosnowska, Stefan Wajda 
 
 Projekt dotyczy zasad podejmowania decyzji związanych z dostępnością cyfrową oraz przypisywania odpowiedzialności za te decyzje na różnych poziomach organizacji. Obejmuje zagadnienia związane z podziałem kompetencji pomiędzy pracowników, kierowników, właścicieli procesów, kierownictwo organizacji oraz koordynatora ds. dostępności cyfrowej. Projekt przedstawia model, w którym decyzje dotyczące dostępności cyfrowej są podejmowane przez osoby odpowiedzialne za realizowane zadania, usługi, informacje i systemy, z uwzględnieniem zakresu ich odpowiedzialności oraz wpływu podejmowanych decyzji na funkcjonowanie organizacji.
 

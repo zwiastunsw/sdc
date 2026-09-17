@@ -264,7 +264,7 @@ Projekt został opracowany zgodnie z przyjętym w Sieci układem dokumentu (zale
 
 - nie wskazuje luki systemowej, którą proponowane zalecenie miałoby rozwiązywać,
 - w znacznym zakresie dokument powiela obowiązki wynikające już z ustawy o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych oraz funkcjonującego mechanizmu deklaracji dostępności,
-- rozszerza obowiazki ustawowe bez uzasadnienia,
+- rozszerza obowiązki ustawowe bez uzasadnienia,
 - niewystarczająco uzasadnienia potrzebę publikowania planów działań naprawczych,
 - nie przedstawia związku pomiędzy proponowanym rozwiązaniem a rzeczywistym wzrostem dostępności usług cyfrowych
 
@@ -358,7 +358,7 @@ Opis dobrej praktyki przedstawia wykorzystanie domyślnych ustawień dostępnoś
 
 1. Opis dobrej praktyki: **Konfiguracja aplikacji**
 
-**Status**: Wstępna akcepatcja
+**Status**: Wstępna akceptacja
 
 ---
 
@@ -372,7 +372,7 @@ Opis dobrej praktyki przedstawia wykorzystanie kalendarza publikacji jako narzę
 
 1. Opis dobrej praktyki: **Kalendarz publikacji**
 
-**Status**: Wstępna akcepatcja
+**Status**: Wstępna akceptacja
 
 ---
 
@@ -386,7 +386,7 @@ Opis dobrej praktyki przedstawia organizację procesu weryfikacji dostępności 
 
 1. Opis dobrej praktyki: **Weryfikacja treści**
 
-**Status**: Wstępna akcepatcja
+**Status**: Wstępna akceptacja
 
 
 ## 🔵📝 Szybka kontrola dostępności
