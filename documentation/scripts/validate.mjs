@@ -1,5 +1,3 @@
-'use strict';
-
 /**
  * Validation orchestrator – runs all documentation validation tasks in sequence:
  *
@@ -10,21 +8,22 @@
  * process exits with a non-zero code.
  *
  * Usage:
- *   node scripts/validate.js          (from the documentation/ directory)
+ *   node scripts/validate.mjs          (from the documentation/ directory)
  *   npm run validate
  */
 
-const { spawnSync } = require('node:child_process');
-const path = require('node:path');
-const util = require('node:util');
+import { spawnSync } from 'node:child_process';
+import { join, resolve } from 'node:path';
+import { styleText } from 'node:util';
+import { fileURLToPath } from 'node:url';
 
-const styleText = util.styleText;
+const __dirname = fileURLToPath(new URL('.', import.meta.url));
 
 const TASKS = [
   {
     name: 'Normalize quotes',
     cmd: 'node',
-    args: [path.join(__dirname, 'normalize-quotes.js')],
+    args: [join(__dirname, 'normalize-quotes.mjs')],
   },
   {
     name: 'Markdown lint',
@@ -33,14 +32,17 @@ const TASKS = [
   },
 ];
 
+/**
+ * @param {{ name: string, cmd: string, args: string[] }} task
+ * @returns {boolean} true if the task passed
+ */
 function runTask(task) {
   console.log(styleText('cyan', `\n▶ ${task.name}…`));
 
   const result = spawnSync(task.cmd, task.args, {
     stdio: 'inherit',
     shell: false,
-    // Run relative to documentation/ (where package.json lives)
-    cwd: path.resolve(__dirname, '..'),
+    cwd: resolve(__dirname, '..'),
   });
 
   if (result.error) {
@@ -57,27 +59,19 @@ function runTask(task) {
   return true;
 }
 
-function main() {
-  console.log(styleText('cyan', '🔍 Running validation tasks…'));
+console.log(styleText('cyan', '🔍 Running validation tasks…'));
 
-  const failures = [];
+const failures = [];
 
-  for (const task of TASKS) {
-    const passed = runTask(task);
-    if (!passed) {
-      failures.push(task.name);
-    }
-  }
-
-  if (failures.length > 0) {
-    console.error(
-      styleText('red', `\n❌ Validation failed (${failures.length} task(s)): ${failures.join(', ')}`),
-    );
-    process.exit(1);
-  }
-
-  console.log(styleText('green', '\n✅ All validation tasks passed.'));
-  process.exit(0);
+for (const task of TASKS) {
+  if (!runTask(task)) failures.push(task.name);
 }
 
-main();
+if (failures.length > 0) {
+  console.error(
+    styleText('red', `\n❌ Validation failed (${failures.length} task(s)): ${failures.join(', ')}`),
+  );
+  process.exit(1);
+}
+
+console.log(styleText('green', '\n✅ All validation tasks passed.'));

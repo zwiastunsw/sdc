@@ -48,7 +48,7 @@ Każdy nowy materiał powinien zawierać:
 - **Zakres** — co obejmuje, czego nie obejmuje.
 - **Rekomendacje** — konkretne, operacyjne, możliwe do wdrożenia.
 - **Przykłady** — najlepiej z sektora publicznego.
-- **Podstawy prawne / standardy** — linki do WCAG, EN 301 549, ustawy o dostępności cyfrowej itd.
+- **Podstawy prawne / standardy** — linki do WCAG, EN 301 549, ustawy o dostępności cyfrowej, itd.
 
 ---
 
@@ -118,9 +118,9 @@ Komentarze w tym repozytorium służą wymianie wiedzy, wyjaśnianiu wątpliwoś
   - zawsze przeredaguj treść, dostosowując ją do kontekstu dyskusji,
   - zweryfikuj fakty i standardy, zanim je przytoczysz,
 - **dodaj coś od siebie** — własną opinię, przykład z praktyki, wątpliwość lub doświadczenie. Sama wygenerowana odpowiedź bez Twojego wkładu nie wnosi wartości i utrudnia konstruktywną dyskusję,
-- jeśli cytujesz AI, wyraźnie to zaznacz (np. „Po konsultacji z AI i przeanalizowaniu..." lub „AI podpowiedziało mi następujące źródło, ale...").
+- jeśli cytujesz AI, wyraźnie to zaznacz (np. „Po konsultacji z AI i przeanalizowaniu...” lub „AI podpowiedziało mi następujące źródło, ale...”).
 
-- **Buduj na odpowiedziach innych** – jeśli zgadzasz się z czyjąś opinią, rozwiń ją, dodaj własny przykład lub uzupełnij o dodatkowy kontekst. Samo „zgadzam się" nie wnosi nowej wartości.
+- **Buduj na odpowiedziach innych** – jeśli zgadzasz się z czyjąś opinią, rozwiń ją, dodaj własny przykład lub uzupełnij o dodatkowy kontekst. Samo „zgadzam się” nie wnosi nowej wartości.
 
 - **Zadawaj pytania** – jeśli czegoś nie rozumiesz, pytaj. Prawdopodobnie inni też mają tę samą wątpliwość, a odpowiedź pomoże wielu osobom.
 
@@ -129,11 +129,11 @@ Komentarze w tym repozytorium służą wymianie wiedzy, wyjaśnianiu wątpliwoś
 | Czego unikać | Dlaczego |
 |--------------|----------|
 | **Wklejania całych odpowiedzi z AI bez redakcji** | Obniża jakość dyskusji, wprowadza ogólniki, które nie odpowiadają na konkretny kontekst, i zniechęca innych do udziału. |
-| **Komentarzy wyłącznie aprobujących** („+1", „zgadzam się") | Nie wnoszą wartości. Jeśli się zgadzasz, wyjaśnij dlaczego lub dodaj własną perspektywę. |
-| **Powtarzania oczywistości** | „Dostępność jest ważna" – to nie wnosi nic nowego do dyskusji. |
+| **Komentarzy wyłącznie aprobujących** („+1”, „zgadzam się”) | Nie wnoszą wartości. Jeśli się zgadzasz, wyjaśnij dlaczego lub dodaj własną perspektywę. |
+| **Powtarzania oczywistości** | „Dostępność jest ważna” – to nie wnosi nic nowego do dyskusji. |
 | **Odpowiadania bez przeczytania całego wątku** | Prowadzi do powtarzania argumentów i chaosu w dyskusji. |
 | **Używania języka emocjonalnego lub osobistych ataków** | Dyskusja ma być merytoryczna i oparta na faktach, nie na emocjach. |
-| **Kolokwializmów, skrótów myślowych i nieprofesjonalnego tonu** | Komentarze są częścią oficjalnej dokumentacji i mogą być czytane przez urzędników, ekspertów oraz osoby spoza branży. Używaj pełnych zdań, poprawnej polszczyzny i neutralnego, technicznego języka. Unikaj: „hej", „siema", „super", „ogarnąć", „załatwić", „działa", „nie ogarniam", „spoko", „okej", „luz", „git", „mega", itp. oraz nadużywania emotikon (🙂, 👍). Forma wypowiedzi świadczy o szacunku do odbiorców i profesjonalizmie całego przedsięwzięcia. |
+| **Kolokwializmów, skrótów myślowych i nieprofesjonalnego tonu** | Komentarze są częścią oficjalnej dokumentacji i mogą być czytane przez urzędników, ekspertów oraz osoby spoza branży. Używaj pełnych zdań, poprawnej polszczyzny i neutralnego, technicznego języka. Unikaj: „hej”, „siema”, „super”, „ogarnąć”, „załatwić”, „działa”, „nie ogarniam”, „spoko”, „okej”, „luz”, „git”, „mega”, itp. oraz nadużywania emotikon (🙂, 👍). Forma wypowiedzi świadczy o szacunku do odbiorców i profesjonalizmie całego przedsięwzięcia. |
 
 ### Przykład dobrego komentarza
 
@@ -143,7 +143,7 @@ Komentarze w tym repozytorium służą wymianie wiedzy, wyjaśnianiu wątpliwoś
 
 > (wklejony surowy output z AI bez żadnych zmian ani własnego wkładu)
 > 
-> „Zgodnie z WCAG 2.1, kryterium 1.2.2 wymaga, aby dla wszystkich nagrań wideo zsynchronizowanych z dźwiękiem zapewnić napisy rozszerzone..."
+> „Zgodnie z WCAG 2.1, kryterium 1.2.2 wymaga, aby dla wszystkich nagrań wideo zsynchronizowanych z dźwiękiem zapewnić napisy rozszerzone...”
 
 *Dlaczego to zły komentarz?* – Nie wnosi nic nowego, nie odnosi się do konkretnego kontekstu dyskusji, brak własnego doświadczenia lub refleksji. Każdy z uczestników może samodzielnie skopiować ten sam fragment z WCAG.
 
