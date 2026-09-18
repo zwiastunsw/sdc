@@ -15,7 +15,7 @@ const _require = createRequire(__filename);
 const remarkGlossaryFirstOccurrence = _require('./src/remark/glossary-first-occurrence.cjs');
 const glossaryOptions = {
     glossaryPath: 'slownik/slownik.json',
-    routePath: './slownik',
+    routePath: '/sdc/slownik',
     siteDir: __dirname,
     expandAcronymsOnFirstUse: true,
     linkOnlyFirstOccurrence: true,   // ← tylko pierwsze wystąpienie na plik
@@ -38,8 +38,14 @@ const config: Config = {
     trailingSlash: false,
     staticDirectories: ['static'],
 
-    onBrokenLinks: 'warn',
-    onBrokenMarkdownLinks: 'warn',
+    onBrokenLinks: 'throw',
+
+    markdown: {
+        hooks: {
+            onBrokenMarkdownLinks: 'warn',
+        },
+    },
+
 
     future: {
         v4: false,
@@ -189,7 +195,7 @@ const config: Config = {
 
                     ],
                 },
-                { to: '/slownik', label: 'Słownik', position: 'left' },
+                { href: 'https://siec-dostepnosci-cyfrowej.github.io/sdc/slownik', label: 'Słownik', position: 'left' },
                 { to: '/blog', label: 'Blog', position: 'left' },
                 {
                     href: 'https://github.com/Siec-Dostepnosci-Cyfrowej/sdc',
