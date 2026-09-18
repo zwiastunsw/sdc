@@ -46,6 +46,7 @@ const config: Config = {
         },
     },
 
+
     future: {
         v4: false,
     },
