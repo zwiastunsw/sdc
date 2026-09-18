@@ -12,7 +12,7 @@ ostatnia_aktualizacja: 12 sierpnia 2026 r.
 wersja_robocza: true
 ---
 
-# Załącznik: 
+# Załącznik do Zalecenia w sprawie kultury organizacyjnej sprzyjającej dostępności cyfrowej
 
 ## 1. Cel załącznika
 
