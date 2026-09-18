@@ -105,7 +105,7 @@ Dla podmiotu publicznego podstawą są przepisy o dostępności cyfrowej i norma
 
 Organizacja dobiera wymagania normy do zamawianego rozwiązania. W przypadku stron internetowych, dokumentów i oprogramowania uwzględnia odpowiednie wymagania z punktów 9, 10 i 11 normy. Taki sposób wykazania zgodności wskazuje art. 5 ust. 3 ustawy o dostępności cyfrowej.
 
-Nie ograniczaj wymagania do ogólnego zapisu „zgodność z WCAG 2.1”. Dokładny zakres obowiązku wynika z załącznika do ustawy i odpowiednich punktów EN 301 549.
+Wymagania nie należy ograniczać do ogólnego zapisu „zgodność z WCAG 2.1”. Dokładny zakres obowiązku wynika z załącznika do ustawy i odpowiednich punktów EN 301 549.
 
 ### Krok 2. Dodaj wymagania dla narzędzia autorskiego
 
