@@ -103,7 +103,7 @@ Wymagania określa się w trzech krokach.
 
 Dla podmiotu publicznego podstawą są przepisy o dostępności cyfrowej i norma PN-ETSI EN 301 549 V3.2.1:2021-09.
 
-Dobierz wymagania normy do zamawianego rozwiązania. W przypadku stron internetowych, dokumentów i oprogramowania uwzględnij odpowiednie wymagania z punktów 9, 10 i 11 normy. Taki sposób wykazania zgodności wskazuje art. 5 ust. 3 ustawy o dostępności cyfrowej.
+Organizacja dobiera wymagania normy do zamawianego rozwiązania. W przypadku stron internetowych, dokumentów i oprogramowania uwzględnia odpowiednie wymagania z punktów 9, 10 i 11 normy. Taki sposób wykazania zgodności wskazuje art. 5 ust. 3 ustawy o dostępności cyfrowej.
 
 Nie ograniczaj wymagania do ogólnego zapisu „zgodność z WCAG 2.1”. Dokładny zakres obowiązku wynika z załącznika do ustawy i odpowiednich punktów EN 301 549.
 
