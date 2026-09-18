@@ -124,6 +124,6 @@ W organizacjach o dojrzałej kulturze organizacyjnej sprzyjającej dostępności
 
 ---
 
-## 6. Powiązane dokumenty 
+## 6. Załączniki
 
 - [Jak budować kulturę dostępności w praktyce](jak-budowac-kulture-dostepnosci-w-praktyce.md)
