@@ -1,5 +1,4 @@
 ---
-
 id: formowanie-zalecen
 title: Formowanie zaleceń Sieci Dostępności Cyfrowej
 description: Definiuje i opisuje strukturę zalecenia jako jednego z podstawowych dokumentów Sieci
@@ -8,11 +7,9 @@ sidebar_position: 2
 keywords: [dokumenty Sieci, formy dokumentów, zasady formowania dokumentów]
 opracowanie: Stefan Wajda
 data_zgloszenia: 28 lipca 2025 r.
-ostatnia_aktualizacja: 10 września 2026 r.
+ostatnia_aktualizacja: 18 września 2026 r.
 wersja_robocza: true
 ---
-
-
 
 ## 1. Cel opracowania
 
@@ -63,6 +60,8 @@ Zalecenie określa pożądany stan lub sposób działania organizacji oraz wskaz
 
 Zalecenia mają charakter **niewiążący**. Nie ustanawiają obowiązków prawnych, lecz wskazują rozwiązania i dobre sposoby działania, których zastosowanie wspiera skuteczne zapewnianie dostępności cyfrowej.
 
+---
+
 ### 3.2. Przedmiot zaleceń
 
 Przedmiotem zaleceń są zagadnienia związane z organizacją zapewniania dostępności cyfrowej, w szczególności dotyczące:
@@ -79,6 +78,8 @@ Przedmiotem zaleceń są zagadnienia związane z organizacją zapewniania dostę
 
 Zalecenia mogą wskazywać rozwiązania organizacyjne, dokumenty, narzędzia i inne środki wspierające potrzebne do realizacji zalecanego sposobu działania.
 
+---
+
 ### 3.3. Adresaci zaleceń
 
 Zalecenia są kierowane do **podmiotów publicznych** objętych obowiązkami w zakresie zapewniania dostępności cyfrowej.
@@ -89,6 +90,8 @@ W zależności od przedmiotu zalecenia jego postanowienia mogą odnosić się w 
 - osób pełniących określone role związane z zapewnianiem dostępności,
 - jednostek i komórek organizacyjnych,
 - zespołów realizujących określone procesy lub zadania.
+
+---
 
 ### 3.4. Dezyderaty
 
@@ -116,10 +119,12 @@ Zalecenie obejmuje następujące sekcje:
 4. **Uzasadnienie** – wyjaśnienie potrzeby zalecenia i zasadności proponowanego rozwiązania.
 5. **Podstawy prawne** – przepisy i akty prawne związane z przedmiotem zalecenia.
 6. **Źródła i opracowania** – materiały wykorzystane przy opracowaniu zalecenia lub przydatne przy jego stosowaniu.
-7. **Załączniki** – dokumenty stanowiące integralne uzupełnienie zalecenia i wspierające jego praktyczne zastosowanie.
-8. **Powiązane dokumenty** – inne dokumenty Sieci ściśle związane z przedmiotem zalecenia, których przywołanie jest istotne dla jego rozumienia lub stosowania.
+7. **Powiązania z innymi dokumentami Sieci** – wskazanie istotnych dla rozumienia lub stosowania zalecenia związków z innymi dokumentami Sieci oraz, w razie potrzeby, krótkie wyjaśnienie charakteru tych powiązań.
+8. **Załączniki** – dokumenty stanowiące integralne uzupełnienie zalecenia i wspierające jego praktyczne zastosowanie.
 
 Każde opublikowane zalecenie zawiera ponadto **Historię wersji**, a w przypadkach określonych w zasadach wersjonowania dokumentów Sieci także **Dziennik zmian**. Elementy te umieszcza się na końcu dokumentu. Nie stanowią one części treści zalecenia.
+
+---
 
 ### 4.1. Cel zalecenia
 
@@ -128,6 +133,8 @@ W tej części wskazujemy **problem związany z organizacją zapewniania dostęp
 Opis celu powinien krótko określać istniejącą lukę, trudność lub nieskuteczność w sposobie działania organizacji, która uzasadnia zastosowanie zalecanego rozwiązania. Może to być na przykład brak określonego procesu, niejasny podział odpowiedzialności, niespójność działań, brak potrzebnych zdolności organizacyjnych albo niewystarczająca kontrola osiągania celów dostępności cyfrowej.
 
 Sekcja powinna koncentrować się na **problemie, który wymaga rozwiązania**, bez szczegółowego uzasadniania jego znaczenia ani opisywania sposobu rozwiązania. Te kwestie przedstawiane są odpowiednio w sekcjach **Uzasadnienie** i **Zalecenie**.
+
+---
 
 ### 4.2. Zalecenie
 
@@ -139,6 +146,8 @@ Treść zalecenia powinna:
 - unikać form nakazowych i modalnych („należy”, „powinno się”), zastępując je neutralnymi sformułowaniami instytucjonalnymi, np. *„Organizacja zapewnia…”*, *„Kierownictwo ustala…”*, *„Jednostka prowadzi…”*.
 
 Zalecenie powinno przedstawiać zasadniczą odpowiedź na problem określony w sekcji **Cel zalecenia**. Szczegółowe sposoby jego realizacji przedstawiane są w rekomendacjach.
+
+---
 
 ### 4.3. Rekomendacje
 
@@ -158,6 +167,8 @@ Rekomendacje powinny pozostawiać organizacji możliwość doboru rozwiązań od
 
 Rekomendacje zapisujemy w uporządkowanej formie, w razie potrzeby wykorzystując listę numerowaną jedno- lub wielopoziomową.
 
+---
+
 ### 4.4. Uzasadnienie
 
 W tej części wyjaśniamy, **dlaczego rozwiązanie problemu wskazanego w celu zalecenia jest potrzebne oraz dlaczego proponowany sposób działania jest zasadny**.
@@ -172,6 +183,8 @@ Uzasadnienie może w szczególności:
 
 W zależności od przedmiotu zalecenia uzasadnienie może odwoływać się do doświadczeń organizacji, wyników badań i analiz, dobrych praktyk, standardów, modeli dojrzałości lub innych źródeł wiedzy.
 
+---
+
 ### 4.5. Podstawy prawne
 
 W tej części wymieniamy **przepisy i akty prawne związane z przedmiotem zalecenia**, które zostały uwzględnione przy jego opracowaniu lub które odbiorcy powinni wziąć pod uwagę przy jego stosowaniu.
@@ -181,6 +194,8 @@ Listę można poprzedzić zdaniem:
 > „W zaleceniu uwzględniono poniżej wymienione przepisy:”
 
 W miarę potrzeby wskazujemy konkretne przepisy, a nie wyłącznie całe akty prawne, jeżeli ułatwia to zrozumienie prawnych podstaw lub uwarunkowań zalecenia.
+
+---
 
 ### 4.6. Źródła i opracowania
 
@@ -200,15 +215,9 @@ Każde źródło zapisujemy w postaci listy numerowanej, np.:
 2. Kancelaria Prezesa Rady Ministrów, *Komunikacja pisemna. Rekomendacje*, Warszawa 2017.
 ```
 
-### 4.7. Załączniki
+---
 
-W tej części wymieniamy dokumenty stanowiące **integralne uzupełnienie zalecenia** i służące jego praktycznemu zastosowaniu.
-
-Załącznik może rozwijać treść zalecenia, określać szczegółowy sposób postępowania albo udostępniać gotowe narzędzie potrzebne do jego realizacji. Załącznikami mogą być w szczególności procedury, instrukcje, wzory, formularze, listy kontrolne, karty oceny, schematy lub inne narzędzia wspierające zastosowanie zalecenia.
-
-W sekcji podajemy tytuły załączników wraz z odnośnikami do dokumentów.
-
-### 4.8. Powiązane dokumenty
+### 4.7. Powiązania z innymi dokumentami Sieci
 
 W tej części wskazujemy **inne dokumenty Sieci ściśle związane z przedmiotem zalecenia**, jeżeli ich przywołanie ma wyraźne uzasadnienie i pomaga właściwie rozumieć lub stosować zalecenie.
 
@@ -217,6 +226,16 @@ Dokument powiązany, w odróżnieniu od załącznika, **nie stanowi części zal
 Nie wskazujemy wszystkich dokumentów, które mogą mieć związek z tematyką zalecenia. Do sekcji włączamy tylko te, dla których istnieje **ścisłe i merytorycznie istotne powiązanie**. Przykładowo, dokumentem powiązanym z zaleceniem dotyczącym obserwowania i oceniania stanu dostępności i zgodności może być zalecenie dotyczące **Biblioteki testów**, ponieważ biblioteka dostarcza scenariuszy testów wykorzystywanych w tym procesie.
 
 W sekcji podajemy tytuły powiązanych dokumentów wraz z odnośnikami do nich.
+
+---
+
+### 4.8. Załączniki
+
+W tej części wymieniamy dokumenty stanowiące **integralne uzupełnienie zalecenia** i służące jego praktycznemu zastosowaniu.
+
+Załącznik może rozwijać treść zalecenia, określać szczegółowy sposób postępowania albo udostępniać gotowe narzędzie potrzebne do jego realizacji. Załącznikami mogą być w szczególności procedury, instrukcje, wzory, formularze, listy kontrolne, karty oceny, schematy lub inne narzędzia wspierające zastosowanie zalecenia.
+
+W sekcji podajemy tytuły załączników wraz z odnośnikami do dokumentów.
 
 ---
 
@@ -240,6 +259,7 @@ Wyjątek od tej zasady dotyczy **załączników, które wyraźnie mają charakte
 
 Form bezpośrednich nie stosujemy, jeżeli adresatem instruktażu jest **organizacja, jednostka organizacyjna, zespół lub inny podmiot zbiorowy**. O ich zastosowaniu decydują zatem łącznie **instruktażowa funkcja załącznika oraz jednoznaczne określenie roli osoby, do której instruktaż jest kierowany**. W pozostałych przypadkach zachowujemy język neutralny i instytucjonalny.
 
+---
 
 ### 5.2. Prosty język, precyzja i spójność
 
