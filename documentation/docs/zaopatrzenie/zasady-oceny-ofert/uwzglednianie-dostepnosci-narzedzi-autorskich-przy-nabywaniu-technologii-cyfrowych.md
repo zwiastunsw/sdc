@@ -109,7 +109,7 @@ Wymagania nie należy ograniczać do ogólnego zapisu „zgodność z WCAG 2.1�
 
 ### Krok 2. Dodaj wymagania dla narzędzia autorskiego
 
-Jeżeli rozwiązanie pozwala tworzyć, edytować lub publikować treści, uwzględnij również:
+Jeżeli rozwiązanie pozwala tworzyć, edytować lub publikować treści, organizacja uwzględnia również:
 
 - wymagania dla narzędzi autorskich z punktu 11.8 EN 301 549;
 - wymagania ATAG 2.0 odpowiednie do funkcji i ryzyka związanego z rozwiązaniem.
