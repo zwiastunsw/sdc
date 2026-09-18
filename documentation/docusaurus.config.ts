@@ -17,8 +17,8 @@ const baseUrl = process.env.BASE_URL || '/sdc/';
 const glossaryRoutePath = `${baseUrl.replace(/\/$/, '')}/slownik`;
 const glossaryOptions = {
     glossaryPath: 'slownik/slownik.json',
-    routePath: glossaryRoutePath,
-    siteDir: __dirname,
+
+  siteDir: __dirname,
     expandAcronymsOnFirstUse: true,
     linkOnlyFirstOccurrence: true,   // ← tylko pierwsze wystąpienie na plik
 };
@@ -41,7 +41,12 @@ const config: Config = {
     staticDirectories: ['static'],
 
     onBrokenLinks: 'throw',
-    onBrokenMarkdownLinks: 'warn',
+
+    markdown: {
+        hooks: {
+            onBrokenMarkdownLinks: 'warn',
+        },
+    },
 
     future: {
         v4: false,
@@ -191,7 +196,7 @@ const config: Config = {
 
                     ],
                 },
-                { to: '/slownik', label: 'Słownik', position: 'left' },
+                { href: 'https://siec-dostepnosci-cyfrowej.github.io/sdc/slownik', label: 'Słownik', position: 'left' },
                 { to: '/blog', label: 'Blog', position: 'left' },
                 {
                     href: 'https://github.com/Siec-Dostepnosci-Cyfrowej/sdc',
