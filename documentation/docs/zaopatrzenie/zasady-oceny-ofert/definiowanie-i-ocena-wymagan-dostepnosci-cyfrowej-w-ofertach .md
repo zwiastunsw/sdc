@@ -8,7 +8,7 @@ keywords: [zamówienia publiczne, zaopatrzenie]
 tags: [zamówienia publiczne, zaopatrzenie]
 opracowanie: Stefan Wajda
 data_zgloszenia: 12 czerwca 2025 r.
-ostatnia_aktualizacja: 24 czerwca 2026 r.
+ostatnia_aktualizacja: 26 sierpnia 2026 r.
 wersja_robocza: true
 ---
 
@@ -96,6 +96,7 @@ Zalecenie nie rekomenduje przepisywania wymagań normy EN 301 549 do dokumentacj
 ---
 
 ## 6. Źródła, opracowania
+
 1. [Procurement accessibility guidance](https://www.makethingsaccessible.com/guides/procurement-accessibility-guidance/)
 2. [Procurement scoring and maturity](https://www.makethingsaccessible.com/guides/procurement-scoring-and-maturity/)
 
@@ -117,4 +118,4 @@ Zalecenie nie rekomenduje przepisywania wymagań normy EN 301 549 do dokumentacj
 | --- | --- | --- | --- |
 | RC | Stefan Wajda | 12.06.2025 | Projekt – kandydat do wydania |
 | 1.0 | Stefan Wajda | 24.06.2026 | Wersja do publikacji |
-
+| 1.1 | Damian Żłobicki | 26.08.2026 | Dodanie załącznika dotyczącego dostępności narzędzi autorskich |
