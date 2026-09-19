@@ -6,7 +6,6 @@ import type { Config } from '@docusaurus/types';
 import { themes as prismThemes } from 'prism-react-renderer';
 import remarkMermaidStatic from '@barrierenlos/docusaurus-prerender-mermaid/remark';
 
-import path from 'path';
 import { createRequire } from 'module';
 
 // Zamiast getRemarkPlugin z paczki — nasz plugin z linkOnlyFirstOccurrence
@@ -62,7 +61,6 @@ const config: Config = {
     // =====================================
 
     plugins: [
-        path.resolve(__dirname, 'plugins/alias-plugin'),
 
         [
             '@barrierenlos/docusaurus-prerender-mermaid',
@@ -192,9 +190,9 @@ const config: Config = {
                     label: 'Generatory',
                     position: 'left',
                     items: [
-                        { label: 'Generator zaleceń', to: '/generator-zalecen' },
-                        { label: 'Generator opisów praktyk', to: '/generator-dobrej-praktyki' },
-                        { label: 'Word na Markdown', to: '/generator-docx-markdown' },
+                        { label: 'Generator zaleceń', href: 'https://siec-dostepnosci-cyfrowej.github.io/generatory/generator-zalecen/' },
+                        { label: 'Generator opisów praktyk', href: 'https://siec-dostepnosci-cyfrowej.github.io/generatory/generator-dobrej-praktyki/' },
+                        { label: 'Word na Markdown', href: 'https://siec-dostepnosci-cyfrowej.github.io/generatory/generator-docx-markdown/' },
 
                     ],
                 },
