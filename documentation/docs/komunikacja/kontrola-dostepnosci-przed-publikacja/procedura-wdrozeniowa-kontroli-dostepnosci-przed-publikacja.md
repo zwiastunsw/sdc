@@ -27,7 +27,7 @@ Zakres i sposób sprawdzenia dobiera się z uwzględnieniem rodzaju materiału, 
 
 ## 3. Kontrola
 
-Osoba sprawdzająca ocenia materiał w zakresie właściwym dla jego typu i kanału publikacji. Kontrola powinna koncentrować się na możliwości odbioru informacji i wykonania zadania przez użytkownika, a nie wyłącznie na formalnym odhaczaniu elementów technicznych.
+Osoba sprawdzająca ocenia materiał w zakresie właściwym dla jego typu i kanału publikacji. Kontrola powinna koncentrować się na możliwości odbioru informacji i wykonania zadania przez użytkownika, a nie wyłącznie na formalnym odhaczaniu elementów technicznych. Dla materiałów o większym znaczeniu, złożonych technicznie lub służących realizacji istotnych zadań użytkownika zaleca się kontrolę przez inną osobę niż autor materiału albo przez osobę posiadającą odpowiednie kompetencje w zakresie dostępności.
 
 ## 4. Wynik i decyzja
 
@@ -44,9 +44,11 @@ Jeżeli stwierdzono bariery, należy wskazać ich zakres i dalszy sposób postę
 
 Materiał skierowany do poprawy wraca do osoby przygotowującej lub właściwej komórki. Po wprowadzeniu zmian ponownie sprawdza się co najmniej elementy, których dotyczyły wykryte problemy, oraz wpływ zmian na pozostałą treść, jeżeli jest to potrzebne.
 
+Jeżeli źródłem bariery jest CMS, BIP, szablon, generator dokumentów, odtwarzacz, komponent formularza lub inne narzędzie, problem należy przekazać do administratora, właściciela systemu albo dostawcy. Powtarzających się barier wynikających z tego samego narzędzia nie należy traktować wyłącznie jako kolejnych błędów pojedynczych publikacji.
+
 ## 6. Publikacja techniczna
 
-Osoba publikująca udostępnia materiał po otrzymaniu informacji o decyzji. Jeżeli system publikacji może zmienić strukturę lub elementy dostępności, po umieszczeniu materiału należy sprawdzić efekt w środowisku docelowym w zakresie, na który podmiot ma wpływ.
+Osoba publikująca udostępnia materiał po otrzymaniu informacji o decyzji. Jeżeli system publikacji może zmienić strukturę lub elementy dostępności, po umieszczeniu materiału należy sprawdzić efekt w środowisku docelowym w zakresie, na który podmiot ma wpływ. Przy materiałach o większym znaczeniu lub złożonych technicznie sprawdzenie rezultatu po publikacji powinno być stałym elementem kontroli.
 
 ## 7. Dokumentowanie
 
