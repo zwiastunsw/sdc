@@ -8,7 +8,8 @@ keywords: [dostępność cyfrowa, publikacja treści, treści zewnętrzne, BIP, 
 tags: [komunikacja, dostępność cyfrowa, publikacja, administracja publiczna]
 typ: zalecenie
 wymiar: Komunikacja
-opracowanie: Bartłomiej Wilk
+opracowanie: Bartłomiej Wilk, Stefan Wajda
+wspolpraca: Mateusz Ciborowski, Damian Żłobicki, Hanna Pasterna
 data_zgloszenia: 16 kwietnia 2026 r.
 ostatnia_aktualizacja: 16 września 2026 r.
 wersja_robocza: true
