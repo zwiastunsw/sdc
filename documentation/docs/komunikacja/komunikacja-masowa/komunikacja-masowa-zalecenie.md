@@ -8,8 +8,8 @@ keywords: [standardy treści, standardy dostępności, komunikacja cyfrowa, publ
 tags: [standardy treści, standardy dostępności, komunikacja cyfrowa, publikacja treści, dostępność cyfrowa, zarządzanie informacją, komunikacja publiczna, zarządzanie jakością]
 typ: zalecenie
 wymiar: Komunikacja
-opracowanie: Stefan Wajda, Bartłomiej Wilk
-wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
+opracowanie: Bartłomiej Wilk, Stefan Wajda, Paulina Wysakowska
+wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska, Mateusz Ciborowski
 data_zgloszenia: 30 kwietnia 2026 r.
 ostatnia_aktualizacja: 20 września 2026 r.
 wersja_robocza: true
