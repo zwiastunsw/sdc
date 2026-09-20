@@ -19,10 +19,10 @@ Karta jest przykładem, a nie obowiązkowym formularzem. Podmiot może dokumento
 
 | Pole | Informacja do wpisania |
 |---|---|
-| Materiał | Tytuł lub identyfikator treści. |
+| Materiał | Tytuł, nazwa lub inny identyfikator materiału. |
 | Typ i kanał | Rodzaj materiału i miejsce publikacji. |
 | Data kontroli | Data wykonania sprawdzenia. |
-| Osoba sprawdzająca | Imię i nazwisko albo rola. |
+| Osoba sprawdzająca | Imię i nazwisko albo funkcja. |
 | Zakres lub narzędzie kontroli | Np. nazwa listy kontrolnej, testu albo standardu wewnętrznego. |
 | Wynik | Brak rozpoznanych barier / wymaga poprawy / wymaga decyzji. |
 | Rozpoznane problemy | Krótki opis barier lub ryzyk. |
