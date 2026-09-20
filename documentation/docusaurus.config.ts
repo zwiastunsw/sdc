@@ -6,6 +6,7 @@ import type { Config } from '@docusaurus/types';
 import { themes as prismThemes } from 'prism-react-renderer';
 import remarkMermaidStatic from '@barrierenlos/docusaurus-prerender-mermaid/remark';
 
+import path from 'path';
 import { createRequire } from 'module';
 
 // Zamiast getRemarkPlugin z paczki — nasz plugin z linkOnlyFirstOccurrence
@@ -13,9 +14,10 @@ import { createRequire } from 'module';
 const _require = createRequire(__filename);
 const remarkGlossaryFirstOccurrence = _require('./src/remark/glossary-first-occurrence.cjs');
 const baseUrl = process.env.BASE_URL || '/sdc/';
+const glossaryRoutePath = `${baseUrl.replace(/\/$/, '')}/slownik`;
 const glossaryOptions = {
     glossaryPath: 'slownik/slownik.json',
-    routePath: '/sdc/slownik',
+
   siteDir: __dirname,
     expandAcronymsOnFirstUse: true,
     linkOnlyFirstOccurrence: true,   // ← tylko pierwsze wystąpienie na plik
@@ -32,7 +34,7 @@ const config: Config = {
     tagline: 'Dostępność to Twoje prawo!',
     favicon: 'img/favicon.ico',
     url: 'https://siec-dostepnosci-cyfrowej.github.io',
-    baseUrl: process.env.BASE_URL || '/sdc/',
+    baseUrl,
     organizationName: 'Siec-Dostepnosci-Cyfrowej',
     projectName: 'sdc',
     trailingSlash: false,
@@ -60,6 +62,7 @@ const config: Config = {
     // =====================================
 
     plugins: [
+        path.resolve(__dirname, 'plugins/alias-plugin'),
 
         [
             '@barrierenlos/docusaurus-prerender-mermaid',
@@ -81,7 +84,7 @@ const config: Config = {
             'docusaurus-plugin-glossary',
             {
                 glossaryPath: 'slownik/slownik.json',
-                routePath: '/sdc/slownik',
+                routePath: glossaryRoutePath,
             },
         ],
     ],
@@ -189,9 +192,9 @@ const config: Config = {
                     label: 'Generatory',
                     position: 'left',
                     items: [
-                        { label: 'Generator zaleceń', href: 'https://siec-dostepnosci-cyfrowej.github.io/generatory/generator-zalecen/' },
-                        { label: 'Generator opisów praktyk', href: 'https://siec-dostepnosci-cyfrowej.github.io/generatory/generator-dobrej-praktyki/' },
-                        { label: 'Word na Markdown', href: 'https://siec-dostepnosci-cyfrowej.github.io/generatory/generator-docx-markdown/' },
+                        { label: 'Generator zaleceń', to: '/generator-zalecen' },
+                        { label: 'Generator opisów praktyk', to: '/generator-dobrej-praktyki' },
+                        { label: 'Word na Markdown', to: '/generator-docx-markdown' },
 
                     ],
                 },
