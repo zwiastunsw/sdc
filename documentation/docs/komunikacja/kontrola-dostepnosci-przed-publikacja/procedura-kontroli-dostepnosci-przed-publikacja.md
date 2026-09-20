@@ -8,8 +8,8 @@ keywords: [dostępność cyfrowa, kontrola dostępności, publikacja, treści cy
 tags: [dostępność cyfrowa, kontrola dostępności, publikacja, treści cyfrowe, komunikacja]
 typ: zalecenie
 wymiar: Komunikacja
-opracowanie: Bartłomiej Wilk
-wspolpraca: Stefan Wajda, Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
+opracowanie: Bartłomiej Wilk, Stefan Wajda
+wspolpraca: Mateusz Ciborowski, Damian Żłobicki, Hanna Pasterna
 data_zgloszenia: 30 kwietnia 2026 r.
 ostatnia_aktualizacja: 16 września 2026 r.
 wersja_robocza: true
