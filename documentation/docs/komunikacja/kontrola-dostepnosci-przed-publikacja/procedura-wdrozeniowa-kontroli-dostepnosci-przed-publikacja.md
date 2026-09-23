@@ -68,4 +68,3 @@ Do dokumentowania można wykorzystać kartę kontroli, wpis w systemie obiegu za
 - [Mapa ról i odpowiedzialności w procesie publikacji](mapa-odpowiedzialnosci.md)
 - [Tryb publikacji warunkowej i rejestr publikacji warunkowych](procedura-sytuacji-wyjatkowych.md)
 - [Wzór karty kontroli dostępności przed publikacją](wzor-karty-kontroli-dostepnosci.md)
-- [Zestaw list kontrolnych](./listy-kontrolne-index.md)
