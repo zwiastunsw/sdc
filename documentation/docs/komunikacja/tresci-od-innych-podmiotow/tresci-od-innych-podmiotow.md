@@ -106,12 +106,12 @@ W zaleceniu uwzględniono poniżej wymienione przepisy:
 
 Materiały wdrożeniowe wspierają stosowanie zalecenia i mogą być dostosowywane do sposobu działania organizacji.
 
-1. [Procedura postępowania z materiałem pochodzącym od innego podmiotu](procedura-postepowania-z-materialem-zewnetrznym)
-2. [Karta oceny materiału pochodzącego od innego podmiotu](ocena-materialu-przed-publikacja)
-3. [Formularz przekazania materiału](formularz-przekazania-materialu)
-4. [Lista kontrolna materiału pochodzącego od innego podmiotu](lista-kontrolna-weryfikacji-przed-publikacja)
-5. [Instrukcja dla podmiotów przekazujących materiały](instrukcja-dla-podmiotow-zewnetrznych)
-6. [Informacja o ograniczeniach dostępności](informacja-o-ograniczeniach-dostepnosci)
+1. [Procedura postępowania z materiałem pochodzącym od innego podmiotu](procedura-postepowania-z-materialem-zewnetrznym.md)
+2. [Karta oceny materiału pochodzącego od innego podmiotu](ocena-materialu-przed-publikacja.md)
+3. [Formularz przekazania materiału](formularz-przekazania-materialu.md)
+4. [Lista kontrolna materiału pochodzącego od innego podmiotu](lista-kontrolna-weryfikacji-przed-publikacja.md)
+5. [Instrukcja dla podmiotów przekazujących materiały](instrukcja-dla-podmiotow-zewnetrznych.md)
+6. [Informacja o ograniczeniach dostępności](informacja-o-ograniczeniach-dostepnosci.md)
 
 ---
 
