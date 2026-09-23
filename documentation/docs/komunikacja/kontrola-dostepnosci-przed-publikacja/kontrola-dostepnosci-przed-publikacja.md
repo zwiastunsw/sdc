@@ -119,24 +119,24 @@ Materiały w pakiecie mają charakter wdrożeniowy i pomocniczy. Organizacja mo�
 
 ### 7.1. Propozycje, projekty rozwiązań
 
-1. [Procedura kontroli dostępności przed publikacją](procedura-wdrozeniowa-kontroli-dostepnosci-przed-publikacja)
-2. [Tryb publikacji warunkowej i rejestr publikacji warunkowych](procedura-sytuacji-wyjatkowych)
-3. [Mapa ról i odpowiedzialności w procesie publikacji](mapa-odpowiedzialnosci)
-4. [Wariant rozszerzony kontroli dla dużych podmiotów](model-dla-duzych-podmiotow)
-4. [Wariant uproszczony kontroli dla małych podmiotów](model-dla-malych-podmiotow)
-5. [Wzór karty kontroli dostępności przed publikacją](wzor-karty-kontroli-dostepnosci)
-6. [Zasady projektowania list kontrolnych dostępności treści](projektowanie-list-kontrolnych-dostepnosci-tresci)
+1. [Procedura kontroli dostępności przed publikacją](procedura-wdrozeniowa-kontroli-dostepnosci-przed-publikacja.md)
+2. [Tryb publikacji warunkowej i rejestr publikacji warunkowych](procedura-sytuacji-wyjatkowych.md)
+3. [Mapa ról i odpowiedzialności w procesie publikacji](mapa-odpowiedzialnosci.md)
+4. [Wariant rozszerzony kontroli dla dużych podmiotów](model-dla-duzych-podmiotow.md)
+4. [Wariant uproszczony kontroli dla małych podmiotów](model-dla-malych-podmiotow.md)
+5. [Wzór karty kontroli dostępności przed publikacją](wzor-karty-kontroli-dostepnosci.md)
+6. [Zasady projektowania list kontrolnych dostępności treści](projektowanie-list-kontrolnych-dostepnosci-tresci.md)
 
 ### 7.2. Zestaw list kontrolnych według typu materiału
 
-1. [Treści z obrazem](./lista-kontrolna-publikacji-tresci-z-obrazkiem)
-2. [Materiały wideo](./lista-kontrolna-publikacji-wideo)
-3. [Posty w mediach społecznościowych](./lista-kontrolna-publikacji-postow-w-social-media)
-4. [Materiały audio](./lista-kontrolna-publikacji-audio)
-5. [Dokumenty PDF, DOCX i XLSX](./lista-kontrolna-dokumentow-pdf-docx-xlsx.)
-6. [Strony informacyjne w CMS](./lista-kontrolna-stron-cms)
-7. [Załączniki publikowane w BIP](./lista-kontrolna-zalacznikow-bip)
-8. [Formularze i komunikaty transakcyjne](./lista-kontrolna-formularzy-i-komunikatow-transakcyjnych)
+1. [Treści z obrazem](lista-kontrolna-publikacji-tresci-z-obrazkiem.md)
+2. [Materiały wideo](lista-kontrolna-publikacji-wideo.md)
+3. [Posty w mediach społecznościowych](lista-kontrolna-publikacji-postow-w-social-media.md)
+4. [Materiały audio](lista-kontrolna-publikacji-audio.md)
+5. [Dokumenty PDF, DOCX i XLSX](lista-kontrolna-dokumentow-pdf-docx-xlsx.md)
+6. [Strony informacyjne w CMS](lista-kontrolna-stron-cms.md)
+7. [Załączniki publikowane w BIP](lista-kontrolna-zalacznikow-bip.md)
+8. [Formularze i komunikaty transakcyjne](lista-kontrolna-formularzy-i-komunikatow-transakcyjnych.md)
 
 
 ## Historia wersji
