@@ -204,19 +204,19 @@ Zagadnienia migracji zasobów pomiędzy rozwiązaniami technicznymi oraz wycofyw
 
 Materiały wdrożeniowe wspierają stosowanie zalecenia i mogą być dostosowywane do sposobu działania organizacji.
 
-1. [Formularz oceny dokumentu](wzor-formularz-oceny-dokumentu)
-2. [Formularz oceny „niezbędności” dokumentu](wzor-formularz-oceny-niezbednosci-dokumentu)
-3. [Rejestr dokumentów objętych przeglądem](wzor-rejestr-dokumentow-objetych-przegladem)
-4. [Kategorie dokumentów i zalecany sposób postępowania](kategorie-dokumentow-i-zalecany-sposob-postepowania)
-5. [Minimalne wymagania dla nowych dokumentów publikowanych przez organizację](minimalne-wymagania-dla-nowych-dokumentow)
-6. [Organizacja procesu zarządzania publicznie udostępnianymi dokumentami urzędowymi](organizacja-procesu-zarzadzania-dokumentami-urzedowymi)
-7. [Procedura dla dużych podmiotów](procedura-duze-podmioty-zarzadzanie-dokumentami)
-8. [Procedura uproszczona dla małych podmiotów](procedura-male-podmioty-zarzadzanie-dokumentami)
-9. [Role i odpowiedzialności](role-i-odpowiedzialnosci-zarzadzanie-dokumentami)
-10. [Standard działań naprawczych dokumentów](standard-dzialan-naprawczych-dokumentow)
-11. [Zasady oceny „niezbędności” dokumentów](zasady-oceny-niezbednosci-dokumentow)
-12. [Zasady postępowania z dokumentami archiwalnymi i zbędnymi](zasady-postepowania-z-dokumentami-archiwalnymi-i-zbednymi)
-13. [Poradnik wdrożeniowy — zarządzanie publicznie udostępnianymi dokumentami urzędowymi](poradnik-wdrozeniowy-zarzadzanie-dokumentami)
+1. [Formularz oceny dokumentu](wzor-formularz-oceny-dokumentu.md)
+2. [Formularz oceny „niezbędności” dokumentu](wzor-formularz-oceny-niezbednosci-dokumentu.md)
+3. [Rejestr dokumentów objętych przeglądem](wzor-rejestr-dokumentow-objetych-przegladem.md)
+4. [Kategorie dokumentów i zalecany sposób postępowania](kategorie-dokumentow-i-zalecany-sposob-postepowania.md)
+5. [Minimalne wymagania dla nowych dokumentów publikowanych przez organizację](minimalne-wymagania-dla-nowych-dokumentow.md)
+6. [Organizacja procesu zarządzania publicznie udostępnianymi dokumentami urzędowymi](organizacja-procesu-zarzadzania-dokumentami-urzedowymi.md)
+7. [Procedura dla dużych podmiotów](procedura-duze-podmioty-zarzadzanie-dokumentami.md)
+8. [Procedura uproszczona dla małych podmiotów](procedura-male-podmioty-zarzadzanie-dokumentami.md)
+9. [Role i odpowiedzialności](role-i-odpowiedzialnosci-zarzadzanie-dokumentami.md)
+10. [Standard działań naprawczych dokumentów](standard-dzialan-naprawczych-dokumentow.md)
+11. [Zasady oceny „niezbędności” dokumentów](zasady-oceny-niezbednosci-dokumentow.md)
+12. [Zasady postępowania z dokumentami archiwalnymi i zbędnymi](zasady-postepowania-z-dokumentami-archiwalnymi-i-zbednymi.md)
+13. [Poradnik wdrożeniowy — zarządzanie publicznie udostępnianymi dokumentami urzędowymi](poradnik-wdrozeniowy-zarzadzanie-dokumentami.md)
 
 
 ---
