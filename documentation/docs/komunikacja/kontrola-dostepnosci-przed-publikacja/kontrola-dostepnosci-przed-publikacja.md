@@ -124,7 +124,7 @@ Materiały w pakiecie mają charakter wdrożeniowy i pomocniczy. Organizacja mo�
 3. [Mapa ról i odpowiedzialności w procesie publikacji](mapa-odpowiedzialnosci.md)
 4. [Wariant rozszerzony kontroli dla dużych podmiotów](model-dla-duzych-podmiotow.md)
 5. [Wariant uproszczony kontroli dla małych podmiotów](model-dla-malych-podmiotow.md)
-5. [Wzór karty kontroli dostępności przed publikacją](wzor-karty-kontroli-dostepnosci.md)
+6. [Wzór karty kontroli dostępności przed publikacją](wzor-karty-kontroli-dostepnosci.md)
 7. [Zasady projektowania list kontrolnych dostępności treści](projektowanie-list-kontrolnych-dostepnosci-tresci.md)
 
 ### 7.2. Zestaw list kontrolnych według typu materiału
