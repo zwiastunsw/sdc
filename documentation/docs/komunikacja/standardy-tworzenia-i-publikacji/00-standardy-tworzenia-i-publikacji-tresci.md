@@ -130,23 +130,23 @@ W zaleceniu uwzględniono poniżej wymienione przepisy:
 
 ### 7.1. Standardy komunikacji cyfrowej
 
-1. [Standard tworzenia treści cyfrowych](01-standard-tworzenia-tresci-cyfrowych)
-2. [Standard struktury komunikatu](02-standard-struktury-komunikatu)
-3. [Standard publikacji w mediach społecznościowych](03-standard-publikacji-w-mediach-spolecznosciowych)
+1. [Standard tworzenia treści cyfrowych](01-standard-tworzenia-tresci-cyfrowych.md)
+2. [Standard struktury komunikatu](02-standard-struktury-komunikatu.md)
+3. [Standard publikacji w mediach społecznościowych](03-standard-publikacji-w-mediach-spolecznosciowych.md)
 
 ### 7.2. Standardy materiałów wizualnych i multimedialnych
 
-4. [Standard tworzenia dostępnych grafik i materiałów wizualnych](04-standard-tworzenia-dostepnych-grafik-i-materialow-wizualnych)
-5. [Standard opisów alternatywnych i treści równoważnych](05-standard-opisow-alternatywnych-i-tresci-rownowaznych)
-6. [Standard tworzenia dostępnych materiałów wideo](06-standard-tworzenia-dostepnych-materialow-wideo)
-7. [Standard tworzenia materiałów audio](07-standard-tworzenia-materialow-audio)
+4. [Standard tworzenia dostępnych grafik i materiałów wizualnych](04-standard-tworzenia-dostepnych-grafik-i-materialow-wizualnych.md)
+5. [Standard opisów alternatywnych i treści równoważnych](05-standard-opisow-alternatywnych-i-tresci-rownowaznych.md)
+6. [Standard tworzenia dostępnych materiałów wideo](06-standard-tworzenia-dostepnych-materialow-wideo.md)
+7. [Standard tworzenia materiałów audio](07-standard-tworzenia-materialow-audio.md)
 
 ### 7.3. Standardy dokumentów cyfrowych
 
-8. [Standard przygotowania dokumentów tekstowych](08-standard-przygotowania-dokumentow-tekstowych)
-9. [Standard przygotowania prezentacji](09-standard-przygotowania-prezentacji)
-10. [Standard przygotowania arkuszy kalkulacyjnych](10-standard-przygotowania-arkuszy-kalkulacyjnych)
-11. [Standard przygotowania dokumentów PDF](11-standard-przygotowania-dokumentow-pdf)
+8. [Standard przygotowania dokumentów tekstowych](08-standard-przygotowania-dokumentow-tekstowych.md)
+9. [Standard przygotowania prezentacji](09-standard-przygotowania-prezentacji.md)
+10. [Standard przygotowania arkuszy kalkulacyjnych](10-standard-przygotowania-arkuszy-kalkulacyjnych.md)
+11. [Standard przygotowania dokumentów PDF](11-standard-przygotowania-dokumentow-pdf.md)
 
 ---
 
