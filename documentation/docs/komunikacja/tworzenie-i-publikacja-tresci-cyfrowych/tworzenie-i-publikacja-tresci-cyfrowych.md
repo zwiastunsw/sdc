@@ -179,8 +179,8 @@ Zalecenie określa organizację procesu tworzenia, udostępniania i utrzymywania
 
 ## Załączniki
 
-- [Przykładowe zasady organizacji procesu tworzenia i publikowania treści cyfrowych](przykladowe-zasady-organizacji-procesu)
-- [Karta procesu tworzenia i publikowania treści cyfrowych](karta-procesu-tworzenia-i-publikowania-tresci)
+- [Przykładowe zasady organizacji procesu tworzenia i publikowania treści cyfrowych](przykladowe-zasady-organizacji-procesu.md)
+- [Karta procesu tworzenia i publikowania treści cyfrowych](karta-procesu-tworzenia-i-publikowania-tresci.md)
 
 ---
 
