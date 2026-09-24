@@ -1902,8 +1902,8 @@
       ]
     },
     {
-      "term": "system zapewniania dostępności cyfrowej (SZDC)",
-      "definition": "Spójny układ ról, odpowiedzialności, procesów, zasobów, środków wspierających i mechanizmów oceny służący trwałemu zapewnianiu dostępności cyfrowej w organizacji.",
+      "term": "systemowe zapewnianie dostępności cyfrowej (SZDC)",
+      "definition": "Sposób działania organizacji, w którym role, odpowiedzialności, procesy, zasoby i mechanizmy oceny są wzajemnie powiązane i skoordynowane, tak aby organizacja trwale zapewniała dostępność cyfrową.",
       "definitionType": "sdc",
       "aliases": [
         "SZDC"
