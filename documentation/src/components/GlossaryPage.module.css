@@ -25,6 +25,15 @@
   margin: 0 auto;
 }
 
+.searchLabel {
+  display: block;
+  font-size: 0.95rem;
+  font-weight: 600;
+  margin-bottom: 0.4rem;
+  color: var(--ifm-font-color-base);
+  text-align: left;
+}
+
 .searchInput {
   width: 100%;
   padding: 0.75rem 1rem;
@@ -36,8 +45,15 @@
   transition: border-color 0.2s;
 }
 
+/* Widoczny wskaźnik fokusu — nie usuwamy outline bez zastąpienia (WCAG 2.4.11) */
 .searchInput:focus {
   outline: none;
+  border-color: var(--ifm-color-primary);
+}
+
+.searchInput:focus-visible {
+  outline: 3px solid var(--ifm-color-primary);
+  outline-offset: 2px;
   border-color: var(--ifm-color-primary);
 }
 

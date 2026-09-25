@@ -97,6 +97,18 @@ export default function GlossaryTerm({
     };
   }, [showTooltip, updatePosition]);
 
+  // ── obsługa klawisza Escape (WCAG 1.4.13) ────────────────────────────────
+  useEffect(() => {
+    if (!showTooltip) return;
+    const onKeyDown = (e: KeyboardEvent) => {
+      if (e.key === 'Escape') {
+        setShowTooltip(false);
+      }
+    };
+    document.addEventListener('keydown', onKeyDown);
+    return () => document.removeEventListener('keydown', onKeyDown);
+  }, [showTooltip]);
+
   // ── definicja do dymku (shortDefinition priorytetowo) ─────────────────────
   const tooltipDefinition = useMemo(() => {
     if (shortDefinition?.trim()) return shortDefinition.trim();
@@ -118,7 +130,7 @@ export default function GlossaryTerm({
     [id, term],
   );
 
-  // ── referencje ────────────────────────────────────────────────────────────
+  // ── referencje (tylko etykiety — bez linków w tooltipie) ─────────────────
   const references = useMemo<Reference[]>(() => {
     if (!referencesJson) return [];
     try { return JSON.parse(referencesJson) as Reference[]; }
@@ -139,7 +151,12 @@ export default function GlossaryTerm({
         to={documentationPath ?? `${routePath}#${termId}`}
         className={styles.glossaryTerm}
         onFocus={() => setShowTooltip(true)}
-        onBlur={() => setShowTooltip(false)}
+        onBlur={(e) => {
+          // WCAG 1.4.13: zamknij tooltip tylko gdy focus opuszcza cały wrapper
+          if (!wrapperRef.current?.contains(e.relatedTarget as Node)) {
+            setShowTooltip(false);
+          }
+        }}
         aria-describedby={tooltipDefinition ? tooltipId : undefined}
       >
         {displayText}
@@ -181,23 +198,14 @@ export default function GlossaryTerm({
                 opacity: 0.8,
               }}
             >
-              {references.map((ref, i) =>
-                ref.url ? (
-                  <a
-                    key={i}
-                    href={ref.url}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    style={{ display: 'block', color: 'inherit' }}
-                  >
-                    ↗ {ref.label}
-                  </a>
-                ) : (
-                  <span key={i} style={{ display: 'block' }}>
-                    {ref.label}
-                  </span>
-                ),
-              )}
+              {references.map((ref, i) => (
+                // Tooltip nie może zawierać interaktywnych elementów (linków).
+                // Wyświetlamy tylko etykietę źródła — pełna lista źródeł
+                // dostępna jest na stronie słownika pod linkiem terminu.
+                <span key={i} style={{ display: 'block' }}>
+                  {ref.label}
+                </span>
+              ))}
             </span>
           )}
         </span>

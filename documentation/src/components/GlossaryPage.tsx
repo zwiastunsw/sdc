@@ -78,9 +78,13 @@ export default function GlossaryPage({ glossaryData }: { glossaryData?: Glossary
             {glossaryData?.description || 'Zbiór pojęć i ich definicji'}
           </p>
           <div className={styles.searchContainer}>
+            <label htmlFor="glossary-search" className={styles.searchLabel}>
+              Szukaj pojęć
+            </label>
             <input
-              type="text"
-              placeholder="Szukaj pojęć..."
+              id="glossary-search"
+              type="search"
+              placeholder="np. dostępność cyfrowa"
               className={styles.searchInput}
               value={searchTerm}
               onChange={e => setSearchTerm(e.target.value)}
