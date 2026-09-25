@@ -26,6 +26,11 @@ const TASKS = [
     args: [join(__dirname, 'normalize-quotes.mjs')],
   },
   {
+    name: 'Glossary validation',
+    cmd: 'node',
+    args: [join(__dirname, 'validate-glossary.mjs')],
+  },
+  {
     name: 'Markdown lint',
     cmd: 'npx',
     args: ['markdownlint', 'docs/**/*.md', '--config', '.markdownlint.json'],

@@ -17,7 +17,8 @@
     "swizzle": "docusaurus swizzle",
     "typecheck": "tsc",
     "write-heading-ids": "docusaurus write-heading-ids",
-    "write-translations": "docusaurus write-translations"
+    "write-translations": "docusaurus write-translations",
+    "validate:glossary": "node scripts/validate-glossary.mjs"
   },
   "dependencies": {
     "@barrierenlos/docusaurus-prerender-mermaid": "1.0.2",

@@ -17,7 +17,7 @@ const glossaryOptions = {
     glossaryPath: 'slownik/slownik.json',
     routePath: '/sdc/slownik',
   siteDir: __dirname,
-    expandAcronymsOnFirstUse: true,
+    expandAcronymsOnFirstUse: false,
     linkOnlyFirstOccurrence: true,   // ← tylko pierwsze wystąpienie na plik
 };
 
