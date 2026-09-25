@@ -181,33 +181,7 @@ export default function GlossaryTerm({
               : undefined
           }
         >
-          <strong>
-            {term}
-            {acronym && ` (${acronym})`}
-            {!acronym && effectiveAbbreviation && ` (${effectiveAbbreviation})`}
-          </strong>
-          {' '}
           {tooltipDefinition}
-
-          {references.length > 0 && (
-            <span
-              style={{
-                display: 'block',
-                marginTop: 6,
-                fontSize: '0.8em',
-                opacity: 0.8,
-              }}
-            >
-              {references.map((ref, i) => (
-                // Tooltip nie może zawierać interaktywnych elementów (linków).
-                // Wyświetlamy tylko etykietę źródła — pełna lista źródeł
-                // dostępna jest na stronie słownika pod linkiem terminu.
-                <span key={i} style={{ display: 'block' }}>
-                  {ref.label}
-                </span>
-              ))}
-            </span>
-          )}
         </span>
       )}
     </span>
