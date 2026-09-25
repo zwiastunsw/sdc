@@ -1,25 +1,3 @@
-/**
- * src/theme/GlossaryTerm/index.tsx
- *
- * Lokalny nadpis (swizzle wrap) komponentu GlossaryTerm z docusaurus-plugin-glossary.
- *
- * Rozszerza oryginał o obsługę pól SDC przekazywanych przez glossary-sdc.cjs:
- *
- *   shortDefinition  — krótka definicja wyświetlana w dymku zamiast pełnej
- *   definitionType   — typ definicji (legal, normative, sdc, ...) wyświetlany jako badge
- *   references       — źródła definicji [{label, url}] wyświetlane pod definicją w dymku
- *   acronym          — skrót terminu wyświetlany w dymku obok pełnej nazwy
- *
- * W miarę jak pola będą wchodzić do oficjalnego pluginu — odpowiednie fragmenty
- * można wyrzucić i wrócić do oryginalnego komponentu (usuwając ten plik).
- *
- * Śledzenie co jeszcze lokalnie:
- *   shortDefinition  — Issue mcclowes/docusaurus-plugin-glossary#?
- *   definitionType   — Issue mcclowes/docusaurus-plugin-glossary#?
- *   references       — Issue mcclowes/docusaurus-plugin-glossary#?
- *   acronym          — Issue mcclowes/docusaurus-plugin-glossary#164
- */
-
 import React, {
   useState,
   useRef,
@@ -30,9 +8,9 @@ import React, {
 } from 'react';
 import { usePluginData } from '@docusaurus/useGlobalData';
 import Link from '@docusaurus/Link';
-import styles from '@docusaurus/theme-classic/lib/theme/MDXComponents/styles.module.css';
+import styles from './styles.module.css';
 
-// ─── typy ────────────────────────────────────────────────────────────────────
+// ─── typy ─────────────────────────────────────────────────────────────────────
 
 interface Reference {
   label: string;
@@ -42,26 +20,25 @@ interface Reference {
 interface GlossaryTermProps {
   term: string;
   definition?: string;
-  shortDefinition?: string;    // [Issue #shortDef] krótka definicja do dymku
-  definitionType?: string;     // [Issue #refs]     typ definicji
-  references?: string;         // [Issue #refs]     JSON: Reference[]
-  acronym?: string;            // [Issue #164]      skrót przy pełnej nazwie
-  abbreviation?: string;       // oryginalne pole pluginu
+  shortDefinition?: string;
+  definitionType?: string;
+  references?: string; // JSON: Reference[]
+  acronym?: string;
+  abbreviation?: string;
   id?: string;
   routePath?: string;
   documentationPath?: string;
   children?: React.ReactNode;
 }
 
-// ─── badge dla definitionType ─────────────────────────────────────────────────
-// [Issue #refs] — wyrzucić gdy oficjalny plugin obsłuży definitionType
+// ─── badge dla definitionType ──────────────────────────────────────────────────
 
 const DEFINITION_TYPE_LABELS: Record<string, string> = {
-  legal:      'Prawna',
-  normative:  'Normatywna',
-  official:   'Oficjalna',
-  industry:   'Branżowa',
-  sdc:        'SDC',
+  legal:     'Prawna',
+  normative: 'Normatywna',
+  official:  'Oficjalna',
+  industry:  'Branżowa',
+  sdc:       'SDC',
 };
 
 function DefinitionTypeBadge({ type }: { type: string }) {
@@ -88,7 +65,7 @@ function DefinitionTypeBadge({ type }: { type: string }) {
   );
 }
 
-// ─── główny komponent ─────────────────────────────────────────────────────────
+// ─── główny komponent ──────────────────────────────────────────────────────────
 
 export default function GlossaryTerm({
   term,
@@ -110,7 +87,7 @@ export default function GlossaryTerm({
   const tooltipRef = useRef<HTMLSpanElement>(null);
   const tooltipId = useId();
 
-  // ── pozycjonowanie dymku (identyczne z oryginałem) ────────────────────────
+  // ── pozycjonowanie dymku ───────────────────────────────────────────────────
   const updatePosition = useCallback(() => {
     if (!wrapperRef.current || !tooltipRef.current) return;
     const wrapperRect = wrapperRef.current.getBoundingClientRect();
@@ -157,7 +134,7 @@ export default function GlossaryTerm({
     };
   }, [showTooltip, updatePosition]);
 
-  // ── dane z pluginu (fallback gdy prop nie przekazany) ─────────────────────
+  // ── dane z pluginu ─────────────────────────────────────────────────────────
   const pluginData = usePluginData('docusaurus-plugin-glossary') as
     | { terms?: Array<Record<string, unknown>>; routePath?: string }
     | undefined;
@@ -171,8 +148,7 @@ export default function GlossaryTerm({
     );
   }, [pluginData, term]);
 
-  // ── efektywna definicja ───────────────────────────────────────────────────
-  // [Issue #shortDef] preferuj shortDefinition w dymku
+  // ── efektywna definicja (shortDefinition priorytetowo) ────────────────────
   const effectiveTooltipDefinition = useMemo(() => {
     if (shortDefinition?.trim()) return shortDefinition.trim();
     if (definition?.trim()) return definition.trim();
@@ -180,16 +156,16 @@ export default function GlossaryTerm({
     return typeof found === 'string' ? found : undefined;
   }, [shortDefinition, definition, pluginTerm]);
 
-  // ── efektywna abbreviation (oryginał) ────────────────────────────────────
+  // ── abbreviation (model oryginalny) ───────────────────────────────────────
   const effectiveAbbreviation = useMemo(() => {
-    let value = abbreviation ?? (pluginTerm?.abbreviation as string | undefined);
+    const value = abbreviation ?? (pluginTerm?.abbreviation as string | undefined);
     if (typeof value !== 'string') return undefined;
     const trimmed = value.trim();
     if (!trimmed || trimmed.toLowerCase() === String(term).toLowerCase()) return undefined;
     return trimmed;
   }, [abbreviation, pluginTerm, term]);
 
-  // ── routePath i termId ────────────────────────────────────────────────────
+  // ── routePath i termId ─────────────────────────────────────────────────────
   const effectiveRoutePath = useMemo(() => {
     if (routePath?.trim()) return routePath.trim();
     return pluginData?.routePath ?? '/glossary';
@@ -208,26 +184,26 @@ export default function GlossaryTerm({
     return doc?.path;
   }, [documentationPath, pluginTerm]);
 
-  // ── [Issue #refs] referencje ──────────────────────────────────────────────
+  // ── referencje ────────────────────────────────────────────────────────────
   const references = useMemo<Reference[]>(() => {
     if (!referencesJson) return [];
     try { return JSON.parse(referencesJson) as Reference[]; }
     catch { return []; }
   }, [referencesJson]);
 
-  // ── render ────────────────────────────────────────────────────────────────
+  // ── render ─────────────────────────────────────────────────────────────────
   const displayText = children ?? term;
 
   return (
     <span
       ref={wrapperRef}
-      className={styles.glossaryTermWrapper ?? 'glossaryTermWrapper'}
+      className={styles.glossaryTermWrapper}
       onMouseEnter={() => setShowTooltip(true)}
       onMouseLeave={() => setShowTooltip(false)}
     >
       <Link
         to={effectiveDocumentationPath ?? `${effectiveRoutePath}#${effectiveTermId}`}
-        className={styles.glossaryTerm ?? 'glossaryTerm'}
+        className={styles.glossaryTerm}
         onFocus={() => setShowTooltip(true)}
         onBlur={() => setShowTooltip(false)}
         aria-describedby={effectiveTooltipDefinition ? tooltipId : undefined}
@@ -254,22 +230,15 @@ export default function GlossaryTerm({
               : undefined
           }
         >
-          {/* Nagłówek dymku: term + badge definitionType + skrót */}
           <strong>
             {term}
-            {/* [Issue #164] acronym przy pełnej nazwie */}
             {acronym && ` (${acronym})`}
-            {/* oryginalne abbreviation (model odwrotny) */}
             {!acronym && effectiveAbbreviation && ` (${effectiveAbbreviation})`}
-            {/* [Issue #refs] badge typu definicji */}
             {definitionType && <DefinitionTypeBadge type={definitionType} />}
           </strong>
-
-          {/* Definicja (krótka jeśli jest, pełna w pozostałych przypadkach) */}
           {' '}
           {effectiveTooltipDefinition}
 
-          {/* [Issue #refs] źródła definicji */}
           {references.length > 0 && (
             <span
               style={{
