@@ -128,8 +128,6 @@ function remarkGlossarySdc({
   }
 
   // ── buduj mapę termin → dane ───────────────────────────────────────────────
-  // Rejestrujemy zarówno pełną nazwę jak i skrót (z pola acronym) jako frazy do szukania,
-  // ale oba wskazują na ten sam termObj (hasło kanoniczne = pełna nazwa).
   const termMap = new Map();
   for (const termObj of glossaryTerms) {
     if (!termObj.term || termObj.autoLink === false) continue;
@@ -145,7 +143,6 @@ function remarkGlossarySdc({
     if (Array.isArray(termObj.aliases)) termObj.aliases.forEach(register);
 
     // [Issue #164] pole acronym: rejestruj skrót jako dodatkową frazę do linkowania
-    // ale wskazuje na ten sam termObj (pełna nazwa jako kanoniczne)
     if (typeof termObj.acronym === 'string' && termObj.acronym.trim()) {
       register(termObj.acronym);
     }
@@ -155,18 +152,6 @@ function remarkGlossarySdc({
   if (!sortedTerms.length) return (tree) => tree;
 
   // ── resolveDisplayText ─────────────────────────────────────────────────────
-  // Decyduje jaki tekst wyświetlić wewnątrz komponentu GlossaryTerm.
-  //
-  // Obsługuje dwa modele rozwijania skrótów:
-  //
-  // Model A (oficjalny plugin): `abbreviation`
-  //   term = "PSP", abbreviation = "Payment Service Provider"
-  //   → pierwsze wystąpienie "PSP" renderuje jako "Payment Service Provider (PSP)"
-  //
-  // Model B (SDC, Issue #164): `acronym`
-  //   term = "System zapewniania dostępności cyfrowej", acronym = "SZDC"
-  //   → pierwsze wystąpienie pełnej nazwy renderuje jako "System zapewniania dostępności cyfrowej (SZDC)"
-  //   → pierwsze wystąpienie "SZDC" (aliasu) renderuje jako "SZDC" — skrót stoi samodzielnie, nie rozwijamy
   function resolveDisplayText(match, text, seenTerms) {
     const { termObj } = match;
     if (!expandAcronymsOnFirstUse) return match.originalText;
@@ -184,11 +169,11 @@ function remarkGlossarySdc({
       return `${termObj.abbreviation} (${match.originalText})`;
     }
 
-    // Model B: acronym (Issue #164) — rozwijaj tylko gdy trafiono w pełną nazwę, nie w skrót
+    // Model B: acronym (Issue #164)
     if (termObj.acronym) {
       const hitFullName =
         match.originalText.toLowerCase() === termObj.term.toLowerCase();
-      if (!hitFullName) return match.originalText; // trafiono w skrót — nie rozwijaj
+      if (!hitFullName) return match.originalText;
       return `${match.originalText} (${termObj.acronym})`;
     }
 
@@ -238,17 +223,12 @@ function remarkGlossarySdc({
       const displayText = resolveDisplayText(match, text, seenTerms);
       seenTerms.add(match.termObj.term);
 
-      // Buduj atrybuty komponentu GlossaryTerm.
-      // Przekazujemy wszystkie pola SDC — komponent (swizzled lub oryginalny)
-      // sam decyduje co z nimi zrobi. Pola których oficjalny plugin nie zna
-      // są po prostu ignorowane przez oryginalny komponent.
       const attributes = [
         { type: 'mdxJsxAttribute', name: 'term',       value: match.termObj.term },
         { type: 'mdxJsxAttribute', name: 'definition', value: match.termObj.definition || '' },
         { type: 'mdxJsxAttribute', name: 'routePath',  value: routePath },
       ];
 
-      // [Issue #shortDef] shortDefinition — krótka definicja do dymków
       if (typeof match.termObj.shortDefinition === 'string') {
         attributes.push({
           type: 'mdxJsxAttribute',
@@ -257,7 +237,6 @@ function remarkGlossarySdc({
         });
       }
 
-      // [Issue #refs] definitionType — typ definicji (legal, normative, sdc, ...)
       if (typeof match.termObj.definitionType === 'string') {
         attributes.push({
           type: 'mdxJsxAttribute',
@@ -266,7 +245,6 @@ function remarkGlossarySdc({
         });
       }
 
-      // [Issue #refs] references — tablica źródeł [{label, url}] serializowana jako JSON
       if (Array.isArray(match.termObj.references) && match.termObj.references.length) {
         attributes.push({
           type: 'mdxJsxAttribute',
@@ -275,7 +253,6 @@ function remarkGlossarySdc({
         });
       }
 
-      // [Issue #164] acronym — przekazujemy do komponentu (może pokazać w dymku)
       if (typeof match.termObj.acronym === 'string') {
         attributes.push({
           type: 'mdxJsxAttribute',

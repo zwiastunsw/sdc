@@ -166,10 +166,10 @@ export default function GlossaryTerm({
   }, [abbreviation, pluginTerm, term]);
 
   // ── routePath i termId ─────────────────────────────────────────────────────
-  const effectiveRoutePath = useMemo(() => {
-    if (routePath?.trim()) return routePath.trim();
-    return pluginData?.routePath ?? '/glossary';
-  }, [pluginData, routePath]);
+  // Hardkod tymczasowy: plugin wstrzykuje swój routePath przez remark, ale
+  // nasza strona słownika jest pod /slownik. Usunąć gdy generatePage: false
+  // wejdzie do paczki i napiszemy własną stronę (wtedy routePath z konfigu).
+  const effectiveRoutePath = '/slownik';
 
   const effectiveTermId = useMemo(() => {
     if (id?.trim()) return id.trim();
@@ -234,7 +234,6 @@ export default function GlossaryTerm({
             {term}
             {acronym && ` (${acronym})`}
             {!acronym && effectiveAbbreviation && ` (${effectiveAbbreviation})`}
-            {definitionType && <DefinitionTypeBadge type={definitionType} />}
           </strong>
           {' '}
           {effectiveTooltipDefinition}
