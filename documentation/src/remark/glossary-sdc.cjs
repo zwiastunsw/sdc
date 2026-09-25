@@ -10,13 +10,17 @@
  *
  * Funkcje ponad oryginał:
  *
- *   [Issue #?]  linkOnlyFirstOccurrence  — linkuj tylko pierwsze wystąpienie
- *   [Issue #164] acronym                 — pole skrótu przy pełnej nazwie jako haśle kanonicznym
+ *   @link https://github.com/mcclowes/docusaurus-plugin-glossary/issues/129
+ *               linkOnlyFirstOccurrence  — linkuj tylko pierwsze wystąpienie
+ *   @link https://github.com/mcclowes/docusaurus-plugin-glossary/issues/164
+ *               acronym                  — pole skrótu przy pełnej nazwie jako haśle kanonicznym
  *               expandAcronymsOnFirstUse rozumie "acronym" tak samo jak "abbreviation"
  *               ale w odwrotnym kierunku: "Pełna Nazwa (SKR)" zamiast "SKR (Pełna Nazwa)"
- *   [Issue #?]  shortDefinition          — krótka definicja do dymków (przekazywana do komponentu)
- *   [Issue #?]  definitionType           — typ definicji (przekazywany do komponentu)
- *   [Issue #?]  references               — źródła definicji (przekazywane do komponentu)
+ *   @link https://github.com/mcclowes/docusaurus-plugin-glossary/issues/162
+ *               shortDefinition          — krótka definicja do dymków (przekazywana do komponentu)
+ *   @link https://github.com/mcclowes/docusaurus-plugin-glossary/issues/163
+ *               definitionType           — typ definicji (przekazywany do komponentu)
+ *               references               — źródła definicji (przekazywane do komponentu)
  *
  * Umieść jako: src/remark/glossary-sdc.cjs
  *
@@ -86,12 +90,12 @@ function remarkGlossarySdc({
 
   // --- funcje z oficjalnego pluginu ---
   expandAcronymsOnFirstUse = false,  // rozwiń skrót przy pierwszym wystąpieniu
-  linkOnlyFirstOccurrence = false,   // [Issue #linkOnly] linkuj tylko pierwsze wystąpienie
+  linkOnlyFirstOccurrence = false,   // @link https://github.com/mcclowes/docusaurus-plugin-glossary/issues/129
 
   // --- funkcje lokalne SDC (do wyrzucenia gdy wejdą do oficjalnego pluginu) ---
-  // [Issue #164] obsługa pola `acronym` — pełna nazwa jako hasło kanoniczne, skrót jako pole
-  // [Issue #shortDef] shortDefinition przekazywane do komponentu GlossaryTerm
-  // [Issue #refs] definitionType i references przekazywane do komponentu GlossaryTerm
+  // @link https://github.com/mcclowes/docusaurus-plugin-glossary/issues/164 — obsługa pola `acronym`
+  // @link https://github.com/mcclowes/docusaurus-plugin-glossary/issues/162 — shortDefinition przekazywane do GlossaryTerm
+  // @link https://github.com/mcclowes/docusaurus-plugin-glossary/issues/163 — definitionType i references przekazywane do GlossaryTerm
 } = {}) {
 
   // ── wczytaj terminy z JSON (z cache) ──────────────────────────────────────
@@ -142,7 +146,7 @@ function remarkGlossarySdc({
     register(termObj.term);
     if (Array.isArray(termObj.aliases)) termObj.aliases.forEach(register);
 
-    // [Issue #164] pole acronym: rejestruj skrót jako dodatkową frazę do linkowania
+    // @link https://github.com/mcclowes/docusaurus-plugin-glossary/issues/164 — pole acronym: rejestruj skrót jako dodatkową frazę do linkowania
     if (typeof termObj.acronym === 'string' && termObj.acronym.trim()) {
       register(termObj.acronym);
     }
@@ -169,7 +173,7 @@ function remarkGlossarySdc({
       return `${termObj.abbreviation} (${match.originalText})`;
     }
 
-    // Model B: acronym (Issue #164)
+    // Model B: acronym (@link https://github.com/mcclowes/docusaurus-plugin-glossary/issues/164)
     if (termObj.acronym) {
       const hitFullName =
         match.originalText.toLowerCase() === termObj.term.toLowerCase();
