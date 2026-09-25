@@ -201,7 +201,7 @@
         "bariera dostępności cyfrowej",
         "wymaganie dostępności",
         "zgodność",
-        "system zapewniania dostępności cyfrowej (SZDC)"
+        "systemowe zapewniania dostępności cyfrowej"
       ],
       "references": [
         {
@@ -221,7 +221,7 @@
         "bariera",
         "wymaganie dostępności",
         "zgodność",
-        "system zapewniania dostępności cyfrowej (SZDC)"
+        "systemowe zapewniania dostępności cyfrowej"
       ]
     },
     {
@@ -268,7 +268,7 @@
     },
     {
       "term": "decyzja",
-      "definition": "Rozstrzygnięcie podejmowane na podstawie informacji utrzymywanych przez SZDC. Decyzje prowadzą do działań wpływających na stan dostępności i zgodności lub na rozwój systemu zapewniania dostępności cyfrowej.",
+      "definition": "Rozstrzygnięcie podejmowane na podstawie informacji dotyczących dostępności cyfrowej i sposobu jej zapewniania. Decyzje prowadzą do działań wpływających na stan dostępności i zgodności lub na doskonalenie sposobu działania organizacji.",
       "definitionType": "sdc",
       "relatedTerms": [
         "organizacja",
@@ -381,7 +381,7 @@
         "bariera dostępności cyfrowej",
         "wymaganie dostępności",
         "zgodność",
-        "system zapewniania dostępności cyfrowej (SZDC)"
+        "systemowe zapewniania dostępności cyfrowej"
       ],
       "references": [
         {
@@ -401,7 +401,7 @@
         "bariera dostępności cyfrowej",
         "wymaganie dostępności",
         "zgodność",
-        "system zapewniania dostępności cyfrowej (SZDC)"
+        "systemowe zapewniania dostępności cyfrowej"
       ],
       "references": [
         {
@@ -435,7 +435,7 @@
     },
     {
       "term": "działanie",
-      "definition": "Zaplanowana czynność realizowana w odpowiedzi na podjętą decyzję. Działania mogą prowadzić do usunięcia problemów, ograniczenia ryzyka, poprawy dostępności lub doskonalenia SZDC.",
+      "definition": "Zaplanowana czynność realizowana w odpowiedzi na podjętą decyzję. Działania mogą prowadzić do usunięcia problemów, ograniczenia ryzyka, poprawy dostępności lub doskonalenia systemowego zapewniania dostępności cyfrowej.",
       "definitionType": "sdc",
       "relatedTerms": [
         "organizacja",
@@ -1459,7 +1459,7 @@
     },
     {
       "term": "problem",
-      "definition": "Udokumentowana sytuacja wymagająca podjęcia działań. Problem może dotyczyć zarówno stanu dostępności i zgodności zasobów, jak i sposobu funkcjonowania SZDC.",
+      "definition": "Udokumentowana sytuacja wymagająca podjęcia działań. Problem może dotyczyć zarówno stanu dostępności i zgodności zasobów, jak i sposobu działania organizacji wpływającego na zapewnianie dostępności cyfrowej.",
       "definitionType": "sdc",
       "relatedTerms": [
         "organizacja",
@@ -1657,7 +1657,7 @@
     },
     {
       "term": "rejestr",
-      "definition": "Centralnie utrzymywany zbiór powiązanych informacji wykorzystywany przez SZDC. Rejestr jest stale aktualizowany i stanowi podstawowe źródło informacji wykorzystywane przez procesy, raporty oraz publikacje.",
+      "definition": "Uporządkowany i aktualizowany zbiór powiązanych informacji wykorzystywanych w zapewnianiu dostępności cyfrowej. Rejestr stanowi źródło informacji wykorzystywanych w procesach, raportowaniu i publikowaniu informacji.",
       "definitionType": "sdc",
       "relatedTerms": [
         "organizacja",
@@ -1809,7 +1809,7 @@
     },
     {
       "term": "stan",
-      "definition": "Aktualny, udokumentowany opis określonego obiektu w danym momencie. W SZDC pojęcie stanu odnosi się przede wszystkim do stanu dostępności i zgodności zasobów oraz stanu systemu zapewniania dostępności cyfrowej.",
+      "definition": "Aktualny, udokumentowany opis określonego obiektu w danym momencie. W zapewnianiu dostępności cyfrowej pojęcie stanu odnosi się przede wszystkim do stanu dostępności i zgodności zasobów oraz do sposobu funkcjonowania organizacji w obszarach wpływających na zapewnianie dostępności cyfrowej.",
       "definitionType": "sdc",
       "relatedTerms": [
         "organizacja",
@@ -1902,12 +1902,9 @@
       ]
     },
     {
-      "term": "systemowe zapewnianie dostępności cyfrowej (SZDC)",
+      "term": "systemowe zapewnianie dostępności cyfrowej",
       "definition": "Sposób działania organizacji, w którym role, odpowiedzialności, procesy, zasoby i mechanizmy oceny są wzajemnie powiązane i skoordynowane, tak aby organizacja trwale zapewniała dostępność cyfrową.",
       "definitionType": "sdc",
-      "aliases": [
-        "SZDC"
-      ],
       "relatedTerms": [
         "dostępność",
         "dostępność cyfrowa",
@@ -1920,7 +1917,7 @@
     },
     {
       "term": "środek wspierający",
-      "definition": "Narzędzie, procedura, wzór, instrukcja, standard, rejestr lub inny element wspomagający stosowanie zalecenia albo funkcjonowanie SZDC.",
+      "definition": "Narzędzie, procedura, wzór, instrukcja, standard, rejestr lub inny element wspomagający stosowanie zalecenia albo działanie organizacji w zakresie dostępności cyfrowej.",
       "definitionType": "sdc",
       "relatedTerms": [
         "organizacja",
@@ -2328,7 +2325,7 @@
     },
     {
       "term": "wskaźnik",
-      "definition": "Miara opisująca wybrany aspekt funkcjonowania SZDC. Wskaźniki służą monitorowaniu zmian, ocenie skuteczności działań oraz wspieraniu decyzji kierownictwa.",
+      "definition": "Miara opisująca wybrany aspekt sposobu działania organizacji lub osiąganych rezultatów związanych z zapewnianiem dostępności cyfrowej. Wskaźniki służą obserwowaniu zmian, ocenie skuteczności działania oraz wspieraniu podejmowania decyzji.",
       "definitionType": "sdc",
       "relatedTerms": [
         "organizacja",
@@ -2387,7 +2384,7 @@
         "bariera",
         "bariera dostępności cyfrowej",
         "zgodność",
-        "system zapewniania dostępności cyfrowej (SZDC)"
+        "systemowe zapewnianie dostępności cyfrowej"
       ]
     },
     {
@@ -2469,7 +2466,7 @@
         "bariera dostępności cyfrowej",
         "wymaganie dostępności",
         "zgodność",
-        "system zapewniania dostępności cyfrowej (SZDC)"
+        "systemowe zapewnianie dostępności cyfrowej"
       ]
     },
     {
@@ -2535,7 +2532,7 @@
     },
     {
       "term": "zgodność",
-      "definition": "Stopień spełnienia określonych wymagań dotyczących dostępności cyfrowej. Ocena zgodności jest jednym ze źródeł informacji wykorzystywanych przez SZDC, lecz nie wyczerpuje wiedzy o rzeczywistej dostępności.",
+      "definition": "Stopień spełnienia określonych wymagań dotyczących dostępności cyfrowej. Ocena zgodności jest jednym ze źródeł informacji wykorzystywanych w zapewnianiu dostępności cyfrowej, lecz nie wyczerpuje wiedzy o rzeczywistej dostępności.",
       "definitionType": "sdc",
       "relatedTerms": [
         "dostępność",
@@ -2544,7 +2541,7 @@
         "bariera",
         "bariera dostępności cyfrowej",
         "wymaganie dostępności",
-        "system zapewniania dostępności cyfrowej (SZDC)"
+        "systemowe zapewniania dostępności cyfrowej"
       ]
     },
     {
