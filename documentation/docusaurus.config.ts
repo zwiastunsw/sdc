@@ -8,25 +8,18 @@ import remarkMermaidStatic from '@barrierenlos/docusaurus-prerender-mermaid/rema
 
 import { createRequire } from 'module';
 
-// Lokalny plugin z rozszerzeniami SDC — zastępuje getRemarkPlugin z paczki.
-// W miarę jak kolejne funkcje będą wchodzić do oficjalnego pluginu,
-// ten plik można zastąpić z powrotem przez getRemarkPlugin.
-//
-// Śledzenie co jeszcze lokalnie:
-//   linkOnlyFirstOccurrence — czeka na release (jest już na master pluginu)
-//   acronym                 — Issue mcclowes/docusaurus-plugin-glossary#164
-//   shortDefinition         — Issue mcclowes/docusaurus-plugin-glossary#?
-//   definitionType          — Issue mcclowes/docusaurus-plugin-glossary#?
-//   references              — Issue mcclowes/docusaurus-plugin-glossary#?
+// Zamiast getRemarkPlugin z paczki — nasz plugin z linkOnlyFirstOccurrence
+// Używamy createRequire bo jiti na Windows nie obsługuje dynamic import .mjs
 const _require = createRequire(__filename);
 const remarkGlossarySdc = _require('./src/remark/glossary-sdc.cjs');
-
+const glossaryPageOverride = _require('./src/plugins/glossary-page-override.cjs');
+const baseUrl = process.env.BASE_URL || '/sdc/';
 const glossaryOptions = {
     glossaryPath: 'slownik/slownik.json',
     routePath: '/sdc/slownik',
-    siteDir: __dirname,
+  siteDir: __dirname,
     expandAcronymsOnFirstUse: false,
-    linkOnlyFirstOccurrence: true,
+    linkOnlyFirstOccurrence: true,   // ← tylko pierwsze wystąpienie na plik
 };
 
 const glossaryRemarkPlugin = [remarkGlossarySdc, glossaryOptions] as const;
@@ -54,6 +47,8 @@ const config: Config = {
         },
     },
 
+
+
     future: {
         v4: false,
     },
@@ -66,6 +61,10 @@ const config: Config = {
     // =====================================
 
     plugins: [
+
+        // Podmienia GlossaryPage z pluginu na naszą wersję (NormalModuleReplacementPlugin)
+        glossaryPageOverride,
+
         [
             '@barrierenlos/docusaurus-prerender-mermaid',
             {
@@ -189,6 +188,7 @@ const config: Config = {
                     ],
                 },
 
+
                 {
                     label: 'Generatory',
                     position: 'left',
@@ -196,6 +196,7 @@ const config: Config = {
                         { label: 'Generator zaleceń', href: 'https://siec-dostepnosci-cyfrowej.github.io/generatory/generator-zalecen/' },
                         { label: 'Generator opisów praktyk', href: 'https://siec-dostepnosci-cyfrowej.github.io/generatory/generator-dobrej-praktyki/' },
                         { label: 'Word na Markdown', href: 'https://siec-dostepnosci-cyfrowej.github.io/generatory/generator-docx-markdown/' },
+
                     ],
                 },
                 { href: 'https://siec-dostepnosci-cyfrowej.github.io/sdc/slownik', label: 'Słownik', position: 'left' },
@@ -207,6 +208,7 @@ const config: Config = {
                     label: 'GitHub',
                     className: 'header-github-link',
                     'aria-label': 'Repozytorium Sieci Dostępności Cyfrowej w serwisie GitHub',
+
                 },
             ],
         },

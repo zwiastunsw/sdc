@@ -6,7 +6,6 @@ import React, {
   useId,
   useMemo,
 } from 'react';
-import { usePluginData } from '@docusaurus/useGlobalData';
 import Link from '@docusaurus/Link';
 import styles from './styles.module.css';
 
@@ -21,7 +20,6 @@ interface GlossaryTermProps {
   term: string;
   definition?: string;
   shortDefinition?: string;
-  definitionType?: string;
   references?: string; // JSON: Reference[]
   acronym?: string;
   abbreviation?: string;
@@ -31,52 +29,17 @@ interface GlossaryTermProps {
   children?: React.ReactNode;
 }
 
-// ─── badge dla definitionType ──────────────────────────────────────────────────
-
-const DEFINITION_TYPE_LABELS: Record<string, string> = {
-  legal:     'Prawna',
-  normative: 'Normatywna',
-  official:  'Oficjalna',
-  industry:  'Branżowa',
-  sdc:       'SDC',
-};
-
-function DefinitionTypeBadge({ type }: { type: string }) {
-  const label = DEFINITION_TYPE_LABELS[type] ?? type;
-  return (
-    <span
-      style={{
-        display: 'inline-block',
-        fontSize: '0.65em',
-        fontWeight: 600,
-        lineHeight: 1,
-        padding: '2px 6px',
-        borderRadius: 3,
-        marginLeft: 6,
-        verticalAlign: 'middle',
-        background: 'var(--ifm-color-primary-lightest, #e8f4fd)',
-        color: 'var(--ifm-color-primary-darkest, #1a3a5c)',
-        border: '1px solid var(--ifm-color-primary-light, #a8d4f5)',
-        whiteSpace: 'nowrap',
-      }}
-    >
-      {label}
-    </span>
-  );
-}
-
 // ─── główny komponent ──────────────────────────────────────────────────────────
 
 export default function GlossaryTerm({
   term,
   definition,
   shortDefinition,
-  definitionType,
   references: referencesJson,
   acronym,
   abbreviation,
   id,
-  routePath = '/glossary',
+  routePath = '/slownik',
   documentationPath,
   children,
 }: GlossaryTermProps) {
@@ -134,55 +97,26 @@ export default function GlossaryTerm({
     };
   }, [showTooltip, updatePosition]);
 
-  // ── dane z pluginu ─────────────────────────────────────────────────────────
-  const pluginData = usePluginData('docusaurus-plugin-glossary') as
-    | { terms?: Array<Record<string, unknown>>; routePath?: string }
-    | undefined;
-
-  const pluginTerm = useMemo(() => {
-    const terms = pluginData?.terms ?? [];
-    return terms.find(
-      (t) =>
-        typeof t.term === 'string' &&
-        t.term.toLowerCase() === String(term).toLowerCase(),
-    );
-  }, [pluginData, term]);
-
-  // ── efektywna definicja (shortDefinition priorytetowo) ────────────────────
-  const effectiveTooltipDefinition = useMemo(() => {
+  // ── definicja do dymku (shortDefinition priorytetowo) ─────────────────────
+  const tooltipDefinition = useMemo(() => {
     if (shortDefinition?.trim()) return shortDefinition.trim();
     if (definition?.trim()) return definition.trim();
-    const found = pluginTerm?.definition;
-    return typeof found === 'string' ? found : undefined;
-  }, [shortDefinition, definition, pluginTerm]);
+    return undefined;
+  }, [shortDefinition, definition]);
 
-  // ── abbreviation (model oryginalny) ───────────────────────────────────────
+  // ── skrót (nie pokazuj jeśli taki sam jak term) ───────────────────────────
   const effectiveAbbreviation = useMemo(() => {
-    const value = abbreviation ?? (pluginTerm?.abbreviation as string | undefined);
-    if (typeof value !== 'string') return undefined;
-    const trimmed = value.trim();
-    if (!trimmed || trimmed.toLowerCase() === String(term).toLowerCase()) return undefined;
+    if (typeof abbreviation !== 'string') return undefined;
+    const trimmed = abbreviation.trim();
+    if (!trimmed || trimmed.toLowerCase() === term.toLowerCase()) return undefined;
     return trimmed;
-  }, [abbreviation, pluginTerm, term]);
+  }, [abbreviation, term]);
 
-  // ── routePath i termId ─────────────────────────────────────────────────────
-  // Hardkod tymczasowy: plugin wstrzykuje swój routePath przez remark, ale
-  // nasza strona słownika jest pod /slownik. Usunąć gdy generatePage: false
-  // wejdzie do paczki i napiszemy własną stronę (wtedy routePath z konfigu).
-  const effectiveRoutePath = '/slownik';
-
-  const effectiveTermId = useMemo(() => {
-    if (id?.trim()) return id.trim();
-    const found = pluginTerm?.id;
-    if (typeof found === 'string') return found;
-    return term.toLowerCase().replace(/\s+/g, '-');
-  }, [id, pluginTerm, term]);
-
-  const effectiveDocumentationPath = useMemo(() => {
-    if (documentationPath) return documentationPath;
-    const doc = (pluginTerm?.documentation as { path?: string } | undefined);
-    return doc?.path;
-  }, [documentationPath, pluginTerm]);
+  // ── id hasła do anchor linka ───────────────────────────────────────────────
+  const termId = useMemo(
+    () => id?.trim() || term.toLowerCase().replace(/\s+/g, '-'),
+    [id, term],
+  );
 
   // ── referencje ────────────────────────────────────────────────────────────
   const references = useMemo<Reference[]>(() => {
@@ -202,16 +136,16 @@ export default function GlossaryTerm({
       onMouseLeave={() => setShowTooltip(false)}
     >
       <Link
-        to={effectiveDocumentationPath ?? `${effectiveRoutePath}#${effectiveTermId}`}
+        to={documentationPath ?? `${routePath}#${termId}`}
         className={styles.glossaryTerm}
         onFocus={() => setShowTooltip(true)}
         onBlur={() => setShowTooltip(false)}
-        aria-describedby={effectiveTooltipDefinition ? tooltipId : undefined}
+        aria-describedby={tooltipDefinition ? tooltipId : undefined}
       >
         {displayText}
       </Link>
 
-      {effectiveTooltipDefinition && (
+      {tooltipDefinition && (
         <span
           ref={tooltipRef}
           id={tooltipId}
@@ -236,7 +170,7 @@ export default function GlossaryTerm({
             {!acronym && effectiveAbbreviation && ` (${effectiveAbbreviation})`}
           </strong>
           {' '}
-          {effectiveTooltipDefinition}
+          {tooltipDefinition}
 
           {references.length > 0 && (
             <span

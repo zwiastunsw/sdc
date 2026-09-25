@@ -1,33 +1,13 @@
 import React, { useState, useMemo } from 'react';
 import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
-import styles from './styles.module.css';
-// ─── typy (lokalne, żeby nie zależeć od haszowanych nazw paczki) ──────────────
+import styles from './GlossaryPage.module.css';
+import type { GlossaryData, GlossaryTerm } from 'docusaurus-plugin-glossary';
 
-interface GlossaryReference {
-  label: string;
-  url: string;
-}
-
-interface GlossaryDocumentation {
-  path: string;
-  label?: string;
-}
-
-interface GlossaryTerm {
-  term: string;
-  definition: string;
-  abbreviation?: string;
+// definitionType jest naszym polem — nie ma go w typach pluginu
+interface SdcGlossaryTerm extends GlossaryTerm {
   definitionType?: string;
-  relatedTerms?: string[];
-  id?: string;
-  autoLink?: boolean;
-  aliases?: string[];
-  references?: GlossaryReference[];
-  documentation?: GlossaryDocumentation;
 }
-
-// ─── badge dla definitionType ──────────────────────────────────────────────────
 
 const DEFINITION_TYPE_LABELS: Record<string, string> = {
   legal:     'Prawna',
@@ -37,64 +17,23 @@ const DEFINITION_TYPE_LABELS: Record<string, string> = {
   sdc:       'SDC',
 };
 
-function DefinitionTypeBadge({ type }: { type: string }) {
-  const label = DEFINITION_TYPE_LABELS[type] ?? type;
-  return (
-    <span
-      style={{
-        display: 'inline-block',
-        fontSize: '0.65em',
-        fontWeight: 600,
-        lineHeight: 1,
-        padding: '2px 6px',
-        borderRadius: 3,
-        marginLeft: 6,
-        verticalAlign: 'middle',
-        background: 'var(--ifm-color-primary-lightest, #e8f4fd)',
-        color: 'var(--ifm-color-primary-darkest, #1a3a5c)',
-        border: '1px solid var(--ifm-color-primary-light, #a8d4f5)',
-        whiteSpace: 'nowrap',
-      }}
-    >
-      {label}
-    </span>
-  );
-}
-
-interface GlossaryData {
-  terms: GlossaryTerm[];
-  title?: string;
-  description?: string;
-}
-
-/**
- * Groups glossary terms by their first letter
- */
-function groupTermsByLetter(terms: GlossaryTerm[]): Record<string, GlossaryTerm[]> {
-  const grouped: Record<string, GlossaryTerm[]> = {};
-
+function groupTermsByLetter(terms: SdcGlossaryTerm[]): Record<string, SdcGlossaryTerm[]> {
+  const grouped: Record<string, SdcGlossaryTerm[]> = {};
   terms.forEach(term => {
     const firstLetter = term.term.charAt(0).toUpperCase();
-    if (!grouped[firstLetter]) {
-      grouped[firstLetter] = [];
-    }
+    if (!grouped[firstLetter]) grouped[firstLetter] = [];
     grouped[firstLetter].push(term);
   });
-
   Object.keys(grouped).forEach(letter => {
     grouped[letter].sort((a, b) => a.term.localeCompare(b.term, 'pl'));
   });
-
   return grouped;
 }
 
-/**
- * GlossaryPage – swizzlowany komponent ze spolszczonymi tekstami UI
- */
 export default function GlossaryPage({ glossaryData }: { glossaryData?: GlossaryData | null }) {
   const [searchTerm, setSearchTerm] = useState('');
 
-  const terms = useMemo(() => glossaryData?.terms || [], [glossaryData?.terms]);
+  const terms = useMemo(() => (glossaryData?.terms || []) as SdcGlossaryTerm[], [glossaryData?.terms]);
   const termIds = useMemo(
     () =>
       new Map(
@@ -108,7 +47,6 @@ export default function GlossaryPage({ glossaryData }: { glossaryData?: Glossary
 
   const filteredTerms = useMemo(() => {
     if (!searchTerm) return terms;
-
     const lowerSearch = searchTerm.toLowerCase();
     return terms.filter(term => {
       const haystack = [
@@ -117,7 +55,7 @@ export default function GlossaryPage({ glossaryData }: { glossaryData?: Glossary
         term.abbreviation,
         term.documentation?.label,
         ...(term.aliases || []),
-        ...(term.references || []).map(reference => reference.label),
+        ...(term.references || []).map(r => r.label),
       ]
         .filter(Boolean)
         .join(' ')
@@ -127,7 +65,7 @@ export default function GlossaryPage({ glossaryData }: { glossaryData?: Glossary
   }, [terms, searchTerm]);
 
   const groupedTerms = useMemo(() => groupTermsByLetter(filteredTerms), [filteredTerms]);
-  const letters = Object.keys(groupedTerms).sort();
+  const letters = Object.keys(groupedTerms).sort((a, b) => a.localeCompare(b, 'pl'));
 
   const glossaryTitle = glossaryData?.title || 'Słownik';
 
@@ -139,7 +77,6 @@ export default function GlossaryPage({ glossaryData }: { glossaryData?: Glossary
           <p className={styles.glossaryDescription}>
             {glossaryData?.description || 'Zbiór pojęć i ich definicji'}
           </p>
-
           <div className={styles.searchContainer}>
             <input
               type="text"
@@ -181,7 +118,9 @@ export default function GlossaryPage({ glossaryData }: { glossaryData?: Glossary
                           <span className={styles.abbreviation}> ({term.abbreviation})</span>
                         )}
                         {term.definitionType && (
-                          <DefinitionTypeBadge type={term.definitionType} />
+                          <span className={styles.definitionTypeBadge}>
+                            {DEFINITION_TYPE_LABELS[term.definitionType] ?? term.definitionType}
+                          </span>
                         )}
                       </dt>
                       <dd className={styles.termDefinition}>
@@ -206,7 +145,7 @@ export default function GlossaryPage({ glossaryData }: { glossaryData?: Glossary
                         )}
                         {term.relatedTerms && term.relatedTerms.length > 0 && (
                           <div className={styles.relatedTerms}>
-                            <strong>Powiązane pojęcia:</strong>{' '}
+                            <strong>Pojęcia powiązane:</strong>{' '}
                             {term.relatedTerms.map((related, idx) => (
                               <React.Fragment key={idx}>
                                 {idx > 0 && ', '}
@@ -229,7 +168,7 @@ export default function GlossaryPage({ glossaryData }: { glossaryData?: Glossary
         )}
 
         <footer className={styles.glossaryFooter}>
-          <p>Liczba pojęć: {terms.length}</p>
+          <p>Łączna liczba pojęć: {terms.length}</p>
         </footer>
       </div>
     </Layout>
