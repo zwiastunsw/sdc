@@ -46,7 +46,7 @@ Funkcja koordynacyjna służy w szczególności:
 
 Bieżącą realizację zadań koordynacyjnych organizacja powierza koordynatorowi dostępności cyfrowej albo osobie pełniącej równoważną funkcję.
 
-W średnich i dużych organizacjach bieżąca koordynacja wykonywana przez koordynatora jest powiązana z kolegialną koordynacją działań prowadzoną przez stałe gremium reprezentujące różne obszary zarządzania.
+W średnich i dużych organizacjach bieżąca koordynacja wykonywana przez koordynatora jest powiązana z pracą stałego gremium reprezentującego różne obszary zarządzania i wspólnie uzgadniającego działania.
 
 ### 3.3. Umocowanie funkcji koordynacyjnej
 
