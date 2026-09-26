@@ -11,7 +11,8 @@ import { createRequire } from 'module';
 // Zamiast getRemarkPlugin z paczki — nasz plugin z linkOnlyFirstOccurrence
 // Używamy createRequire bo jiti na Windows nie obsługuje dynamic import .mjs
 const _require = createRequire(__filename);
-const remarkGlossaryFirstOccurrence = _require('./src/remark/glossary-first-occurrence.cjs');
+const remarkGlossarySdc = _require('./src/remark/glossary-sdc.cjs');
+const glossaryPageOverride = _require('./src/plugins/glossary-page-override.cjs');
 const baseUrl = process.env.BASE_URL || '/sdc/';
 const glossaryOptions = {
     glossaryPath: 'slownik/slownik.json',
@@ -21,7 +22,7 @@ const glossaryOptions = {
     linkOnlyFirstOccurrence: true,   // ← tylko pierwsze wystąpienie na plik
 };
 
-const glossaryRemarkPlugin = [remarkGlossaryFirstOccurrence, glossaryOptions] as const;
+const glossaryRemarkPlugin = [remarkGlossarySdc, glossaryOptions] as const;
 
 // ==============================
 //  KONFIGURACJA GŁÓWNA SIECI
@@ -60,6 +61,9 @@ const config: Config = {
     // =====================================
 
     plugins: [
+
+        // Podmienia GlossaryPage z pluginu na naszą wersję (NormalModuleReplacementPlugin)
+        glossaryPageOverride,
 
         [
             '@barrierenlos/docusaurus-prerender-mermaid',

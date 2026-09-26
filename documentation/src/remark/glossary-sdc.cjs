@@ -1,13 +1,33 @@
 'use strict';
 
 /**
- * glossary-first-occurrence.cjs
+ * glossary-sdc.cjs
  *
- * Wersja CommonJS (dla Windows + jiti używanego przez Docusaurus).
- * Umieść jako: src/remark/glossary-first-occurrence.cjs
+ * Lokalny remark plugin — rozszerzenie docusaurus-plugin-glossary o funkcje
+ * zgłoszone jako issues/PR. W miarę jak autor będzie mergował kolejne funkcje
+ * do oficjalnego pluginu, odpowiednie bloki można wyrzucić i wrócić do
+ * getRemarkPlugin z paczki.
  *
- * Różnica względem oryginału z docusaurus-plugin-glossary:
- *   linkOnlyFirstOccurrence: true  → każdy termin linkowany tylko raz na plik.
+ * Funkcje ponad oryginał:
+ *
+ *   @link https://github.com/mcclowes/docusaurus-plugin-glossary/issues/129
+ *               linkOnlyFirstOccurrence  — linkuj tylko pierwsze wystąpienie
+ *   @link https://github.com/mcclowes/docusaurus-plugin-glossary/issues/164
+ *               acronym                  — pole skrótu przy pełnej nazwie jako haśle kanonicznym
+ *               expandAcronymsOnFirstUse rozumie "acronym" tak samo jak "abbreviation"
+ *               ale w odwrotnym kierunku: "Pełna Nazwa (SKR)" zamiast "SKR (Pełna Nazwa)"
+ *   @link https://github.com/mcclowes/docusaurus-plugin-glossary/issues/162
+ *               shortDefinition          — krótka definicja do dymków (przekazywana do komponentu)
+ *   @link https://github.com/mcclowes/docusaurus-plugin-glossary/issues/163
+ *               definitionType           — typ definicji (przekazywany do komponentu)
+ *               references               — źródła definicji (przekazywane do komponentu)
+ *
+ * Umieść jako: src/remark/glossary-sdc.cjs
+ *
+ * W docusaurus.config.ts:
+ *   const _require = createRequire(__filename);
+ *   const remarkGlossarySdc = _require('./src/remark/glossary-sdc.cjs');
+ *   const glossaryRemarkPlugin = [remarkGlossarySdc, glossaryOptions] as const;
  */
 
 // Własna implementacja visit — eliminuje zależność ESM-only unist-util-visit
@@ -21,13 +41,14 @@ function visit(tree, type, visitor) {
       for (let i = 0; i < node.children.length; i++) {
         const result = walk(node.children[i], i, node);
         if (typeof result === 'number') {
-          i = result - 1; // visitor może zwrócić nowy index
+          i = result - 1;
         }
       }
     }
   }
   walk(tree, 0, null);
 }
+
 const path = require('path');
 const fs = require('fs');
 
@@ -52,25 +73,32 @@ function validateGlossaryTerms(data) {
     return { terms: [], errors };
   }
   const validTerms = data.terms.filter((t, i) => {
-    if (!t || typeof t !== 'object')              { errors.push(`terms[${i}]: not an object`);    return false; }
-    if (typeof t.term !== 'string' || !t.term.trim()) { errors.push(`terms[${i}]: missing "term"`); return false; }
-    if (typeof t.definition !== 'string')         { errors.push(`terms[${i}]: missing "definition"`); return false; }
+    if (!t || typeof t !== 'object')                   { errors.push(`terms[${i}]: not an object`);    return false; }
+    if (typeof t.term !== 'string' || !t.term.trim())  { errors.push(`terms[${i}]: missing "term"`);   return false; }
+    if (typeof t.definition !== 'string')               { errors.push(`terms[${i}]: missing "definition"`); return false; }
     return true;
   });
   return { terms: validTerms, errors };
 }
 
 // ─── główna funkcja ───────────────────────────────────────────────────────────
-function remarkGlossaryFirstOccurrence({
+function remarkGlossarySdc({
   terms = [],
   glossaryPath = null,
   routePath = '/glossary',
   siteDir = null,
-  expandAcronymsOnFirstUse = false,
-  linkOnlyFirstOccurrence = false,
+
+  // --- funcje z oficjalnego pluginu ---
+  expandAcronymsOnFirstUse = false,  // rozwiń skrót przy pierwszym wystąpieniu
+  linkOnlyFirstOccurrence = false,   // @link https://github.com/mcclowes/docusaurus-plugin-glossary/issues/129
+
+  // --- funkcje lokalne SDC (do wyrzucenia gdy wejdą do oficjalnego pluginu) ---
+  // @link https://github.com/mcclowes/docusaurus-plugin-glossary/issues/164 — obsługa pola `acronym`
+  // @link https://github.com/mcclowes/docusaurus-plugin-glossary/issues/162 — shortDefinition przekazywane do GlossaryTerm
+  // @link https://github.com/mcclowes/docusaurus-plugin-glossary/issues/163 — definitionType i references przekazywane do GlossaryTerm
 } = {}) {
 
-  // Wczytaj terminy z JSON (z cache)
+  // ── wczytaj terminy z JSON (z cache) ──────────────────────────────────────
   let glossaryTerms = terms;
   if (!glossaryTerms.length && glossaryPath && siteDir) {
     try {
@@ -84,71 +112,87 @@ function remarkGlossaryFirstOccurrence({
         let parsed;
         try { parsed = JSON.parse(raw); }
         catch (e) {
-          console.error(`[glossary-plugin] JSON parse error in ${glossaryPath}:`, e.message);
+          console.error(`[glossary-sdc] JSON parse error in ${glossaryPath}:`, e.message);
           glossaryCache.set(absPath, { terms: [], loadedAt: now });
           return (tree) => tree;
         }
         const { terms: valid, errors } = validateGlossaryTerms(parsed);
-        if (errors.length) errors.forEach(e => console.warn(`[glossary-plugin] ${e}`));
+        if (errors.length) errors.forEach(e => console.warn(`[glossary-sdc] ${e}`));
         glossaryTerms = valid;
         glossaryCache.set(absPath, { terms: valid, loadedAt: now });
         if (!cached && process.env.NODE_ENV !== 'production')
-          console.log(`[glossary-plugin] Loaded ${valid.length} terms from ${glossaryPath}`);
+          console.log(`[glossary-sdc] Loaded ${valid.length} terms from ${glossaryPath}`);
       } else {
         glossaryCache.set(absPath, { terms: [], loadedAt: now });
-        console.warn(`[glossary-plugin] File not found: ${glossaryPath}`);
+        console.warn(`[glossary-sdc] File not found: ${glossaryPath}`);
       }
     } catch (e) {
-      console.warn(`[glossary-plugin] Failed to load ${glossaryPath}:`, e.message);
+      console.warn(`[glossary-sdc] Failed to load ${glossaryPath}:`, e.message);
     }
   }
 
-  // Buduj mapę termin → dane
+  // ── buduj mapę termin → dane ───────────────────────────────────────────────
   const termMap = new Map();
   for (const termObj of glossaryTerms) {
     if (!termObj.term || termObj.autoLink === false) continue;
     const caseSensitive = termObj.caseSensitive === true;
+
     const register = (phrase) => {
       if (typeof phrase !== 'string' || !phrase.trim()) return;
       const key = phrase.toLowerCase();
       if (!termMap.has(key)) termMap.set(key, { termObj, phrase, caseSensitive });
     };
+
     register(termObj.term);
     if (Array.isArray(termObj.aliases)) termObj.aliases.forEach(register);
+
+    // @link https://github.com/mcclowes/docusaurus-plugin-glossary/issues/164 — pole acronym: rejestruj skrót jako dodatkową frazę do linkowania
+    if (typeof termObj.acronym === 'string' && termObj.acronym.trim()) {
+      register(termObj.acronym);
+    }
   }
+
   const sortedTerms = Array.from(termMap.entries()).sort((a, b) => b[0].length - a[0].length);
   if (!sortedTerms.length) return (tree) => tree;
 
-  // ── helpers ──────────────────────────────────────────────────────────────
-
+  // ── resolveDisplayText ─────────────────────────────────────────────────────
   function resolveDisplayText(match, text, seenTerms) {
     const { termObj } = match;
     if (!expandAcronymsOnFirstUse) return match.originalText;
-    if (!termObj.abbreviation)     return match.originalText;
     if (seenTerms.has(termObj.term)) return match.originalText;
-    const isCanonical =
-      match.length === termObj.term.length &&
-      match.originalText.toLowerCase() === termObj.term.toLowerCase();
-    if (!isCanonical) return match.originalText;
-    const lookback = text
-      .substring(Math.max(0, match.index - termObj.abbreviation.length - 10), match.index)
-      .toLowerCase();
-    if (lookback.includes(termObj.abbreviation.toLowerCase())) return match.originalText;
-    return `${termObj.abbreviation} (${match.originalText})`;
+
+    // Model A: abbreviation (oryginalne zachowanie pluginu)
+    if (termObj.abbreviation) {
+      const isCanonical =
+        match.originalText.toLowerCase() === termObj.term.toLowerCase();
+      if (!isCanonical) return match.originalText;
+      const lookback = text
+        .substring(Math.max(0, match.index - termObj.abbreviation.length - 10), match.index)
+        .toLowerCase();
+      if (lookback.includes(termObj.abbreviation.toLowerCase())) return match.originalText;
+      return `${termObj.abbreviation} (${match.originalText})`;
+    }
+
+    // Model B: acronym (@link https://github.com/mcclowes/docusaurus-plugin-glossary/issues/164)
+    if (termObj.acronym) {
+      const hitFullName =
+        match.originalText.toLowerCase() === termObj.term.toLowerCase();
+      if (!hitFullName) return match.originalText;
+      return `${match.originalText} (${termObj.acronym})`;
+    }
+
+    return match.originalText;
   }
 
+  // ── replaceTermsInText ─────────────────────────────────────────────────────
   function replaceTermsInText(text, seenTerms) {
     if (!text) return [{ type: 'text', value: text }];
 
     const matches = [];
 
-    for (const [lowerPhrase, { termObj, phrase, caseSensitive }] of sortedTerms) {
+    for (const [, { termObj, phrase, caseSensitive }] of sortedTerms) {
       if (linkOnlyFirstOccurrence && seenTerms.has(termObj.term)) continue;
 
-      // Dokładne dopasowanie całego wyrażenia z Unicode word boundary.
-      // (?<!\p{L}|\p{N}) — przed terminem nie może być litera/cyfra Unicode
-      // (?!\p{L}|\p{N})  — po terminie nie może być litera/cyfra Unicode
-      // Dzięki temu "post" NIE trafi w "postęp", "posterunek" itp.
       const escaped = phrase.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
       const flags   = caseSensitive ? 'gu' : 'giu';
       const regex   = new RegExp(`(?<!\\p{L}|\\p{N})${escaped}(?!\\p{L}|\\p{N})`, flags);
@@ -165,7 +209,6 @@ function remarkGlossaryFirstOccurrence({
       }
     }
 
-    // Usuń nakładające się dopasowania
     matches.sort((a, b) => a.index - b.index);
     const picked = [];
     let lastEnd = 0;
@@ -184,14 +227,48 @@ function remarkGlossaryFirstOccurrence({
       const displayText = resolveDisplayText(match, text, seenTerms);
       seenTerms.add(match.termObj.term);
 
+      const attributes = [
+        { type: 'mdxJsxAttribute', name: 'term',       value: match.termObj.term },
+        { type: 'mdxJsxAttribute', name: 'definition', value: match.termObj.definition || '' },
+        { type: 'mdxJsxAttribute', name: 'routePath',  value: routePath },
+      ];
+
+      if (typeof match.termObj.shortDefinition === 'string') {
+        attributes.push({
+          type: 'mdxJsxAttribute',
+          name: 'shortDefinition',
+          value: match.termObj.shortDefinition,
+        });
+      }
+
+      if (typeof match.termObj.definitionType === 'string') {
+        attributes.push({
+          type: 'mdxJsxAttribute',
+          name: 'definitionType',
+          value: match.termObj.definitionType,
+        });
+      }
+
+      if (Array.isArray(match.termObj.references) && match.termObj.references.length) {
+        attributes.push({
+          type: 'mdxJsxAttribute',
+          name: 'references',
+          value: JSON.stringify(match.termObj.references),
+        });
+      }
+
+      if (typeof match.termObj.acronym === 'string') {
+        attributes.push({
+          type: 'mdxJsxAttribute',
+          name: 'acronym',
+          value: match.termObj.acronym,
+        });
+      }
+
       result.push({
         type: 'mdxJsxFlowElement',
         name: 'GlossaryTerm',
-        attributes: [
-          { type: 'mdxJsxAttribute', name: 'term',       value: match.termObj.term },
-          { type: 'mdxJsxAttribute', name: 'definition', value: match.termObj.definition || '' },
-          { type: 'mdxJsxAttribute', name: 'routePath',  value: routePath },
-        ],
+        attributes,
         children: [{ type: 'text', value: displayText }],
       });
       cursor = match.index + match.length;
@@ -211,7 +288,7 @@ function remarkGlossaryFirstOccurrence({
       visit(h, 'text', (t) => headingTextNodes.add(t));
     });
 
-    const seenTerms = new Set(); // scope: jeden plik
+    const seenTerms = new Set();
 
     visit(tree, 'text', (node, index, parent) => {
       if (
@@ -277,5 +354,5 @@ function remarkGlossaryFirstOccurrence({
   };
 }
 
-module.exports = remarkGlossaryFirstOccurrence;
+module.exports = remarkGlossarySdc;
 module.exports.clearGlossaryCache = clearGlossaryCache;
