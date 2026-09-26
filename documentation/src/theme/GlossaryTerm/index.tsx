@@ -11,18 +11,13 @@ import styles from './styles.module.css';
 
 // ─── typy ─────────────────────────────────────────────────────────────────────
 
-interface Reference {
-  label: string;
-  url?: string;
-}
-
 interface GlossaryTermProps {
   term: string;
   definition?: string;
   shortDefinition?: string;
-  references?: string; // JSON: Reference[]
-  acronym?: string;
-  abbreviation?: string;
+  references?: string; // JSON: Reference[] — przekazywane przez remark, niewyświetlane w dymku (WCAG: tooltip pasywny)
+  acronym?: string;    // przekazywane przez remark, niewyświetlane w dymku
+  definitionType?: string; // przekazywane przez remark, niewyświetlane w dymku
   id?: string;
   routePath?: string;
   documentationPath?: string;
@@ -35,9 +30,9 @@ export default function GlossaryTerm({
   term,
   definition,
   shortDefinition,
-  references: referencesJson,
-  acronym,
-  abbreviation,
+  references: _references,   // przekazywane przez remark, nieużywane w dymku
+  acronym: _acronym,         // przekazywane przez remark, nieużywane w dymku
+  definitionType: _definitionType, // przekazywane przez remark, nieużywane w dymku
   id,
   routePath = '/slownik',
   documentationPath,
@@ -116,26 +111,11 @@ export default function GlossaryTerm({
     return undefined;
   }, [shortDefinition, definition]);
 
-  // ── skrót (nie pokazuj jeśli taki sam jak term) ───────────────────────────
-  const effectiveAbbreviation = useMemo(() => {
-    if (typeof abbreviation !== 'string') return undefined;
-    const trimmed = abbreviation.trim();
-    if (!trimmed || trimmed.toLowerCase() === term.toLowerCase()) return undefined;
-    return trimmed;
-  }, [abbreviation, term]);
-
   // ── id hasła do anchor linka ───────────────────────────────────────────────
   const termId = useMemo(
     () => id?.trim() || term.toLowerCase().replace(/\s+/g, '-'),
     [id, term],
   );
-
-  // ── referencje (tylko etykiety — bez linków w tooltipie) ─────────────────
-  const references = useMemo<Reference[]>(() => {
-    if (!referencesJson) return [];
-    try { return JSON.parse(referencesJson) as Reference[]; }
-    catch { return []; }
-  }, [referencesJson]);
 
   // ── render ─────────────────────────────────────────────────────────────────
   const displayText = children ?? term;

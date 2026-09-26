@@ -7,6 +7,7 @@ import type { GlossaryData, GlossaryTerm } from 'docusaurus-plugin-glossary';
 // definitionType jest naszym polem — nie ma go w typach pluginu
 interface SdcGlossaryTerm extends GlossaryTerm {
   definitionType?: string;
+  acronym?: string; // pole SDC — skrót przy pełnej nazwie (nie `abbreviation` z pluginu)
 }
 
 const DEFINITION_TYPE_LABELS: Record<string, string> = {
@@ -118,8 +119,8 @@ export default function GlossaryPage({ glossaryData }: { glossaryData?: Glossary
                     >
                       <dt className={styles.termName}>
                         {term.term}
-                        {term.abbreviation && (
-                          <span className={styles.abbreviation}> ({term.abbreviation})</span>
+                        {(term.acronym || term.abbreviation) && (
+                          <span className={styles.abbreviation}> ({term.acronym || term.abbreviation})</span>
                         )}
                         {term.definitionType && (
                           <span className={styles.definitionTypeBadge}>
