@@ -14,7 +14,7 @@ wersja_robocza: true
 
 ## 1. Cel zalecenia
 
-Celem zalecenia jest kształtowanie kultury organizacyjnej, w której zapewnianie dostępności cyfrowej stanowi naturalny element sposobu działania organizacji, angażuje wszystkich pracowników oraz jest jednym z kryteriów oceny jakości informacji, usług i rozwiązań cyfrowych.
+Celem zalecenia jest przeciwdziałanie traktowaniu dostępności cyfrowej jako zagadnienia odrębnego od zwykłego sposobu działania organizacji oraz sytuacji, w której przyjęte zasady i wymagania nie znajdują odzwierciedlenia w codziennych postawach, decyzjach i działaniach pracowników i kierownictwa.
 
 
 ---
