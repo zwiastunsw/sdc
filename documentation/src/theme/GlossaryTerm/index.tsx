@@ -25,7 +25,7 @@ interface GlossaryTermProps {
 }
 
 // ─── główny komponent ──────────────────────────────────────────────────────────
-// Wzorzec „tooltip-popover" (por. sitelint.com): definicja pokazywana TYLKO po
+// Wzorzec „tooltip-popover": definicja pokazywana TYLKO po
 // jawnym kliknięciu przycisku, nie na hover/focus. Dzięki temu:
 //  - WCAG 1.4.13 (Content on Hover or Focus) nie ma zastosowania — brak treści
 //    wywoływanej hoverem/focusem,
