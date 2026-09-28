@@ -25,6 +25,12 @@ interface GlossaryTermProps {
 }
 
 // ─── główny komponent ──────────────────────────────────────────────────────────
+// Wzorzec „tooltip-popover" (por. sitelint.com): definicja pokazywana TYLKO po
+// jawnym kliknięciu przycisku, nie na hover/focus. Dzięki temu:
+//  - WCAG 1.4.13 (Content on Hover or Focus) nie ma zastosowania — brak treści
+//    wywoływanej hoverem/focusem,
+//  - tap na link jest przewidywalny (nawigacja do hasła w słowniku), a dymek ma
+//    własny, czytelnie opisany przycisk (WCAG 2.5.3 Label in Name, 3.2.1 On Focus).
 
 export default function GlossaryTerm({
   term,
@@ -42,13 +48,14 @@ export default function GlossaryTerm({
   const [tooltipStyle, setTooltipStyle] = useState<{ top: number; left: number } | null>(null);
   const [placement, setPlacement] = useState<'top' | 'bottom'>('top');
   const wrapperRef = useRef<HTMLSpanElement>(null);
+  const anchorRef = useRef<HTMLElement>(null);
   const tooltipRef = useRef<HTMLSpanElement>(null);
   const tooltipId = useId();
 
   // ── pozycjonowanie dymku ───────────────────────────────────────────────────
   const updatePosition = useCallback(() => {
-    if (!wrapperRef.current || !tooltipRef.current) return;
-    const wrapperRect = wrapperRef.current.getBoundingClientRect();
+    if (!anchorRef.current || !tooltipRef.current) return;
+    const anchorRect = anchorRef.current.getBoundingClientRect();
     const tooltipRect = tooltipRef.current.getBoundingClientRect();
     const viewportWidth = window.innerWidth;
     const viewportHeight = window.innerHeight;
@@ -57,15 +64,15 @@ export default function GlossaryTerm({
     const topBoundary = stickyHeader
       ? Math.max(0, stickyHeader.getBoundingClientRect().bottom)
       : 0;
-    const hasSpaceAbove = wrapperRect.top - topBoundary >= tooltipRect.height + preferredGap;
-    const hasSpaceBelow = viewportHeight - wrapperRect.bottom >= tooltipRect.height + preferredGap;
+    const hasSpaceAbove = anchorRect.top - topBoundary >= tooltipRect.height + preferredGap;
+    const hasSpaceBelow = viewportHeight - anchorRect.bottom >= tooltipRect.height + preferredGap;
     const nextPlacement = hasSpaceAbove || !hasSpaceBelow ? 'top' : 'bottom';
     let top =
       nextPlacement === 'top'
-        ? wrapperRect.top - tooltipRect.height - preferredGap
-        : wrapperRect.bottom + preferredGap;
+        ? anchorRect.top - tooltipRect.height - preferredGap
+        : anchorRect.bottom + preferredGap;
     const horizontalMargin = 8;
-    let left = wrapperRect.left + wrapperRect.width / 2 - tooltipRect.width / 2;
+    let left = anchorRect.left + anchorRect.width / 2 - tooltipRect.width / 2;
     left = Math.max(
       horizontalMargin,
       Math.min(left, viewportWidth - tooltipRect.width - horizontalMargin),
@@ -92,16 +99,28 @@ export default function GlossaryTerm({
     };
   }, [showTooltip, updatePosition]);
 
-  // ── obsługa klawisza Escape (WCAG 1.4.13) ────────────────────────────────
+  // ── dismiss: Escape, kliknięcie/tap poza wrapperem, zejście focusem ───────
   useEffect(() => {
     if (!showTooltip) return;
     const onKeyDown = (e: KeyboardEvent) => {
-      if (e.key === 'Escape') {
+      if (e.key === 'Escape') setShowTooltip(false);
+    };
+    const onPointerDown = (e: PointerEvent) => {
+      if (!wrapperRef.current?.contains(e.target as Node)) setShowTooltip(false);
+    };
+    const onFocusOut = (e: FocusEvent) => {
+      if (!wrapperRef.current?.contains(e.relatedTarget as Node | null)) {
         setShowTooltip(false);
       }
     };
     document.addEventListener('keydown', onKeyDown);
-    return () => document.removeEventListener('keydown', onKeyDown);
+    document.addEventListener('pointerdown', onPointerDown);
+    wrapperRef.current?.addEventListener('focusout', onFocusOut);
+    return () => {
+      document.removeEventListener('keydown', onKeyDown);
+      document.removeEventListener('pointerdown', onPointerDown);
+      wrapperRef.current?.removeEventListener('focusout', onFocusOut);
+    };
   }, [showTooltip]);
 
   // ── definicja do dymku (shortDefinition priorytetowo) ─────────────────────
@@ -119,50 +138,53 @@ export default function GlossaryTerm({
 
   // ── render ─────────────────────────────────────────────────────────────────
   const displayText = children ?? term;
+  const labelText = typeof displayText === 'string' ? displayText : term;
 
   return (
-    <span
-      ref={wrapperRef}
-      className={styles.glossaryTermWrapper}
-      onMouseEnter={() => setShowTooltip(true)}
-      onMouseLeave={() => setShowTooltip(false)}
-    >
+    <span ref={wrapperRef} className={styles.glossaryTermWrapper}>
       <Link
         to={documentationPath ?? `${routePath}#${termId}`}
         className={styles.glossaryTerm}
-        onFocus={() => setShowTooltip(true)}
-        onBlur={(e) => {
-          // WCAG 1.4.13: zamknij tooltip tylko gdy focus opuszcza cały wrapper
-          if (!wrapperRef.current?.contains(e.relatedTarget as Node)) {
-            setShowTooltip(false);
-          }
-        }}
-        aria-describedby={tooltipDefinition ? tooltipId : undefined}
       >
         {displayText}
       </Link>
 
       {tooltipDefinition && (
-        <span
-          ref={tooltipRef}
-          id={tooltipId}
-          role="tooltip"
-          className={[
-            styles.tooltip,
-            showTooltip ? styles.tooltipVisible : '',
-            placement === 'top' ? styles.tooltipTop : styles.tooltipBottom,
-            styles.tooltipFloating,
-          ]
-            .filter(Boolean)
-            .join(' ')}
-          style={
-            showTooltip && tooltipStyle
-              ? { top: `${tooltipStyle.top}px`, left: `${tooltipStyle.left}px` }
-              : undefined
-          }
-        >
-          {tooltipDefinition}
-        </span>
+        <>
+          <button
+            type="button"
+            ref={anchorRef as React.RefObject<HTMLButtonElement>}
+            className={styles.infoButton}
+            aria-expanded={showTooltip}
+            aria-controls={tooltipId}
+            aria-describedby={showTooltip ? tooltipId : undefined}
+            aria-label={`Pokaż definicję: ${labelText}`}
+            onClick={() => setShowTooltip((v) => !v)}
+          >
+            <span aria-hidden="true" className={styles.infoIcon}>ⓘ</span>
+          </button>
+
+          <span
+            ref={tooltipRef}
+            id={tooltipId}
+            role="tooltip"
+            className={[
+              styles.tooltip,
+              showTooltip ? styles.tooltipVisible : '',
+              placement === 'top' ? styles.tooltipTop : styles.tooltipBottom,
+              styles.tooltipFloating,
+            ]
+              .filter(Boolean)
+              .join(' ')}
+            style={
+              showTooltip && tooltipStyle
+                ? { top: `${tooltipStyle.top}px`, left: `${tooltipStyle.left}px` }
+                : undefined
+            }
+          >
+            {tooltipDefinition}
+          </span>
+        </>
       )}
     </span>
   );
