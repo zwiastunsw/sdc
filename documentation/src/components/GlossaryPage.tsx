@@ -10,6 +10,13 @@ interface SdcGlossaryTerm extends GlossaryTerm {
   acronym?: string; // pole SDC — skrót przy pełnej nazwie (nie `abbreviation` z pluginu)
 }
 
+// ─── stałe ────────────────────────────────────────────────────────────────────
+
+const DEFAULT_TITLE = 'Słownik';
+const DEFAULT_DESCRIPTION = 'Zbiór pojęć i ich definicji';
+const LOCALE_PL = 'pl';
+const SEARCH_INPUT_ID = 'glossary-search';
+
 const DEFINITION_TYPE_LABELS: Record<string, string> = {
   legal:     'Prawna',
   normative: 'Normatywna',
@@ -18,57 +25,77 @@ const DEFINITION_TYPE_LABELS: Record<string, string> = {
   sdc:       'SDC',
 };
 
+// ─── helpers ──────────────────────────────────────────────────────────────────
+
 function groupTermsByLetter(terms: SdcGlossaryTerm[]): Record<string, SdcGlossaryTerm[]> {
   const grouped: Record<string, SdcGlossaryTerm[]> = {};
-  terms.forEach(term => {
+
+  for (const term of terms) {
     const firstLetter = term.term.charAt(0).toUpperCase();
-    if (!grouped[firstLetter]) grouped[firstLetter] = [];
+
+    if (grouped[firstLetter] === undefined) {
+      grouped[firstLetter] = [];
+    }
+
     grouped[firstLetter].push(term);
-  });
-  Object.keys(grouped).forEach(letter => {
-    grouped[letter].sort((a, b) => a.term.localeCompare(b.term, 'pl'));
-  });
+  }
+
+  for (const letter of Object.keys(grouped)) {
+    grouped[letter].sort((a, b) => a.term.localeCompare(b.term, LOCALE_PL));
+  }
+
   return grouped;
 }
+
+// ─── główny komponent ──────────────────────────────────────────────────────────
 
 export default function GlossaryPage({ glossaryData }: { glossaryData?: GlossaryData | null }) {
   const [searchTerm, setSearchTerm] = useState('');
 
-  const terms = useMemo(() => (glossaryData?.terms || []) as SdcGlossaryTerm[], [glossaryData?.terms]);
+  const terms = useMemo(
+    () => (glossaryData?.terms ?? []) as SdcGlossaryTerm[],
+    [glossaryData?.terms],
+  );
+
   const termIds = useMemo(
     () =>
       new Map(
         terms.map(term => [
           term.term.toLowerCase(),
-          term.id || term.term.toLowerCase().replace(/\s+/g, '-'),
-        ])
+          term.id ?? term.term.toLowerCase().replace(/\s+/g, '-'),
+        ]),
       ),
-    [terms]
+    [terms],
   );
 
   const filteredTerms = useMemo(() => {
-    if (!searchTerm) return terms;
+    if (searchTerm === '') {
+      return terms;
+    }
+
     const lowerSearch = searchTerm.toLowerCase();
+
     return terms.filter(term => {
       const haystack = [
         term.term,
         term.definition,
         term.abbreviation,
         term.documentation?.label,
-        ...(term.aliases || []),
-        ...(term.references || []).map(r => r.label),
+        ...(term.aliases ?? []),
+        ...(term.references ?? []).map(r => r.label),
       ]
         .filter(Boolean)
         .join(' ')
         .toLowerCase();
+
       return haystack.includes(lowerSearch);
     });
   }, [terms, searchTerm]);
 
   const groupedTerms = useMemo(() => groupTermsByLetter(filteredTerms), [filteredTerms]);
-  const letters = Object.keys(groupedTerms).sort((a, b) => a.localeCompare(b, 'pl'));
+  const letters = Object.keys(groupedTerms).sort((a, b) => a.localeCompare(b, LOCALE_PL));
 
-  const glossaryTitle = glossaryData?.title || 'Słownik';
+  const glossaryTitle = glossaryData?.title ?? DEFAULT_TITLE;
 
   return (
     <Layout title={glossaryTitle} description="Słownik pojęć i definicji">
@@ -76,14 +103,14 @@ export default function GlossaryPage({ glossaryData }: { glossaryData?: Glossary
         <header className={styles.glossaryHeader}>
           <h1>{glossaryTitle}</h1>
           <p className={styles.glossaryDescription}>
-            {glossaryData?.description || 'Zbiór pojęć i ich definicji'}
+            {glossaryData?.description ?? DEFAULT_DESCRIPTION}
           </p>
           <div className={styles.searchContainer}>
-            <label htmlFor="glossary-search" className={styles.searchLabel}>
+            <label htmlFor={SEARCH_INPUT_ID} className={styles.searchLabel}>
               Szukaj pojęć
             </label>
             <input
-              id="glossary-search"
+              id={SEARCH_INPUT_ID}
               type="search"
               placeholder="np. dostępność cyfrowa"
               className={styles.searchInput}
@@ -115,14 +142,14 @@ export default function GlossaryPage({ glossaryData }: { glossaryData?: Glossary
                     <div
                       key={`${letter}-${index}`}
                       className={styles.termItem}
-                      id={term.id || term.term.toLowerCase().replace(/\s+/g, '-')}
+                      id={term.id ?? term.term.toLowerCase().replace(/\s+/g, '-')}
                     >
                       <dt className={styles.termName}>
                         {term.term}
-                        {(term.acronym || term.abbreviation) && (
-                          <span className={styles.abbreviation}> ({term.acronym || term.abbreviation})</span>
+                        {(term.acronym !== undefined || term.abbreviation !== undefined) && (
+                          <span className={styles.abbreviation}> ({term.acronym ?? term.abbreviation})</span>
                         )}
-                        {term.definitionType && (
+                        {term.definitionType !== undefined && (
                           <span className={styles.definitionTypeBadge}>
                             {DEFINITION_TYPE_LABELS[term.definitionType] ?? term.definitionType}
                           </span>
@@ -130,14 +157,14 @@ export default function GlossaryPage({ glossaryData }: { glossaryData?: Glossary
                       </dt>
                       <dd className={styles.termDefinition}>
                         {term.definition}
-                        {term.documentation && (
+                        {term.documentation !== undefined && (
                           <div className={styles.documentation}>
                             <Link to={term.documentation.path}>
-                              {term.documentation.label || 'Czytaj więcej'}
+                              {term.documentation.label ?? 'Czytaj więcej'}
                             </Link>
                           </div>
                         )}
-                        {term.references && term.references.length > 0 && (
+                        {term.references !== undefined && term.references.length > 0 && (
                           <div className={styles.references}>
                             <strong>Źródła:</strong>{' '}
                             {term.references.map((reference, idx) => (
@@ -148,14 +175,14 @@ export default function GlossaryPage({ glossaryData }: { glossaryData?: Glossary
                             ))}
                           </div>
                         )}
-                        {term.relatedTerms && term.relatedTerms.length > 0 && (
+                        {term.relatedTerms !== undefined && term.relatedTerms.length > 0 && (
                           <div className={styles.relatedTerms}>
                             <strong>Pojęcia powiązane:</strong>{' '}
                             {term.relatedTerms.map((related, idx) => (
                               <React.Fragment key={idx}>
                                 {idx > 0 && ', '}
                                 <a
-                                  href={`#${termIds.get(related.toLowerCase()) || related.toLowerCase().replace(/\s+/g, '-')}`}
+                                  href={`#${termIds.get(related.toLowerCase()) ?? related.toLowerCase().replace(/\s+/g, '-')}`}
                                 >
                                   {related}
                                 </a>
