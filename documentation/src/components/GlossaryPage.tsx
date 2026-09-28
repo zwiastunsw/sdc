@@ -146,10 +146,10 @@ export default function GlossaryPage({ glossaryData }: { glossaryData?: Glossary
                     >
                       <dt className={styles.termName}>
                         {term.term}
-                        {(term.acronym !== undefined || term.abbreviation !== undefined) && (
+                        {(typeof term.acronym === 'string' || typeof term.abbreviation === 'string') && (
                           <span className={styles.abbreviation}> ({term.acronym ?? term.abbreviation})</span>
                         )}
-                        {term.definitionType !== undefined && (
+                        {typeof term.definitionType === 'string' && (
                           <span className={styles.definitionTypeBadge}>
                             {DEFINITION_TYPE_LABELS[term.definitionType] ?? term.definitionType}
                           </span>
@@ -157,10 +157,10 @@ export default function GlossaryPage({ glossaryData }: { glossaryData?: Glossary
                       </dt>
                       <dd className={styles.termDefinition}>
                         {term.definition}
-                        {term.documentation !== undefined && (
+                        {typeof term.documentation === 'object' && term.documentation !== null && (
                           <div className={styles.documentation}>
                             <Link to={term.documentation.path}>
-                              {term.documentation.label ?? 'Czytaj więcej'}
+                              {typeof term.documentation.label === 'string' ? term.documentation.label : 'Czytaj więcej'}
                             </Link>
                           </div>
                         )}
