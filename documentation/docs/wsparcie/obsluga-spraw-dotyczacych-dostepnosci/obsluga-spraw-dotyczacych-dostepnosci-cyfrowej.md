@@ -80,7 +80,7 @@ Sposób obsługi umożliwia sprawne przekazywanie spraw wymagających wiedzy, de
 
 Organizacja obsługuje sprawy dotyczące dostępności cyfrowej bez zbędnej zwłoki oraz monitoruje terminy wynikające z przepisów i przyjętego sposobu obsługi.
 
-W przypadku żądania zapewnienia dostępności cyfrowej, w tym zapewnienia alternatywnego sposobu dostępu, organizacja realizuje żądanie bez zbędnej zwłoki, nie później niż w terminie 7 dni od dnia wystąpienia z żądaniem.
+W przypadku żądania zapewnienia dostępności cyfrowej organizacja realizuje żądanie bez zbędnej zwłoki, nie później niż w terminie 7 dni od dnia wystąpienia z żądaniem.
 
 Jeżeli zapewnienie dostępności cyfrowej albo alternatywnego sposobu dostępu w tym terminie nie jest możliwe, organizacja niezwłocznie informuje osobę występującą z żądaniem o przyczynach opóźnienia oraz wskazuje termin realizacji. Termin ten nie może być dłuższy niż 2 miesiące od dnia wystąpienia z żądaniem.
 
