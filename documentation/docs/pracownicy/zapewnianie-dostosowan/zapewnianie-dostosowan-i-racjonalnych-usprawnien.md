@@ -92,7 +92,7 @@ Organizacja określa zasady i terminy prowadzenia spraw w sposób umożliwiając
 
 ### 3.6. Rozwiązanie tymczasowe
 
-Jeżeli odpowiednie rozwiązanie docelowe nie może zostać zapewnione w czasie odpowiadającym potrzebie pracownika, organizacja rozważa zastosowanie rozwiązania tymczasowego ograniczającego skutki występującej bariery.
+Jeżeli odpowiednie rozwiązanie docelowe nie może zostać zapewnione w czasie odpowiadającym potrzebie pracownika, organizacja zapewnia, jeżeli jest to możliwe, rozwiązanie tymczasowe ograniczające skutki występującej bariery.
 
 Rozwiązanie tymczasowe powinno w możliwie największym stopniu umożliwiać pracownikowi wykonywanie pracy i uczestniczenie w procesach organizacji do czasu zapewnienia rozwiązania docelowego.
 
