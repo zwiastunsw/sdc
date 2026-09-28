@@ -66,7 +66,7 @@ Na podstawie oceny organizacja ustala:
 - jakie mogą być jej skutki dla możliwości zatrudnienia i wykonywania pracy;
 - czy organizacja może usunąć lub ograniczyć barierę oraz jakie działania są w tym celu możliwe.
 
-W ocenie warto wykorzystywać wiedzę i doświadczenie osób z niepełnosprawnościami oraz użytkowników technologii wspomagających. Ich udział uzupełnia ocenę techniczną i pomaga rozpoznawać bariery występujące podczas rzeczywistego wykonywania zadań.
+W ocenie organizacja uwzględnia wiedzę i doświadczenie osób z niepełnosprawnościami oraz użytkowników technologii wspomagających, odpowiednio do ocenianych rozwiązań i możliwych sposobów korzystania z nich. Jeżeli nie dysponuje takimi osobami wewnątrz organizacji, może korzystać ze wsparcia użytkowników zewnętrznych. Ich udział uzupełnia ocenę techniczną i pomaga rozpoznawać bariery występujące podczas rzeczywistego wykonywania zadań.
 
 ### 3.4. Priorytetyzacja problemów
 
