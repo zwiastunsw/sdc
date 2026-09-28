@@ -69,7 +69,7 @@ export default function GlossaryPage({ glossaryData }: { glossaryData?: Glossary
   );
 
   const filteredTerms = useMemo(() => {
-    if (searchTerm === '') {
+    if (searchTerm.length === 0) {
       return terms;
     }
 
