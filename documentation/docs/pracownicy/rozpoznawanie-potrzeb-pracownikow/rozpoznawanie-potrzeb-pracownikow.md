@@ -76,7 +76,7 @@ Potrzeby konkretnego pracownika są rozpoznawane z jego udziałem. Organizacja n
 
 Organizacja analizuje łącznie informacje pozyskiwane różnymi sposobami i w różnych częściach organizacji. Pozwala to rozpoznawać problemy, które w pojedynczych przypadkach mogą być postrzegane jako trudności konkretnego pracownika, lecz w rzeczywistości wynikają ze sposobu działania cyfrowego środowiska pracy.
 
-Informacje o indywidualnych potrzebach i zgłoszeniach są wykorzystywane do analiz zbiorczych z zachowaniem zasad poufności i ochrony danych.
+Informacje o indywidualnych potrzebach i zgłoszeniach są wykorzystywane do analiz zbiorczych wyłącznie w zakresie potrzebnym do ich celu, z zachowaniem zasad ochrony danych. Jeżeli cel analizy nie wymaga identyfikacji konkretnych osób, informacje są wykorzystywane w postaci zagregowanej lub zanonimizowanej.
 
 ### 3.6. Wykorzystywanie wyników
 
