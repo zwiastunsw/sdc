@@ -125,7 +125,7 @@ Przy wprowadzaniu zmian w cyfrowym środowisku pracy organizacja uwzględnia ist
 
 ### 3.9. Wykorzystywanie doświadczeń z indywidualnych spraw
 
-Informacje uzyskane podczas zapewniania indywidualnych dostosowań są wykorzystywane, z zachowaniem poufności i ochrony danych, do rozpoznawania powtarzających się potrzeb i barier w cyfrowym środowisku pracy.
+Informacje uzyskane podczas zapewniania indywidualnych dostosowań są wykorzystywane do rozpoznawania powtarzających się potrzeb i barier w cyfrowym środowisku pracy wyłącznie w zakresie potrzebnym do tego celu i z zachowaniem zasad ochrony danych. Jeżeli analiza nie wymaga identyfikacji konkretnych osób, informacje są wykorzystywane w postaci zagregowanej lub zanonimizowanej.
 
 Jeżeli indywidualna sprawa wskazuje na problem, który może dotyczyć również innych pracowników, organizacja rozważa zmianę rozwiązania cyfrowego, procesu lub sposobu organizacji pracy zamiast ograniczania działania do kolejnych indywidualnych dostosowań.
 
