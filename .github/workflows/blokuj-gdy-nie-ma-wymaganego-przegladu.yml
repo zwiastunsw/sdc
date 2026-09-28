@@ -22,6 +22,7 @@ jobs:
   require-one-review:
     runs-on: ubuntu-latest
     name: Check for required reviews
+    if: github.repository_owner == 'Siec-Dostepnosci-Cyfrowej'
 
     steps:
       - name: Check required reviews
