@@ -50,7 +50,7 @@ Dobór sposobu zapewnienia dostępu uwzględnia przede wszystkim możliwość sk
 
 Organizacja nie przenosi na użytkownika obowiązku samodzielnego poszukiwania sposobu obejścia występującej bariery. Jeżeli skorzystanie z informacji lub usługi wymaga zastosowania innego sposobu dostępu, organizacja wskazuje go i zapewnia możliwość skutecznego skorzystania z niego.
 
-Jeżeli usunięcie bariery lub przygotowanie dostępnego cyfrowo rozwiązania wymaga czasu, organizacja rozpatruje możliwość wcześniejszego zapewnienia użytkownikowi dostępu w inny skuteczny sposób.
+Jeżeli usunięcie bariery lub przygotowanie dostępnego cyfrowo rozwiązania wymaga czasu, organizacja zapewnia użytkownikowi w tym czasie dostęp w inny skuteczny sposób, jeżeli jest to możliwe i odpowiednie do jego sytuacji.
 
 ---
 
