@@ -108,7 +108,7 @@ Niezależnie od przyjętej częstotliwości ocena jest przeprowadzana lub odpowi
 - wdrożeniem lub istotną zmianą systemu informatycznego albo innego rozwiązania cyfrowego;
 - zmianą podstawowych narzędzi lub technologii wykorzystywanych przez pracowników;
 - zmianą sposobu organizacji pracy mającą wpływ na korzystanie z rozwiązań cyfrowych;
-- ujawnieniem wcześniej nierozpoznanej bariery.
+- ujawnieniem wcześniej nierozpoznanej bariery, w tym w związku ze zgłoszeniem potrzeby przez pracownika lub rozpoczęciem korzystania z rozwiązania w sposób, którego nie uwzględniono we wcześniejszej ocenie.
 
 ---
 
