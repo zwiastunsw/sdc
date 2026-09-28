@@ -43,7 +43,7 @@ Na tej podstawie określa cele i działania odpowiednie do swojej sytuacji. Moż
 - bariery występujące w procesach zatrudnienia i środowisku pracy;
 - możliwości zwiększenia udziału osób z niepełnosprawnościami w zatrudnieniu.
 
-Organizacja gromadzi wyłącznie informacje potrzebne do przeprowadzenia takiej analizy; nie wymaga od pracowników ujawniania informacji o niepełnosprawności, jeżeli nie jest to niezbędne do określonego celu.
+Organizacja wykorzystuje do analizy wyłącznie dane, które może zgodnie z prawem przetwarzać, i ogranicza ich zakres do niezbędnego minimum. Sama potrzeba przeprowadzenia analizy nie uzasadnia wymagania od pracowników ujawniania informacji o niepełnosprawności. Jeżeli cel analizy można osiągnąć bez danych pozwalających zidentyfikować konkretną osobę, organizacja wykorzystuje dane zagregowane lub zanonimizowane.
 
 ### 3.3. Aktywne pozyskiwanie kandydatów
 
