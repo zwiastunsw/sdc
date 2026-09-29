@@ -131,6 +131,8 @@ Identyfikator (`id`) musi być dokładnie taki sam, jak nazwa pliku bez rozszerz
 Następnie wpisz treść dokumentu:
 
 ```md
+# Stosowanie prostego języka w komunikacji organizacji
+
 ## 1. Cel zalecenia
 
 Celem zalecenia jest...
