@@ -9,9 +9,6 @@
 
  
 # Production deploy
-[context.production.environment]
-  NODE_ENV = "production"
- 
 # Preview deploys (Pull Requests)
 [context.deploy-preview]
   command = "npm ci && npm run build"
