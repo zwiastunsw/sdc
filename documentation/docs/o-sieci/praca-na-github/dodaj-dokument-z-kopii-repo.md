@@ -167,6 +167,8 @@ Przykład:
 
 ```Markdown
 
+# Stosowanie prostego języka w komunikacji organizacji
+
 ## 1. Cel zalecenia
 
 Celem zalecenia jest...

@@ -12,6 +12,8 @@ ostatnia_aktualizacja: 18 maja 2026 r.
 wersja_robocza: true
 ---
 
+# Poradnik wdrożeniowy — organizacja i wdrażanie procesów zapewniania dostępności cyfrowej
+
 ## 1. Cel poradnika
 
 Celem poradnika jest wsparcie organizacji publicznych we wdrażaniu systemowego podejścia do zapewniania dostępności cyfrowej.
@@ -30,9 +32,9 @@ Nie opisuje jednego obowiązkowego modelu organizacyjnego. Pokazuje sposób orga
 
 ---
 
-## 2. Dlaczego organizacja potrzebuje procesowego podejścia do dostępności
+# 2. Dlaczego organizacja potrzebuje procesowego podejścia do dostępności
 
-### 2.1. Dostępność jako element jakości usług publicznych
+## 2.1. Dostępność jako element jakości usług publicznych
 
 Współczesne usługi publiczne są realizowane z wykorzystaniem komponentów cyfrowych.
 
@@ -53,7 +55,7 @@ Staje się elementem jakości realizacji usług publicznych oraz zdolności orga
 
 ---
 
-### 2.2. Ograniczenia działań incydentalnych
+## 2.2. Ograniczenia działań incydentalnych
 
 W wielu organizacjach działania związane z dostępnością:
 
@@ -73,7 +75,7 @@ Powoduje to między innymi:
 
 ---
 
-### 2.3. Procesy jako sposób działania organizacji
+## 2.3. Procesy jako sposób działania organizacji
 
 Procesy:
 
@@ -90,9 +92,9 @@ Proces opisuje sposób działania organizacji w praktyce.
 
 ---
 
-## 3. Główne procesy systemu zapewniania dostępności cyfrowej
+# 3. Główne procesy systemu zapewniania dostępności cyfrowej
 
-### 3.1. Model procesowy
+## 3.1. Model procesowy
 
 Model referencyjny obejmuje osiem głównych procesów:
 
@@ -107,7 +109,7 @@ Model referencyjny obejmuje osiem głównych procesów:
 
 ---
 
-### 3.2. Centralna rola usług publicznych
+## 3.2. Centralna rola usług publicznych
 
 Centralnym elementem modelu jest proces:
 
@@ -127,7 +129,7 @@ W tym modelu dostępność cyfrowa jest traktowana jako element jakości realiza
 
 ---
 
-### 3.3. Procesy wspierające
+## 3.3. Procesy wspierające
 
 Pozostałe procesy wspierają realizację usług publicznych.
 
@@ -141,9 +143,9 @@ Przykładowo:
 
 ---
 
-## 4. Jak rozpocząć wdrażanie systemu
+# 4. Jak rozpocząć wdrażanie systemu
 
-### 4.1. Minimalny model wdrożeniowy
+## 4.1. Minimalny model wdrożeniowy
 
 Organizacja rozpoczynająca wdrożenie powinna:
 
@@ -156,11 +158,11 @@ Organizacja rozpoczynająca wdrożenie powinna:
 
 ---
 
-### 4.2. Wdrażanie etapowe
+## 4.2. Wdrażanie etapowe
 
 Wdrożenie powinno mieć charakter etapowy.
 
-#### Etap 1 — uporządkowanie działań
+### Etap 1 — uporządkowanie działań
 
 Organizacja:
 
@@ -168,7 +170,7 @@ Organizacja:
 - identyfikuje procesy,
 - wdraża podstawowe zasady działania.
 
-#### Etap 2 — integracja procesów
+### Etap 2 — integracja procesów
 
 Organizacja:
 
@@ -176,7 +178,7 @@ Organizacja:
 - wdraża monitoring,
 - rozwija kompetencje.
 
-#### Etap 3 — doskonalenie systemu
+### Etap 3 — doskonalenie systemu
 
 Organizacja:
 
@@ -187,17 +189,17 @@ Organizacja:
 
 ---
 
-## 5. Wdrażanie poszczególnych procesów
+# 5. Wdrażanie poszczególnych procesów
 
-### 5.1. Zarządzanie systemem dostępności cyfrowej
+# 5.1. Zarządzanie systemem dostępności cyfrowej
 
-### Cel procesu
+## Cel procesu
 
 Zapewnienie organizacyjnych warunków działania systemu dostępności.
 
 ---
 
-### Minimalne działania organizacji
+## Minimalne działania organizacji
 
 Organizacja:
 
@@ -209,7 +211,7 @@ Organizacja:
 
 ---
 
-### Typowe błędy
+## Typowe błędy
 
 - brak wsparcia kierownictwa,
 - brak właścicieli procesów,
@@ -218,15 +220,15 @@ Organizacja:
 
 ---
 
-### 5.2. Zarządzanie treściami i dokumentami cyfrowymi
+# 5.2. Zarządzanie treściami i dokumentami cyfrowymi
 
-### Cel procesu
+## Cel procesu
 
 Zapewnienie dostępności informacji publikowanych i udostępnianych cyfrowo.
 
 ---
 
-### Minimalne działania organizacji
+## Minimalne działania organizacji
 
 Organizacja:
 
@@ -238,7 +240,7 @@ Organizacja:
 
 ---
 
-### Typowe błędy
+## Typowe błędy
 
 - brak kontroli przed publikacją,
 - publikowanie niedostępnych dokumentów,
@@ -247,15 +249,15 @@ Organizacja:
 
 ---
 
-### 5.3. Projektowanie, rozwój i utrzymanie dostępnych usług publicznych
+# 5.3. Projektowanie, rozwój i utrzymanie dostępnych usług publicznych
 
-### Cel procesu
+## Cel procesu
 
 Zapewnienie dostępności usług publicznych realizowanych z wykorzystaniem komponentów cyfrowych.
 
 ---
 
-### Minimalne działania organizacji
+## Minimalne działania organizacji
 
 Organizacja:
 
@@ -267,7 +269,7 @@ Organizacja:
 
 ---
 
-### Typowe błędy
+## Typowe błędy
 
 - traktowanie dostępności wyłącznie jako problemu technicznego,
 - brak analizy doświadczeń użytkowników,
@@ -276,15 +278,15 @@ Organizacja:
 
 ---
 
-### 5.4. Zapewnianie dostępności systemów IT
+# 5.4. Zapewnianie dostępności systemów IT
 
-### Cel procesu
+## Cel procesu
 
 Zapewnienie dostępności systemów, środowisk publikacyjnych i narzędzi pracy.
 
 ---
 
-### Minimalne działania organizacji
+## Minimalne działania organizacji
 
 Organizacja:
 
@@ -296,7 +298,7 @@ Organizacja:
 
 ---
 
-### Typowe błędy
+## Typowe błędy
 
 - brak wymagań dostępności,
 - brak testów po zmianach,
@@ -305,15 +307,15 @@ Organizacja:
 
 ---
 
-### 5.5. Monitoring, kontrola i ocena dostępności
+# 5.5. Monitoring, kontrola i ocena dostępności
 
-### Cel procesu
+## Cel procesu
 
 Dostarczanie danych potrzebnych do oceny skuteczności działań i doskonalenia organizacji.
 
 ---
 
-### Minimalne działania organizacji
+## Minimalne działania organizacji
 
 Organizacja:
 
@@ -325,7 +327,7 @@ Organizacja:
 
 ---
 
-### Typowe błędy
+## Typowe błędy
 
 - utożsamianie monitorowania z audytem,
 - brak analizy przyczyn problemów,
@@ -334,15 +336,15 @@ Organizacja:
 
 ---
 
-### 5.6. Zamówienia i współpraca z wykonawcami
+# 5.6. Zamówienia i współpraca z wykonawcami
 
-### Cel procesu
+## Cel procesu
 
 Zapewnienie dostępności produktów i usług nabywanych przez organizację.
 
 ---
 
-### Minimalne działania organizacji
+## Minimalne działania organizacji
 
 Organizacja:
 
@@ -353,7 +355,7 @@ Organizacja:
 
 ---
 
-### Typowe błędy
+## Typowe błędy
 
 - brak wymagań dostępności,
 - brak testów odbiorowych,
@@ -362,15 +364,15 @@ Organizacja:
 
 ---
 
-### 5.7. Zarządzanie kompetencjami i wsparciem organizacyjnym
+# 5.7. Zarządzanie kompetencjami i wsparciem organizacyjnym
 
-### Cel procesu
+## Cel procesu
 
 Zapewnienie zdolności organizacji do skutecznego działania.
 
 ---
 
-### Minimalne działania organizacji
+## Minimalne działania organizacji
 
 Organizacja:
 
@@ -382,7 +384,7 @@ Organizacja:
 
 ---
 
-### Typowe błędy
+## Typowe błędy
 
 - utożsamienie rozwoju kompetencji wyłącznie ze szkoleniami,
 - brak wsparcia operacyjnego,
@@ -391,15 +393,15 @@ Organizacja:
 
 ---
 
-### 5.8. Doskonalenie systemu zapewniania dostępności cyfrowej
+# 5.8. Doskonalenie systemu zapewniania dostępności cyfrowej
 
-### Cel procesu
+## Cel procesu
 
 Zapewnienie ciągłego rozwoju organizacji.
 
 ---
 
-### Minimalne działania organizacji
+## Minimalne działania organizacji
 
 Organizacja:
 
@@ -411,7 +413,7 @@ Organizacja:
 
 ---
 
-### Typowe błędy
+## Typowe błędy
 
 - brak działań po monitoringu,
 - brak aktualizacji procesów,
@@ -420,9 +422,9 @@ Organizacja:
 
 ---
 
-## 6. Organizacja odpowiedzialności
+# 6. Organizacja odpowiedzialności
 
-### 6.1. Zasady organizacji odpowiedzialności
+## 6.1. Zasady organizacji odpowiedzialności
 
 Organizacja:
 
@@ -434,7 +436,7 @@ Organizacja:
 
 ---
 
-### 6.2. Koordynator ds. dostępności cyfrowej
+## 6.2. Koordynator ds. dostępności cyfrowej
 
 Koordynator ds. dostępności cyfrowej:
 
@@ -451,7 +453,7 @@ Koordynator:
 
 ---
 
-### 6.3. Właściciele usług publicznych
+## 6.3. Właściciele usług publicznych
 
 Właściciele usług odpowiadają za:
 
@@ -462,9 +464,9 @@ Właściciele usług odpowiadają za:
 
 ---
 
-## 7. Monitoring i rozwój dojrzałości organizacyjnej
+# 7. Monitoring i rozwój dojrzałości organizacyjnej
 
-### 7.1. Monitoring jako element zarządzania
+## 7.1. Monitoring jako element zarządzania
 
 Monitoring:
 
@@ -474,7 +476,7 @@ Monitoring:
 
 ---
 
-### 7.2. Ocena dojrzałości
+## 7.2. Ocena dojrzałości
 
 Ocena dojrzałości obejmuje między innymi:
 
@@ -487,27 +489,27 @@ Ocena dojrzałości obejmuje między innymi:
 
 ---
 
-### 7.3. Poziomy dojrzałości
+## 7.3. Poziomy dojrzałości
 
-#### Poziom 1 — początkowy
+### Poziom 1 — początkowy
 
 Działania incydentalne i reaktywne.
 
-#### Poziom 2 — porządkowania
+### Poziom 2 — porządkowania
 
 Pojawiają się pierwsze procesy i odpowiedzialności.
 
-#### Poziom 3 — integracji
+### Poziom 3 — integracji
 
 Dostępność jest elementem procesów organizacyjnych.
 
-#### Poziom 4 — dojrzałości
+### Poziom 4 — dojrzałości
 
 Dostępność jest trwałym elementem kultury organizacyjnej.
 
 ---
 
-## 8. Najczęstsze błędy wdrożeniowe
+# 8. Najczęstsze błędy wdrożeniowe
 
 - utożsamianie dostępności z IT,
 - utożsamianie dostępności z publikacją treści,
@@ -520,7 +522,7 @@ Dostępność jest trwałym elementem kultury organizacyjnej.
 
 ---
 
-## 9. Podsumowanie
+# 9. Podsumowanie
 
 Dostępność cyfrowa nie jest pojedynczym działaniem ani cechą strony internetowej.
 

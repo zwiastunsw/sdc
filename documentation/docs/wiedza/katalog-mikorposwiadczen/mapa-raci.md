@@ -12,6 +12,8 @@ ostatnia_aktualizacja: 19 kwietnia 2026 r.
 wersja_robocza: true
 ---
 
+# Mapa RACI dla systemu zapewniania dostępności cyfrowej
+
 ## 1. Oznaczenia
 
 - **R (Responsible)** – wykonuje zadanie  
