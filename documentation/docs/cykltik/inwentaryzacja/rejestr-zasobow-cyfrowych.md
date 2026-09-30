@@ -212,7 +212,7 @@ Przy ocenie znaczenia zasobu organizacja uwzględnia w szczególności:
 3. skutki niedostępności dla użytkowników;
 4. częstotliwość użycia;
 5. krytyczność procesu obsługiwanego przez zasób;
-6. charakter odbiorców, w tym potrzeby osób z niepełnosprawnościami;
+6. ryzyko wykluczenia użytkowników, w tym osób z niepełnosprawnościami, w przypadku niedostępności zasobu;
 7. widoczność publiczną zasobu;
 8. zależności między zasobem głównym i jego elementami;
 9. znane problemy dostępności i historię zgłoszeń;
