@@ -84,7 +84,7 @@ Organizacja rozpoznaje przyczyny utrudniające dalsze wykonywanie pracy i, odpow
 
 Organizacja tworzy warunki do wykorzystywania kompetencji, wiedzy i doświadczeń pracowników z niepełnosprawnościami w różnych obszarach swojej działalności, w tym w działaniach związanych z zapewnianiem dostępności cyfrowej.
 
-Pracownicy z niepełnosprawnościami mogą uczestniczyć między innymi w opiniowaniu i testowaniu rozwiązań cyfrowych, doskonaleniu procesów, ocenie warunków pracy oraz konsultowaniu działań dotyczących dostępności. Zaangażowanie to odpowiada ich kwalifikacjom, roli zawodowej i zakresowi odpowiedzialności.
+Pracownicy z niepełnosprawnościami, na równi z innymi, mogą uczestniczyć między innymi w opiniowaniu i testowaniu rozwiązań cyfrowych, doskonaleniu procesów, ocenie warunków pracy oraz konsultowaniu działań dotyczących dostępności. Zaangażowanie to odpowiada ich kwalifikacjom, roli zawodowej i zakresowi odpowiedzialności.
 
 Szczegółowe rozwiązania dotyczące takiego udziału określa zalecenie dotyczące angażowania pracowników z niepełnosprawnościami w zapewnianie dostępności cyfrowej.
 
