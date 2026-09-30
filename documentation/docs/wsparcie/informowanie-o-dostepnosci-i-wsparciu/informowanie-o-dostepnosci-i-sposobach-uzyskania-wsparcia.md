@@ -148,7 +148,7 @@ Informowanie o dostępności i możliwościach uzyskania wsparcia jest części�
 
 ## 6. Załączniki
 
-- [Projekt sekcji „Dostępność” w serwisie internetowym organizacji](projekt-sekcji-dostepnosc-w-serwisie)
+- [Projekt sekcji „Dostępność” w serwisie internetowym organizacji](projekt-sekcji-dostepnosc-w-serwisie.md)
 - [Mapa nawigacyjna sekcji „Dostępność”](mapa-nawigacyjna-sekcji-dostepnosc-w-serwisie)
 - [Lista kontrolna sekcji „Dostępność”](lista-kontrolna-sekcji-dostepnosc)
 - [Lista kontrolna sekcji „Dostępność” – ocena z perspektywy użytkownika](lista-kontrolna-perspektywa-uzytkownika)
