@@ -47,7 +47,7 @@ Może wykorzystywać w szczególności:
 - pytania o doświadczenia użytkownika po skorzystaniu z usługi;
 - konsultacje z użytkownikami i organizacjami reprezentującymi ich potrzeby;
 - spotkania, warsztaty i panele użytkowników;
-- nieformalne testy z udziałem użytkowników;
+- testy z udziałem użytkowników;
 - wspólne przeglądy rozwiązań z udziałem użytkowników i osób posiadających wiedzę specjalistyczną;
 - analizę opinii i komentarzy przekazywanych za pośrednictwem dostępnych kanałów komunikacji.
 
