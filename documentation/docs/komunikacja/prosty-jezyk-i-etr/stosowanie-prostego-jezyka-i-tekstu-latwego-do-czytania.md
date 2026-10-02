@@ -63,7 +63,13 @@ Organizacja określa role i odpowiedzialność związane ze stosowaniem prostego
 
 Odpowiedzialność jest powiązana z procesami tworzenia i udostępniania treści oraz z zadaniami osób uczestniczących w tych procesach.
 
-### 3.5. Standardy tworzenia treści
+### 3.5. Włączenie prostego języka i ETR do działania organizacji
+
+Organizacja włącza stosowanie prostego języka i ETR do właściwych procesów tworzenia i udostępniania treści, projektowania i realizacji usług oraz innych działań, w których sposób przekazywania informacji wpływa na możliwość korzystania z nich przez odbiorców.
+
+Zasady stosowania prostego języka i ETR uwzględnia w odpowiednich regulacjach, standardach i rozwiązaniach organizacyjnych dotyczących dostępności cyfrowej i komunikacji.
+
+### 3.6. Standardy tworzenia treści
 
 Organizacja określa zasady stosowania prostego języka oraz przygotowywania treści ETR albo przyjmuje i dostosowuje odpowiednie istniejące standardy.
 
