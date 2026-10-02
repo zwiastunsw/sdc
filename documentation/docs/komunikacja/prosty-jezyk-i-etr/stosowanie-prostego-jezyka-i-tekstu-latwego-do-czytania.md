@@ -122,7 +122,9 @@ Prosty język ułatwia szybkie i prawidłowe zrozumienie informacji, ogranicza r
 
 Tekst łatwy do czytania i zrozumienia (ETR) odpowiada na potrzeby osób, dla których treść napisana prostym językiem nadal może być zbyt trudna. Ułatwia im samodzielne korzystanie z informacji i podejmowanie decyzji na jej podstawie.
 
-Łączne stosowanie prostego języka i ETR tworzy system komunikacji inkluzywnej, który odpowiada na zróżnicowane potrzeby odbiorców i wspiera realizację zasady równego dostępu do informacji.
+Trwałe stosowanie prostego języka i ETR wymaga włączenia ich do zwykłego sposobu działania organizacji. Nie jest zadaniem wyłącznie osób wyspecjalizowanych w dostępności lub komunikacji. Odpowiedzialność za zrozumiałość treści jest związana z zadaniami osób uczestniczących w ich tworzeniu, weryfikowaniu, udostępnianiu i utrzymywaniu, a organizacja zapewnia im standardy, narzędzia, kompetencje i wsparcie potrzebne do wykonywania tych zadań.
+
+Łączne stosowanie prostego języka i ETR pozwala lepiej odpowiadać na zróżnicowane potrzeby odbiorców i ograniczać bariery wynikające z trudności w rozumieniu informacji.
 
 ---
 
