@@ -98,7 +98,7 @@ Wsparcie może obejmować w szczególności:
 
 Zakres wsparcia jest dostosowany do zadań wykonywanych przez poszczególne osoby oraz problemów występujących w praktyce.
 
-### 3.7. Sprawdzanie zrozumiałości treści
+### 3.8. Sprawdzanie zrozumiałości treści
 
 Organizacja sprawdza zrozumiałość treści odpowiednio do ich znaczenia, przeznaczenia i potrzeb odbiorców.
 
