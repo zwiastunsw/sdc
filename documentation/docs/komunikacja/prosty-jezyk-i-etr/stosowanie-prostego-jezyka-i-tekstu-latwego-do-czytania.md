@@ -87,7 +87,16 @@ Standardy mogą być uzupełniane przykładami prawidłowych rozwiązań, typowy
 
 Organizacja zapewnia osobom odpowiedzialnym za tworzenie i kontrolowanie treści kwalifikacje i wsparcie potrzebne do stosowania prostego języka oraz przygotowywania treści ETR odpowiednio do wykonywanych zadań.
 
-Udostępnia im odpowiednie materiały i narzędzia wspierające pracę, w szczególności poradniki, listy kontrolne, wzory i przykłady.
+Wsparcie może obejmować w szczególności:
+
+- poradniki i instrukcje;
+- listy kontrolne;
+- wzory i przykłady treści;
+- słowniki prostych sformułowań;
+- konsultacje i wsparcie osób posiadających odpowiednie kompetencje;
+- szkolenia i inne formy rozwijania kompetencji.
+
+Zakres wsparcia jest dostosowany do zadań wykonywanych przez poszczególne osoby oraz problemów występujących w praktyce.
 
 ### 3.7. Sprawdzanie zrozumiałości treści
 
