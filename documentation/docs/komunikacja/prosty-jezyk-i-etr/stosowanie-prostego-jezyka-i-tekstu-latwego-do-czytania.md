@@ -102,6 +102,8 @@ Zakres wsparcia jest dostosowany do zadań wykonywanych przez poszczególne osob
 
 Organizacja sprawdza zrozumiałość treści odpowiednio do ich znaczenia, przeznaczenia i potrzeb odbiorców.
 
+Sprawdzanie może obejmować między innymi przegląd treści przez inną osobę, stosowanie list kontrolnych, konsultacje z odbiorcami oraz testowanie
+
 W przypadku treści ETR zapewnia ich weryfikację z udziałem osób należących do grup odbiorców, dla których są przygotowywane.
 
 ### 3.8. Planowanie stosowania prostego języka i ETR
