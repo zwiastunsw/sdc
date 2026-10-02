@@ -161,7 +161,6 @@ Trwałe stosowanie prostego języka i ETR wymaga włączenia ich do zwykłego sp
 | Wersja | Data | Etap | Opis zmian |
 |---|---|---|---|
 | 0-RC1 | 22.09.2026 | Gotowy do publikacji | Przeprowadzono normalizację dokumentu. Przebudowano rozdział Rekomendacje. Wyodrębniono w szczególności odpowiedzialność, standardy tworzenia treści, kwalifikacje i wsparcie oraz sprawdzanie zrozumiałości treści. Zrezygnowano również z odrębnej rekomendacji dotyczącej „integracji z systemem zarządzania dostępnością”, a jej potrzebne elementy powiązano z właściwymi rekomendacjami. 
-Zmiana porządkuje przedmiot zalecenia i usuwa sugestię, że prosty język i ETR tworzą „model dostępnej komunikacji” albo wymagają odrębnego „systemu wdrożenia”. Prosty język i ETR są elementami dostępnej komunikacji, które powinny być stosowane w zwykłych procesach organizacji. Każda rekomendacja wskazuje obecnie konkretne rozwiązanie lub działanie organizacyjne potrzebne do ich trwałego stosowania.|
 
 
 
