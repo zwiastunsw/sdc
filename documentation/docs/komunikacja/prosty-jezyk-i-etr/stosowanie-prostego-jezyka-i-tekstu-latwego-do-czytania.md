@@ -61,6 +61,13 @@ Treści ETR przygotowuje w szczególności dla:
 
 Organizacja określa role i odpowiedzialność związane ze stosowaniem prostego języka oraz przygotowywaniem, weryfikowaniem, publikowaniem i aktualizowaniem treści ETR.
 
+Określa w szczególności, kto odpowiada za:
+
+- stosowanie właściwych zasad podczas tworzenia treści;
+- rozpoznawanie potrzeby przygotowania treści ETR;
+- przygotowanie i weryfikowanie treści ETR;
+- publikowanie i aktualizowanie treści ETR.
+
 Odpowiedzialność jest powiązana z procesami tworzenia i udostępniania treści oraz z zadaniami osób uczestniczących w tych procesach.
 
 ### 3.5. Włączenie prostego języka i ETR do działania organizacji
