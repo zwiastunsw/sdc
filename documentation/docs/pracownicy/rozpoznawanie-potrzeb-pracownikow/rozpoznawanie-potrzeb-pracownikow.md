@@ -86,7 +86,10 @@ Wyniki rozpoznawania i analizowania potrzeb i barier są przekazywane osobom i j
 - planowania zmian w systemach informatycznych i innych rozwiązaniach cyfrowych;
 - określania wymagań dotyczących nabywanych lub rozwijanych rozwiązań;
 - doskonalenia procesów i organizacji pracy;
-- planowania działań rozwojowych i wsparcia pracowników.
+- planowania działań rozwojowych i wsparcia pracowników;
+- zapewniania tymczasowego rozwiązania, które pozwoli pracownikowi wykonywać zadania do czasu usunięcia bariery;
+- uzgadniania z pracownikiem sposobu działania i terminu dalszego kontaktu;
+- sprawdzania, czy wdrożone dostosowanie działa w rzeczywistych warunkach pracy.
 
 Rozpoznanie indywidualnej potrzeby wymagającej dostosowania uruchamia przyjęty w organizacji sposób zapewniania pracownikom dostosowań i racjonalnych usprawnień.
 
