@@ -80,7 +80,7 @@ Zasady określają odpowiednio:
 - wymagania dotyczące przygotowania i weryfikowania treści ETR;
 - zasady publikowania i aktualizowania treści ETR.
 
-### 3.6. Kwalifikacje i wsparcie
+### 3.7. Kwalifikacje i wsparcie
 
 Organizacja zapewnia osobom odpowiedzialnym za tworzenie i kontrolowanie treści kwalifikacje i wsparcie potrzebne do stosowania prostego języka oraz przygotowywania treści ETR odpowiednio do wykonywanych zadań.
 
