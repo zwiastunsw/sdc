@@ -106,7 +106,7 @@ Sprawdzanie może obejmować między innymi przegląd treści przez inną osobę
 
 W przypadku treści ETR zapewnia ich weryfikację z udziałem osób należących do grup odbiorców, dla których są przygotowywane.
 
-### 3.8. Planowanie stosowania prostego języka i ETR
+### 3.9. Planowanie stosowania prostego języka i ETR
 
 Organizacja planuje stosowanie prostego języka i ETR, uwzględniając znaczenie informacji i potrzeby odbiorców. Stosowanie ETR rozszerza również na informacje, dla których taka forma jest potrzebna ze względu na potrzeby odbiorców, mimo że obowiązek jej przygotowania nie wynika wprost z przepisów prawa.
 
