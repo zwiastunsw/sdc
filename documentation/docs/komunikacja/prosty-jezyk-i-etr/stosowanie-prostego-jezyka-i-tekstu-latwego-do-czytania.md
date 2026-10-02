@@ -110,7 +110,7 @@ W przypadku treści ETR zapewnia ich weryfikację z udziałem osób należących
 
 Organizacja planuje stosowanie prostego języka i ETR, uwzględniając znaczenie informacji i potrzeby odbiorców. Stosowanie ETR rozszerza również na informacje, dla których taka forma jest potrzebna ze względu na potrzeby odbiorców, mimo że obowiązek jej przygotowania nie wynika wprost z przepisów prawa.
 
-W pierwszej kolejności obejmuje działaniami treści szczególnie istotne dla odbiorców, w tym informacje potrzebne do korzystania z usług, wykonywania praw i obowiązków oraz podejmowania decyzji.
+Jeżeli objęcie zasadami wszystkich potrzebnych treści nie jest możliwe jednocześnie, organizacja rozszerza ich stosowanie stopniowo. W pierwszej kolejności obejmuje działaniami treści szczególnie istotne dla odbiorców, w tym informacje potrzebne do korzystania z usług, wykonywania praw i obowiązków oraz podejmowania decyzji.
 
 ---
 
