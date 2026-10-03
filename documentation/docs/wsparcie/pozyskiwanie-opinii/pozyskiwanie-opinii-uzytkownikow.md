@@ -69,7 +69,7 @@ Badania opierają się na rzeczywistych lub reprezentatywnych sposobach i scenar
 
 Badania z udziałem użytkowników uzupełniają inne metody oceny dostępności. Nie zastępują oceny zgodności z wymaganiami dostępności, jeżeli taka ocena jest potrzebna.
 
-### 3.5. Wykorzystywanie informacji pochodzących z różnych źródeł
+### 3.5. Wykorzystywanie informacji z różnych źródeł
 
 Przy rozpoznawaniu doświadczeń użytkowników organizacja uwzględnia również informacje uzyskiwane w ramach bieżących kontaktów z użytkownikami, w szczególności zgłoszenia problemów z dostępnością, prośby o pomoc, uwagi przekazywane pracownikom oraz informacje pojawiające się w innych kanałach komunikacji.
 
