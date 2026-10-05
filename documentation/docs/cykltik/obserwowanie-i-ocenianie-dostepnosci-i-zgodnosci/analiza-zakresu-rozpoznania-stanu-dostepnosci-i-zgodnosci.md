@@ -234,4 +234,4 @@ Przykład:
 
 Zestawienie ma charakter pomocniczy. Jego zakres, układ i stosowane oznaczenia dostosowuje się do rodzaju rozwiązania, potrzeb organizacji oraz sposobu dokumentowania wiedzy.
 
-Zastosowane oznaczenia mają charakter ilustracyjny i nie stanowią wymaganej skali oceny zakresu rozpoznania.
+Zastosowane oznaczenia mają charakter ilustracyjny i nie stanowią wymaganej skali oceny zakresu rozpoznania. Przykład przedstawia zakres wymagań w odniesieniu do wybranych obszarów funkcjonalnych i strukturalnych; zakres użytkowy i zakres środowisk użytkowania można przedstawić w dodatkowych kolumnach albo w odrębnym zestawieniu.
