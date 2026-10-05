@@ -175,7 +175,7 @@ Zalecenie określa organizację procesu tworzenia, udostępniania i utrzymywania
 - kontroli dostępności treści cyfrowych przed publikacją – określającymi sposób organizowania kontroli stanowiącej jeden z etapów procesu;
 - publikowania treści od innych podmiotów – określającymi dodatkowe zasady postępowania z materiałami, których organizacja nie przygotowała samodzielnie;
 - zarządzania udostępnianymi dokumentami – określającymi sposób postępowania z dokumentami pozostającymi w publicznym zasobie po ich publikacji.
-- kwalifikacji i wsparcia kompetencyjnego – określającymi sposób przygotowania osób do wykonywania przypisanych im zadań.
+- kwalifikacji i wsparcia kompetencyjnego – określającymi sposób przygotowania osób do wykonywania przypisanych im zadań. 
 
 ## Załączniki
 
