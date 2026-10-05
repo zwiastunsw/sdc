@@ -285,6 +285,7 @@ Ocena w profilu rozszerzonym wykorzystuje posiadaną wiedzę o stanie i zakresie
 Może służyć w szczególności:
 
 - objęciu oceną kolejnych obowiązkowych wymagań dostępności;
+- objęciu oceną wymagań dodatkowych, których ocena nie wymaga specjalistycznej wiedzy, dodatkowych metod ani większej szczegółowości oceny; 
 - rozszerzeniu zakresu funkcjonalnego;
 - rozszerzeniu zakresu strukturalnego i zwiększeniu reprezentatywności próby;
 - rozszerzeniu zakresu rozpoznania o funkcje, procesy i części rozwiązania istotne z punktu widzenia jego rzeczywistego użytkowania;
