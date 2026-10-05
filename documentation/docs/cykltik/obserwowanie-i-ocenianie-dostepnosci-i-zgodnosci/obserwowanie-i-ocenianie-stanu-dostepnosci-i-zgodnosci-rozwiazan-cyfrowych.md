@@ -94,7 +94,7 @@ Zakres i sposób udokumentowania oceny umożliwia ustalenie, czego dotyczyła, w
 
 Organizacja analizuje informacje uzyskane z różnych źródeł, ustala ich znaczenie dla wiedzy o stanie rozwiązania i odnosi je do wcześniejszych ustaleń.
 
-Rozróżnia wyniki poszczególnych badań, testów i obserwacji od wniosków dotyczących stanu dostępności lub zgodności rozwiązania. Przy formułowaniu wniosków uwzględnia zakres i ograniczenia informacji stanowiących ich podstawę.
+Rozróżnia wyniki poszczególnych badań, testów i obserwacji od wniosków dotyczących stanu dostępności lub zgodności rozwiązania. Ocenę zgodności z wymaganiami odróżnia od oceny wpływu stwierdzonego stanu na możliwość korzystania z rozwiązania przez użytkowników. Przy formułowaniu wniosków uwzględnia zakres i ograniczenia informacji stanowiących ich podstawę.
 
 Informacje dotyczące tego samego wymagania, elementu lub sposobu korzystania z rozwiązania organizacja łączy w sposób pozwalający ustalić aktualny stan wiedzy oraz jego podstawę.
 
