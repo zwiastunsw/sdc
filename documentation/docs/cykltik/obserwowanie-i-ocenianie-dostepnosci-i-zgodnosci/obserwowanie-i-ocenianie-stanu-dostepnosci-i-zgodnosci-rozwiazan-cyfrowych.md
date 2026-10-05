@@ -40,7 +40,7 @@ Organizacja wykorzystuje informacje o dostępności i zgodności rozwiązań cyf
 - zgłoszenia i informacje uzyskiwane od użytkowników;
 - rozpoznawanie i rozwiązywanie problemów dostępności;
 - weryfikacja rezultatów działań naprawczych;
-- zmiany funkcjonalne, techniczne i treściowe w rozwiązaniu.
+- informacje o zmianach funkcjonalnych, technicznych i treściowych w rozwiązaniu.
 
 Organizacja wykorzystuje informacje powstające w tych działaniach do aktualizowania wiedzy o stanie rozwiązania.
 
