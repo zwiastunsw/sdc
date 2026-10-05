@@ -179,7 +179,7 @@ Szczegółowe zasady przetwarzania wyników oraz dokonywania ocen określa zał�
 
 ---
 
-## 8. Dokumentowanie ocen i ich zakresu
+## 8. Dokumentowanie ocen planowych i doraźnych oraz ich zakresu
 
 W przypadku informacji uzyskanych podczas oceny dokumentuje się jej zakres w stopniu potrzebnym do prawidłowej interpretacji wyników i ustalenia, czego dotyczą.
 
