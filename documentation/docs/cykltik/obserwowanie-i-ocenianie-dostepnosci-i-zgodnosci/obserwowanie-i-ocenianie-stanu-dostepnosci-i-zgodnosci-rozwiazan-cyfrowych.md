@@ -72,11 +72,11 @@ Przed wykonaniem oceny organizacja określa jej cel i zakres odpowiednio do potr
 
 Zakres oceny określa z uwzględnieniem odpowiednio:
 
-1. **zakresu wymagań** – wymagań dostępności i zgodności objętych oceną;
-2. **zakresu funkcjonalnego** – funkcji, procesów i zadań użytkownika objętych oceną;
-3. **zakresu strukturalnego** – części, ekranów, stron, dokumentów, komponentów lub innych elementów rozwiązania objętych oceną;
-4. **zakresu użytkowego** – sposobów korzystania z rozwiązania i potrzeb użytkowników uwzględnionych w ocenie;
-5. **zakresu środowisk użytkowania** – urządzeń, oprogramowania, technologii wspomagających i innych warunków użytkowania uwzględnionych w ocenie.
+1. **zakresu wymagań**: wymagań dostępności i zgodności objętych oceną;
+2. **zakresu funkcjonalnego**: funkcji, procesów i zadań użytkownika objętych oceną;
+3. **zakresu strukturalnego**: części, ekranów, stron, dokumentów, komponentów lub innych elementów rozwiązania objętych oceną;
+4. **zakresu użytkowego**: funkcji, procesów i części rozwiązania istotnych z punktu widzenia jego rzeczywistego użytkowania, uwzględnionych w ocenie;
+5. **zakresu środowisk użytkowania**: urządzeń, oprogramowania, technologii wspomagających i innych warunków użytkowania uwzględnionych w ocenie.
 
 Zakresy te organizacja rozpatruje łącznie i dostosowuje do celu oceny. Ocena nie musi obejmować wszystkich wymagań ani całego rozwiązania, jeżeli jej cel uzasadnia zakres ograniczony.
 
