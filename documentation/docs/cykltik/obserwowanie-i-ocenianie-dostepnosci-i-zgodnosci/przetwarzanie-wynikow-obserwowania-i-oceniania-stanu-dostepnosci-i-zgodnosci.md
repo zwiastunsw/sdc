@@ -351,7 +351,7 @@ Szczegółowe zasady organizowania, dokumentowania i aktualizowania wiedzy okre�
 
 ## 15. Schemat przetwarzania informacji
 
-```mermaid id="2q8b5x"
+```mermaid
 flowchart TD
     A[Źródło informacji lub czynność] --> B[Uzyskana informacja lub wynik]
     B --> C[Ustalenie, czego informacja dotyczy i jaki stan wskazuje]
