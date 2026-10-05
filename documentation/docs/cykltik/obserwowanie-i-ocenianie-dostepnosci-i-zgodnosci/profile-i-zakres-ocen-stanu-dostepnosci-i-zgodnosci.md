@@ -84,7 +84,7 @@ Wymiary te rozpatruje się łącznie. Szeroki zakres ocenionych wymagań nie ozn
 
 Ocena może mieć różny zakres w poszczególnych wymiarach odpowiednio do jej celu i potrzeb informacyjnych organizacji.
 
-**Zakres oceny nie może mieć charakteru symbolicznego. Powinien być wystarczający do osiągnięcia celu oceny i uzyskania wiedzy, którą organizacja zamierza wykorzystać.**
+**Zakres oceny powinien być wystarczający do osiągnięcia celu oceny i uzyskania wiedzy, którą organizacja zamierza wykorzystać.**
 
 ### 3.1. Zakres wymagań
 
