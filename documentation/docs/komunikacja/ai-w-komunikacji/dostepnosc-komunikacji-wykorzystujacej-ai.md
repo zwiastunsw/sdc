@@ -104,8 +104,8 @@ W zaleceniu uwzględniono poniżej wymienione przepisy:
 
 ## 7. Powiązania z innymi dokumentami Sieci
 
-1. [Standard tworzenia treści cyfrowych](../komunikacja-masowa/standardy-tworzenia/01-standard-tworzenia-tresci-cyfrowych)
-2. [Zarządzanie standardami tworzenia i publikacji treści cyfrowych](../komunikacja-masowa/komunikacja-masowa)
+1. [Standard tworzenia treści cyfrowych](https://github.com/Siec-Dostepnosci-Cyfrowej/sdc/blob/main/documentation/docs/komunikacja/standardy-tworzenia-i-publikacji/01-standard-tworzenia-tresci-cyfrowych.md)
+2. [Zarządzanie standardami tworzenia i publikacji treści cyfrowych](https://github.com/Siec-Dostepnosci-Cyfrowej/sdc/blob/main/documentation/docs/komunikacja/standardy-tworzenia-i-publikacji/00-standardy-tworzenia-i-publikacji-tresci.md)
 3. [Kontrola dostępności treści cyfrowych przed publikacją](../kontrola-dostepnosci-przed-publikacja/procedura-kontroli-dostepnosci-przed-publikacja)
 4. [Kompetencje w zakresie dostępnej komunikacji cyfrowej i publikacji treści](../../wiedza/zarzadzanie-kompetencjami/kompetencje-w-zakresie-komunikacji-cyfrowej-i-publikacji-tresci)
 
