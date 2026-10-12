@@ -82,7 +82,7 @@ Koordynowanie polega na łączeniu działań, wspieraniu uzgodnień, przygotowyw
 
 ### 3.5. Kolegialna koordynacja zapewniania dostępności cyfrowej
 
-W średnich i dużych organizacjach współdziałanie różnych obszarów zarządzania jest organizowane z udziałem stałego zespołu, komitetu lub innego odpowiednio umocowanego gremium reprezentującego obszary istotne dla zapewniania dostępności cyfrowej.
+W organizacjach, w których złożoność procesów, rozproszenie odpowiedzialności lub zakres współdziałania różnych obszarów zarządzania tego wymagają, współpraca jest organizowana z udziałem stałego zespołu, komitetu lub innego odpowiednio umocowanego gremium reprezentującego obszary istotne dla zapewniania dostępności cyfrowej. Organizacja może w tym celu wykorzystać istniejące gremium, jeżeli jego skład, umocowanie i sposób działania umożliwiają skuteczną koordynację.
 
 Skład i umocowanie gremium umożliwiają uzgadnianie działań wymagających współpracy różnych obszarów organizacji oraz przygotowywanie spraw wymagających decyzji kierownictwa.
 
