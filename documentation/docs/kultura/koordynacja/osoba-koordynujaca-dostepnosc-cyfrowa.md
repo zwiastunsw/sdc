@@ -91,7 +91,8 @@ Osoba wykonująca zadania koordynacyjne:
 - pozyskuje informacje o realizacji uzgodnionych działań i osiąganych rezultatach;
 - analizuje postępy, występujące trudności oraz odstępstwa od przyjętych ustaleń;
 - rozpoznaje problemy wymagające korekty działań lub dodatkowych decyzji;
-- przygotowuje informacje i wnioski dotyczące skuteczności podejmowanych działań;
+- przygotowuje informacje i wnioski dotyczące skuteczności podejmowanych działań, z uwzględnieniem podziału odpowiedzialności za ich realizację;
+- analizuje skuteczność mechanizmu koordynacji, w szczególności przepływ informacji, sposób rozpatrywania zgłaszanych problemów, podejmowanie decyzji oraz realizację i trwałość przyjętych ustaleń;
 - przedstawia właściwym osobom i gremiom problemy, ryzyka oraz propozycje działań korygujących.
 
 ### 4.5. Wspieranie utrwalania zmian
