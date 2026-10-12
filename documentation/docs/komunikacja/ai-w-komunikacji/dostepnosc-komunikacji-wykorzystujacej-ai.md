@@ -10,23 +10,18 @@ typ: zalecenie
 wymiar: Komunikacja
 opracowanie: Bartłomiej Wilk
 wspolpraca: Damian Żłobicki
-wspolpraca: Damian Żłobicki
 data_zgloszenia: 21 września 2026 r.
-ostatnia_aktualizacja: 1 października 2026 r.
+ostatnia_aktualizacja: 12 października 2026 r.
 wersja_robocza: true
 ---
 
 ## 1. Cel zalecenia
 
-Celem zalecenia jest ograniczenie ryzyka powstawania i udostępniania barier dostępności w treściach i interfejsach komunikacyjnych wykorzystujących AI, w szczególności tam, gdzie treści powstają podczas interakcji z użytkownikiem i nie można wcześniej wyczerpująco sprawdzić każdego możliwego rezultatu.
+Ograniczenie ryzyka powstawania i udostępniania barier dostępności w treściach i interfejsach komunikacyjnych wykorzystujących AI, w szczególności tam, gdzie treści powstają podczas interakcji z użytkownikiem i nie można wcześniej wyczerpująco sprawdzić każdego możliwego rezultatu.
 
 ## 2. Zalecenie
 
-Organizacja obejmuje wykorzystanie AI w komunikacji cyfrowej swoim systemem zapewniania dostępności, stosując wymagania dostępności do treści i interfejsów, kontrolując rezultaty przed ich udostępnieniem, gdy jest to możliwe, oraz monitorując dostępność rezultatów powstających dynamicznie podczas interakcji z użytkownikiem.
-
-Organizacja włącza komunikację wykorzystującą AI do procesów zapewniania dostępności cyfrowej: treści przygotowane lub przekształcone z użyciem AI sprawdza przed publikacją, a rozwiązania generujące treści podczas interakcji z użytkownikiem testuje przed wdrożeniem w zakresie modelu lub mechanizmu działania, konfiguracji, ograniczeń i reprezentatywnych scenariuszy.
-
-Po wdrożeniu takich rozwiązań organizacja sprawdza konkretne rezultaty powstające podczas rzeczywistych interakcji i reaguje na wykryte bariery.
+Organizacja włącza komunikację wykorzystującą AI do stosowanych procesów zapewniania dostępności cyfrowej. Treści przygotowane lub przekształcone z wykorzystaniem AI sprawdza przed udostępnieniem odbiorcom, a rozwiązania generujące treści podczas interakcji z użytkownikiem testuje przed wdrożeniem oraz obserwuje dostępność ich działania po wdrożeniu.
 
 ## 3. Rekomendacje
 
@@ -34,25 +29,23 @@ Po wdrożeniu takich rozwiązań organizacja sprawdza konkretne rezultaty powsta
 
 Organizacja identyfikuje zastosowania AI wpływające na komunikację cyfrową, w tym tworzenie, przekształcanie i przekazywanie treści oraz działanie interfejsów komunikacyjnych.
 
-Użycie AI nie tworzy odrębnego standardu dostępności. Treści, interfejsy, produkty i usługi wykorzystujące AI podlegają wymaganiom właściwym dla danego rodzaju treści, strony internetowej, aplikacji, produktu albo usługi.
+Użycie AI nie tworzy odrębnego standardu dostępności. Treści i interfejsy wykorzystywane w komunikacji z użyciem AI podlegają wymaganiom właściwym dla danego rodzaju treści, strony internetowej, aplikacji, produktu albo usługi, w której są udostępniane.
 
 Organizacja nie uznaje rezultatu za dostępny wyłącznie dlatego, że został wygenerowany przez określone narzędzie, model lub system deklarujący zgodność albo uzyskał pozytywny wynik kontroli automatycznej. Zakres sprawdzenia dostosowuje do rodzaju rezultatu, sposobu jego udostępnienia i ryzyka powstania bariery.
 
 ### 3.2. Kontrola treści przed udostępnieniem
 
-Treści przygotowane lub przekształcone z użyciem AI przed publikacją organizacja obejmuje istniejącymi procesami kontroli dostępności treści cyfrowych przed udostępnieniem.
+Organizacja obejmuje treści przygotowane lub przekształcone z użyciem AI istniejącymi procesami kontroli dostępności treści cyfrowych przed ich udostępnieniem odbiorcom.
 
 Kontrola uwzględnia specyfikę AI, w szczególności ryzyko, że treść technicznie albo formalnie poprawna zawiera nieadekwatny opis alternatywny, błędne napisy lub transkrypcję, utraciła znaczenie, pomija ważne informacje, nieprawidłowo upraszcza treść albo zmienia strukturę lub kontekst informacji.
 
 ### 3.3. Testowanie rozwiązań generujących treści podczas interakcji
 
-Przed wdrożeniem rozwiązania generującego treści podczas interakcji z użytkownikiem organizacja testuje całe rozwiązanie oraz elementy pozostające pod jej kontrolą. Testowanie obejmuje odpowiednio model lub mechanizm generowania odpowiedzi, konfigurację, instrukcje systemowe, ograniczenia działania, mechanizmy ograniczające zakres lub formę odpowiedzi, sposób prezentowania treści i reprezentatywne scenariusze użycia.
+Przed wdrożeniem rozwiązania generującego treści podczas interakcji z użytkownikiem organizacja testuje jego działanie w komunikacji z użytkownikiem oraz elementy pozostające pod jej kontrolą. Testowanie obejmuje odpowiednio model lub mechanizm generowania odpowiedzi, konfigurację, instrukcje systemowe, ograniczenia działania, mechanizmy ograniczające zakres lub formę odpowiedzi, sposób prezentowania treści i reprezentatywne scenariusze użycia.
 
 Organizacja może ograniczać zachowanie rozwiązania przez konfigurację, instrukcje, zakres wiedzy, reguły odpowiedzi lub inne mechanizmy pozostające pod jej kontrolą. Takie ograniczenia są częścią oceny przed wdrożeniem, jeżeli wpływają na treść, formę albo dostępność komunikacji z użytkownikiem.
 
-Testowanie obejmuje również dostępność interfejsu, w tym współpracę z technologiami asystującymi, zachowanie interfejsu, obsługę z klawiatury, zarządzanie fokusem, komunikaty o stanie, kolejność odczytu, dostęp do historii rozmowy i aktualnej odpowiedzi oraz dynamiczne zmiany treści bez przeładowania strony.
-
-Po wdrożeniu organizacja sprawdza konkretne rezultaty powstające podczas rzeczywistych interakcji. Sprawdzenie może obejmować próbki rozmów, zgłoszenia użytkowników, powtarzające się scenariusze problemów oraz sytuacje, w których rozwiązanie zmienia zakres, formę lub znaczenie informacji przekazywanej użytkownikowi.
+Testowanie obejmuje również dostępność interfejsu, w tym współpracę z technologiami wspomagającymi, zachowanie interfejsu, obsługę z klawiatury, zarządzanie fokusem, komunikaty o stanie, kolejność odczytu, dostęp do historii rozmowy i aktualnej odpowiedzi oraz dynamiczne zmiany treści bez przeładowania strony.
 
 ### 3.4. Dostępność informacji o wykorzystaniu AI
 
@@ -74,7 +67,7 @@ Osoby te rozpoznają sytuacje wymagające dodatkowej kontroli lub wsparcia ekspe
 
 ### 3.7. Obserwowanie działania i doskonalenie
 
-Po wdrożeniu organizacja sprawdza konkretne rezultaty powstające podczas rzeczywistych interakcji, obserwuje zgłoszenia użytkowników, regresje i powtarzające się bariery oraz wykorzystuje te informacje do doskonalenia sposobu użycia AI.
+Po wdrożeniu organizacja obserwuje dostępność komunikacji wykorzystującej AI, sprawdza próbki rezultatów powstających podczas rzeczywistych interakcji oraz analizuje zgłoszenia użytkowników, regresje, powtarzające się scenariusze problemów i sytuacje, w których rozwiązanie zmienia zakres, formę lub znaczenie informacji przekazywanej użytkownikowi. Informacje te wykorzystuje do doskonalenia sposobu użycia AI.
 
 Organizacja ponawia testy rozwiązania po zmianach modelu, konfiguracji, interfejsu albo dostawcy, jeżeli zmiany mogą wpływać na treść, sposób prezentacji lub dostępność interakcji.
 
@@ -82,11 +75,11 @@ Jeżeli narzędzie systematycznie generuje tę samą barierę, organizacja usuwa
 
 ## 4. Uzasadnienie
 
-Użycie AI nie zmienia wymagań dostępności właściwych dla treści, interfejsu, produktu albo usługi. Rezultat działania AI staje się częścią komunikacji cyfrowej organizacji i podlega wymaganiom właściwym dla sposobu jego udostępnienia.
+Użycie AI w komunikacji nie zmienia wymagań dostępności właściwych dla treści, interfejsu, produktu albo usługi. Rezultat działania AI staje się częścią komunikacji cyfrowej organizacji i podlega wymaganiom właściwym dla sposobu jego udostępnienia.
 
 AI może generować błędy trudne do wykrycia automatycznie. Materiał może mieć poprawną strukturę techniczną, a jednocześnie zawierać nieadekwatny opis alternatywny, błędne napisy, niepełną transkrypcję, niewłaściwe uproszczenie, utratę znaczenia albo zmianę kontekstu informacji.
 
-Treści przygotowane przed publikacją mogą zostać sprawdzone przed udostępnieniem użytkownikom. Właściwy jest dla nich istniejący proces kontroli dostępności treści cyfrowych przed publikacją, uzupełniony o ocenę ryzyk charakterystycznych dla AI.
+Treści przygotowane przed udostępnieniem odbiorcom mogą zostać wcześniej sprawdzone. Właściwy jest dla nich istniejący proces kontroli dostępności treści cyfrowych przed udostępnieniem, uzupełniony o ocenę ryzyk charakterystycznych dla AI.
 
 Rozwiązania generujące treści podczas interakcji wymagają innego sposobu postępowania. Przed wdrożeniem organizacja testuje rozwiązanie, jego konfigurację, ograniczenia, reprezentatywne scenariusze działania oraz dostępność interfejsu. Po wdrożeniu sprawdza konkretne rezultaty powstające podczas rzeczywistych interakcji i reaguje na wykryte bariery.
 
@@ -111,8 +104,8 @@ W zaleceniu uwzględniono poniżej wymienione przepisy:
 
 ## 7. Powiązania z innymi dokumentami Sieci
 
-1. [Standard tworzenia treści cyfrowych](../standardy-tworzenia-i-publikacji/01-standard-tworzenia-tresci-cyfrowych)
-2. [Standardy tworzenia i publikacji treści cyfrowych](../standardy-tworzenia-i-publikacji/standardy-tworzenia-i-publikacji-tresci-cyfrowych)
+1. [Standard tworzenia treści cyfrowych](../komunikacja-masowa/standardy-tworzenia/01-standard-tworzenia-tresci-cyfrowych)
+2. [Zarządzanie standardami tworzenia i publikacji treści cyfrowych](../komunikacja-masowa/komunikacja-masowa)
 3. [Kontrola dostępności treści cyfrowych przed publikacją](../kontrola-dostepnosci-przed-publikacja/procedura-kontroli-dostepnosci-przed-publikacja)
 4. [Kompetencje w zakresie dostępnej komunikacji cyfrowej i publikacji treści](../../wiedza/zarzadzanie-kompetencjami/kompetencje-w-zakresie-komunikacji-cyfrowej-i-publikacji-tresci)
 
