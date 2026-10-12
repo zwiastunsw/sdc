@@ -14,7 +14,7 @@ wersja_robocza: true
 
 ## 1. Cel zalecenia
 
-Celem zalecenia jest zapewnienie osobom z niepełnosprawnościami równych możliwości uczestnictwa w rekrutacji, postępowaniu kwalifikacyjnym, podejmowaniu pracy i wdrażaniu do niej.
+Zapewnienie osobom z niepełnosprawnościami równych możliwości uczestnictwa w rekrutacji, postępowaniu kwalifikacyjnym, podejmowaniu pracy i wdrażaniu do niej
 
 ---
 
