@@ -62,6 +62,8 @@ Osoba wykonująca zadania koordynacyjne ma:
 
 Umocowanie osoby wykonującej zadania koordynacyjne zapewnia jej możliwość współpracy z osobami odpowiedzialnymi za różne obszary działalności oraz bezpośredniego przedstawiania kierownictwu spraw wymagających decyzji lub działań wykraczających poza kompetencje poszczególnych uczestników.
 
+Organizacja określa sposób rozpatrywania spraw zgłaszanych przez osobę wykonującą zadania koordynacyjne, w tym zasady podejmowania i przekazywania rozstrzygnięć oraz postępowania w przypadku braku uzgodnienia między właściwymi osobami lub komórkami organizacyjnymi.
+
 Zakres powierzonych zadań i przewidziany na ich wykonywanie czas pracy odpowiadają rzeczywistemu nakładowi pracy. Jeżeli osoba wykonująca zadania koordynacyjne realizuje również inne obowiązki, organizacja odpowiednio określa ich zakres i organizację pracy, tak aby możliwe było skuteczne wykonywanie wszystkich powierzonych zadań.
 
 Organizacja zapewnia także możliwość korzystania ze wsparcia specjalistów z poszczególnych obszarów działalności. Wykonywanie zadań koordynacyjnych nie wymaga od jednej osoby posiadania wszystkich kompetencji specjalistycznych potrzebnych do zapewniania dostępności cyfrowej.
