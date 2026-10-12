@@ -11,15 +11,13 @@ wymiar: Komunikacja
 opracowanie: Bartłomiej Wilk
 wspolpraca: Stefan Wajda
 data_zgloszenia: 21 września 2026 r.
-ostatnia_aktualizacja: 1 października 2026 r.
+ostatnia_aktualizacja: 12 października 2026 r.
 wersja_robocza: true
 ---
 
 ## 1. Cel zalecenia
 
 Ograniczenie ryzyka opóźnienia, niespójności lub niedostępności informacji przekazywanych w sytuacjach wymagających pilnej komunikacji przez wcześniejsze przygotowanie organizacji do ich szybkiego i dostępnego przekazywania.
-
-Zalecenie dotyczy sytuacji, w których opóźnienie albo trudność w odbiorze lub zrozumieniu informacji może zwiększyć ryzyko szkody albo utrudnić odbiorcy podjęcie właściwego działania.
 
 ## 2. Zalecenie
 
@@ -154,3 +152,4 @@ Na etapie projektu zalecenie nie zawiera załączników.
 | 0.1 | 21.09.2026 | Projekt roboczy | Pierwsza wersja zalecenia opracowana na podstawie analizy prawno-naukowej. |
 | 0.2 | 21.09.2026 | Przegląd | Doprecyzowano zakres komunikacji pilnej, wyjątki ustawy o dostępności cyfrowej, zakres § 3 ust. 2 rozporządzenia MSWiA oraz źródła techniczne. |
 | 0.3 | 01.10.2026 | Normalizacja | Skrócono cel, uporządkowano rekomendacje jako podrozdziały, ujednolicono terminologię i doprecyzowano powiązania z innymi zaleceniami. |
+| 0.4 | 12.10.2026 | Korekta redakcyjna | Usunięto z celu zbędne objaśnienie zakresu zalecenia. |
