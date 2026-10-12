@@ -22,6 +22,8 @@ Celem zalecenia jest ograniczenie ryzyka powstawania i udostępniania barier dos
 
 ## 2. Zalecenie
 
+Organizacja obejmuje wykorzystanie AI w komunikacji cyfrowej swoim systemem zapewniania dostępności, stosując wymagania dostępności do treści i interfejsów, kontrolując rezultaty przed ich udostępnieniem, gdy jest to możliwe, oraz monitorując dostępność rezultatów powstających dynamicznie podczas interakcji z użytkownikiem.
+
 Organizacja włącza komunikację wykorzystującą AI do procesów zapewniania dostępności cyfrowej: treści przygotowane lub przekształcone z użyciem AI sprawdza przed publikacją, a rozwiązania generujące treści podczas interakcji z użytkownikiem testuje przed wdrożeniem w zakresie modelu lub mechanizmu działania, konfiguracji, ograniczeń i reprezentatywnych scenariuszy.
 
 Po wdrożeniu takich rozwiązań organizacja sprawdza konkretne rezultaty powstające podczas rzeczywistych interakcji i reaguje na wykryte bariery.
