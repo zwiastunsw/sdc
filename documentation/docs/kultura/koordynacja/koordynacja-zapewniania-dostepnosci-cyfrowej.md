@@ -111,6 +111,8 @@ Organizacja wykorzystuje istniejące role, odpowiedzialności i mechanizmy wspó
 
 W organizacjach, w których wyznaczono ustawowego koordynatora do spraw dostępności, organizacja uwzględnia jego rolę i zadania przy określaniu sposobu koordynacji zapewniania dostępności cyfrowej. Powierzenie mu dodatkowych lub bardziej szczegółowych zadań dotyczących dostępności cyfrowej wiąże się z odpowiednim określeniem zakresu odpowiedzialności, uprawnień i warunków ich wykonywania.
 
+Jeżeli zadania związane z koordynacją zapewniania dostępności cyfrowej powierzono innej osobie, organizacja określa zasady jej współpracy z ustawowym koordynatorem do spraw dostępności, w szczególności w zakresie wymiany informacji, uzgadniania działań i rozwiązywania problemów dotyczących obu obszarów. Przyjęty podział zadań nie ogranicza obowiązków wynikających z przepisów prawa ani nie prowadzi do powielania odpowiedzialności.
+
 Osoba lub komórka organizacyjna wyznaczona do realizacji spraw w zakresie dostępności cyfrowej, której dane kontaktowe podaje się w deklaracji dostępności, nie staje się z tego powodu automatycznie odpowiedzialna za koordynację zapewniania dostępności cyfrowej w całej organizacji. Powierzenie takich zadań wymaga określenia ich zakresu i odpowiedniego umocowania.
 
 W organizacjach o niewielkiej i nieskomplikowanej strukturze koordynacja może opierać się na bezpośredniej współpracy osoby wykonującej zadania koordynacyjne z kierownictwem i osobami odpowiedzialnymi za poszczególne obszary działalności. Nie wymaga to ustanawiania odrębnego stałego gremium, jeżeli istniejący sposób współpracy umożliwia skuteczne uzgadnianie działań i podejmowanie potrzebnych decyzji.
