@@ -6,8 +6,9 @@ description: Zalecenie dotyczące kontrolowanego wykorzystywania sztucznej intel
 keywords: [cykl życia TIK, dostępność cyfrowa, sztuczna inteligencja, AI, ocenianie dostępności, rozwiązywanie problemów, weryfikacja wyników]
 tags: [cykl życia TIK, dostępność cyfrowa, sztuczna inteligencja, ocenianie dostępności, rozwiązywanie problemów]
 opracowanie: Maciej Budzisz, Cezary Tomczyk, Stefan Wajda
+współpraca: Bartłomiej Wilk
 data_zgloszenia: 22 maja 2026 r.
-ostatnia_aktualizacja: 1 października 2026 r.
+ostatnia_aktualizacja: 13 października 2026 r.
 wersja_robocza: true
 ---
 
