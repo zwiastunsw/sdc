@@ -132,7 +132,7 @@ Uwzględnia odpowiednio:
 - możliwość wykonywania przez system operacji powodujących zmianę danych lub rozwiązania.
 
 Dane uwierzytelniające i inne informacje umożliwiające dostęp do chronionych zasobów nie są przekazywane systemowi AI, jeżeli nie jest to niezbędne, dopuszczone i odpowiednio zabezpieczone.
-
+Nadzór ekspercki musi mieć charakter rzeczywisty, a nie wyłącznie formalny. Osoba weryfikująca powinna posiadać kompetencje pozwalające na samodzielną ocenę badanego zagadnienia, znać ograniczenia zastosowanego systemu, mieć dostęp do materiału źródłowego oraz możliwość odrzucenia lub zmiany rekomendacji AI. Samo zaakceptowanie wygenerowanego wyniku nie stanowi weryfikacji eksperckiej.
 Systemowi posiadającemu możliwość wykonywania działań organizacja nadaje wyłącznie uprawnienia potrzebne do realizacji określonego zadania i zapewnia kontrolę skutków wykonywanych operacji.
 
 ### 3.7. Dokumentowanie i informowanie o wykorzystaniu AI
