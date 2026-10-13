@@ -16,7 +16,7 @@ wersja_robocza: true
 
 ## 1. Cel zalecenia
 
-Przeciwdziałanie rozproszeniu i niespójności działań związanych z zapewnianiem dostępności cyfrowej, wynikających z niewystarczającej współpracy między różnymi obszarami organizacji, niejasnego podziału zadań koordynacyjnych lub braku warunków do ich skutecznego wykonywania
+Zapewnienie skutecznej koordynacji działań organizacji, umożliwiającej projektowanie, wprowadzanie i utrwalanie zmian potrzebnych do systemowego zapewniania dostępności cyfrowej
 
 ## 2. Zalecenie
 
