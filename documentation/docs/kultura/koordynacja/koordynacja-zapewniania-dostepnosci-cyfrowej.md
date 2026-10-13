@@ -20,7 +20,7 @@ Zapewnienie skutecznej koordynacji działań organizacji, umożliwiającej proje
 
 ## 2. Zalecenie
 
-Organizacja koordynuje zapewnianie dostępności cyfrowej, określając zadania, odpowiedzialność i uprawnienia osób wykonujących zadania koordynacyjne oraz organizując współdziałanie osób i komórek organizacyjnych uczestniczących w zapewnianiu dostępności cyfrowej.
+Organizacja zapewnia koordynację działań służących projektowaniu, wprowadzaniu i utrwalaniu zmian potrzebnych do systemowego zapewniania dostępności cyfrowej. Określa zadania, odpowiedzialność i uprawnienia osób wykonujących zadania koordynacyjne, zapewnia im odpowiednie warunki działania oraz organizuje współpracę między właściwymi obszarami organizacji, bez przenoszenia na te osoby odpowiedzialności za decyzje i działania należące do innych ról.
 
 ## 3. Rekomendacje
 
