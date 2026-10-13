@@ -74,7 +74,8 @@ Koordynacja zapewniania dostępności cyfrowej nie zastępuje odpowiedzialności
 
 Osoba wykonująca zadania koordynacyjne odpowiada za rzetelne i skuteczne wykonywanie powierzonych jej zadań, w szczególności organizowanie współpracy, zapewnianie przepływu informacji, przygotowywanie uzgodnień, identyfikowanie problemów, analizowanie informacji oraz przedstawianie spraw wymagających decyzji.
 
-Odpowiedzialność za realizację działań dotyczących dostępności cyfrowej pozostaje przy osobach, którym została przypisana stosownie do pełnionych ról, zarządzanych procesów i obszarów działalności.
+- przygotowuje informacje, analizy i propozycje rozstrzygnięć potrzebne do podejmowania decyzji przez właściwe osoby i gremia;
+- uczestniczy, w zakresie powierzonych zadań, w rozpoznawaniu momentów podejmowania decyzji mających wpływ na dostępność cyfrową oraz wspiera uwzględnianie wymagań dostępności przed ich podjęciem, w szczególności podczas planowania budżetu, przygotowywania zamówień, projektowania i modernizacji rozwiązań cyfrowych oraz organizowania procesów tworzenia i publikowania treści.
 
 Osoba wykonująca zadania koordynacyjne podejmuje decyzje w imieniu kierownictwa wyłącznie w zakresie, do którego została formalnie upoważniona. Sprawy wymagające decyzji wykraczających poza ten zakres przedstawia właściwej osobie lub gremium decyzyjnemu.
 
