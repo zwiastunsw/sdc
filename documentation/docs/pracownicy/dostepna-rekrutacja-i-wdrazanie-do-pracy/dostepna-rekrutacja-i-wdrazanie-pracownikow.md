@@ -6,7 +6,7 @@ sidebar_label: Zalecenie
 sidebar_position: 0
 keywords: [dostępność cyfrowa, osoby z niepełnosprawnościami, rekrutacja, postępowanie kwalifikacyjne, wdrażanie pracowników, kandydaci, dostępne środowisko pracy]
 tags: [rekrutacja, wdrażanie pracowników, osoby z niepełnosprawnościami]
-opracowanie: Stefan Wajda
+opracowanie: Katarzyna Granda, Stefan Wajda
 data_zgloszenia: 19 czerwca 2026 r.
 ostatnia_aktualizacja: 26 września 2026 r.
 wersja_robocza: true
