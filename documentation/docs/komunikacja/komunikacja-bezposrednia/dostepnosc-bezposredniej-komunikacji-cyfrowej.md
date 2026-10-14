@@ -178,4 +178,5 @@ Powyższe akty nie ustanawiają jednakowego zakresu obowiązków dla wszystkich 
 6. Zapewnianie dostępności cyfrowej w komunikacji wykorzystującej AI.
 7. Informowanie o dostępności i sposobach uzyskania wsparcia.
 8. Obsługa zgłoszeń problemów dostępności cyfrowej i dostęp alternatywny.
+9. Organizacja dostępnej komunikacji pilnej i kryzysowej.
 
