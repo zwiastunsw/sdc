@@ -50,7 +50,7 @@ Przy doborze sposobu komunikacji uwzględnia w szczególności:
 - wymagania prawne dotyczące sposobu komunikacji i załatwiania określonych spraw;
 - potrzebę zachowania poufności, integralności i bezpieczeństwa przekazywanych informacji.
 
-Jeżeli organizacja udostępnia kilka kanałów komunikacji, informuje odbiorców o ich przeznaczeniu, możliwościach i warunkach korzystania z nich.
+Jeżeli organizacja udostępnia kilka kanałów komunikacji, informuje odbiorców o ich przeznaczeniu, możliwościach i warunkach korzystania z nich. Dostosowanie sposobu komunikacji do potrzeb odbiorcy nie zastępuje czynności, dla których przepisy wymagają określonej formy lub sposobu doręczenia. W takich przypadkach organizacja może zapewnić dodatkową, dostępną formę przekazania informacji lub wsparcia, z zachowaniem wymagań prawnych właściwych dla danej sprawy.
 
 ### 3.3. Dostępność przekazywanych wiadomości i dokumentów
 
