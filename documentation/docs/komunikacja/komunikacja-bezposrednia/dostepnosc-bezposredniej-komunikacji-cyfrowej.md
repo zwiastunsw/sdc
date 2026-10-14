@@ -86,7 +86,7 @@ Szczególną uwagę poświęca komunikatom, od których zależy podjęcie dział
 
 ### 3.5. Dostosowanie sposobu komunikacji do potrzeb odbiorcy
 
-Organizacja określa sposób rozpoznawania i uwzględniania indywidualnych potrzeb odbiorców dotyczących bezpośredniej komunikacji, ograniczając pozyskiwanie danych do informacji niezbędnych do ustalenia odpowiedniego sposobu komunikowania się. Organizacja określa role i odpowiedzialność związane z zapewnianiem dostępności bezpośredniej komunikacji cyfrowej, reagowaniem na ujawnione bariery oraz podejmowaniem decyzji o dostosowaniu sposobu komunikacji do potrzeb odbiorców.
+Organizacja określa sposób rozpoznawania i uwzględniania indywidualnych potrzeb odbiorców dotyczących bezpośredniej komunikacji, ograniczając pozyskiwanie danych do informacji niezbędnych do ustalenia odpowiedniego sposobu komunikowania się.
 
 W szczególności zapewnia możliwość:
 
