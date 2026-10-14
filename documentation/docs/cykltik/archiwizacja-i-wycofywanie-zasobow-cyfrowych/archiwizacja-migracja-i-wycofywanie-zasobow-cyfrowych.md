@@ -40,7 +40,7 @@ Status zasobu jako archiwalnego nie przesądza o zakończeniu jego używania ani
 
 ### 3.2. Dostępność zasobów pozostających w użyciu
 
-Jeżeli zasób po archiwizacji, migracji lub zmianie sposobu udostępniania pozostaje w użyciu, organizacja ustala mające do niego zastosowanie wymagania dostępności cyfrowej oraz sposób ich zapewnienia.
+Jeżeli zasób po archiwizacji, migracji lub zmianie sposobu udostępniania pozostaje w użyciu, organizacja ustala mające do niego zastosowanie wymagania dostępności cyfrowej, uwzględniając przepisy prawa, charakter zasobu oraz sposób jego dalszego wykorzystywania.
 
 Samo oznaczenie zasobu jako archiwalnego, historycznego lub nieaktualnego nie przesądza o tym, że wymagania dostępności przestają mieć do niego zastosowanie.
 
