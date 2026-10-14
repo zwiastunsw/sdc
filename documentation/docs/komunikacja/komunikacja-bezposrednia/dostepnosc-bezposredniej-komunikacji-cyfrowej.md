@@ -18,7 +18,7 @@ Ograniczenie barier utrudniających odbiorcom korzystanie z bezpośredniej komun
 
 ## 2. Zalecenie
 
-Organizacja zapewnia dostępność bezpośredniej komunikacji cyfrowej z odbiorcami w całym jej przebiegu, uwzględniając wymagania dostępności w doborze i stosowaniu kanałów, form i narzędzi komunikacji oraz w przygotowywaniu i przekazywaniu informacji. Umożliwia odbiorcom skuteczne komunikowanie się z organizacją i dostosowanie sposobu komunikacji do ich potrzeb oraz charakteru załatwianej sprawy.
+Organizacja zapewnia dostępność bezpośredniej komunikacji cyfrowej z odbiorcami w całym jej przebiegu, uwzględniając wymagania dostępności przy doborze i stosowaniu kanałów, form i narzędzi komunikacji oraz przygotowywaniu i przekazywaniu informacji. Umożliwia odbiorcom skuteczne komunikowanie się z organizacją, a w razie potrzeby dostosowuje sposób komunikacji do ich indywidualnych potrzeb, z uwzględnieniem charakteru sprawy i obowiązujących przepisów.
 
 ## 3. Rekomendacje
 
