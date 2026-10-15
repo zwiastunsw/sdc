@@ -51,7 +51,7 @@ Kontrola uwzględnia wymagania i standardy właściwe dla rodzaju treści i spos
 
 Organizacja określa zadania i odpowiedzialność związane z przygotowaniem treści, wykonaniem kontroli, podjęciem decyzji na podstawie jej wyniku oraz udostępnieniem treści.
 
-Jedna osoba może wykonywać kilka z tych zadań, jeżeli odpowiada to organizacji pracy. W przypadku treści o większym znaczeniu, złożonych technicznie lub służących realizacji istotnych zadań użytkownika organizacja zapewnia odpowiednio niezależną kontrolę lub udział osoby posiadającej kwalifikacje potrzebne do jej przeprowadzenia.
+Jedna osoba może wykonywać kilka z tych zadań, jeżeli odpowiada to organizacji pracy. W przypadku treści o większym znaczeniu, złożonych technicznie lub służących realizacji istotnych zadań użytkownika, organizacja zapewnia odpowiednio niezależną kontrolę lub udział osoby posiadającej kwalifikacje potrzebne do jej przeprowadzenia.
 
 ### 3.4. Dobór sposobu i narzędzi kontroli
 
