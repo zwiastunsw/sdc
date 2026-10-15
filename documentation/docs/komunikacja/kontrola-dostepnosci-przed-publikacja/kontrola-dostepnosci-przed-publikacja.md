@@ -57,7 +57,13 @@ Jedna osoba może wykonywać kilka z tych zadań, jeżeli odpowiada to organizac
 
 Organizacja dobiera sposób i narzędzia kontroli odpowiednio do rodzaju treści oraz ryzyka wystąpienia barier.
 
-Kontrola może wykorzystywać standardy, listy kontrolne, narzędzia automatyczne, testy manualne lub ocenę ekspercką. Zastosowanie uproszczonych sposobów kontroli nie zastępuje pełniejszego badania dostępności, jeżeli jest ono potrzebne do wiarygodnej oceny treści.
+Kontrola może wykorzystywać: 
+- standardy, 
+- listy kontrolne, 
+- narzędzia automatyczne, 
+- testy manualne lub 
+- ocenę ekspercką. 
+Zastosowanie uproszczonych sposobów kontroli nie zastępuje pełniejszego badania dostępności, jeżeli jest ono potrzebne do wiarygodnej oceny treści.
 
 ### 3.5. Dokumentowanie wyników kontroli
 
