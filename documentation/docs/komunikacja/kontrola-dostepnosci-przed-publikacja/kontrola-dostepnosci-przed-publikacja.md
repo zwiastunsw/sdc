@@ -69,7 +69,12 @@ Zastosowanie uproszczonych sposobów kontroli nie zastępuje pełniejszego badan
 
 Organizacja dokumentuje kontrolę w zakresie odpowiednim do znaczenia i charakteru sprawdzanej treści.
 
-Dokumentacja umożliwia ustalenie co najmniej, jaka treść została sprawdzona, kiedy i przez kogo, jaki był wynik kontroli oraz jaka decyzja została podjęta. W przypadku prostych i powtarzalnych treści wystarczające może być uproszczone potwierdzenie wykonania kontroli.
+Dokumentacja umożliwia ustalenie co najmniej:
+- jaka treść została sprawdzona, 
+- kiedy i przez kogo, 
+- jaki był wynik kontroli oraz 
+- jaka decyzja została podjęta. 
+W przypadku prostych i powtarzalnych treści wystarczające może być uproszczone potwierdzenie wykonania kontroli.
 
 ### 3.6. Postępowanie z wykrytymi barierami
 
