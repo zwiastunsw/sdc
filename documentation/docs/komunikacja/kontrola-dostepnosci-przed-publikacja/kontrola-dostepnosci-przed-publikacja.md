@@ -9,7 +9,7 @@ tags: [kontrola dostępności, dostępność cyfrowa, kontrola treści, publikac
 opracowanie: Bartłomiej Wilk, Stefan Wajda
 wspolpraca: Mateusz Ciborowski, Damian Żłobicki, Hanna Pasterny
 data_zgloszenia: 30 kwietnia 2026 r.
-ostatnia_aktualizacja: 22 września 2026 r.
+ostatnia_aktualizacja: 29 września 2026 r.
 wersja_robocza: true
 ---
 
