@@ -73,7 +73,7 @@ Organizacja może ustanowić tryb publikacji warunkowej dla sytuacji, w których
 
 Tryb ten określa co najmniej odpowiedzialność za podjęcie decyzji, rozpoznane bariery, działania potrzebne do ich usunięcia, termin ich wykonania lub ponownej oceny treści oraz sposób kontroli wykonania tych działań.
 
-Publikacja warunkowa jest mechanizmem organizacyjnym i nie zastępuje ustawowych przesłanek wyłączenia, oceny nadmiernych kosztów ani obowiązku zapewnienia alternatywnego sposobu dostępu, jeżeli mają zastosowanie.
+Publikacja warunkowa ma charakter wyjątkowy i nie stanowi samodzielnej podstawy prawnej udostępniania treści zawierającej bariery dostępności. Nie zastępuje również ustawowych przesłanek wyłączenia, oceny nadmiernych kosztów ani obowiązku zapewnienia alternatywnego sposobu dostępu, jeżeli mają zastosowanie.
 
 ### 3.8. Wykorzystanie wyników kontroli
 
