@@ -28,7 +28,16 @@ Organizacja ustanawia kontrolę dostępności jako stały element procesu tworze
 
 Organizacja obejmuje kontrolą dostępności treści cyfrowe przygotowywane, zatwierdzane lub udostępniane w ramach jej działalności.
 
-Kontrola obejmuje odpowiednio w szczególności treści internetowe, dokumenty i inne pliki, treści publikowane w BIP, formularze i komunikaty transakcyjne, newslettery, grafiki i infografiki, materiały audio i wideo, treści w mediach społecznościowych oraz treści wykorzystywane w komunikacji wewnętrznej.
+Kontrola obejmuje odpowiednio w szczególności: 
+- treści internetowe, 
+- dokumenty i inne pliki, 
+- treści publikowane w BIP, 
+- formularze i komunikaty transakcyjne, 
+- newslettery, 
+- grafiki i infografiki, 
+- materiały audio i wideo, 
+- treści w mediach społecznościowych oraz 
+- treści wykorzystywane w komunikacji wewnętrznej.
 
 Zakres i sposób kontroli organizacja dostosowuje do rodzaju treści, sposobu jej udostępniania, znaczenia informacji oraz ryzyka wystąpienia barier.
 
