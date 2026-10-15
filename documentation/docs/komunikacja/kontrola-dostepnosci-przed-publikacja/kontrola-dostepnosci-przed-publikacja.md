@@ -71,7 +71,7 @@ Wynik kontroli prowadzi odpowiednio do:
 
 Organizacja może ustanowić tryb publikacji warunkowej dla sytuacji, w których treść ma zostać udostępniona przed usunięciem rozpoznanych barier.
 
-Tryb ten określa co najmniej odpowiedzialność za podjęcie decyzji, rozpoznane bariery, działania potrzebne do ich usunięcia oraz sposób kontroli wykonania tych działań.
+Tryb ten określa co najmniej odpowiedzialność za podjęcie decyzji, rozpoznane bariery, działania potrzebne do ich usunięcia, termin ich wykonania lub ponownej oceny treści oraz sposób kontroli wykonania tych działań.
 
 Publikacja warunkowa jest mechanizmem organizacyjnym i nie zastępuje ustawowych przesłanek wyłączenia, oceny nadmiernych kosztów ani obowiązku zapewnienia alternatywnego sposobu dostępu, jeżeli mają zastosowanie.
 
