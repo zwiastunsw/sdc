@@ -4,7 +4,6 @@ title: Zapewnianie dostępności cyfrowej w komunikacji wykorzystującej AI
 description: Zalecenie określające sposób uwzględniania dostępności cyfrowej podczas wykorzystywania AI do tworzenia i przekazywania treści oraz w interfejsach komunikacyjnych.
 sidebar_label: Zalecenie
 sidebar_position: 0
-keywords: [sztuczna inteligencja, AI, komunikacja cyfrowa, dostępność cyfrowa, kontrola dostępności]
 tags: [sztuczna inteligencja, AI, komunikacja cyfrowa, kontrola dostępności]
 typ: zalecenie
 wymiar: Komunikacja
@@ -104,10 +103,10 @@ W zaleceniu uwzględniono poniżej wymienione przepisy:
 
 ## 7. Powiązania z innymi dokumentami Sieci
 
-1. [Standard tworzenia treści cyfrowych](https://github.com/Siec-Dostepnosci-Cyfrowej/sdc/blob/main/documentation/docs/komunikacja/standardy-tworzenia-i-publikacji/01-standard-tworzenia-tresci-cyfrowych.md)
-2. [Zarządzanie standardami tworzenia i publikacji treści cyfrowych](https://github.com/Siec-Dostepnosci-Cyfrowej/sdc/blob/main/documentation/docs/komunikacja/standardy-tworzenia-i-publikacji/00-standardy-tworzenia-i-publikacji-tresci.md)
-3. [Kontrola dostępności treści cyfrowych przed publikacją](../kontrola-dostepnosci-przed-publikacja/procedura-kontroli-dostepnosci-przed-publikacja)
-4. [Kompetencje w zakresie dostępnej komunikacji cyfrowej i publikacji treści](../../wiedza/zarzadzanie-kompetencjami/kompetencje-w-zakresie-komunikacji-cyfrowej-i-publikacji-tresci)
+1. Standard tworzenia treści cyfrowych
+2. Zarządzanie standardami tworzenia i publikacji treści cyfrowych
+3. Kontrola dostępności treści cyfrowych przed publikacją
+4. Kompetencje w zakresie dostępnej komunikacji cyfrowej i publikacji treści
 
 ## 8. Załączniki
 
