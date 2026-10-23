@@ -21,7 +21,7 @@ Zapewnienie dostępności cyfrowej treści i interfejsów komunikacyjnych wykorz
 
 ## 2. Zalecenie
 
-Organizacja włącza komunikację wykorzystującą AI do stosowanych procesów zapewniania dostępności cyfrowej. Treści przygotowane lub przekształcone z wykorzystaniem AI sprawdza przed udostępnieniem odbiorcom, a rozwiązania generujące treści podczas interakcji z użytkownikiem testuje przed wdrożeniem oraz obserwuje dostępność ich działania po wdrożeniu.
+Organizacja uwzględnia wykorzystanie AI w działaniach związanych z zapewnianiem dostępności cyfrowej. Weryfikuje wpływ AI na dostępność treści i interfejsów użytkownika, a w przypadku rozwiązań generujących treści lub komunikujących się z użytkownikiem przeprowadza testy przed wdrożeniem oraz monitoruje ich funkcjonowanie po wdrożeniu.
 
 ## 3. Rekomendacje
 
