@@ -31,7 +31,7 @@ Organizacja identyfikuje zastosowania AI wpływające na komunikację cyfrową, 
 
 Użycie AI nie tworzy odrębnego standardu dostępności. Treści i interfejsy wykorzystywane w komunikacji z użyciem AI podlegają wymaganiom właściwym dla danego rodzaju treści, strony internetowej, aplikacji, produktu albo usługi, w której są udostępniane.
 
-Organizacja nie uznaje rezultatu za dostępny wyłącznie dlatego, że został wygenerowany przez określone narzędzie, model lub system deklarujący zgodność albo uzyskał pozytywny wynik kontroli automatycznej. Zakres sprawdzenia dostosowuje do rodzaju rezultatu, sposobu jego udostępnienia i ryzyka powstania bariery.
+Organizacja nie uznaje rezultatu za dostępny wyłącznie dlatego, że został wygenerowany przez określone narzędzie, model lub system deklarujący zgodność albo uzyskał pozytywny wynik kontroli automatycznej. Zakres sprawdzenia dostosowuje do rodzaju rezultatu, sposobu jego udostępnienia i ryzyka wystąpienia barier dostępności.
 
 ### 3.2. Kontrola treści przed udostępnieniem
 
