@@ -17,7 +17,7 @@ wersja_robocza: true
 
 ## 1. Cel zalecenia
 
-Ograniczenie ryzyka powstawania i udostępniania barier dostępności w treściach i interfejsach komunikacyjnych wykorzystujących AI, w szczególności tam, gdzie treści powstają podczas interakcji z użytkownikiem i nie można wcześniej wyczerpująco sprawdzić każdego możliwego rezultatu.
+Zapewnienie dostępności cyfrowej treści i interfejsów komunikacyjnych wykorzystujących AI poprzez uwzględnianie wymagań dostępności na etapie ich tworzenia, przetwarzania, prezentowania i udostępniania.
 
 ## 2. Zalecenie
 
