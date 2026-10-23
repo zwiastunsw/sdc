@@ -25,7 +25,7 @@ Organizacja włącza komunikację wykorzystującą AI do stosowanych procesów z
 
 ## 3. Rekomendacje
 
-### 3.1. Włączenie komunikacji wykorzystującej AI do procesów zapewniania dostępności
+### 3.1. Uwzględnianie AI w zapewnianiu dostępności cyfrowej
 
 Organizacja identyfikuje zastosowania AI wpływające na komunikację cyfrową, w tym tworzenie, przetwarzanie i udostępnianie treści oraz działanie interfejsów użytkownika.
 
