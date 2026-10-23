@@ -29,7 +29,7 @@ Organizacja włącza komunikację wykorzystującą AI do stosowanych procesów z
 
 Organizacja identyfikuje zastosowania AI wpływające na komunikację cyfrową, w tym tworzenie, przekształcanie i przekazywanie treści oraz działanie interfejsów komunikacyjnych.
 
-Użycie AI nie tworzy odrębnego standardu dostępności. Treści i interfejsy wykorzystywane w komunikacji z użyciem AI podlegają wymaganiom właściwym dla danego rodzaju treści, strony internetowej, aplikacji, produktu albo usługi, w której są udostępniane.
+Użycie AI nie tworzy odrębnego standardu dostępności. Treści i interfejsy wykorzystujące AI podlegają tym samym wymaganiom dostępności cyfrowej co inne treści i interfejsy udostępniane w ramach danej strony internetowej, aplikacji, produktu lub usługi.
 
 Organizacja nie uznaje rezultatu za dostępny wyłącznie dlatego, że został wygenerowany przez określone narzędzie, model lub system deklarujący zgodność albo uzyskał pozytywny wynik kontroli automatycznej. Zakres sprawdzenia dostosowuje do rodzaju rezultatu, sposobu jego udostępnienia i ryzyka wystąpienia barier dostępności.
 
