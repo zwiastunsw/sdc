@@ -3,7 +3,7 @@ id: wykorzystanie-mikroposwiadczen-w-rozwijaniu-kwalifikacji
 title: Wykorzystanie mikropoświadczeń w rozwijaniu kwalifikacji w zakresie dostępności cyfrowej
 description: Organizacja wykorzystuje mikropoświadczenia do wspierania rozwoju, potwierdzania i uznawania kwalifikacji potrzebnych do zapewniania dostępności cyfrowej, korzystając z mikropoświadczeń innych wydawców lub nadając je samodzielnie na podstawie wiarygodnej oceny efektów uczenia się.
 sidebar_label: Zalecenie
-sidebar_position: 1
+sidebar_position: 0
 tags: [mikropoświadczenia, kwalifikacje, dostępność cyfrowa, wiedza i umiejętności]
 opracowanie: Stefan Wajda
 data_zgloszenia: 25 października 2026 r.
