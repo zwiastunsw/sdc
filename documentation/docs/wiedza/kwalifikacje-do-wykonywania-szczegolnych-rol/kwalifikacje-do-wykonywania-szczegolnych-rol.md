@@ -1,6 +1,6 @@
 ---
 id: kwalifikacje-do-wykonywania-szczegolnych-rol
-title: Kwalifikacje do wykonywania szczególnych ról związanych z dostępnością cyfrową
+title: Kwalifikacje do wykonywania zadań specjalistycznych w zakresie dostępności cyfrowej
 description: Organizacja zapewnia osobom wykonującym szczególne role związane z dostępnością cyfrową kwalifikacje odpowiednie do powierzonych im zadań, odpowiedzialności i uprawnień.
 sidebar_position: 0
 sidebar_label: Zalecenie
@@ -11,15 +11,15 @@ ostatnia_aktualizacja: 25 października 2026 r.
 wersja_robocza: true
 ---
 
-# Kwalifikacje do wykonywania szczególnych ról związanych z dostępnością cyfrową
+# Kwalifikacje do wykonywania zadań specjalistycznych w zakresie dostępności cyfrowej
 
 ## 1. Cel zalecenia
 
-Przygotowanie osób pełniących szczególne role związane z dostępnością cyfrową do prawidłowego wykonywania przypisanych im zadań i ponoszenia związanej z nimi odpowiedzialności
+Zapewnienie wykonywania zadań wymagających specjalistycznych kwalifikacji w zakresie dostępności cyfrowej przez osoby posiadające odpowiednią wiedzę, umiejętności i doświadczenie
 
 ## 2. Zalecenie
 
-Organizacja określa kwalifikacje potrzebne do wykonywania szczególnych ról związanych z dostępnością cyfrową odpowiednio do przypisanych im zadań, odpowiedzialności i uprawnień. Powierza te role osobom posiadającym wymagane kwalifikacje albo zapewnia ich uzyskanie i utrzymywanie.
+Organizacja rozpoznaje zadania wymagające specjalistycznych kwalifikacji w zakresie dostępności cyfrowej i określa kwalifikacje potrzebne do ich wykonywania. Zapewnia powierzanie tych zadań osobom posiadającym odpowiednie kwalifikacje, wykorzystując kompetencje własnych pracowników lub specjalistów zewnętrznych.
 
 ## 3. Rekomendacje
 
@@ -50,9 +50,9 @@ Referencyjne opisy kwalifikacji organizacja odnosi do rzeczywistego zakresu zada
 
 Jeżeli w Katalogu mikropoświadczeń kompetencji dostępności cyfrowej opisano kwalifikację odpowiadającą zadaniom wykonywanym w danej roli, organizacja może wykorzystać określone w niej efekty uczenia się i sposoby ich potwierdzania do ustalenia własnych wymagań kwalifikacyjnych.
 
-### 3.3. Praktyczne przygotowanie do wykonywania roli
+### 3.3. Praktyczne przygotowanie do wykonywania zadań specjalistycznych
 
-Kwalifikacje do wykonywania roli obejmują praktyczną zdolność wykonywania przypisanych jej zadań i osiągania wymaganych rezultatów.
+Kwalifikacje specjalistyczne obejmują praktyczną zdolność wykonywania zadań wymagających specjalistycznej wiedzy i umiejętności w zakresie dostępności cyfrowej oraz osiągania wymaganych rezultatów.
 
 Jeżeli osoba nie posiada jeszcze potrzebnych kwalifikacji, organizacja zapewnia przygotowanie odpowiednie do rodzaju wykonywanych zadań. Może ono obejmować między innymi:
 
@@ -115,6 +115,14 @@ Mikropoświadczenie lub inny dokument może stanowić dowód posiadania określo
 Organizacja zapewnia utrzymywanie i aktualizowanie kwalifikacji odpowiednio do zmian zadań i odpowiedzialności oraz zmian wymagań, standardów, technologii, metod, narzędzi i sposobu działania organizacji.
 
 Potrzebę aktualizacji kwalifikacji rozpoznaje także na podstawie doświadczeń z wykonywania ról, ujawnionych problemów oraz wyników kontroli i ocen.
+
+### 3.8 Korzystanie z kwalifikacji specjalistów zewnętrznych
+
+Jeżeli organizacja nie dysponuje wśród swoich pracowników kwalifikacjami potrzebnymi do wykonywania określonych zadań specjalistycznych w zakresie dostępności cyfrowej, zapewnia dostęp do tych kwalifikacji przez współpracę z odpowiednio przygotowanymi specjalistami zewnętrznymi.
+
+W zależności od charakteru zadania współpraca może polegać na powierzeniu specjaliście jego wykonania albo zapewnieniu pracownikom organizacji konsultacji, doradztwa, pomocy lub innego wsparcia kompetencyjnego.
+
+Organizacja określa wymagane kwalifikacje specjalisty odpowiednio do powierzanego zadania, jego zakres, oczekiwane rezultaty oraz sposób ich wykorzystania. Korzystanie z kompetencji zewnętrznych nie zwalnia organizacji z odpowiedzialności za zapewnianie dostępności cyfrowej w zakresie jej zadań.
 
 ## 4. Uzasadnienie
 
