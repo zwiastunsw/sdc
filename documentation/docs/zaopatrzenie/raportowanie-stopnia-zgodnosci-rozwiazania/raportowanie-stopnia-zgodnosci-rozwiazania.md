@@ -84,7 +84,7 @@ Dobrze przygotowany raport pozwala wielokrotnie wykorzystywać zgromadzoną wied
 
 ### 4.2. Europejski model raportowania zgodności
 
-Europejski model oceny zgodności stron internetowych i aplikacji mobilnych podmiotów publicznych odszedł od przedstawiania zgodności wyłącznie jako stanu „zgodne” lub „niezgodne”. Dyrektywa (UE) 2016/2102 oraz decyzja wykonawcza Komisji (UE) 2018/1523 przyjęły model raportowania stopnia spełnienia poszczególnych wymagań dostępności. Pozwala on przedstawić, które wymagania są spełnione, które są spełnione częściowo, które nie są spełnione oraz które nie mają zastosowania do ocenianego rozwiązania.
+Europejski model oceny zgodności stron internetowych i aplikacji mobilnych podmiotów publicznych odszedł od przedstawiania zgodności wyłącznie jako stanu „zgodne” lub „niezgodne”. Dyrektywa (UE) 2016/2102 oraz decyzja wykonawcza Komisji (UE) 2018/1523 przyjęły model, w którym zgodność może być także częściowa, a treści mogą być wyłączone z zakresu mających zastosowanie wymagań. Zalecenie przenosi to podejście na poziom poszczególnych wymagań: raport przedstawia, które wymagania są spełnione, które są spełnione częściowo, które nie są spełnione oraz które nie mają zastosowania do ocenianego rozwiązania.
 
 Zalecenie wykorzystuje ten model jako podstawę raportowania stopnia zgodności rozwiązania z wymaganiami dostępności cyfrowej.
 
