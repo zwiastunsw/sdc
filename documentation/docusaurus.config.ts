@@ -39,8 +39,13 @@ const config: Config = {
     trailingSlash: false,
     staticDirectories: ['static'],
 
-    onBrokenLinks: 'warn',
-    onBrokenMarkdownLinks: 'warn',
+    onBrokenLinks: 'throw',
+
+    markdown: {
+        hooks: {
+            onBrokenMarkdownLinks: 'warn',
+        },
+    },
 
 
     future: {
