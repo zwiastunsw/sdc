@@ -7,12 +7,12 @@ sidebar_position: 2
 keywords: [rozwiązanie systemowe, cykl życia TIK]
 tags: [rozwiązanie systemowe, cykl życia TIK]
 opracowanie: Cezary Tomczyk
-data_zgloszenia: 30 marca 2026
+data_zgloszenia: 30 marca 2026 r.
 data_aktualizacji: 30 marca 2026
 wersja_robocza: true
 ---
 
-# Załącznik nr 2 do Zalecenia w sprawie systemowego rozwiązywania problemów dostępności cyfrowej
+**Załącznik nr 2 do Zalecenia w sprawie systemowego rozwiązywania problemów dostępności cyfrowej**
 
 ## 1. Przedmiot zobowiązania
 

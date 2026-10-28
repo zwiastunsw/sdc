@@ -1,19 +1,19 @@
 ---
 id: zapisy-w-umowie-serwisowej-male-jst
-title: Zapisy dotyczące dostępności cyfrowej w umowie serwisowej (wariant dla małych jednostek)
+title: Zapisy dotyczące dostępności cyfrowej w umowie serwisowej (małe jednostki)
 description: Uzasadnienie
 sidebar_label: Zapisy do umowy
 sidebar_position: 3
 keywords: [rozwiązanie systemowe, cykl życia TIK]
 tags: [rozwiązanie systemowe, cykl życia TIK]
 opracowanie: Stefan Wajda
-data_zgloszenia: 30 marca 2026
+data_zgloszenia: 30 marca 2026 r.
 data_aktualizacji:  30 marca 2026
 wersja_robocza: true
 ---
 
 
-# Załącznik nr 3 do Zalecenia w sprawie systemowego rozwiązywania problemów dostępności cyfrowej
+**Załącznik nr 3 do Zalecenia w sprawie systemowego rozwiązywania problemów dostępności cyfrowej**
 
 ## 1. Przedmiot zobowiązania
 

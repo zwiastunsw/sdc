@@ -1,13 +1,13 @@
 ---
 id: organizacja-i-zadania-zespolu-naprawczego
-title: Organizacja i zadania zespołu odpowiedzialnego za naprawę problemów dostępności cyfrowej. Załącznik nr 1
+title: Organizacja i zadania zespołu odpowiedzialnego za naprawę problemów dostępności cyfrowej
 description: Model operacyjny organizacji i zadań zespołu naprawczego ds. dostępności cyfrowej
 sidebar_label: Zespół naprawczy
 sidebar_position: 2
 keywords: [rozwiązanie systemowe, cykl życia TIK]
 tags: [rozwiązanie systemowe, cykl życia TIK]
 opracowanie: Stefan Wajda, Cezary Tomczyk
-data_zgloszenia: 30 marca 2026
+data_zgloszenia: 30 marca 2026 r.
 data_aktualizacji: 30 marca 2026
 wersja_robocza: true
 ---

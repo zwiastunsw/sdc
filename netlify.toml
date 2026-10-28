@@ -2,16 +2,17 @@
   base = "documentation"
   publish = "build"
   command = "npm ci && npm run build"
+  # Netlify interpretuje kody wyjścia odwrotnie niż typowa komenda:
+  # 0 = pomiń build, 1 = kontynuuj build.
+  # https://docs.netlify.com/build/configure-builds/ignore-builds/
+  ignore = "if [ \"$CONTEXT\" = \"production\" ]; then exit 0; else exit 1; fi"
  
 [build.environment]
-  NODE_VERSION = "20"
+  NODE_VERSION = "22"
   NPM_VERSION = "10"
 
  
 # Production deploy
-[context.production.environment]
-  NODE_ENV = "production"
- 
 # Preview deploys (Pull Requests)
 [context.deploy-preview]
   command = "npm ci && npm run build"

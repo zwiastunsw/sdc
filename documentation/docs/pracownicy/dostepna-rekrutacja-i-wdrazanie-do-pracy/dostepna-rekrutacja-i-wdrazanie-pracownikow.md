@@ -1,139 +1,141 @@
 ---
 id: dostepna-rekrutacja-i-wdrazanie-pracownikow
 title: Dostępna rekrutacja i wdrażanie pracowników
-description: Organizacja zapewnia dostępność procesów rekrutacji i wdrażania nowych pracowników oraz tworzy warunki umożliwiające osobom z niepełnosprawnościami skuteczne podejmowanie i wykonywanie pracy.
+description: Organizacja zapewnia dostępność rekrutacji i wdrażania pracowników, w tym wykorzystywanych rozwiązań cyfrowych, treści i komunikacji, oraz uwzględnia indywidualne potrzeby kandydatów i nowych pracowników.
 sidebar_label: Zalecenie
 sidebar_position: 0
-keywords: [osoby z niepełnosprawnościami, zatrudnianie, rekrutacja, wdrażanie pracowników]
-tags: [osoby z niepełnosprawnościami, zatrudnianie, rekrutacja, wdrażanie pracowników]
-opracowanie: Stefan Wajda
+keywords: [dostępność cyfrowa, osoby z niepełnosprawnościami, rekrutacja, postępowanie kwalifikacyjne, wdrażanie pracowników, kandydaci, dostępne środowisko pracy]
+tags: [rekrutacja, wdrażanie pracowników, osoby z niepełnosprawnościami]
+opracowanie: Katarzyna Granda, Stefan Wajda
 data_zgloszenia: 19 czerwca 2026 r.
-ostatnia_aktualizacja: 20 czerwca 2026 r.
+ostatnia_aktualizacja: 26 września 2026 r.
 wersja_robocza: true
 ---
 
 ## 1. Cel zalecenia
 
-Celem zalecenia jest zapewnienie osobom z niepełnosprawnościami możliwości skutecznego uczestniczenia w procesach rekrutacyjnych, podejmowania pracy oraz wdrażania się do wykonywania obowiązków służbowych na zasadzie równości z innymi kandydatami i pracownikami.
+Zapewnienie osobom z niepełnosprawnościami równych możliwości uczestnictwa w rekrutacji, postępowaniu kwalifikacyjnym, podejmowaniu pracy i wdrażaniu do niej
+
+---
 
 ## 2. Zalecenie
 
-Organizacja projektuje, realizuje i doskonali procesy rekrutacji oraz wdrażania nowych pracowników w sposób uwzględniający potrzeby osób z niepełnosprawnościami.
+Organizacja zapewnia dostępność procesów rekrutacji i wdrażania pracowników, w tym wykorzystywanych w nich rozwiązań cyfrowych, treści i komunikacji, oraz uwzględnia indywidualne potrzeby kandydatów i pracowników z niepełnosprawnościami.
 
-Organizacja zapewnia dostępność cyfrową wykorzystywanych narzędzi, materiałów i kanałów komunikacji, identyfikuje bariery utrudniające udział w procesie rekrutacji oraz podejmuje działania umożliwiające skuteczne wykonywanie pracy po zatrudnieniu.
-
+---
+      
 ## 3. Rekomendacje
 
 ### 3.1. Organizacja procesu
 
-Organizacja powinna:
+Organizacja zapewnia dostępność na wszystkich etapach rekrutacji i wdrażania pracowników — od publikacji informacji o zatrudnieniu i przyjmowania zgłoszeń, przez postępowanie kwalifikacyjne i komunikację z kandydatami, po rozpoczęcie pracy i wdrożenie pracownika.
 
-1. Wyznaczyć osoby lub komórki odpowiedzialne za zapewnianie dostępności procesu rekrutacji i wdrażania pracowników.
-2. Uwzględniać wymagania dostępności na etapie planowania rekrutacji i przygotowania stanowiska pracy.
-3. Określić sposób identyfikowania i obsługi potrzeb związanych z niepełnosprawnością kandydatów oraz nowo zatrudnionych pracowników.
-4. Dokumentować zgłoszone potrzeby oraz podejmowane działania.
-5. Okresowo oceniać skuteczność stosowanych rozwiązań.
+Przy organizowaniu procesu określa w szczególności:
 
-### 3.2. Role i odpowiedzialność
+- wymagania dotyczące dostępności wykorzystywanych rozwiązań cyfrowych, treści i komunikacji;
+- sposób sprawdzania dostępności przed rozpoczęciem i podczas realizacji procesu;
+- sposób zgłaszania przez kandydatów i pracowników potrzeb związanych z dostępnością;
+- sposób zapewniania potrzebnych dostosowań;
+- sposób reagowania na problemy z dostępnością pojawiające się podczas procesu;
+- odpowiedzialność za realizację poszczególnych działań.
 
-#### Dział kadr
+Dostępność jest uwzględniana również przy zmianie narzędzi, materiałów lub sposobu prowadzenia rekrutacji i wdrażania.
 
-- organizuje proces rekrutacyjny,
-- zapewnia dostępność publikowanych ogłoszeń i materiałów rekrutacyjnych,
-- przyjmuje oraz obsługuje zgłoszenia kandydatów dotyczące potrzeb związanych z dostępnością,
-- koordynuje działania związane z zapewnieniem racjonalnych usprawnień.
+### 3.2. Role i współpraca
 
-#### Koordynator dostępności
+Organizacja określa odpowiedzialność za zapewnianie dostępności rekrutacji i wdrażania oraz zapewnia współpracę osób i komórek uczestniczących w tych procesach.
 
-- wspiera dział kadr w identyfikowaniu barier,
-- doradza w zakresie dostępności cyfrowej i komunikacyjnej,
-- uczestniczy w analizie zgłoszonych problemów,
-- wspiera działania doskonalące.
+W zależności od sposobu działania organizacji zadania mogą obejmować w szczególności:
 
-#### Dział IT
+- organizowanie i prowadzenie dostępnego procesu rekrutacji i wdrażania;
+- określanie i weryfikowanie wymagań dostępności wykorzystywanych rozwiązań cyfrowych i materiałów;
+- rozpoznawanie potrzeb kandydatów i pracowników oraz organizowanie potrzebnych dostosowań;
+- przygotowanie dostępnego cyfrowego środowiska pracy przed rozpoczęciem pracy;
+- zapewnianie wsparcia w rozwiązywaniu problemów z dostępnością.
 
-- zapewnia dostępność wykorzystywanych systemów, formularzy i platform rekrutacyjnych,
-- uczestniczy w analizie problemów technicznych zgłaszanych przez kandydatów,
-- wspiera wdrażanie rozwiązań eliminujących bariery cyfrowe.
+Podział tych zadań jest dostosowany do struktury i sposobu działania organizacji.
 
-#### Kierownicy komórek organizacyjnych
+### 3.3. Dostępna rekrutacja
 
-- określają wymagania związane ze stanowiskiem pracy,
-- uczestniczą w planowaniu warunków umożliwiających wykonywanie pracy przez osoby z niepełnosprawnościami,
-- współpracują przy wdrażaniu nowo zatrudnionych pracowników.
+Organizacja zapewnia dostępność cyfrową rozwiązań, treści i komunikacji wykorzystywanych w rekrutacji.
 
-### 3.3. Dostępność procesu rekrutacji
+Obejmuje to w szczególności:
 
-Organizacja powinna zapewnić dostępność:
+- ogłoszenia i informacje o zatrudnieniu;
+- strony internetowe, serwisy rekrutacyjne i formularze aplikacyjne;
+- dokumenty elektroniczne przekazywane kandydatom;
+- pocztę elektroniczną i inne kanały komunikacji cyfrowej;
+- narzędzia wykorzystywane do spotkań i rozmów prowadzonych zdalnie;
+- informacje o przebiegu rekrutacji i możliwości zgłoszenia potrzeb związanych z dostępnością.
 
-- ogłoszeń o pracę;
-- stron i portali rekrutacyjnych;
-- formularzy aplikacyjnych;
-- dokumentów i materiałów rekrutacyjnych;
-- komunikacji elektronicznej;
-- spotkań i rozmów kwalifikacyjnych;
-- testów, zadań praktycznych i innych elementów postępowania kwalifikacyjnego.
+Jeżeli organizacja korzysta z zewnętrznych platform, usług lub wykonawców, uwzględnia ich dostępność przy wyborze rozwiązania i organizowaniu procesu rekrutacji.
 
-### 3.4. Dostępność postępowania kwalifikacyjnego
+### 3.4. Dostępne postępowanie kwalifikacyjne
 
-Organizacja powinna:
+Testy, zadania, rozmowy, spotkania i inne formy oceny kandydatów są organizowane w sposób umożliwiający osobom z niepełnosprawnościami udział na równych zasadach.
 
-1. Informować kandydatów o możliwości zgłaszania potrzeb związanych z dostępnością.
-2. Zapewniać dostępność cyfrową materiałów wykorzystywanych podczas procesu kwalifikacyjnego.
-3. Zapewniać możliwość korzystania z technologii wspomagających.
-4. Przygotowywać niezbędne konfiguracje sprzętu i oprogramowania, jeżeli są wymagane do udziału w procesie kwalifikacyjnym.
-5. Zapewniać alternatywne sposoby realizacji poszczególnych etapów postępowania w przypadku wystąpienia barier dostępności.
-6. Dokumentować zgłaszane problemy i wykorzystywać je do doskonalenia procesu.
+Organizacja:
 
-### 3.5. Wdrażanie nowo zatrudnionych pracowników
+- zapewnia dostępność cyfrową wykorzystywanych testów, zadań, materiałów i narzędzi;
+- umożliwia korzystanie z technologii wspomagających;
+- umożliwia zgłoszenie potrzeby dostosowania sposobu przeprowadzenia postępowania;
+- zapewnia potrzebne dostosowania, jeżeli są konieczne do udziału w postępowaniu;
+- stosuje rozwiązania alternatywne, jeżeli wykorzystywane narzędzie lub forma postępowania nie może zostać odpowiednio dostosowana.
 
-Organizacja powinna zapewnić dostępny proces wprowadzenia do pracy obejmujący:
+Dostosowanie sposobu udziału nie zmienia wymagań dotyczących kwalifikacji ani kryteriów oceny związanych z wykonywaniem pracy na danym stanowisku.
 
-1. Przygotowanie dostępnego środowiska pracy.
-2. Zapewnienie dostępności systemów teleinformatycznych wykorzystywanych przez pracownika.
-3. Zapewnienie dostępności materiałów wdrożeniowych, szkoleniowych i informacyjnych.
-4. Przekazanie informacji dotyczących dostępnych form wsparcia oraz sposobu zgłaszania potrzeb związanych z dostępnością.
-5. Organizowanie niezbędnych dostosowań i racjonalnych usprawnień.
-6. Uwzględnianie dostępności w szkoleniach wstępnych, spotkaniach organizacyjnych i komunikacji wewnętrznej.
+### 3.5. Dostępne wdrażanie do pracy
 
-Szczegółowe rekomendacje dotyczące organizacji procesu wdrażania zawiera załącznik „Dostępny proces wprowadzenia do pracy”.
+Organizacja przygotowuje warunki umożliwiające nowemu pracownikowi korzystanie z potrzebnych rozwiązań cyfrowych, treści i komunikacji od rozpoczęcia pracy.
 
-### 3.6. Reagowanie na problemy
+W ramach wdrażania zapewnia w szczególności:
 
-Organizacja powinna:
+- dostęp do wykorzystywanych systemów informatycznych i narzędzi cyfrowych;
+- dostępność dokumentów elektronicznych, instrukcji, materiałów szkoleniowych i innych treści potrzebnych do rozpoczęcia pracy;
+- dostępność szkoleń i komunikacji związanej z wdrażaniem;
+- możliwość korzystania z potrzebnych technologii wspomagających i konfiguracji;
+- informację o sposobie zgłaszania potrzeb i problemów związanych z dostępnością oraz uzyskiwania wsparcia.
 
-1. Zapewnić kandydatom i nowym pracownikom możliwość zgłaszania problemów związanych z dostępnością.
-2. Określić sposób przyjmowania, rejestrowania i obsługi zgłoszeń.
-3. Analizować przyczyny problemów oraz podejmować działania korygujące.
-4. W przypadku wystąpienia bariery zapewniać alternatywny sposób realizacji danego działania.
+Znane organizacji potrzeby pracownika związane z dostępnością są uwzględniane odpowiednio wcześnie, aby potrzebne rozwiązania mogły być przygotowane przed rozpoczęciem pracy lub bez zbędnej zwłoki.
 
-### 3.7. Monitorowanie i doskonalenie
+### 3.6. Rozwiązywanie problemów z dostępnością
 
-Organizacja powinna:
+Jeżeli podczas rekrutacji lub wdrażania ujawni się problem z dostępnością, organizacja podejmuje działania umożliwiające dalszy udział w procesie bez nieuzasadnionego opóźnienia.
 
-1. Monitorować problemy związane z dostępnością rekrutacji i wdrażania pracowników.
-2. Analizować przyczyny rezygnacji kandydatów i trudności występujących podczas wdrażania nowych pracowników.
-3. Okresowo oceniać dostępność wykorzystywanych narzędzi, materiałów i procedur.
-4. Wykorzystywać wyniki analiz do doskonalenia procesu.
+W zależności od sytuacji może usunąć barierę, zmienić konfigurację lub sposób wykorzystania rozwiązania, zapewnić dostępne narzędzie lub materiał albo zastosować odpowiedni sposób alternatywny. Informacje o występujących problemach są wykorzystywane również do zapobiegania ich ponownemu występowaniu.
 
-## 4. Powiązania z innymi zaleceniami
+### 3.7. Ocena i doskonalenie procesu
 
-- Ocena barier cyfrowych ograniczających zatrudnianie osób z niepełnosprawnościami.
-- Aktywne pozyskiwanie i angażowanie osób z niepełnosprawnościami.
-- Rozpoznawanie potrzeb pracowników w zakresie dostępności cyfrowej.
-- Zapewnianie dostosowań i racjonalnych usprawnień.
-- Rozwój kompetencji w zakresie dostępności cyfrowej.
+Organizacja okresowo ocenia dostępność rekrutacji i wdrażania oraz skuteczność stosowanych rozwiązań.
 
+W ocenie może uwzględniać w szczególności:
 
-## Podstawa prawna
+- wyniki sprawdzania dostępności wykorzystywanych rozwiązań cyfrowych, treści i komunikacji;
+- problemy z dostępnością ujawnione podczas rekrutacji i wdrażania;
+- zgłaszane potrzeby i sposób ich obsługi;
+- doświadczenia kandydatów i nowych pracowników;
+- skuteczność zapewnianych dostosowań;
+- powtarzające się bariery wymagające zmian organizacyjnych lub technicznych.
 
-- Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych (Dz.U. 2023 poz. 1440).
-- Ustawa z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz. U. z 2024 r. poz. 1411).
-- Konwencja ONZ o prawach osób niepełnosprawnych (Dz.U. 2012 poz. 1169), art. 9.
+Wyniki oceny są wykorzystywane do doskonalenia kolejnych procesów rekrutacji i wdrażania.
+---
 
+## 4. Uzasadnienie
 
-## 5. Uzasadnienie
+Rekrutacja i wdrażanie pracowników są w coraz większym stopniu realizowane z wykorzystaniem rozwiązań cyfrowych. Ogłoszenia o pracy, formularze aplikacyjne, komunikacja z kandydatami, spotkania i rozmowy prowadzone zdalnie, testy i zadania kwalifikacyjne, a następnie systemy informatyczne, dokumenty elektroniczne i materiały szkoleniowe wykorzystywane podczas wdrażania mogą tworzyć bariery uniemożliwiające lub utrudniające osobom z niepełnosprawnościami udział w tych procesach.
 
-Zapewnienie dostępności procesu zatrudniania nie kończy się wraz z wyborem kandydata. Osiągnięcie rzeczywistej równości szans wymaga objęcia wymaganiami dostępności całego procesu — od publikacji ogłoszenia o pracę, poprzez postępowanie kwalifikacyjne, aż do pełnego wdrożenia pracownika do wykonywania obowiązków służbowych.
+Zapewnienie dostępności cyfrowej poszczególnych narzędzi i treści jest konieczne, ale nie zawsze wystarczające. Dostępność zależy również od sposobu zorganizowania całego procesu, możliwości zgłoszenia indywidualnych potrzeb, zapewnienia potrzebnych dostosowań oraz sprawnego reagowania na bariery ujawnione podczas rekrutacji lub wdrażania. Szczególne znaczenie ma postępowanie kwalifikacyjne, w którym sposób przeprowadzenia testu, zadania lub rozmowy nie powinien tworzyć bariery niezwiązanej z kwalifikacjami i wymaganiami ocenianymi na danym stanowisku.
 
-Dostępne procesy rekrutacji i wdrażania pracowników zwiększają skuteczność pozyskiwania talentów, ograniczają ryzyko wykluczania kandydatów oraz wspierają budowanie organizacji otwartej na różnorodność.
+Dostępne wdrażanie do pracy pozwala pracownikowi od początku korzystać z potrzebnych narzędzi, informacji, szkoleń i komunikacji oraz wykonywać powierzone zadania. Uwzględnienie dostępności w całym procesie — od pierwszego kontaktu z kandydatem do rozpoczęcia przez niego pracy — wspiera realizację polityki zatrudniania osób z niepełnosprawnościami i zapobiega sytuacji, w której bariery cyfrowe ograniczają możliwość podjęcia zatrudnienia mimo posiadania wymaganych kwalifikacji.
+
+---
+
+## 5. Podstawy prawne
+
+- Konwencja ONZ o prawach osób niepełnosprawnych, w szczególności art. 9 i art. 27.
+- Kodeks pracy.
+- Ustawa z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami.
+- Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych.
+- Norma PN-EN 301 549 „Wymagania dostępności dla produktów i usług ICT”.
+
+---
