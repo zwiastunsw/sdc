@@ -1,7 +1,8 @@
 ---
 id: wymagania-dostepnosci-w-zamowieniach
 title: Określanie i ocena spełnienia wymagań dostępności cyfrowej w postępowaniach zakupowych
-sidebar_label: Wymagania dostępności
+sidebar_label: Zalecenie
+sidebar_position: 0
 description: Zalecenie dotyczące określania wymagań dostępności cyfrowej w zamówieniach, pozyskiwania dowodów od oferentów oraz oceny wiarygodności ofert.
 tags: [zamówienia publiczne, zaopatrzenie, wymagania dostępności cyfrowej]
 opracowanie: Stefan Wajda
