@@ -78,7 +78,7 @@ Raport powinien opisywać funkcjonalności objęte oceną.
 
 ---
 
-### 2.2.3. Zastosowane wymagania
+#### 2.2.3. Zastosowane wymagania
 
 Raport powinien wskazywać wymagania dostępności stanowiące podstawę oceny.
 
