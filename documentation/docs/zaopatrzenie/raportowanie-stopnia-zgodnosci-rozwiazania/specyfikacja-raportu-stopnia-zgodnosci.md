@@ -89,7 +89,6 @@ W szczególności mogą to być:
 - wymagania dokumentacji zamówienia;
 - inne wymagania mające zastosowanie.
 
-Raport powinien zachowywać historię zmian umożliwiającą ustalenie, kiedy i z jakiej przyczyny zmieniono ocenę poszczególnych wymagań lub opis sposobu ich realizacji.
 
 ---
 
