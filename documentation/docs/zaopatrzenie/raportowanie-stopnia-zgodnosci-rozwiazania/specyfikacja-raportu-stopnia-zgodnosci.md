@@ -47,7 +47,7 @@ Raport powinien zawierać co najmniej:
 - dane kontaktowe;
 - osobę odpowiedzialną za sporządzenie raportu;
 - wersję raportu;
-- rodzaj raportu (etapowy / cząstkowy / końcowy);
+- rodzaj raportu: etapowy, cząstkowy lub końcowy, odpowiednio do odbioru etapowego, częściowego lub końcowego;
 - datę sporządzenia raportu;
 - identyfikator raportu.
 
