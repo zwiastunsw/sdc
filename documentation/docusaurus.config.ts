@@ -48,6 +48,7 @@ const config: Config = {
     },
 
 
+ main
 
     future: {
         v4: false,
