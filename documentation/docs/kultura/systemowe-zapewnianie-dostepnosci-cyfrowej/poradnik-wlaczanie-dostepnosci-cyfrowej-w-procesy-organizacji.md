@@ -15,7 +15,7 @@ wersja_robocza: true
 
 Poradnik wspiera organizacje publiczne we włączaniu dostępności cyfrowej w zwykły sposób zarządzania i wykonywania zadań. Pokazuje, jak rozpoznawać procesy mające wpływ na dostępność, przypisywać odpowiedzialność, uwzględniać wymagania w codziennej pracy, zapewniać potrzebne warunki oraz kontrolować rezultaty i doskonalić sposób działania.
 
-Poradnik rozwija zalecenie [Systemowe zapewnianie dostępności cyfrowej](systemowe-zapewnianie-dostepnosci-cyfrowej) i wykorzystuje opis [Dostępność cyfrowa w procesach organizacji](opis-procesow-dostepnosc-cyfrowa).
+Poradnik rozwija zalecenie [Systemowe zapewnianie dostępności cyfrowej](systemowe-zapewnianie-dostepnosci-cyfrowej.md) i wykorzystuje opis [Dostępność cyfrowa w procesach organizacji](opis-procesow-dostepnosc-cyfrowa.md).
 
 Nie przedstawia obowiązkowego modelu struktury organizacyjnej ani katalogu procesów do ustanowienia. Organizacja dostosowuje sposób postępowania do swoich zadań, istniejących procesów, podziału odpowiedzialności i potrzeb współdziałania. Celem nie jest zbudowanie odrębnego systemu zarządzania dostępnością, lecz trwałe uwzględnianie dostępności w działaniu organizacji.
 
@@ -245,10 +245,10 @@ Lista służy do sprawdzenia, czy dostępność jest rzeczywiście uwzględniana
 
 ## 11. Powiązane materiały
 
-- [Systemowe zapewnianie dostępności cyfrowej](systemowe-zapewnianie-dostepnosci-cyfrowej) – zalecenie określające cel i zasady systemowego działania.
-- [Dostępność cyfrowa w procesach organizacji](opis-procesow-dostepnosc-cyfrowa) – opis ośmiu głównych obszarów procesowych oraz ich wzajemnych zależności.
-- [Zapewnianie zasobów dla dostępności cyfrowej](zapewnianie-zasobow-dla-dostepnosci-cyfrowej) – materiał dotyczący potrzeb i zasobów.
-- [Obserwowanie dostępności cyfrowej i ocena dojrzałości organizacji](obserwowanie-dostepnosci-cyfrowej-i-ocena-dojrzalosci-organizacji) – materiał dotyczący obserwowania i oceny.
+- [Systemowe zapewnianie dostępności cyfrowej](systemowe-zapewnianie-dostepnosci-cyfrowej.md) – zalecenie określające cel i zasady systemowego działania.
+- [Dostępność cyfrowa w procesach organizacji](opis-procesow-dostepnosc-cyfrowa.md) – opis ośmiu głównych obszarów procesowych oraz ich wzajemnych zależności.
+- [Zapewnianie zasobów dla dostępności cyfrowej](zapewnianie-zasobow-dla-dostepnosci-cyfrowej.md) – materiał dotyczący potrzeb i zasobów.
+- [Obserwowanie dostępności cyfrowej i ocena dojrzałości organizacji](obserwowanie-dostepnosci-cyfrowej-i-ocena-dojrzalosci-organizacji.md) – materiał dotyczący obserwowania i oceny.
 
 ## 12. Podsumowanie
 

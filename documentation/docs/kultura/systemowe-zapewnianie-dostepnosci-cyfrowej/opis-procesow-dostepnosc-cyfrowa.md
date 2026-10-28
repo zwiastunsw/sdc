@@ -268,13 +268,13 @@ W niewielkiej organizacji działania te mogą być prowadzone bez rozbudowanej d
 
 ## 7. Powiązane materiały
 
-Ten opis rozwija rekomendację dotyczącą uwzględniania dostępności cyfrowej w procesach organizacji zawartą w zaleceniu [Systemowe zapewnianie dostępności cyfrowej](systemowe-zapewnianie-dostepnosci-cyfrowej).
+Ten opis rozwija rekomendację dotyczącą uwzględniania dostępności cyfrowej w procesach organizacji zawartą w zaleceniu [Systemowe zapewnianie dostępności cyfrowej](systemowe-zapewnianie-dostepnosci-cyfrowej.md).
 
 W jego stosowaniu pomocne mogą być również:
 
-- [Zapewnianie zasobów dla dostępności cyfrowej](zapewnianie-zasobow-dla-dostepnosci-cyfrowej) – rozpoznawanie i zapewnianie zasobów;
-- [Obserwowanie dostępności cyfrowej i ocena dojrzałości organizacji](obserwowanie-dostepnosci-cyfrowej-i-ocena-dojrzalosci-organizacji) – obserwowanie rezultatów i fakultatywna ocena dojrzałości;
-- [Włączanie dostępności cyfrowej w zarządzanie i procesy organizacji – poradnik wdrożeniowy](poradnik-wlaczanie-dostepnosci-cyfrowej-w-procesy-organizacji) – wskazówki praktyczne.
+- [Zapewnianie zasobów dla dostępności cyfrowej](zapewnianie-zasobow-dla-dostepnosci-cyfrowej.md) – rozpoznawanie i zapewnianie zasobów;
+- [Obserwowanie dostępności cyfrowej i ocena dojrzałości organizacji](obserwowanie-dostepnosci-cyfrowej-i-ocena-dojrzalosci-organizacji.md) – obserwowanie rezultatów i fakultatywna ocena dojrzałości;
+- [Włączanie dostępności cyfrowej w zarządzanie i procesy organizacji – poradnik wdrożeniowy](poradnik-wlaczanie-dostepnosci-cyfrowej-w-procesy-organizacji.md) – wskazówki praktyczne.
 
 ## 8. Uwagi końcowe
 

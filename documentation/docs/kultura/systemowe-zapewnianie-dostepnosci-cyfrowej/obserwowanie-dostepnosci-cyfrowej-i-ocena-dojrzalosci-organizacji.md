@@ -340,11 +340,11 @@ Do częstych błędów należą:
 
 ## 11. Powiązanie z innymi materiałami
 
-Dokument rozwija zalecenie [Systemowe zapewnianie dostępności cyfrowej](systemowe-zapewnianie-dostepnosci-cyfrowej) i pozostaje powiązany z załącznikami:
+Dokument rozwija zalecenie [Systemowe zapewnianie dostępności cyfrowej](systemowe-zapewnianie-dostepnosci-cyfrowej.md) i pozostaje powiązany z załącznikami:
 
-- [Dostępność cyfrowa w procesach organizacji](opis-procesow-dostepnosc-cyfrowa) – wskazuje obszary, w których powstają informacje o dostępności i są weryfikowane rezultaty;
-- [Włączanie dostępności cyfrowej w zarządzanie i procesy organizacji – poradnik wdrożeniowy](poradnik-wlaczanie-dostepnosci-cyfrowej-w-procesy-organizacji) – przedstawia praktyczne wykorzystanie wyników w doskonaleniu sposobu działania;
-- [Zapewnianie zasobów dla dostępności cyfrowej](zapewnianie-zasobow-dla-dostepnosci-cyfrowej) – przedstawia zasady rozpoznawania i zapewniania zasobów potrzebnych do skutecznego wykonywania działań związanych z dostępnością cyfrową.
+- [Dostępność cyfrowa w procesach organizacji](opis-procesow-dostepnosc-cyfrowa.md) – wskazuje obszary, w których powstają informacje o dostępności i są weryfikowane rezultaty;
+- [Włączanie dostępności cyfrowej w zarządzanie i procesy organizacji – poradnik wdrożeniowy](poradnik-wlaczanie-dostepnosci-cyfrowej-w-procesy-organizacji.md) – przedstawia praktyczne wykorzystanie wyników w doskonaleniu sposobu działania;
+- [Zapewnianie zasobów dla dostępności cyfrowej](zapewnianie-zasobow-dla-dostepnosci-cyfrowej.md) – przedstawia zasady rozpoznawania i zapewniania zasobów potrzebnych do skutecznego wykonywania działań związanych z dostępnością cyfrową.
 
 ## 12. Podsumowanie
 

@@ -215,11 +215,11 @@ Poniższe pytania służą rozpoznawaniu potrzeb i ocenie warunków działania. 
 
 ## 9. Powiązanie z innymi materiałami
 
-Dokument rozwija zalecenie [Systemowe zapewnianie dostępności cyfrowej](systemowe-zapewnianie-dostepnosci-cyfrowej). Uzupełniają go:
+Dokument rozwija zalecenie [Systemowe zapewnianie dostępności cyfrowej](systemowe-zapewnianie-dostepnosci-cyfrowej.md). Uzupełniają go:
 
-- [Dostępność cyfrowa w procesach organizacji](opis-procesow-dostepnosc-cyfrowa) – pomaga rozpoznawać działania i obszary, w których potrzebne są zasoby;
-- [Obserwowanie dostępności cyfrowej i ocena dojrzałości organizacji](obserwowanie-dostepnosci-cyfrowej-i-ocena-dojrzalosci-organizacji) – przedstawia pozyskiwanie informacji o rezultatach działań i ocenianie skuteczności sposobu działania;
-- [Włączanie dostępności cyfrowej w zarządzanie i procesy organizacji – poradnik wdrożeniowy](poradnik-wlaczanie-dostepnosci-cyfrowej-w-procesy-organizacji) – pokazuje włączanie wymagań dostępności w zwykłą pracę.
+- [Dostępność cyfrowa w procesach organizacji](opis-procesow-dostepnosc-cyfrowa.md) – pomaga rozpoznawać działania i obszary, w których potrzebne są zasoby;
+- [Obserwowanie dostępności cyfrowej i ocena dojrzałości organizacji](obserwowanie-dostepnosci-cyfrowej-i-ocena-dojrzalosci-organizacji.md) – przedstawia pozyskiwanie informacji o rezultatach działań i ocenianie skuteczności sposobu działania;
+- [Włączanie dostępności cyfrowej w zarządzanie i procesy organizacji – poradnik wdrożeniowy](poradnik-wlaczanie-dostepnosci-cyfrowej-w-procesy-organizacji.md) – pokazuje włączanie wymagań dostępności w zwykłą pracę.
 
 ## 10. Podsumowanie
 

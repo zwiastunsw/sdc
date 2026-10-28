@@ -130,11 +130,11 @@ Brak takiego podejścia prowadzi do rozproszenia działań, niejasności odpowie
 
 ## 7. Załączniki
 
-1. [Dostępność cyfrowa w procesach organizacji](opis-procesow-dostepnosc-cyfrowa)
-2. [Zapewnianie zasobów dla dostępności cyfrowej](zapewnianie-zasobow-dla-dostepnosci-cyfrowej)
-3. [Obserwowanie dostępności cyfrowej i ocena dojrzałości organizacji](obserwowanie-dostepnosci-cyfrowej-i-ocena-dojrzalosci-organizacji)
-4. [W3C, Model Dojrzałości Dostępności - tłumaczenie nieoficjalne](model-dojrzalosci-dostepnosci)
-5. [Włączanie dostępności cyfrowej w zarządzanie i procesy organizacji – poradnik wdrożeniowy](poradnik-wlaczanie-dostepnosci-cyfrowej-w-procesy-organizacji)
+1. [Dostępność cyfrowa w procesach organizacji](opis-procesow-dostepnosc-cyfrowa.md)
+2. [Zapewnianie zasobów dla dostępności cyfrowej](zapewnianie-zasobow-dla-dostepnosci-cyfrowej.md)
+3. [Obserwowanie dostępności cyfrowej i ocena dojrzałości organizacji](obserwowanie-dostepnosci-cyfrowej-i-ocena-dojrzalosci-organizacji.md)
+4. [W3C, Model Dojrzałości Dostępności - tłumaczenie nieoficjalne](model-dojrzalosci-dostepnosci.md)
+5. [Włączanie dostępności cyfrowej w zarządzanie i procesy organizacji – poradnik wdrożeniowy](poradnik-wlaczanie-dostepnosci-cyfrowej-w-procesy-organizacji.md)
 
 ---
 
