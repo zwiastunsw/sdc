@@ -1,12 +1,11 @@
 ---
 id: klauzule-umowne-zalacznik-2
 title: Klauzule w umowach zapewnienia, utrzymania i monitorowania dostępności cyfrowej
-sidebar_position: 2
 sidebar_label: Klauzule w umowach utrzymania i monitorowania
+sidebar_position: 2
 description: Zestaw wzorcowych klauzul dotyczących zachowania dostępności cyfrowej podczas serwisowania, aktualizowania i rozwoju rozwiązań oraz zamawiania usług monitorowania.
 tags: [zaopatrzenie, dostępność cyfrowa, umowy]
-typ: załącznik
-opracowanie: [Tomasz Bartel, Stefan Wajda]
+opracowanie: Tomasz Bartel, Stefan Wajda
 data_zgloszenia: 12 października 2025 r.
 data_aktualizacji:  29 października 2026 r.
 wersja_robocza: true

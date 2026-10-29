@@ -1,12 +1,12 @@
 ---
 id: klauzule-umowne-zalacznik-1
 title: Klauzule w zapytaniach ofertowych i specyfikacjach warunków
-sidebar_position: 1
 sidebar_label: Klauzule w zapytaniach i specyfikacjach
+sidebar_position: 1
 description: Zestaw wzorcowych postanowień dotyczących zapewnienia i weryfikacji dostępności cyfrowej podczas realizacji i odbioru zamówienia.
 tags: [zaopatrzenie, dostępność cyfrowa, umowy]
 typ: załącznik
-opracowanie: [Tomasz Bartel, Stefan Wajda]
+opracowanie: Tomasz Bartel, Stefan Wajda
 data_zgloszenia: 12 października 2025 r.
 data_aktualizacji:  29 października 2026 r.
 wersja_robocza: true

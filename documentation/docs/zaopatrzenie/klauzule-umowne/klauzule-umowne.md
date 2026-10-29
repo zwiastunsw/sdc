@@ -2,11 +2,10 @@
 id: klauzule-umowne
 title: Stosowanie klauzul umownych dotyczących zapewniania i utrzymywania dostępności cyfrowej
 sidebar_label: Klauzule umowne
+sidebar_position: 0 
 description: Zalecenie dotyczące określania w umowach egzekwowalnych zobowiązań wykonawców w zakresie zapewniania i utrzymywania dostępności cyfrowej.
 tags: [zaopatrzenie, dostępność cyfrowa, umowy]
-typ: zalecenie
-wymiar: Zaopatrzenie
-opracowanie: [Tomasz Bartel, Stefan Wajda]
+opracowanie: Tomasz Bartel, Stefan Wajda
 data_zgloszenia: 12 października 2025 r.
 ostatnia_aktualizacja: 29 października 2026 r.
 wersja_robocza: true
