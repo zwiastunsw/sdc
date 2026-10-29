@@ -77,8 +77,8 @@ W zamówieniach obejmujących utrzymanie i rozwój rozwiązania postanowienia um
 
 ## 7. Załączniki
 
-1. [Klauzule dotyczące zapewnienia dostępności cyfrowej produktu cyfrowego](klauzule-umowne-zalacznik-1).
-2. [Klauzule dotyczące utrzymania, serwisowania i monitorowania dostępności cyfrowej](klauzule-umowne-zalacznik-2).
+1. [Klauzule dotyczące zapewnienia dostępności cyfrowej produktu cyfrowego](klauzule-umowne-zalacznik-1.md).
+2. [Klauzule dotyczące utrzymania, serwisowania i monitorowania dostępności cyfrowej](klauzule-umowne-zalacznik-2.md).
 
 **Uwaga redakcyjna:** W pierwotnym wykazie znajdowały się także trzy projekty wzorów raportów: VPAT/ACR, monitoringu automatycznego i przeglądu rocznego. Nie włączono ich do wykazu załączników bez potwierdzenia, że istnieją jako odrębne dokumenty i pozostają aktualne. Materiały dotyczące raportowania zgodności i monitorowania mogą zostać powiązane z właściwymi zaleceniami.
 
