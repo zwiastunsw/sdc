@@ -2,7 +2,7 @@
 id: kontrolowanie-dostepnosci-cyfrowej-podczas-realizacji-zamowienia
 title: Kontrolowanie dostępności cyfrowej podczas realizacji zamówienia
 description: Zalecenie przedstawia sposób kontrolowania dostępności cyfrowej podczas realizacji zamówienia, umożliwiający wczesne rozpoznawanie problemów i weryfikowanie skuteczności działań naprawczych.
-sidebar_label: Kontrolowanie realizacji
+sidebar_label: Zalecenie
 sidebar_position: 0
 tags: [zaopatrzenie, dostępność cyfrowa, kontrola realizacji zamówienia]
 opracowanie: Stefan Wajda
