@@ -97,7 +97,7 @@ Wskazane przepisy nie ustanawiają jednej uniwersalnej procedury współpracy z 
 ## 7. Powiązania między dokumentami
 
 - **Dostępność cyfrowa w polityce zakupowej** — określanie zasad obejmujących również utrzymanie i rozwój nabytych rozwiązań.
-- **Stosowanie klauzul umownych dotyczących zapewniania i utrzymywania dostępności cyfrowej** — ustanawianie zobowiązań dostawcy oraz mechanizmów ich egzekwowania.
+- **Stosowanie klauzul umownych dotyczących zapewniania i utrzymywania dostępności cyfrowej produktów cyfrowych** — ustanawianie zobowiązań dostawcy oraz mechanizmów ich egzekwowania.
 - **Raportowanie zamawiającemu stopnia zgodności rozwiązania z wymaganiami dostępności cyfrowej** — aktualizowanie informacji o stopniu spełnienia wymagań i podstawach oceny.
 - **Oświadczenie dostawcy o zgodności rozwiązania cyfrowego z wymaganiami dostępności** — aktualizowanie deklarowanej zgodności w związku ze zmianami rozwiązania.
 - **Odbiór rozwiązań cyfrowych pod kątem dostępności cyfrowej** — wykorzystywanie dokumentacji i ustaleń przekazanych podczas odbioru w dalszej współpracy.
