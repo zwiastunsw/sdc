@@ -220,7 +220,7 @@ W zależności od rodzaju rozwiązania i etapu postępowania organizacja może w
 - scenariuszy testowych i zapisów z ich wykonania;
 - planu usuwania problemów i utrzymywania dostępności.
 
-Dowód powinien pozwalać ustalić, co zbadano, jak przeprowadzono badanie i jakie uzyskano wyniki. Więcej informacji zawiera [Katalog dowodów dostępności cyfrowej](katalog-dowodów-dostępności-cyfrowej.md).
+Dowód powinien pozwalać ustalić, co zbadano, jak przeprowadzono badanie i jakie uzyskano wyniki. Więcej informacji zawiera [Katalog dowodów dostępności cyfrowej](katalog-dowodow-dostepnosci-cyfrowej.md).
 
 ## 8. Ocena informacji i dowodów
 
