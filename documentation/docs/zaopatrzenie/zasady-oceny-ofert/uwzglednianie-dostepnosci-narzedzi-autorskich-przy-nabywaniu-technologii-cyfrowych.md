@@ -14,7 +14,7 @@ wersja_robocza: true
 
 ## Cel dokumentu
 
-Dokument jest załącznikiem do zalecenia [Definiowanie i ocena wymagań dostępności cyfrowej w ofertach](definiowanie-i-ocena-wymagan-dostepnosci-cyfrowej-w-ofertach). Pomaga uwzględnić dostępność narzędzi autorskich przy nabywaniu technologii cyfrowych. Wyjaśnia, kiedy zastosować wytyczne ATAG 2.0 oraz jak oceniać informacje i dowody przedstawione przez oferenta
+Dokument jest załącznikiem do zalecenia **Definiowanie i ocena wymagań dostępności cyfrowej w ofertach**. Pomaga uwzględnić dostępność narzędzi autorskich przy nabywaniu technologii cyfrowych. Wyjaśnia, kiedy zastosować wytyczne ATAG 2.0 oraz jak oceniać informacje i dowody przedstawione przez oferenta
 
 Dokument uzupełnia wymagania z szablonu wymagań dostępności:
 
